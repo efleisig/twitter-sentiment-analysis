@@ -4,13 +4,14 @@ import numpy as np
 from sklearn.naive_bayes import MultinomialNB
 from scipy.sparse import lil_matrix
 from sklearn.feature_extraction.text import TfidfTransformer
+import pyparsing as pp
 
 # Performs classification using Naive Bayes.
 
 FREQ_DIST_FILE = 'train-processed-freqdist.pkl'
 BI_FREQ_DIST_FILE = 'train-processed-freqdist-bi.pkl'
 TRAIN_PROCESSED_FILE = 'train-processed.csv'
-TEST_PROCESSED_FILE = 'template0.csv'
+TEST_PROCESSED_FILE = 'template11.csv'
 TRAIN = False
 UNIGRAM_SIZE = 15000
 VOCAB_SIZE = UNIGRAM_SIZE
@@ -92,9 +93,13 @@ def process_tweets(csv_file, test_file=True):
         total = len(lines)
         for i, line in enumerate(lines):
             if test_file:
-                tweet_id, tweet = line.split(',')
+                tweet_id, tweet = pp.commaSeparatedList.parseString(
+                    line).asList()
+                #line.split(',')
             else:
-                tweet_id, sentiment, tweet = line.split(',')
+                tweet_id, sentiment, tweet = pp.commaSeparatedList.parseString(
+                    line).asList()
+                # line.split(',')
             feature_vector = get_feature_vector(tweet)
             if test_file:
                 tweets.append((tweet_id, feature_vector))
