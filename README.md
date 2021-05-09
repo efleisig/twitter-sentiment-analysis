@@ -1,5 +1,14 @@
 # Sentiment Analysis on Tweets
 
+Quickstart for COS534 project:
+- Install nltk `pip install nltk`
+- EEC corpus is already loaded in test.csv. To get results on EEC, run: (1) `python naivebayes.py` (2) `python svm.py`
+- To replace the EEC, replace the test.csv file with a csv file in the same format as how the EEC is set up in test.csv (no headers; line format index,sentiment,sentence) and save in UTF-8 format. Then, run (1) `python preprocess.py test.csv` (2) `python stats.py test.csv`
+- Let me (Eve) know if you run into any issues!
+
+
+
+
 ![Status badge](https://img.shields.io/badge/Status-Archived-important)
 
 **Update**(21 Sept. 2018): I don't actively maintain this repository. This work was done for a course project and the dataset cannot be released because I don't own the copyright. However, everything in this repository can be easily modified to work with other datasets. I recommend reading the [sloppily written project report](https://github.com/abdulfatir/twitter-sentiment-analysis/tree/master/docs/report.pdf) for this project which can be found in `docs/`.
