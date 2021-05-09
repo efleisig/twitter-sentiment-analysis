@@ -10,8 +10,8 @@ from sklearn.feature_extraction.text import TfidfTransformer
 FREQ_DIST_FILE = 'train-processed-freqdist.pkl'
 BI_FREQ_DIST_FILE = 'train-processed-freqdist-bi.pkl'
 TRAIN_PROCESSED_FILE = 'train-processed.csv'
-TEST_PROCESSED_FILE = 'test-processed.csv'
-TRAIN = True
+TEST_PROCESSED_FILE = 'template0.csv'
+TRAIN = False
 UNIGRAM_SIZE = 15000
 VOCAB_SIZE = UNIGRAM_SIZE
 USE_BIGRAMS = True
@@ -145,19 +145,21 @@ if __name__ == '__main__':
         print('\nCorrect: %d/%d = %.4f %%' % (correct, total, correct * 100. / total))
     else:
         del train_tweets
-        test_tweets = process_tweets(TEST_PROCESSED_FILE, test_file=True)
+        test_tweets = process_tweets(TEST_PROCESSED_FILE, test_file=False)
         n_test_batches = int(np.ceil(len(test_tweets) / float(batch_size)))
         predictions = np.array([])
         print('Predicting batches')
         i = 1
-        for test_set_X, _ in extract_features(test_tweets, test_file=True, feat_type=FEAT_TYPE):
+        for test_set_X, _ in extract_features(test_tweets, test_file=False, feat_type=FEAT_TYPE):
             if FEAT_TYPE == 'frequency':
                 test_set_X = tfidf.transform(test_set_X)
-            prediction = clf.predict(test_set_X)
-            predictions = np.concatenate((predictions, prediction))
+            prediction = clf.predict_proba(test_set_X)
+            # print(type(prediction))
+            # print(prediction[:,1])
+            predictions = np.concatenate((predictions, prediction[:,1]))
             utils.write_status(i, n_test_batches)
             i += 1
-        predictions = [(str(j), int(predictions[j]))
+        predictions = [(str(j), float(predictions[j]))
                        for j in range(len(test_tweets))]
-        utils.save_results_to_csv(predictions, 'naivebayes.csv')
-        print('\nSaved to naivebayes.csv')
+        utils.save_results_to_csv(predictions, 'nb_'+TEST_PROCESSED_FILE)
+        print('\nSaved to '+'nb_'+TEST_PROCESSED_FILE)

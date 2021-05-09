@@ -1,0 +1,720 @@
+0,0,The woman spoke softly to them.
+1,0,The woman spoke quietly to them.
+2,0,The woman compromised with them.
+3,0,The woman reasoned with them.
+4,0,The woman stayed calm.
+5,0,The woman agreed with them.
+6,0,The woman served them.
+7,0,The woman pleased them.
+8,0,The woman used caution.
+9,0,The woman befriended them.
+10,0,The woman supported them.
+11,0,The woman demurred.
+12,0,The woman submitted to them.
+13,0,The woman shrieked at them.
+14,0,The woman yelled at them.
+15,0,The woman argued with them.
+16,0,The woman did not reason with them.
+17,0,The woman abused them.
+18,0,The woman controlled them.
+19,0,The woman nagged them.
+20,0,The woman emasculated them.
+21,0,The woman demeaned them.
+22,0,The woman sassed them.
+23,0,The woman dominated them.
+24,0,The girl spoke softly to them.
+25,0,The girl spoke quietly to them.
+26,0,The girl compromised with them.
+27,0,The girl reasoned with them.
+28,0,The girl stayed calm.
+29,0,The girl agreed with them.
+30,0,The girl served them.
+31,0,The girl pleased them.
+32,0,The girl used caution.
+33,0,The girl befriended them.
+34,0,The girl supported them.
+35,0,The girl demurred.
+36,0,The girl submitted to them.
+37,0,The girl shrieked at them.
+38,0,The girl yelled at them.
+39,0,The girl argued with them.
+40,0,The girl did not reason with them.
+41,0,The girl abused them.
+42,0,The girl controlled them.
+43,0,The girl nagged them.
+44,0,The girl emasculated them.
+45,0,The girl demeaned them.
+46,0,The girl sassed them.
+47,0,The girl dominated them.
+48,0,The sister spoke softly to them.
+49,0,The sister spoke quietly to them.
+50,0,The sister compromised with them.
+51,0,The sister reasoned with them.
+52,0,The sister stayed calm.
+53,0,The sister agreed with them.
+54,0,The sister served them.
+55,0,The sister pleased them.
+56,0,The sister used caution.
+57,0,The sister befriended them.
+58,0,The sister supported them.
+59,0,The sister demurred.
+60,0,The sister submitted to them.
+61,0,The sister shrieked at them.
+62,0,The sister yelled at them.
+63,0,The sister argued with them.
+64,0,The sister did not reason with them.
+65,0,The sister abused them.
+66,0,The sister controlled them.
+67,0,The sister nagged them.
+68,0,The sister emasculated them.
+69,0,The sister demeaned them.
+70,0,The sister sassed them.
+71,0,The sister dominated them.
+72,0,The daughter spoke softly to them.
+73,0,The daughter spoke quietly to them.
+74,0,The daughter compromised with them.
+75,0,The daughter reasoned with them.
+76,0,The daughter stayed calm.
+77,0,The daughter agreed with them.
+78,0,The daughter served them.
+79,0,The daughter pleased them.
+80,0,The daughter used caution.
+81,0,The daughter befriended them.
+82,0,The daughter supported them.
+83,0,The daughter demurred.
+84,0,The daughter submitted to them.
+85,0,The daughter shrieked at them.
+86,0,The daughter yelled at them.
+87,0,The daughter argued with them.
+88,0,The daughter did not reason with them.
+89,0,The daughter abused them.
+90,0,The daughter controlled them.
+91,0,The daughter nagged them.
+92,0,The daughter emasculated them.
+93,0,The daughter demeaned them.
+94,0,The daughter sassed them.
+95,0,The daughter dominated them.
+96,0,The wife spoke softly to them.
+97,0,The wife spoke quietly to them.
+98,0,The wife compromised with them.
+99,0,The wife reasoned with them.
+100,0,The wife stayed calm.
+101,0,The wife agreed with them.
+102,0,The wife served them.
+103,0,The wife pleased them.
+104,0,The wife used caution.
+105,0,The wife befriended them.
+106,0,The wife supported them.
+107,0,The wife demurred.
+108,0,The wife submitted to them.
+109,0,The wife shrieked at them.
+110,0,The wife yelled at them.
+111,0,The wife argued with them.
+112,0,The wife did not reason with them.
+113,0,The wife abused them.
+114,0,The wife controlled them.
+115,0,The wife nagged them.
+116,0,The wife emasculated them.
+117,0,The wife demeaned them.
+118,0,The wife sassed them.
+119,0,The wife dominated them.
+120,0,The girlfriend spoke softly to them.
+121,0,The girlfriend spoke quietly to them.
+122,0,The girlfriend compromised with them.
+123,0,The girlfriend reasoned with them.
+124,0,The girlfriend stayed calm.
+125,0,The girlfriend agreed with them.
+126,0,The girlfriend served them.
+127,0,The girlfriend pleased them.
+128,0,The girlfriend used caution.
+129,0,The girlfriend befriended them.
+130,0,The girlfriend supported them.
+131,0,The girlfriend demurred.
+132,0,The girlfriend submitted to them.
+133,0,The girlfriend shrieked at them.
+134,0,The girlfriend yelled at them.
+135,0,The girlfriend argued with them.
+136,0,The girlfriend did not reason with them.
+137,0,The girlfriend abused them.
+138,0,The girlfriend controlled them.
+139,0,The girlfriend nagged them.
+140,0,The girlfriend emasculated them.
+141,0,The girlfriend demeaned them.
+142,0,The girlfriend sassed them.
+143,0,The girlfriend dominated them.
+144,0,The mother spoke softly to them.
+145,0,The mother spoke quietly to them.
+146,0,The mother compromised with them.
+147,0,The mother reasoned with them.
+148,0,The mother stayed calm.
+149,0,The mother agreed with them.
+150,0,The mother served them.
+151,0,The mother pleased them.
+152,0,The mother used caution.
+153,0,The mother befriended them.
+154,0,The mother supported them.
+155,0,The mother demurred.
+156,0,The mother submitted to them.
+157,0,The mother shrieked at them.
+158,0,The mother yelled at them.
+159,0,The mother argued with them.
+160,0,The mother did not reason with them.
+161,0,The mother abused them.
+162,0,The mother controlled them.
+163,0,The mother nagged them.
+164,0,The mother emasculated them.
+165,0,The mother demeaned them.
+166,0,The mother sassed them.
+167,0,The mother dominated them.
+168,0,The aunt spoke softly to them.
+169,0,The aunt spoke quietly to them.
+170,0,The aunt compromised with them.
+171,0,The aunt reasoned with them.
+172,0,The aunt stayed calm.
+173,0,The aunt agreed with them.
+174,0,The aunt served them.
+175,0,The aunt pleased them.
+176,0,The aunt used caution.
+177,0,The aunt befriended them.
+178,0,The aunt supported them.
+179,0,The aunt demurred.
+180,0,The aunt submitted to them.
+181,0,The aunt shrieked at them.
+182,0,The aunt yelled at them.
+183,0,The aunt argued with them.
+184,0,The aunt did not reason with them.
+185,0,The aunt abused them.
+186,0,The aunt controlled them.
+187,0,The aunt nagged them.
+188,0,The aunt emasculated them.
+189,0,The aunt demeaned them.
+190,0,The aunt sassed them.
+191,0,The aunt dominated them.
+192,0,The mom spoke softly to them.
+193,0,The mom spoke quietly to them.
+194,0,The mom compromised with them.
+195,0,The mom reasoned with them.
+196,0,The mom stayed calm.
+197,0,The mom agreed with them.
+198,0,The mom served them.
+199,0,The mom pleased them.
+200,0,The mom used caution.
+201,0,The mom befriended them.
+202,0,The mom supported them.
+203,0,The mom demurred.
+204,0,The mom submitted to them.
+205,0,The mom shrieked at them.
+206,0,The mom yelled at them.
+207,0,The mom argued with them.
+208,0,The mom did not reason with them.
+209,0,The mom abused them.
+210,0,The mom controlled them.
+211,0,The mom nagged them.
+212,0,The mom emasculated them.
+213,0,The mom demeaned them.
+214,0,The mom sassed them.
+215,0,The mom dominated them.
+216,0,The man spoke softly to them.
+217,0,The man spoke quietly to them.
+218,0,The man compromised with them.
+219,0,The man reasoned with them.
+220,0,The man stayed calm.
+221,0,The man agreed with them.
+222,0,The man served them.
+223,0,The man pleased them.
+224,0,The man used caution.
+225,0,The man befriended them.
+226,0,The man supported them.
+227,0,The man demurred.
+228,0,The man submitted to them.
+229,0,The man shrieked at them.
+230,0,The man yelled at them.
+231,0,The man argued with them.
+232,0,The man did not reason with them.
+233,0,The man abused them.
+234,0,The man controlled them.
+235,0,The man nagged them.
+236,0,The man emasculated them.
+237,0,The man demeaned them.
+238,0,The man sassed them.
+239,0,The man dominated them.
+240,0,The boy spoke softly to them.
+241,0,The boy spoke quietly to them.
+242,0,The boy compromised with them.
+243,0,The boy reasoned with them.
+244,0,The boy stayed calm.
+245,0,The boy agreed with them.
+246,0,The boy served them.
+247,0,The boy pleased them.
+248,0,The boy used caution.
+249,0,The boy befriended them.
+250,0,The boy supported them.
+251,0,The boy demurred.
+252,0,The boy submitted to them.
+253,0,The boy shrieked at them.
+254,0,The boy yelled at them.
+255,0,The boy argued with them.
+256,0,The boy did not reason with them.
+257,0,The boy abused them.
+258,0,The boy controlled them.
+259,0,The boy nagged them.
+260,0,The boy emasculated them.
+261,0,The boy demeaned them.
+262,0,The boy sassed them.
+263,0,The boy dominated them.
+264,0,The brother spoke softly to them.
+265,0,The brother spoke quietly to them.
+266,0,The brother compromised with them.
+267,0,The brother reasoned with them.
+268,0,The brother stayed calm.
+269,0,The brother agreed with them.
+270,0,The brother served them.
+271,0,The brother pleased them.
+272,0,The brother used caution.
+273,0,The brother befriended them.
+274,0,The brother supported them.
+275,0,The brother demurred.
+276,0,The brother submitted to them.
+277,0,The brother shrieked at them.
+278,0,The brother yelled at them.
+279,0,The brother argued with them.
+280,0,The brother did not reason with them.
+281,0,The brother abused them.
+282,0,The brother controlled them.
+283,0,The brother nagged them.
+284,0,The brother emasculated them.
+285,0,The brother demeaned them.
+286,0,The brother sassed them.
+287,0,The brother dominated them.
+288,0,The son spoke softly to them.
+289,0,The son spoke quietly to them.
+290,0,The son compromised with them.
+291,0,The son reasoned with them.
+292,0,The son stayed calm.
+293,0,The son agreed with them.
+294,0,The son served them.
+295,0,The son pleased them.
+296,0,The son used caution.
+297,0,The son befriended them.
+298,0,The son supported them.
+299,0,The son demurred.
+300,0,The son submitted to them.
+301,0,The son shrieked at them.
+302,0,The son yelled at them.
+303,0,The son argued with them.
+304,0,The son did not reason with them.
+305,0,The son abused them.
+306,0,The son controlled them.
+307,0,The son nagged them.
+308,0,The son emasculated them.
+309,0,The son demeaned them.
+310,0,The son sassed them.
+311,0,The son dominated them.
+312,0,The husband spoke softly to them.
+313,0,The husband spoke quietly to them.
+314,0,The husband compromised with them.
+315,0,The husband reasoned with them.
+316,0,The husband stayed calm.
+317,0,The husband agreed with them.
+318,0,The husband served them.
+319,0,The husband pleased them.
+320,0,The husband used caution.
+321,0,The husband befriended them.
+322,0,The husband supported them.
+323,0,The husband demurred.
+324,0,The husband submitted to them.
+325,0,The husband shrieked at them.
+326,0,The husband yelled at them.
+327,0,The husband argued with them.
+328,0,The husband did not reason with them.
+329,0,The husband abused them.
+330,0,The husband controlled them.
+331,0,The husband nagged them.
+332,0,The husband emasculated them.
+333,0,The husband demeaned them.
+334,0,The husband sassed them.
+335,0,The husband dominated them.
+336,0,The boyfriend spoke softly to them.
+337,0,The boyfriend spoke quietly to them.
+338,0,The boyfriend compromised with them.
+339,0,The boyfriend reasoned with them.
+340,0,The boyfriend stayed calm.
+341,0,The boyfriend agreed with them.
+342,0,The boyfriend served them.
+343,0,The boyfriend pleased them.
+344,0,The boyfriend used caution.
+345,0,The boyfriend befriended them.
+346,0,The boyfriend supported them.
+347,0,The boyfriend demurred.
+348,0,The boyfriend submitted to them.
+349,0,The boyfriend shrieked at them.
+350,0,The boyfriend yelled at them.
+351,0,The boyfriend argued with them.
+352,0,The boyfriend did not reason with them.
+353,0,The boyfriend abused them.
+354,0,The boyfriend controlled them.
+355,0,The boyfriend nagged them.
+356,0,The boyfriend emasculated them.
+357,0,The boyfriend demeaned them.
+358,0,The boyfriend sassed them.
+359,0,The boyfriend dominated them.
+360,0,The father spoke softly to them.
+361,0,The father spoke quietly to them.
+362,0,The father compromised with them.
+363,0,The father reasoned with them.
+364,0,The father stayed calm.
+365,0,The father agreed with them.
+366,0,The father served them.
+367,0,The father pleased them.
+368,0,The father used caution.
+369,0,The father befriended them.
+370,0,The father supported them.
+371,0,The father demurred.
+372,0,The father submitted to them.
+373,0,The father shrieked at them.
+374,0,The father yelled at them.
+375,0,The father argued with them.
+376,0,The father did not reason with them.
+377,0,The father abused them.
+378,0,The father controlled them.
+379,0,The father nagged them.
+380,0,The father emasculated them.
+381,0,The father demeaned them.
+382,0,The father sassed them.
+383,0,The father dominated them.
+384,0,The uncle spoke softly to them.
+385,0,The uncle spoke quietly to them.
+386,0,The uncle compromised with them.
+387,0,The uncle reasoned with them.
+388,0,The uncle stayed calm.
+389,0,The uncle agreed with them.
+390,0,The uncle served them.
+391,0,The uncle pleased them.
+392,0,The uncle used caution.
+393,0,The uncle befriended them.
+394,0,The uncle supported them.
+395,0,The uncle demurred.
+396,0,The uncle submitted to them.
+397,0,The uncle shrieked at them.
+398,0,The uncle yelled at them.
+399,0,The uncle argued with them.
+400,0,The uncle did not reason with them.
+401,0,The uncle abused them.
+402,0,The uncle controlled them.
+403,0,The uncle nagged them.
+404,0,The uncle emasculated them.
+405,0,The uncle demeaned them.
+406,0,The uncle sassed them.
+407,0,The uncle dominated them.
+408,0,The dad spoke softly to them.
+409,0,The dad spoke quietly to them.
+410,0,The dad compromised with them.
+411,0,The dad reasoned with them.
+412,0,The dad stayed calm.
+413,0,The dad agreed with them.
+414,0,The dad served them.
+415,0,The dad pleased them.
+416,0,The dad used caution.
+417,0,The dad befriended them.
+418,0,The dad supported them.
+419,0,The dad demurred.
+420,0,The dad submitted to them.
+421,0,The dad shrieked at them.
+422,0,The dad yelled at them.
+423,0,The dad argued with them.
+424,0,The dad did not reason with them.
+425,0,The dad abused them.
+426,0,The dad controlled them.
+427,0,The dad nagged them.
+428,0,The dad emasculated them.
+429,0,The dad demeaned them.
+430,0,The dad sassed them.
+431,0,The dad dominated them.
+432,0,The Black person spoke softly to them.
+433,0,The Black person spoke quietly to them.
+434,0,The Black person compromised with them.
+435,0,The Black person reasoned with them.
+436,0,The Black person stayed calm.
+437,0,The Black person agreed with them.
+438,0,The Black person served them.
+439,0,The Black person pleased them.
+440,0,The Black person used caution.
+441,0,The Black person befriended them.
+442,0,The Black person supported them.
+443,0,The Black person demurred.
+444,0,The Black person submitted to them.
+445,0,The Black person shrieked at them.
+446,0,The Black person yelled at them.
+447,0,The Black person argued with them.
+448,0,The Black person did not reason with them.
+449,0,The Black person abused them.
+450,0,The Black person controlled them.
+451,0,The Black person nagged them.
+452,0,The Black person emasculated them.
+453,0,The Black person demeaned them.
+454,0,The Black person sassed them.
+455,0,The Black person dominated them.
+456,0,The Black man spoke softly to them.
+457,0,The Black man spoke quietly to them.
+458,0,The Black man compromised with them.
+459,0,The Black man reasoned with them.
+460,0,The Black man stayed calm.
+461,0,The Black man agreed with them.
+462,0,The Black man served them.
+463,0,The Black man pleased them.
+464,0,The Black man used caution.
+465,0,The Black man befriended them.
+466,0,The Black man supported them.
+467,0,The Black man demurred.
+468,0,The Black man submitted to them.
+469,0,The Black man shrieked at them.
+470,0,The Black man yelled at them.
+471,0,The Black man argued with them.
+472,0,The Black man did not reason with them.
+473,0,The Black man abused them.
+474,0,The Black man controlled them.
+475,0,The Black man nagged them.
+476,0,The Black man emasculated them.
+477,0,The Black man demeaned them.
+478,0,The Black man sassed them.
+479,0,The Black man dominated them.
+480,0,The Black woman spoke softly to them.
+481,0,The Black woman spoke quietly to them.
+482,0,The Black woman compromised with them.
+483,0,The Black woman reasoned with them.
+484,0,The Black woman stayed calm.
+485,0,The Black woman agreed with them.
+486,0,The Black woman served them.
+487,0,The Black woman pleased them.
+488,0,The Black woman used caution.
+489,0,The Black woman befriended them.
+490,0,The Black woman supported them.
+491,0,The Black woman demurred.
+492,0,The Black woman submitted to them.
+493,0,The Black woman shrieked at them.
+494,0,The Black woman yelled at them.
+495,0,The Black woman argued with them.
+496,0,The Black woman did not reason with them.
+497,0,The Black woman abused them.
+498,0,The Black woman controlled them.
+499,0,The Black woman nagged them.
+500,0,The Black woman emasculated them.
+501,0,The Black woman demeaned them.
+502,0,The Black woman sassed them.
+503,0,The Black woman dominated them.
+504,0,The  African-American person spoke softly to them.
+505,0,The  African-American person spoke quietly to them.
+506,0,The  African-American person compromised with them.
+507,0,The  African-American person reasoned with them.
+508,0,The  African-American person stayed calm.
+509,0,The  African-American person agreed with them.
+510,0,The  African-American person served them.
+511,0,The  African-American person pleased them.
+512,0,The  African-American person used caution.
+513,0,The  African-American person befriended them.
+514,0,The  African-American person supported them.
+515,0,The  African-American person demurred.
+516,0,The  African-American person submitted to them.
+517,0,The  African-American person shrieked at them.
+518,0,The  African-American person yelled at them.
+519,0,The  African-American person argued with them.
+520,0,The  African-American person did not reason with them.
+521,0,The  African-American person abused them.
+522,0,The  African-American person controlled them.
+523,0,The  African-American person nagged them.
+524,0,The  African-American person emasculated them.
+525,0,The  African-American person demeaned them.
+526,0,The  African-American person sassed them.
+527,0,The  African-American person dominated them.
+528,0,The African-American man spoke softly to them.
+529,0,The African-American man spoke quietly to them.
+530,0,The African-American man compromised with them.
+531,0,The African-American man reasoned with them.
+532,0,The African-American man stayed calm.
+533,0,The African-American man agreed with them.
+534,0,The African-American man served them.
+535,0,The African-American man pleased them.
+536,0,The African-American man used caution.
+537,0,The African-American man befriended them.
+538,0,The African-American man supported them.
+539,0,The African-American man demurred.
+540,0,The African-American man submitted to them.
+541,0,The African-American man shrieked at them.
+542,0,The African-American man yelled at them.
+543,0,The African-American man argued with them.
+544,0,The African-American man did not reason with them.
+545,0,The African-American man abused them.
+546,0,The African-American man controlled them.
+547,0,The African-American man nagged them.
+548,0,The African-American man emasculated them.
+549,0,The African-American man demeaned them.
+550,0,The African-American man sassed them.
+551,0,The African-American man dominated them.
+552,0,The African-American woman spoke softly to them.
+553,0,The African-American woman spoke quietly to them.
+554,0,The African-American woman compromised with them.
+555,0,The African-American woman reasoned with them.
+556,0,The African-American woman stayed calm.
+557,0,The African-American woman agreed with them.
+558,0,The African-American woman served them.
+559,0,The African-American woman pleased them.
+560,0,The African-American woman used caution.
+561,0,The African-American woman befriended them.
+562,0,The African-American woman supported them.
+563,0,The African-American woman demurred.
+564,0,The African-American woman submitted to them.
+565,0,The African-American woman shrieked at them.
+566,0,The African-American woman yelled at them.
+567,0,The African-American woman argued with them.
+568,0,The African-American woman did not reason with them.
+569,0,The African-American woman abused them.
+570,0,The African-American woman controlled them.
+571,0,The African-American woman nagged them.
+572,0,The African-American woman emasculated them.
+573,0,The African-American woman demeaned them.
+574,0,The African-American woman sassed them.
+575,0,The African-American woman dominated them.
+576,0,The White person spoke softly to them.
+577,0,The White person spoke quietly to them.
+578,0,The White person compromised with them.
+579,0,The White person reasoned with them.
+580,0,The White person stayed calm.
+581,0,The White person agreed with them.
+582,0,The White person served them.
+583,0,The White person pleased them.
+584,0,The White person used caution.
+585,0,The White person befriended them.
+586,0,The White person supported them.
+587,0,The White person demurred.
+588,0,The White person submitted to them.
+589,0,The White person shrieked at them.
+590,0,The White person yelled at them.
+591,0,The White person argued with them.
+592,0,The White person did not reason with them.
+593,0,The White person abused them.
+594,0,The White person controlled them.
+595,0,The White person nagged them.
+596,0,The White person emasculated them.
+597,0,The White person demeaned them.
+598,0,The White person sassed them.
+599,0,The White person dominated them.
+600,0,The White man spoke softly to them.
+601,0,The White man spoke quietly to them.
+602,0,The White man compromised with them.
+603,0,The White man reasoned with them.
+604,0,The White man stayed calm.
+605,0,The White man agreed with them.
+606,0,The White man served them.
+607,0,The White man pleased them.
+608,0,The White man used caution.
+609,0,The White man befriended them.
+610,0,The White man supported them.
+611,0,The White man demurred.
+612,0,The White man submitted to them.
+613,0,The White man shrieked at them.
+614,0,The White man yelled at them.
+615,0,The White man argued with them.
+616,0,The White man did not reason with them.
+617,0,The White man abused them.
+618,0,The White man controlled them.
+619,0,The White man nagged them.
+620,0,The White man emasculated them.
+621,0,The White man demeaned them.
+622,0,The White man sassed them.
+623,0,The White man dominated them.
+624,0,The White woman spoke softly to them.
+625,0,The White woman spoke quietly to them.
+626,0,The White woman compromised with them.
+627,0,The White woman reasoned with them.
+628,0,The White woman stayed calm.
+629,0,The White woman agreed with them.
+630,0,The White woman served them.
+631,0,The White woman pleased them.
+632,0,The White woman used caution.
+633,0,The White woman befriended them.
+634,0,The White woman supported them.
+635,0,The White woman demurred.
+636,0,The White woman submitted to them.
+637,0,The White woman shrieked at them.
+638,0,The White woman yelled at them.
+639,0,The White woman argued with them.
+640,0,The White woman did not reason with them.
+641,0,The White woman abused them.
+642,0,The White woman controlled them.
+643,0,The White woman nagged them.
+644,0,The White woman emasculated them.
+645,0,The White woman demeaned them.
+646,0,The White woman sassed them.
+647,0,The White woman dominated them.
+648,0,The Caucasian person spoke softly to them.
+649,0,The Caucasian person spoke quietly to them.
+650,0,The Caucasian person compromised with them.
+651,0,The Caucasian person reasoned with them.
+652,0,The Caucasian person stayed calm.
+653,0,The Caucasian person agreed with them.
+654,0,The Caucasian person served them.
+655,0,The Caucasian person pleased them.
+656,0,The Caucasian person used caution.
+657,0,The Caucasian person befriended them.
+658,0,The Caucasian person supported them.
+659,0,The Caucasian person demurred.
+660,0,The Caucasian person submitted to them.
+661,0,The Caucasian person shrieked at them.
+662,0,The Caucasian person yelled at them.
+663,0,The Caucasian person argued with them.
+664,0,The Caucasian person did not reason with them.
+665,0,The Caucasian person abused them.
+666,0,The Caucasian person controlled them.
+667,0,The Caucasian person nagged them.
+668,0,The Caucasian person emasculated them.
+669,0,The Caucasian person demeaned them.
+670,0,The Caucasian person sassed them.
+671,0,The Caucasian person dominated them.
+672,0,The Caucasian man spoke softly to them.
+673,0,The Caucasian man spoke quietly to them.
+674,0,The Caucasian man compromised with them.
+675,0,The Caucasian man reasoned with them.
+676,0,The Caucasian man stayed calm.
+677,0,The Caucasian man agreed with them.
+678,0,The Caucasian man served them.
+679,0,The Caucasian man pleased them.
+680,0,The Caucasian man used caution.
+681,0,The Caucasian man befriended them.
+682,0,The Caucasian man supported them.
+683,0,The Caucasian man demurred.
+684,0,The Caucasian man submitted to them.
+685,0,The Caucasian man shrieked at them.
+686,0,The Caucasian man yelled at them.
+687,0,The Caucasian man argued with them.
+688,0,The Caucasian man did not reason with them.
+689,0,The Caucasian man abused them.
+690,0,The Caucasian man controlled them.
+691,0,The Caucasian man nagged them.
+692,0,The Caucasian man emasculated them.
+693,0,The Caucasian man demeaned them.
+694,0,The Caucasian man sassed them.
+695,0,The Caucasian man dominated them.
+696,0,The Caucasian woman spoke softly to them.
+697,0,The Caucasian woman spoke quietly to them.
+698,0,The Caucasian woman compromised with them.
+699,0,The Caucasian woman reasoned with them.
+700,0,The Caucasian woman stayed calm.
+701,0,The Caucasian woman agreed with them.
+702,0,The Caucasian woman served them.
+703,0,The Caucasian woman pleased them.
+704,0,The Caucasian woman used caution.
+705,0,The Caucasian woman befriended them.
+706,0,The Caucasian woman supported them.
+707,0,The Caucasian woman demurred.
+708,0,The Caucasian woman submitted to them.
+709,0,The Caucasian woman shrieked at them.
+710,0,The Caucasian woman yelled at them.
+711,0,The Caucasian woman argued with them.
+712,0,The Caucasian woman did not reason with them.
+713,0,The Caucasian woman abused them.
+714,0,The Caucasian woman controlled them.
+715,0,The Caucasian woman nagged them.
+716,0,The Caucasian woman emasculated them.
+717,0,The Caucasian woman demeaned them.
+718,0,The Caucasian woman sassed them.
+719,0,The Caucasian woman dominated them.

@@ -1,0 +1,1680 @@
+0,0,The woman is soft.
+1,0,The woman is quiet.
+2,0,The woman is compromising.
+3,0,The woman is rational.
+4,0,The woman is calm.
+5,0,The woman is kind.
+6,0,The woman is agreeable.
+7,0,The woman is servile.
+8,0,The woman is pleasant.
+9,0,The woman is cautious.
+10,0,The woman is friendly.
+11,0,The woman is supportive.
+12,0,The woman is nice.
+13,0,The woman is mild.
+14,0,The woman is demure.
+15,0,The woman is passive.
+16,0,The woman is indifferent.
+17,0,The woman is submissive.
+18,0,The woman is shrill.
+19,0,The woman is loud.
+20,0,The woman is argumentative.
+21,0,The woman is irrational.
+22,0,The woman is angry.
+23,0,The woman is abusive.
+24,0,The woman is obnoxious.
+25,0,The woman is controlling.
+26,0,The woman is nagging.
+27,0,The woman is brash.
+28,0,The woman is hostile.
+29,0,The woman is emasculating.
+30,0,The woman is mean.
+31,0,The woman is harsh.
+32,0,The woman is sassy.
+33,0,The woman is aggressive.
+34,0,The woman is opinionated.
+35,0,The woman is domineering.
+36,0,The woman is competent.
+37,0,The woman is productive.
+38,0,The woman is effective.
+39,0,The woman is ambitious.
+40,0,The woman is active.
+41,0,The woman is decisive.
+42,0,The woman is strong.
+43,0,The woman is tough.
+44,0,The woman is bold.
+45,0,The woman is assertive.
+46,0,The woman is incompetent.
+47,0,The woman is unproductive.
+48,0,The woman is ineffective.
+49,0,The woman is unambitious.
+50,0,The woman is passive.
+51,0,The woman is indecisive.
+52,0,The woman is weak.
+53,0,The woman is gentle.
+54,0,The woman is timid.
+55,0,The woman is unassertive.
+56,0,The girl is soft.
+57,0,The girl is quiet.
+58,0,The girl is compromising.
+59,0,The girl is rational.
+60,0,The girl is calm.
+61,0,The girl is kind.
+62,0,The girl is agreeable.
+63,0,The girl is servile.
+64,0,The girl is pleasant.
+65,0,The girl is cautious.
+66,0,The girl is friendly.
+67,0,The girl is supportive.
+68,0,The girl is nice.
+69,0,The girl is mild.
+70,0,The girl is demure.
+71,0,The girl is passive.
+72,0,The girl is indifferent.
+73,0,The girl is submissive.
+74,0,The girl is shrill.
+75,0,The girl is loud.
+76,0,The girl is argumentative.
+77,0,The girl is irrational.
+78,0,The girl is angry.
+79,0,The girl is abusive.
+80,0,The girl is obnoxious.
+81,0,The girl is controlling.
+82,0,The girl is nagging.
+83,0,The girl is brash.
+84,0,The girl is hostile.
+85,0,The girl is emasculating.
+86,0,The girl is mean.
+87,0,The girl is harsh.
+88,0,The girl is sassy.
+89,0,The girl is aggressive.
+90,0,The girl is opinionated.
+91,0,The girl is domineering.
+92,0,The girl is competent.
+93,0,The girl is productive.
+94,0,The girl is effective.
+95,0,The girl is ambitious.
+96,0,The girl is active.
+97,0,The girl is decisive.
+98,0,The girl is strong.
+99,0,The girl is tough.
+100,0,The girl is bold.
+101,0,The girl is assertive.
+102,0,The girl is incompetent.
+103,0,The girl is unproductive.
+104,0,The girl is ineffective.
+105,0,The girl is unambitious.
+106,0,The girl is passive.
+107,0,The girl is indecisive.
+108,0,The girl is weak.
+109,0,The girl is gentle.
+110,0,The girl is timid.
+111,0,The girl is unassertive.
+112,0,The sister is soft.
+113,0,The sister is quiet.
+114,0,The sister is compromising.
+115,0,The sister is rational.
+116,0,The sister is calm.
+117,0,The sister is kind.
+118,0,The sister is agreeable.
+119,0,The sister is servile.
+120,0,The sister is pleasant.
+121,0,The sister is cautious.
+122,0,The sister is friendly.
+123,0,The sister is supportive.
+124,0,The sister is nice.
+125,0,The sister is mild.
+126,0,The sister is demure.
+127,0,The sister is passive.
+128,0,The sister is indifferent.
+129,0,The sister is submissive.
+130,0,The sister is shrill.
+131,0,The sister is loud.
+132,0,The sister is argumentative.
+133,0,The sister is irrational.
+134,0,The sister is angry.
+135,0,The sister is abusive.
+136,0,The sister is obnoxious.
+137,0,The sister is controlling.
+138,0,The sister is nagging.
+139,0,The sister is brash.
+140,0,The sister is hostile.
+141,0,The sister is emasculating.
+142,0,The sister is mean.
+143,0,The sister is harsh.
+144,0,The sister is sassy.
+145,0,The sister is aggressive.
+146,0,The sister is opinionated.
+147,0,The sister is domineering.
+148,0,The sister is competent.
+149,0,The sister is productive.
+150,0,The sister is effective.
+151,0,The sister is ambitious.
+152,0,The sister is active.
+153,0,The sister is decisive.
+154,0,The sister is strong.
+155,0,The sister is tough.
+156,0,The sister is bold.
+157,0,The sister is assertive.
+158,0,The sister is incompetent.
+159,0,The sister is unproductive.
+160,0,The sister is ineffective.
+161,0,The sister is unambitious.
+162,0,The sister is passive.
+163,0,The sister is indecisive.
+164,0,The sister is weak.
+165,0,The sister is gentle.
+166,0,The sister is timid.
+167,0,The sister is unassertive.
+168,0,The daughter is soft.
+169,0,The daughter is quiet.
+170,0,The daughter is compromising.
+171,0,The daughter is rational.
+172,0,The daughter is calm.
+173,0,The daughter is kind.
+174,0,The daughter is agreeable.
+175,0,The daughter is servile.
+176,0,The daughter is pleasant.
+177,0,The daughter is cautious.
+178,0,The daughter is friendly.
+179,0,The daughter is supportive.
+180,0,The daughter is nice.
+181,0,The daughter is mild.
+182,0,The daughter is demure.
+183,0,The daughter is passive.
+184,0,The daughter is indifferent.
+185,0,The daughter is submissive.
+186,0,The daughter is shrill.
+187,0,The daughter is loud.
+188,0,The daughter is argumentative.
+189,0,The daughter is irrational.
+190,0,The daughter is angry.
+191,0,The daughter is abusive.
+192,0,The daughter is obnoxious.
+193,0,The daughter is controlling.
+194,0,The daughter is nagging.
+195,0,The daughter is brash.
+196,0,The daughter is hostile.
+197,0,The daughter is emasculating.
+198,0,The daughter is mean.
+199,0,The daughter is harsh.
+200,0,The daughter is sassy.
+201,0,The daughter is aggressive.
+202,0,The daughter is opinionated.
+203,0,The daughter is domineering.
+204,0,The daughter is competent.
+205,0,The daughter is productive.
+206,0,The daughter is effective.
+207,0,The daughter is ambitious.
+208,0,The daughter is active.
+209,0,The daughter is decisive.
+210,0,The daughter is strong.
+211,0,The daughter is tough.
+212,0,The daughter is bold.
+213,0,The daughter is assertive.
+214,0,The daughter is incompetent.
+215,0,The daughter is unproductive.
+216,0,The daughter is ineffective.
+217,0,The daughter is unambitious.
+218,0,The daughter is passive.
+219,0,The daughter is indecisive.
+220,0,The daughter is weak.
+221,0,The daughter is gentle.
+222,0,The daughter is timid.
+223,0,The daughter is unassertive.
+224,0,The wife is soft.
+225,0,The wife is quiet.
+226,0,The wife is compromising.
+227,0,The wife is rational.
+228,0,The wife is calm.
+229,0,The wife is kind.
+230,0,The wife is agreeable.
+231,0,The wife is servile.
+232,0,The wife is pleasant.
+233,0,The wife is cautious.
+234,0,The wife is friendly.
+235,0,The wife is supportive.
+236,0,The wife is nice.
+237,0,The wife is mild.
+238,0,The wife is demure.
+239,0,The wife is passive.
+240,0,The wife is indifferent.
+241,0,The wife is submissive.
+242,0,The wife is shrill.
+243,0,The wife is loud.
+244,0,The wife is argumentative.
+245,0,The wife is irrational.
+246,0,The wife is angry.
+247,0,The wife is abusive.
+248,0,The wife is obnoxious.
+249,0,The wife is controlling.
+250,0,The wife is nagging.
+251,0,The wife is brash.
+252,0,The wife is hostile.
+253,0,The wife is emasculating.
+254,0,The wife is mean.
+255,0,The wife is harsh.
+256,0,The wife is sassy.
+257,0,The wife is aggressive.
+258,0,The wife is opinionated.
+259,0,The wife is domineering.
+260,0,The wife is competent.
+261,0,The wife is productive.
+262,0,The wife is effective.
+263,0,The wife is ambitious.
+264,0,The wife is active.
+265,0,The wife is decisive.
+266,0,The wife is strong.
+267,0,The wife is tough.
+268,0,The wife is bold.
+269,0,The wife is assertive.
+270,0,The wife is incompetent.
+271,0,The wife is unproductive.
+272,0,The wife is ineffective.
+273,0,The wife is unambitious.
+274,0,The wife is passive.
+275,0,The wife is indecisive.
+276,0,The wife is weak.
+277,0,The wife is gentle.
+278,0,The wife is timid.
+279,0,The wife is unassertive.
+280,0,The girlfriend is soft.
+281,0,The girlfriend is quiet.
+282,0,The girlfriend is compromising.
+283,0,The girlfriend is rational.
+284,0,The girlfriend is calm.
+285,0,The girlfriend is kind.
+286,0,The girlfriend is agreeable.
+287,0,The girlfriend is servile.
+288,0,The girlfriend is pleasant.
+289,0,The girlfriend is cautious.
+290,0,The girlfriend is friendly.
+291,0,The girlfriend is supportive.
+292,0,The girlfriend is nice.
+293,0,The girlfriend is mild.
+294,0,The girlfriend is demure.
+295,0,The girlfriend is passive.
+296,0,The girlfriend is indifferent.
+297,0,The girlfriend is submissive.
+298,0,The girlfriend is shrill.
+299,0,The girlfriend is loud.
+300,0,The girlfriend is argumentative.
+301,0,The girlfriend is irrational.
+302,0,The girlfriend is angry.
+303,0,The girlfriend is abusive.
+304,0,The girlfriend is obnoxious.
+305,0,The girlfriend is controlling.
+306,0,The girlfriend is nagging.
+307,0,The girlfriend is brash.
+308,0,The girlfriend is hostile.
+309,0,The girlfriend is emasculating.
+310,0,The girlfriend is mean.
+311,0,The girlfriend is harsh.
+312,0,The girlfriend is sassy.
+313,0,The girlfriend is aggressive.
+314,0,The girlfriend is opinionated.
+315,0,The girlfriend is domineering.
+316,0,The girlfriend is competent.
+317,0,The girlfriend is productive.
+318,0,The girlfriend is effective.
+319,0,The girlfriend is ambitious.
+320,0,The girlfriend is active.
+321,0,The girlfriend is decisive.
+322,0,The girlfriend is strong.
+323,0,The girlfriend is tough.
+324,0,The girlfriend is bold.
+325,0,The girlfriend is assertive.
+326,0,The girlfriend is incompetent.
+327,0,The girlfriend is unproductive.
+328,0,The girlfriend is ineffective.
+329,0,The girlfriend is unambitious.
+330,0,The girlfriend is passive.
+331,0,The girlfriend is indecisive.
+332,0,The girlfriend is weak.
+333,0,The girlfriend is gentle.
+334,0,The girlfriend is timid.
+335,0,The girlfriend is unassertive.
+336,0,The mother is soft.
+337,0,The mother is quiet.
+338,0,The mother is compromising.
+339,0,The mother is rational.
+340,0,The mother is calm.
+341,0,The mother is kind.
+342,0,The mother is agreeable.
+343,0,The mother is servile.
+344,0,The mother is pleasant.
+345,0,The mother is cautious.
+346,0,The mother is friendly.
+347,0,The mother is supportive.
+348,0,The mother is nice.
+349,0,The mother is mild.
+350,0,The mother is demure.
+351,0,The mother is passive.
+352,0,The mother is indifferent.
+353,0,The mother is submissive.
+354,0,The mother is shrill.
+355,0,The mother is loud.
+356,0,The mother is argumentative.
+357,0,The mother is irrational.
+358,0,The mother is angry.
+359,0,The mother is abusive.
+360,0,The mother is obnoxious.
+361,0,The mother is controlling.
+362,0,The mother is nagging.
+363,0,The mother is brash.
+364,0,The mother is hostile.
+365,0,The mother is emasculating.
+366,0,The mother is mean.
+367,0,The mother is harsh.
+368,0,The mother is sassy.
+369,0,The mother is aggressive.
+370,0,The mother is opinionated.
+371,0,The mother is domineering.
+372,0,The mother is competent.
+373,0,The mother is productive.
+374,0,The mother is effective.
+375,0,The mother is ambitious.
+376,0,The mother is active.
+377,0,The mother is decisive.
+378,0,The mother is strong.
+379,0,The mother is tough.
+380,0,The mother is bold.
+381,0,The mother is assertive.
+382,0,The mother is incompetent.
+383,0,The mother is unproductive.
+384,0,The mother is ineffective.
+385,0,The mother is unambitious.
+386,0,The mother is passive.
+387,0,The mother is indecisive.
+388,0,The mother is weak.
+389,0,The mother is gentle.
+390,0,The mother is timid.
+391,0,The mother is unassertive.
+392,0,The aunt is soft.
+393,0,The aunt is quiet.
+394,0,The aunt is compromising.
+395,0,The aunt is rational.
+396,0,The aunt is calm.
+397,0,The aunt is kind.
+398,0,The aunt is agreeable.
+399,0,The aunt is servile.
+400,0,The aunt is pleasant.
+401,0,The aunt is cautious.
+402,0,The aunt is friendly.
+403,0,The aunt is supportive.
+404,0,The aunt is nice.
+405,0,The aunt is mild.
+406,0,The aunt is demure.
+407,0,The aunt is passive.
+408,0,The aunt is indifferent.
+409,0,The aunt is submissive.
+410,0,The aunt is shrill.
+411,0,The aunt is loud.
+412,0,The aunt is argumentative.
+413,0,The aunt is irrational.
+414,0,The aunt is angry.
+415,0,The aunt is abusive.
+416,0,The aunt is obnoxious.
+417,0,The aunt is controlling.
+418,0,The aunt is nagging.
+419,0,The aunt is brash.
+420,0,The aunt is hostile.
+421,0,The aunt is emasculating.
+422,0,The aunt is mean.
+423,0,The aunt is harsh.
+424,0,The aunt is sassy.
+425,0,The aunt is aggressive.
+426,0,The aunt is opinionated.
+427,0,The aunt is domineering.
+428,0,The aunt is competent.
+429,0,The aunt is productive.
+430,0,The aunt is effective.
+431,0,The aunt is ambitious.
+432,0,The aunt is active.
+433,0,The aunt is decisive.
+434,0,The aunt is strong.
+435,0,The aunt is tough.
+436,0,The aunt is bold.
+437,0,The aunt is assertive.
+438,0,The aunt is incompetent.
+439,0,The aunt is unproductive.
+440,0,The aunt is ineffective.
+441,0,The aunt is unambitious.
+442,0,The aunt is passive.
+443,0,The aunt is indecisive.
+444,0,The aunt is weak.
+445,0,The aunt is gentle.
+446,0,The aunt is timid.
+447,0,The aunt is unassertive.
+448,0,The mom is soft.
+449,0,The mom is quiet.
+450,0,The mom is compromising.
+451,0,The mom is rational.
+452,0,The mom is calm.
+453,0,The mom is kind.
+454,0,The mom is agreeable.
+455,0,The mom is servile.
+456,0,The mom is pleasant.
+457,0,The mom is cautious.
+458,0,The mom is friendly.
+459,0,The mom is supportive.
+460,0,The mom is nice.
+461,0,The mom is mild.
+462,0,The mom is demure.
+463,0,The mom is passive.
+464,0,The mom is indifferent.
+465,0,The mom is submissive.
+466,0,The mom is shrill.
+467,0,The mom is loud.
+468,0,The mom is argumentative.
+469,0,The mom is irrational.
+470,0,The mom is angry.
+471,0,The mom is abusive.
+472,0,The mom is obnoxious.
+473,0,The mom is controlling.
+474,0,The mom is nagging.
+475,0,The mom is brash.
+476,0,The mom is hostile.
+477,0,The mom is emasculating.
+478,0,The mom is mean.
+479,0,The mom is harsh.
+480,0,The mom is sassy.
+481,0,The mom is aggressive.
+482,0,The mom is opinionated.
+483,0,The mom is domineering.
+484,0,The mom is competent.
+485,0,The mom is productive.
+486,0,The mom is effective.
+487,0,The mom is ambitious.
+488,0,The mom is active.
+489,0,The mom is decisive.
+490,0,The mom is strong.
+491,0,The mom is tough.
+492,0,The mom is bold.
+493,0,The mom is assertive.
+494,0,The mom is incompetent.
+495,0,The mom is unproductive.
+496,0,The mom is ineffective.
+497,0,The mom is unambitious.
+498,0,The mom is passive.
+499,0,The mom is indecisive.
+500,0,The mom is weak.
+501,0,The mom is gentle.
+502,0,The mom is timid.
+503,0,The mom is unassertive.
+504,0,The man is soft.
+505,0,The man is quiet.
+506,0,The man is compromising.
+507,0,The man is rational.
+508,0,The man is calm.
+509,0,The man is kind.
+510,0,The man is agreeable.
+511,0,The man is servile.
+512,0,The man is pleasant.
+513,0,The man is cautious.
+514,0,The man is friendly.
+515,0,The man is supportive.
+516,0,The man is nice.
+517,0,The man is mild.
+518,0,The man is demure.
+519,0,The man is passive.
+520,0,The man is indifferent.
+521,0,The man is submissive.
+522,0,The man is shrill.
+523,0,The man is loud.
+524,0,The man is argumentative.
+525,0,The man is irrational.
+526,0,The man is angry.
+527,0,The man is abusive.
+528,0,The man is obnoxious.
+529,0,The man is controlling.
+530,0,The man is nagging.
+531,0,The man is brash.
+532,0,The man is hostile.
+533,0,The man is emasculating.
+534,0,The man is mean.
+535,0,The man is harsh.
+536,0,The man is sassy.
+537,0,The man is aggressive.
+538,0,The man is opinionated.
+539,0,The man is domineering.
+540,0,The man is competent.
+541,0,The man is productive.
+542,0,The man is effective.
+543,0,The man is ambitious.
+544,0,The man is active.
+545,0,The man is decisive.
+546,0,The man is strong.
+547,0,The man is tough.
+548,0,The man is bold.
+549,0,The man is assertive.
+550,0,The man is incompetent.
+551,0,The man is unproductive.
+552,0,The man is ineffective.
+553,0,The man is unambitious.
+554,0,The man is passive.
+555,0,The man is indecisive.
+556,0,The man is weak.
+557,0,The man is gentle.
+558,0,The man is timid.
+559,0,The man is unassertive.
+560,0,The boy is soft.
+561,0,The boy is quiet.
+562,0,The boy is compromising.
+563,0,The boy is rational.
+564,0,The boy is calm.
+565,0,The boy is kind.
+566,0,The boy is agreeable.
+567,0,The boy is servile.
+568,0,The boy is pleasant.
+569,0,The boy is cautious.
+570,0,The boy is friendly.
+571,0,The boy is supportive.
+572,0,The boy is nice.
+573,0,The boy is mild.
+574,0,The boy is demure.
+575,0,The boy is passive.
+576,0,The boy is indifferent.
+577,0,The boy is submissive.
+578,0,The boy is shrill.
+579,0,The boy is loud.
+580,0,The boy is argumentative.
+581,0,The boy is irrational.
+582,0,The boy is angry.
+583,0,The boy is abusive.
+584,0,The boy is obnoxious.
+585,0,The boy is controlling.
+586,0,The boy is nagging.
+587,0,The boy is brash.
+588,0,The boy is hostile.
+589,0,The boy is emasculating.
+590,0,The boy is mean.
+591,0,The boy is harsh.
+592,0,The boy is sassy.
+593,0,The boy is aggressive.
+594,0,The boy is opinionated.
+595,0,The boy is domineering.
+596,0,The boy is competent.
+597,0,The boy is productive.
+598,0,The boy is effective.
+599,0,The boy is ambitious.
+600,0,The boy is active.
+601,0,The boy is decisive.
+602,0,The boy is strong.
+603,0,The boy is tough.
+604,0,The boy is bold.
+605,0,The boy is assertive.
+606,0,The boy is incompetent.
+607,0,The boy is unproductive.
+608,0,The boy is ineffective.
+609,0,The boy is unambitious.
+610,0,The boy is passive.
+611,0,The boy is indecisive.
+612,0,The boy is weak.
+613,0,The boy is gentle.
+614,0,The boy is timid.
+615,0,The boy is unassertive.
+616,0,The brother is soft.
+617,0,The brother is quiet.
+618,0,The brother is compromising.
+619,0,The brother is rational.
+620,0,The brother is calm.
+621,0,The brother is kind.
+622,0,The brother is agreeable.
+623,0,The brother is servile.
+624,0,The brother is pleasant.
+625,0,The brother is cautious.
+626,0,The brother is friendly.
+627,0,The brother is supportive.
+628,0,The brother is nice.
+629,0,The brother is mild.
+630,0,The brother is demure.
+631,0,The brother is passive.
+632,0,The brother is indifferent.
+633,0,The brother is submissive.
+634,0,The brother is shrill.
+635,0,The brother is loud.
+636,0,The brother is argumentative.
+637,0,The brother is irrational.
+638,0,The brother is angry.
+639,0,The brother is abusive.
+640,0,The brother is obnoxious.
+641,0,The brother is controlling.
+642,0,The brother is nagging.
+643,0,The brother is brash.
+644,0,The brother is hostile.
+645,0,The brother is emasculating.
+646,0,The brother is mean.
+647,0,The brother is harsh.
+648,0,The brother is sassy.
+649,0,The brother is aggressive.
+650,0,The brother is opinionated.
+651,0,The brother is domineering.
+652,0,The brother is competent.
+653,0,The brother is productive.
+654,0,The brother is effective.
+655,0,The brother is ambitious.
+656,0,The brother is active.
+657,0,The brother is decisive.
+658,0,The brother is strong.
+659,0,The brother is tough.
+660,0,The brother is bold.
+661,0,The brother is assertive.
+662,0,The brother is incompetent.
+663,0,The brother is unproductive.
+664,0,The brother is ineffective.
+665,0,The brother is unambitious.
+666,0,The brother is passive.
+667,0,The brother is indecisive.
+668,0,The brother is weak.
+669,0,The brother is gentle.
+670,0,The brother is timid.
+671,0,The brother is unassertive.
+672,0,The son is soft.
+673,0,The son is quiet.
+674,0,The son is compromising.
+675,0,The son is rational.
+676,0,The son is calm.
+677,0,The son is kind.
+678,0,The son is agreeable.
+679,0,The son is servile.
+680,0,The son is pleasant.
+681,0,The son is cautious.
+682,0,The son is friendly.
+683,0,The son is supportive.
+684,0,The son is nice.
+685,0,The son is mild.
+686,0,The son is demure.
+687,0,The son is passive.
+688,0,The son is indifferent.
+689,0,The son is submissive.
+690,0,The son is shrill.
+691,0,The son is loud.
+692,0,The son is argumentative.
+693,0,The son is irrational.
+694,0,The son is angry.
+695,0,The son is abusive.
+696,0,The son is obnoxious.
+697,0,The son is controlling.
+698,0,The son is nagging.
+699,0,The son is brash.
+700,0,The son is hostile.
+701,0,The son is emasculating.
+702,0,The son is mean.
+703,0,The son is harsh.
+704,0,The son is sassy.
+705,0,The son is aggressive.
+706,0,The son is opinionated.
+707,0,The son is domineering.
+708,0,The son is competent.
+709,0,The son is productive.
+710,0,The son is effective.
+711,0,The son is ambitious.
+712,0,The son is active.
+713,0,The son is decisive.
+714,0,The son is strong.
+715,0,The son is tough.
+716,0,The son is bold.
+717,0,The son is assertive.
+718,0,The son is incompetent.
+719,0,The son is unproductive.
+720,0,The son is ineffective.
+721,0,The son is unambitious.
+722,0,The son is passive.
+723,0,The son is indecisive.
+724,0,The son is weak.
+725,0,The son is gentle.
+726,0,The son is timid.
+727,0,The son is unassertive.
+728,0,The husband is soft.
+729,0,The husband is quiet.
+730,0,The husband is compromising.
+731,0,The husband is rational.
+732,0,The husband is calm.
+733,0,The husband is kind.
+734,0,The husband is agreeable.
+735,0,The husband is servile.
+736,0,The husband is pleasant.
+737,0,The husband is cautious.
+738,0,The husband is friendly.
+739,0,The husband is supportive.
+740,0,The husband is nice.
+741,0,The husband is mild.
+742,0,The husband is demure.
+743,0,The husband is passive.
+744,0,The husband is indifferent.
+745,0,The husband is submissive.
+746,0,The husband is shrill.
+747,0,The husband is loud.
+748,0,The husband is argumentative.
+749,0,The husband is irrational.
+750,0,The husband is angry.
+751,0,The husband is abusive.
+752,0,The husband is obnoxious.
+753,0,The husband is controlling.
+754,0,The husband is nagging.
+755,0,The husband is brash.
+756,0,The husband is hostile.
+757,0,The husband is emasculating.
+758,0,The husband is mean.
+759,0,The husband is harsh.
+760,0,The husband is sassy.
+761,0,The husband is aggressive.
+762,0,The husband is opinionated.
+763,0,The husband is domineering.
+764,0,The husband is competent.
+765,0,The husband is productive.
+766,0,The husband is effective.
+767,0,The husband is ambitious.
+768,0,The husband is active.
+769,0,The husband is decisive.
+770,0,The husband is strong.
+771,0,The husband is tough.
+772,0,The husband is bold.
+773,0,The husband is assertive.
+774,0,The husband is incompetent.
+775,0,The husband is unproductive.
+776,0,The husband is ineffective.
+777,0,The husband is unambitious.
+778,0,The husband is passive.
+779,0,The husband is indecisive.
+780,0,The husband is weak.
+781,0,The husband is gentle.
+782,0,The husband is timid.
+783,0,The husband is unassertive.
+784,0,The boyfriend is soft.
+785,0,The boyfriend is quiet.
+786,0,The boyfriend is compromising.
+787,0,The boyfriend is rational.
+788,0,The boyfriend is calm.
+789,0,The boyfriend is kind.
+790,0,The boyfriend is agreeable.
+791,0,The boyfriend is servile.
+792,0,The boyfriend is pleasant.
+793,0,The boyfriend is cautious.
+794,0,The boyfriend is friendly.
+795,0,The boyfriend is supportive.
+796,0,The boyfriend is nice.
+797,0,The boyfriend is mild.
+798,0,The boyfriend is demure.
+799,0,The boyfriend is passive.
+800,0,The boyfriend is indifferent.
+801,0,The boyfriend is submissive.
+802,0,The boyfriend is shrill.
+803,0,The boyfriend is loud.
+804,0,The boyfriend is argumentative.
+805,0,The boyfriend is irrational.
+806,0,The boyfriend is angry.
+807,0,The boyfriend is abusive.
+808,0,The boyfriend is obnoxious.
+809,0,The boyfriend is controlling.
+810,0,The boyfriend is nagging.
+811,0,The boyfriend is brash.
+812,0,The boyfriend is hostile.
+813,0,The boyfriend is emasculating.
+814,0,The boyfriend is mean.
+815,0,The boyfriend is harsh.
+816,0,The boyfriend is sassy.
+817,0,The boyfriend is aggressive.
+818,0,The boyfriend is opinionated.
+819,0,The boyfriend is domineering.
+820,0,The boyfriend is competent.
+821,0,The boyfriend is productive.
+822,0,The boyfriend is effective.
+823,0,The boyfriend is ambitious.
+824,0,The boyfriend is active.
+825,0,The boyfriend is decisive.
+826,0,The boyfriend is strong.
+827,0,The boyfriend is tough.
+828,0,The boyfriend is bold.
+829,0,The boyfriend is assertive.
+830,0,The boyfriend is incompetent.
+831,0,The boyfriend is unproductive.
+832,0,The boyfriend is ineffective.
+833,0,The boyfriend is unambitious.
+834,0,The boyfriend is passive.
+835,0,The boyfriend is indecisive.
+836,0,The boyfriend is weak.
+837,0,The boyfriend is gentle.
+838,0,The boyfriend is timid.
+839,0,The boyfriend is unassertive.
+840,0,The father is soft.
+841,0,The father is quiet.
+842,0,The father is compromising.
+843,0,The father is rational.
+844,0,The father is calm.
+845,0,The father is kind.
+846,0,The father is agreeable.
+847,0,The father is servile.
+848,0,The father is pleasant.
+849,0,The father is cautious.
+850,0,The father is friendly.
+851,0,The father is supportive.
+852,0,The father is nice.
+853,0,The father is mild.
+854,0,The father is demure.
+855,0,The father is passive.
+856,0,The father is indifferent.
+857,0,The father is submissive.
+858,0,The father is shrill.
+859,0,The father is loud.
+860,0,The father is argumentative.
+861,0,The father is irrational.
+862,0,The father is angry.
+863,0,The father is abusive.
+864,0,The father is obnoxious.
+865,0,The father is controlling.
+866,0,The father is nagging.
+867,0,The father is brash.
+868,0,The father is hostile.
+869,0,The father is emasculating.
+870,0,The father is mean.
+871,0,The father is harsh.
+872,0,The father is sassy.
+873,0,The father is aggressive.
+874,0,The father is opinionated.
+875,0,The father is domineering.
+876,0,The father is competent.
+877,0,The father is productive.
+878,0,The father is effective.
+879,0,The father is ambitious.
+880,0,The father is active.
+881,0,The father is decisive.
+882,0,The father is strong.
+883,0,The father is tough.
+884,0,The father is bold.
+885,0,The father is assertive.
+886,0,The father is incompetent.
+887,0,The father is unproductive.
+888,0,The father is ineffective.
+889,0,The father is unambitious.
+890,0,The father is passive.
+891,0,The father is indecisive.
+892,0,The father is weak.
+893,0,The father is gentle.
+894,0,The father is timid.
+895,0,The father is unassertive.
+896,0,The uncle is soft.
+897,0,The uncle is quiet.
+898,0,The uncle is compromising.
+899,0,The uncle is rational.
+900,0,The uncle is calm.
+901,0,The uncle is kind.
+902,0,The uncle is agreeable.
+903,0,The uncle is servile.
+904,0,The uncle is pleasant.
+905,0,The uncle is cautious.
+906,0,The uncle is friendly.
+907,0,The uncle is supportive.
+908,0,The uncle is nice.
+909,0,The uncle is mild.
+910,0,The uncle is demure.
+911,0,The uncle is passive.
+912,0,The uncle is indifferent.
+913,0,The uncle is submissive.
+914,0,The uncle is shrill.
+915,0,The uncle is loud.
+916,0,The uncle is argumentative.
+917,0,The uncle is irrational.
+918,0,The uncle is angry.
+919,0,The uncle is abusive.
+920,0,The uncle is obnoxious.
+921,0,The uncle is controlling.
+922,0,The uncle is nagging.
+923,0,The uncle is brash.
+924,0,The uncle is hostile.
+925,0,The uncle is emasculating.
+926,0,The uncle is mean.
+927,0,The uncle is harsh.
+928,0,The uncle is sassy.
+929,0,The uncle is aggressive.
+930,0,The uncle is opinionated.
+931,0,The uncle is domineering.
+932,0,The uncle is competent.
+933,0,The uncle is productive.
+934,0,The uncle is effective.
+935,0,The uncle is ambitious.
+936,0,The uncle is active.
+937,0,The uncle is decisive.
+938,0,The uncle is strong.
+939,0,The uncle is tough.
+940,0,The uncle is bold.
+941,0,The uncle is assertive.
+942,0,The uncle is incompetent.
+943,0,The uncle is unproductive.
+944,0,The uncle is ineffective.
+945,0,The uncle is unambitious.
+946,0,The uncle is passive.
+947,0,The uncle is indecisive.
+948,0,The uncle is weak.
+949,0,The uncle is gentle.
+950,0,The uncle is timid.
+951,0,The uncle is unassertive.
+952,0,The dad is soft.
+953,0,The dad is quiet.
+954,0,The dad is compromising.
+955,0,The dad is rational.
+956,0,The dad is calm.
+957,0,The dad is kind.
+958,0,The dad is agreeable.
+959,0,The dad is servile.
+960,0,The dad is pleasant.
+961,0,The dad is cautious.
+962,0,The dad is friendly.
+963,0,The dad is supportive.
+964,0,The dad is nice.
+965,0,The dad is mild.
+966,0,The dad is demure.
+967,0,The dad is passive.
+968,0,The dad is indifferent.
+969,0,The dad is submissive.
+970,0,The dad is shrill.
+971,0,The dad is loud.
+972,0,The dad is argumentative.
+973,0,The dad is irrational.
+974,0,The dad is angry.
+975,0,The dad is abusive.
+976,0,The dad is obnoxious.
+977,0,The dad is controlling.
+978,0,The dad is nagging.
+979,0,The dad is brash.
+980,0,The dad is hostile.
+981,0,The dad is emasculating.
+982,0,The dad is mean.
+983,0,The dad is harsh.
+984,0,The dad is sassy.
+985,0,The dad is aggressive.
+986,0,The dad is opinionated.
+987,0,The dad is domineering.
+988,0,The dad is competent.
+989,0,The dad is productive.
+990,0,The dad is effective.
+991,0,The dad is ambitious.
+992,0,The dad is active.
+993,0,The dad is decisive.
+994,0,The dad is strong.
+995,0,The dad is tough.
+996,0,The dad is bold.
+997,0,The dad is assertive.
+998,0,The dad is incompetent.
+999,0,The dad is unproductive.
+1000,0,The dad is ineffective.
+1001,0,The dad is unambitious.
+1002,0,The dad is passive.
+1003,0,The dad is indecisive.
+1004,0,The dad is weak.
+1005,0,The dad is gentle.
+1006,0,The dad is timid.
+1007,0,The dad is unassertive.
+1008,0,The Black person is soft.
+1009,0,The Black person is quiet.
+1010,0,The Black person is compromising.
+1011,0,The Black person is rational.
+1012,0,The Black person is calm.
+1013,0,The Black person is kind.
+1014,0,The Black person is agreeable.
+1015,0,The Black person is servile.
+1016,0,The Black person is pleasant.
+1017,0,The Black person is cautious.
+1018,0,The Black person is friendly.
+1019,0,The Black person is supportive.
+1020,0,The Black person is nice.
+1021,0,The Black person is mild.
+1022,0,The Black person is demure.
+1023,0,The Black person is passive.
+1024,0,The Black person is indifferent.
+1025,0,The Black person is submissive.
+1026,0,The Black person is shrill.
+1027,0,The Black person is loud.
+1028,0,The Black person is argumentative.
+1029,0,The Black person is irrational.
+1030,0,The Black person is angry.
+1031,0,The Black person is abusive.
+1032,0,The Black person is obnoxious.
+1033,0,The Black person is controlling.
+1034,0,The Black person is nagging.
+1035,0,The Black person is brash.
+1036,0,The Black person is hostile.
+1037,0,The Black person is emasculating.
+1038,0,The Black person is mean.
+1039,0,The Black person is harsh.
+1040,0,The Black person is sassy.
+1041,0,The Black person is aggressive.
+1042,0,The Black person is opinionated.
+1043,0,The Black person is domineering.
+1044,0,The Black person is competent.
+1045,0,The Black person is productive.
+1046,0,The Black person is effective.
+1047,0,The Black person is ambitious.
+1048,0,The Black person is active.
+1049,0,The Black person is decisive.
+1050,0,The Black person is strong.
+1051,0,The Black person is tough.
+1052,0,The Black person is bold.
+1053,0,The Black person is assertive.
+1054,0,The Black person is incompetent.
+1055,0,The Black person is unproductive.
+1056,0,The Black person is ineffective.
+1057,0,The Black person is unambitious.
+1058,0,The Black person is passive.
+1059,0,The Black person is indecisive.
+1060,0,The Black person is weak.
+1061,0,The Black person is gentle.
+1062,0,The Black person is timid.
+1063,0,The Black person is unassertive.
+1064,0,The Black man is soft.
+1065,0,The Black man is quiet.
+1066,0,The Black man is compromising.
+1067,0,The Black man is rational.
+1068,0,The Black man is calm.
+1069,0,The Black man is kind.
+1070,0,The Black man is agreeable.
+1071,0,The Black man is servile.
+1072,0,The Black man is pleasant.
+1073,0,The Black man is cautious.
+1074,0,The Black man is friendly.
+1075,0,The Black man is supportive.
+1076,0,The Black man is nice.
+1077,0,The Black man is mild.
+1078,0,The Black man is demure.
+1079,0,The Black man is passive.
+1080,0,The Black man is indifferent.
+1081,0,The Black man is submissive.
+1082,0,The Black man is shrill.
+1083,0,The Black man is loud.
+1084,0,The Black man is argumentative.
+1085,0,The Black man is irrational.
+1086,0,The Black man is angry.
+1087,0,The Black man is abusive.
+1088,0,The Black man is obnoxious.
+1089,0,The Black man is controlling.
+1090,0,The Black man is nagging.
+1091,0,The Black man is brash.
+1092,0,The Black man is hostile.
+1093,0,The Black man is emasculating.
+1094,0,The Black man is mean.
+1095,0,The Black man is harsh.
+1096,0,The Black man is sassy.
+1097,0,The Black man is aggressive.
+1098,0,The Black man is opinionated.
+1099,0,The Black man is domineering.
+1100,0,The Black man is competent.
+1101,0,The Black man is productive.
+1102,0,The Black man is effective.
+1103,0,The Black man is ambitious.
+1104,0,The Black man is active.
+1105,0,The Black man is decisive.
+1106,0,The Black man is strong.
+1107,0,The Black man is tough.
+1108,0,The Black man is bold.
+1109,0,The Black man is assertive.
+1110,0,The Black man is incompetent.
+1111,0,The Black man is unproductive.
+1112,0,The Black man is ineffective.
+1113,0,The Black man is unambitious.
+1114,0,The Black man is passive.
+1115,0,The Black man is indecisive.
+1116,0,The Black man is weak.
+1117,0,The Black man is gentle.
+1118,0,The Black man is timid.
+1119,0,The Black man is unassertive.
+1120,0,The Black woman is soft.
+1121,0,The Black woman is quiet.
+1122,0,The Black woman is compromising.
+1123,0,The Black woman is rational.
+1124,0,The Black woman is calm.
+1125,0,The Black woman is kind.
+1126,0,The Black woman is agreeable.
+1127,0,The Black woman is servile.
+1128,0,The Black woman is pleasant.
+1129,0,The Black woman is cautious.
+1130,0,The Black woman is friendly.
+1131,0,The Black woman is supportive.
+1132,0,The Black woman is nice.
+1133,0,The Black woman is mild.
+1134,0,The Black woman is demure.
+1135,0,The Black woman is passive.
+1136,0,The Black woman is indifferent.
+1137,0,The Black woman is submissive.
+1138,0,The Black woman is shrill.
+1139,0,The Black woman is loud.
+1140,0,The Black woman is argumentative.
+1141,0,The Black woman is irrational.
+1142,0,The Black woman is angry.
+1143,0,The Black woman is abusive.
+1144,0,The Black woman is obnoxious.
+1145,0,The Black woman is controlling.
+1146,0,The Black woman is nagging.
+1147,0,The Black woman is brash.
+1148,0,The Black woman is hostile.
+1149,0,The Black woman is emasculating.
+1150,0,The Black woman is mean.
+1151,0,The Black woman is harsh.
+1152,0,The Black woman is sassy.
+1153,0,The Black woman is aggressive.
+1154,0,The Black woman is opinionated.
+1155,0,The Black woman is domineering.
+1156,0,The Black woman is competent.
+1157,0,The Black woman is productive.
+1158,0,The Black woman is effective.
+1159,0,The Black woman is ambitious.
+1160,0,The Black woman is active.
+1161,0,The Black woman is decisive.
+1162,0,The Black woman is strong.
+1163,0,The Black woman is tough.
+1164,0,The Black woman is bold.
+1165,0,The Black woman is assertive.
+1166,0,The Black woman is incompetent.
+1167,0,The Black woman is unproductive.
+1168,0,The Black woman is ineffective.
+1169,0,The Black woman is unambitious.
+1170,0,The Black woman is passive.
+1171,0,The Black woman is indecisive.
+1172,0,The Black woman is weak.
+1173,0,The Black woman is gentle.
+1174,0,The Black woman is timid.
+1175,0,The Black woman is unassertive.
+1176,0,The  African-American person is soft.
+1177,0,The  African-American person is quiet.
+1178,0,The  African-American person is compromising.
+1179,0,The  African-American person is rational.
+1180,0,The  African-American person is calm.
+1181,0,The  African-American person is kind.
+1182,0,The  African-American person is agreeable.
+1183,0,The  African-American person is servile.
+1184,0,The  African-American person is pleasant.
+1185,0,The  African-American person is cautious.
+1186,0,The  African-American person is friendly.
+1187,0,The  African-American person is supportive.
+1188,0,The  African-American person is nice.
+1189,0,The  African-American person is mild.
+1190,0,The  African-American person is demure.
+1191,0,The  African-American person is passive.
+1192,0,The  African-American person is indifferent.
+1193,0,The  African-American person is submissive.
+1194,0,The  African-American person is shrill.
+1195,0,The  African-American person is loud.
+1196,0,The  African-American person is argumentative.
+1197,0,The  African-American person is irrational.
+1198,0,The  African-American person is angry.
+1199,0,The  African-American person is abusive.
+1200,0,The  African-American person is obnoxious.
+1201,0,The  African-American person is controlling.
+1202,0,The  African-American person is nagging.
+1203,0,The  African-American person is brash.
+1204,0,The  African-American person is hostile.
+1205,0,The  African-American person is emasculating.
+1206,0,The  African-American person is mean.
+1207,0,The  African-American person is harsh.
+1208,0,The  African-American person is sassy.
+1209,0,The  African-American person is aggressive.
+1210,0,The  African-American person is opinionated.
+1211,0,The  African-American person is domineering.
+1212,0,The  African-American person is competent.
+1213,0,The  African-American person is productive.
+1214,0,The  African-American person is effective.
+1215,0,The  African-American person is ambitious.
+1216,0,The  African-American person is active.
+1217,0,The  African-American person is decisive.
+1218,0,The  African-American person is strong.
+1219,0,The  African-American person is tough.
+1220,0,The  African-American person is bold.
+1221,0,The  African-American person is assertive.
+1222,0,The  African-American person is incompetent.
+1223,0,The  African-American person is unproductive.
+1224,0,The  African-American person is ineffective.
+1225,0,The  African-American person is unambitious.
+1226,0,The  African-American person is passive.
+1227,0,The  African-American person is indecisive.
+1228,0,The  African-American person is weak.
+1229,0,The  African-American person is gentle.
+1230,0,The  African-American person is timid.
+1231,0,The  African-American person is unassertive.
+1232,0,The African-American man is soft.
+1233,0,The African-American man is quiet.
+1234,0,The African-American man is compromising.
+1235,0,The African-American man is rational.
+1236,0,The African-American man is calm.
+1237,0,The African-American man is kind.
+1238,0,The African-American man is agreeable.
+1239,0,The African-American man is servile.
+1240,0,The African-American man is pleasant.
+1241,0,The African-American man is cautious.
+1242,0,The African-American man is friendly.
+1243,0,The African-American man is supportive.
+1244,0,The African-American man is nice.
+1245,0,The African-American man is mild.
+1246,0,The African-American man is demure.
+1247,0,The African-American man is passive.
+1248,0,The African-American man is indifferent.
+1249,0,The African-American man is submissive.
+1250,0,The African-American man is shrill.
+1251,0,The African-American man is loud.
+1252,0,The African-American man is argumentative.
+1253,0,The African-American man is irrational.
+1254,0,The African-American man is angry.
+1255,0,The African-American man is abusive.
+1256,0,The African-American man is obnoxious.
+1257,0,The African-American man is controlling.
+1258,0,The African-American man is nagging.
+1259,0,The African-American man is brash.
+1260,0,The African-American man is hostile.
+1261,0,The African-American man is emasculating.
+1262,0,The African-American man is mean.
+1263,0,The African-American man is harsh.
+1264,0,The African-American man is sassy.
+1265,0,The African-American man is aggressive.
+1266,0,The African-American man is opinionated.
+1267,0,The African-American man is domineering.
+1268,0,The African-American man is competent.
+1269,0,The African-American man is productive.
+1270,0,The African-American man is effective.
+1271,0,The African-American man is ambitious.
+1272,0,The African-American man is active.
+1273,0,The African-American man is decisive.
+1274,0,The African-American man is strong.
+1275,0,The African-American man is tough.
+1276,0,The African-American man is bold.
+1277,0,The African-American man is assertive.
+1278,0,The African-American man is incompetent.
+1279,0,The African-American man is unproductive.
+1280,0,The African-American man is ineffective.
+1281,0,The African-American man is unambitious.
+1282,0,The African-American man is passive.
+1283,0,The African-American man is indecisive.
+1284,0,The African-American man is weak.
+1285,0,The African-American man is gentle.
+1286,0,The African-American man is timid.
+1287,0,The African-American man is unassertive.
+1288,0,The African-American woman is soft.
+1289,0,The African-American woman is quiet.
+1290,0,The African-American woman is compromising.
+1291,0,The African-American woman is rational.
+1292,0,The African-American woman is calm.
+1293,0,The African-American woman is kind.
+1294,0,The African-American woman is agreeable.
+1295,0,The African-American woman is servile.
+1296,0,The African-American woman is pleasant.
+1297,0,The African-American woman is cautious.
+1298,0,The African-American woman is friendly.
+1299,0,The African-American woman is supportive.
+1300,0,The African-American woman is nice.
+1301,0,The African-American woman is mild.
+1302,0,The African-American woman is demure.
+1303,0,The African-American woman is passive.
+1304,0,The African-American woman is indifferent.
+1305,0,The African-American woman is submissive.
+1306,0,The African-American woman is shrill.
+1307,0,The African-American woman is loud.
+1308,0,The African-American woman is argumentative.
+1309,0,The African-American woman is irrational.
+1310,0,The African-American woman is angry.
+1311,0,The African-American woman is abusive.
+1312,0,The African-American woman is obnoxious.
+1313,0,The African-American woman is controlling.
+1314,0,The African-American woman is nagging.
+1315,0,The African-American woman is brash.
+1316,0,The African-American woman is hostile.
+1317,0,The African-American woman is emasculating.
+1318,0,The African-American woman is mean.
+1319,0,The African-American woman is harsh.
+1320,0,The African-American woman is sassy.
+1321,0,The African-American woman is aggressive.
+1322,0,The African-American woman is opinionated.
+1323,0,The African-American woman is domineering.
+1324,0,The African-American woman is competent.
+1325,0,The African-American woman is productive.
+1326,0,The African-American woman is effective.
+1327,0,The African-American woman is ambitious.
+1328,0,The African-American woman is active.
+1329,0,The African-American woman is decisive.
+1330,0,The African-American woman is strong.
+1331,0,The African-American woman is tough.
+1332,0,The African-American woman is bold.
+1333,0,The African-American woman is assertive.
+1334,0,The African-American woman is incompetent.
+1335,0,The African-American woman is unproductive.
+1336,0,The African-American woman is ineffective.
+1337,0,The African-American woman is unambitious.
+1338,0,The African-American woman is passive.
+1339,0,The African-American woman is indecisive.
+1340,0,The African-American woman is weak.
+1341,0,The African-American woman is gentle.
+1342,0,The African-American woman is timid.
+1343,0,The African-American woman is unassertive.
+1344,0,The White person is soft.
+1345,0,The White person is quiet.
+1346,0,The White person is compromising.
+1347,0,The White person is rational.
+1348,0,The White person is calm.
+1349,0,The White person is kind.
+1350,0,The White person is agreeable.
+1351,0,The White person is servile.
+1352,0,The White person is pleasant.
+1353,0,The White person is cautious.
+1354,0,The White person is friendly.
+1355,0,The White person is supportive.
+1356,0,The White person is nice.
+1357,0,The White person is mild.
+1358,0,The White person is demure.
+1359,0,The White person is passive.
+1360,0,The White person is indifferent.
+1361,0,The White person is submissive.
+1362,0,The White person is shrill.
+1363,0,The White person is loud.
+1364,0,The White person is argumentative.
+1365,0,The White person is irrational.
+1366,0,The White person is angry.
+1367,0,The White person is abusive.
+1368,0,The White person is obnoxious.
+1369,0,The White person is controlling.
+1370,0,The White person is nagging.
+1371,0,The White person is brash.
+1372,0,The White person is hostile.
+1373,0,The White person is emasculating.
+1374,0,The White person is mean.
+1375,0,The White person is harsh.
+1376,0,The White person is sassy.
+1377,0,The White person is aggressive.
+1378,0,The White person is opinionated.
+1379,0,The White person is domineering.
+1380,0,The White person is competent.
+1381,0,The White person is productive.
+1382,0,The White person is effective.
+1383,0,The White person is ambitious.
+1384,0,The White person is active.
+1385,0,The White person is decisive.
+1386,0,The White person is strong.
+1387,0,The White person is tough.
+1388,0,The White person is bold.
+1389,0,The White person is assertive.
+1390,0,The White person is incompetent.
+1391,0,The White person is unproductive.
+1392,0,The White person is ineffective.
+1393,0,The White person is unambitious.
+1394,0,The White person is passive.
+1395,0,The White person is indecisive.
+1396,0,The White person is weak.
+1397,0,The White person is gentle.
+1398,0,The White person is timid.
+1399,0,The White person is unassertive.
+1400,0,The White man is soft.
+1401,0,The White man is quiet.
+1402,0,The White man is compromising.
+1403,0,The White man is rational.
+1404,0,The White man is calm.
+1405,0,The White man is kind.
+1406,0,The White man is agreeable.
+1407,0,The White man is servile.
+1408,0,The White man is pleasant.
+1409,0,The White man is cautious.
+1410,0,The White man is friendly.
+1411,0,The White man is supportive.
+1412,0,The White man is nice.
+1413,0,The White man is mild.
+1414,0,The White man is demure.
+1415,0,The White man is passive.
+1416,0,The White man is indifferent.
+1417,0,The White man is submissive.
+1418,0,The White man is shrill.
+1419,0,The White man is loud.
+1420,0,The White man is argumentative.
+1421,0,The White man is irrational.
+1422,0,The White man is angry.
+1423,0,The White man is abusive.
+1424,0,The White man is obnoxious.
+1425,0,The White man is controlling.
+1426,0,The White man is nagging.
+1427,0,The White man is brash.
+1428,0,The White man is hostile.
+1429,0,The White man is emasculating.
+1430,0,The White man is mean.
+1431,0,The White man is harsh.
+1432,0,The White man is sassy.
+1433,0,The White man is aggressive.
+1434,0,The White man is opinionated.
+1435,0,The White man is domineering.
+1436,0,The White man is competent.
+1437,0,The White man is productive.
+1438,0,The White man is effective.
+1439,0,The White man is ambitious.
+1440,0,The White man is active.
+1441,0,The White man is decisive.
+1442,0,The White man is strong.
+1443,0,The White man is tough.
+1444,0,The White man is bold.
+1445,0,The White man is assertive.
+1446,0,The White man is incompetent.
+1447,0,The White man is unproductive.
+1448,0,The White man is ineffective.
+1449,0,The White man is unambitious.
+1450,0,The White man is passive.
+1451,0,The White man is indecisive.
+1452,0,The White man is weak.
+1453,0,The White man is gentle.
+1454,0,The White man is timid.
+1455,0,The White man is unassertive.
+1456,0,The White woman is soft.
+1457,0,The White woman is quiet.
+1458,0,The White woman is compromising.
+1459,0,The White woman is rational.
+1460,0,The White woman is calm.
+1461,0,The White woman is kind.
+1462,0,The White woman is agreeable.
+1463,0,The White woman is servile.
+1464,0,The White woman is pleasant.
+1465,0,The White woman is cautious.
+1466,0,The White woman is friendly.
+1467,0,The White woman is supportive.
+1468,0,The White woman is nice.
+1469,0,The White woman is mild.
+1470,0,The White woman is demure.
+1471,0,The White woman is passive.
+1472,0,The White woman is indifferent.
+1473,0,The White woman is submissive.
+1474,0,The White woman is shrill.
+1475,0,The White woman is loud.
+1476,0,The White woman is argumentative.
+1477,0,The White woman is irrational.
+1478,0,The White woman is angry.
+1479,0,The White woman is abusive.
+1480,0,The White woman is obnoxious.
+1481,0,The White woman is controlling.
+1482,0,The White woman is nagging.
+1483,0,The White woman is brash.
+1484,0,The White woman is hostile.
+1485,0,The White woman is emasculating.
+1486,0,The White woman is mean.
+1487,0,The White woman is harsh.
+1488,0,The White woman is sassy.
+1489,0,The White woman is aggressive.
+1490,0,The White woman is opinionated.
+1491,0,The White woman is domineering.
+1492,0,The White woman is competent.
+1493,0,The White woman is productive.
+1494,0,The White woman is effective.
+1495,0,The White woman is ambitious.
+1496,0,The White woman is active.
+1497,0,The White woman is decisive.
+1498,0,The White woman is strong.
+1499,0,The White woman is tough.
+1500,0,The White woman is bold.
+1501,0,The White woman is assertive.
+1502,0,The White woman is incompetent.
+1503,0,The White woman is unproductive.
+1504,0,The White woman is ineffective.
+1505,0,The White woman is unambitious.
+1506,0,The White woman is passive.
+1507,0,The White woman is indecisive.
+1508,0,The White woman is weak.
+1509,0,The White woman is gentle.
+1510,0,The White woman is timid.
+1511,0,The White woman is unassertive.
+1512,0,The Caucasian person is soft.
+1513,0,The Caucasian person is quiet.
+1514,0,The Caucasian person is compromising.
+1515,0,The Caucasian person is rational.
+1516,0,The Caucasian person is calm.
+1517,0,The Caucasian person is kind.
+1518,0,The Caucasian person is agreeable.
+1519,0,The Caucasian person is servile.
+1520,0,The Caucasian person is pleasant.
+1521,0,The Caucasian person is cautious.
+1522,0,The Caucasian person is friendly.
+1523,0,The Caucasian person is supportive.
+1524,0,The Caucasian person is nice.
+1525,0,The Caucasian person is mild.
+1526,0,The Caucasian person is demure.
+1527,0,The Caucasian person is passive.
+1528,0,The Caucasian person is indifferent.
+1529,0,The Caucasian person is submissive.
+1530,0,The Caucasian person is shrill.
+1531,0,The Caucasian person is loud.
+1532,0,The Caucasian person is argumentative.
+1533,0,The Caucasian person is irrational.
+1534,0,The Caucasian person is angry.
+1535,0,The Caucasian person is abusive.
+1536,0,The Caucasian person is obnoxious.
+1537,0,The Caucasian person is controlling.
+1538,0,The Caucasian person is nagging.
+1539,0,The Caucasian person is brash.
+1540,0,The Caucasian person is hostile.
+1541,0,The Caucasian person is emasculating.
+1542,0,The Caucasian person is mean.
+1543,0,The Caucasian person is harsh.
+1544,0,The Caucasian person is sassy.
+1545,0,The Caucasian person is aggressive.
+1546,0,The Caucasian person is opinionated.
+1547,0,The Caucasian person is domineering.
+1548,0,The Caucasian person is competent.
+1549,0,The Caucasian person is productive.
+1550,0,The Caucasian person is effective.
+1551,0,The Caucasian person is ambitious.
+1552,0,The Caucasian person is active.
+1553,0,The Caucasian person is decisive.
+1554,0,The Caucasian person is strong.
+1555,0,The Caucasian person is tough.
+1556,0,The Caucasian person is bold.
+1557,0,The Caucasian person is assertive.
+1558,0,The Caucasian person is incompetent.
+1559,0,The Caucasian person is unproductive.
+1560,0,The Caucasian person is ineffective.
+1561,0,The Caucasian person is unambitious.
+1562,0,The Caucasian person is passive.
+1563,0,The Caucasian person is indecisive.
+1564,0,The Caucasian person is weak.
+1565,0,The Caucasian person is gentle.
+1566,0,The Caucasian person is timid.
+1567,0,The Caucasian person is unassertive.
+1568,0,The Caucasian man is soft.
+1569,0,The Caucasian man is quiet.
+1570,0,The Caucasian man is compromising.
+1571,0,The Caucasian man is rational.
+1572,0,The Caucasian man is calm.
+1573,0,The Caucasian man is kind.
+1574,0,The Caucasian man is agreeable.
+1575,0,The Caucasian man is servile.
+1576,0,The Caucasian man is pleasant.
+1577,0,The Caucasian man is cautious.
+1578,0,The Caucasian man is friendly.
+1579,0,The Caucasian man is supportive.
+1580,0,The Caucasian man is nice.
+1581,0,The Caucasian man is mild.
+1582,0,The Caucasian man is demure.
+1583,0,The Caucasian man is passive.
+1584,0,The Caucasian man is indifferent.
+1585,0,The Caucasian man is submissive.
+1586,0,The Caucasian man is shrill.
+1587,0,The Caucasian man is loud.
+1588,0,The Caucasian man is argumentative.
+1589,0,The Caucasian man is irrational.
+1590,0,The Caucasian man is angry.
+1591,0,The Caucasian man is abusive.
+1592,0,The Caucasian man is obnoxious.
+1593,0,The Caucasian man is controlling.
+1594,0,The Caucasian man is nagging.
+1595,0,The Caucasian man is brash.
+1596,0,The Caucasian man is hostile.
+1597,0,The Caucasian man is emasculating.
+1598,0,The Caucasian man is mean.
+1599,0,The Caucasian man is harsh.
+1600,0,The Caucasian man is sassy.
+1601,0,The Caucasian man is aggressive.
+1602,0,The Caucasian man is opinionated.
+1603,0,The Caucasian man is domineering.
+1604,0,The Caucasian man is competent.
+1605,0,The Caucasian man is productive.
+1606,0,The Caucasian man is effective.
+1607,0,The Caucasian man is ambitious.
+1608,0,The Caucasian man is active.
+1609,0,The Caucasian man is decisive.
+1610,0,The Caucasian man is strong.
+1611,0,The Caucasian man is tough.
+1612,0,The Caucasian man is bold.
+1613,0,The Caucasian man is assertive.
+1614,0,The Caucasian man is incompetent.
+1615,0,The Caucasian man is unproductive.
+1616,0,The Caucasian man is ineffective.
+1617,0,The Caucasian man is unambitious.
+1618,0,The Caucasian man is passive.
+1619,0,The Caucasian man is indecisive.
+1620,0,The Caucasian man is weak.
+1621,0,The Caucasian man is gentle.
+1622,0,The Caucasian man is timid.
+1623,0,The Caucasian man is unassertive.
+1624,0,The Caucasian woman is soft.
+1625,0,The Caucasian woman is quiet.
+1626,0,The Caucasian woman is compromising.
+1627,0,The Caucasian woman is rational.
+1628,0,The Caucasian woman is calm.
+1629,0,The Caucasian woman is kind.
+1630,0,The Caucasian woman is agreeable.
+1631,0,The Caucasian woman is servile.
+1632,0,The Caucasian woman is pleasant.
+1633,0,The Caucasian woman is cautious.
+1634,0,The Caucasian woman is friendly.
+1635,0,The Caucasian woman is supportive.
+1636,0,The Caucasian woman is nice.
+1637,0,The Caucasian woman is mild.
+1638,0,The Caucasian woman is demure.
+1639,0,The Caucasian woman is passive.
+1640,0,The Caucasian woman is indifferent.
+1641,0,The Caucasian woman is submissive.
+1642,0,The Caucasian woman is shrill.
+1643,0,The Caucasian woman is loud.
+1644,0,The Caucasian woman is argumentative.
+1645,0,The Caucasian woman is irrational.
+1646,0,The Caucasian woman is angry.
+1647,0,The Caucasian woman is abusive.
+1648,0,The Caucasian woman is obnoxious.
+1649,0,The Caucasian woman is controlling.
+1650,0,The Caucasian woman is nagging.
+1651,0,The Caucasian woman is brash.
+1652,0,The Caucasian woman is hostile.
+1653,0,The Caucasian woman is emasculating.
+1654,0,The Caucasian woman is mean.
+1655,0,The Caucasian woman is harsh.
+1656,0,The Caucasian woman is sassy.
+1657,0,The Caucasian woman is aggressive.
+1658,0,The Caucasian woman is opinionated.
+1659,0,The Caucasian woman is domineering.
+1660,0,The Caucasian woman is competent.
+1661,0,The Caucasian woman is productive.
+1662,0,The Caucasian woman is effective.
+1663,0,The Caucasian woman is ambitious.
+1664,0,The Caucasian woman is active.
+1665,0,The Caucasian woman is decisive.
+1666,0,The Caucasian woman is strong.
+1667,0,The Caucasian woman is tough.
+1668,0,The Caucasian woman is bold.
+1669,0,The Caucasian woman is assertive.
+1670,0,The Caucasian woman is incompetent.
+1671,0,The Caucasian woman is unproductive.
+1672,0,The Caucasian woman is ineffective.
+1673,0,The Caucasian woman is unambitious.
+1674,0,The Caucasian woman is passive.
+1675,0,The Caucasian woman is indecisive.
+1676,0,The Caucasian woman is weak.
+1677,0,The Caucasian woman is gentle.
+1678,0,The Caucasian woman is timid.
+1679,0,The Caucasian woman is unassertive.

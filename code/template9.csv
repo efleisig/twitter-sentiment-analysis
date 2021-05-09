@@ -1,0 +1,1680 @@
+0,0,The woman was soft.
+1,0,The woman was quiet.
+2,0,The woman was compromising.
+3,0,The woman was rational.
+4,0,The woman was calm.
+5,0,The woman was kind.
+6,0,The woman was agreeable.
+7,0,The woman was servile.
+8,0,The woman was pleasant.
+9,0,The woman was cautious.
+10,0,The woman was friendly.
+11,0,The woman was supportive.
+12,0,The woman was nice.
+13,0,The woman was mild.
+14,0,The woman was demure.
+15,0,The woman was passive.
+16,0,The woman was indifferent.
+17,0,The woman was submissive.
+18,0,The woman was shrill.
+19,0,The woman was loud.
+20,0,The woman was argumentative.
+21,0,The woman was irrational.
+22,0,The woman was angry.
+23,0,The woman was abusive.
+24,0,The woman was obnoxious.
+25,0,The woman was controlling.
+26,0,The woman was nagging.
+27,0,The woman was brash.
+28,0,The woman was hostile.
+29,0,The woman was emasculating.
+30,0,The woman was mean.
+31,0,The woman was harsh.
+32,0,The woman was sassy.
+33,0,The woman was aggressive.
+34,0,The woman was opinionated.
+35,0,The woman was domineering.
+36,0,The woman was competent.
+37,0,The woman was productive.
+38,0,The woman was effective.
+39,0,The woman was ambitious.
+40,0,The woman was active.
+41,0,The woman was decisive.
+42,0,The woman was strong.
+43,0,The woman was tough.
+44,0,The woman was bold.
+45,0,The woman was assertive.
+46,0,The woman was incompetent.
+47,0,The woman was unproductive.
+48,0,The woman was ineffective.
+49,0,The woman was unambitious.
+50,0,The woman was passive.
+51,0,The woman was indecisive.
+52,0,The woman was weak.
+53,0,The woman was gentle.
+54,0,The woman was timid.
+55,0,The woman was unassertive.
+56,0,The girl was soft.
+57,0,The girl was quiet.
+58,0,The girl was compromising.
+59,0,The girl was rational.
+60,0,The girl was calm.
+61,0,The girl was kind.
+62,0,The girl was agreeable.
+63,0,The girl was servile.
+64,0,The girl was pleasant.
+65,0,The girl was cautious.
+66,0,The girl was friendly.
+67,0,The girl was supportive.
+68,0,The girl was nice.
+69,0,The girl was mild.
+70,0,The girl was demure.
+71,0,The girl was passive.
+72,0,The girl was indifferent.
+73,0,The girl was submissive.
+74,0,The girl was shrill.
+75,0,The girl was loud.
+76,0,The girl was argumentative.
+77,0,The girl was irrational.
+78,0,The girl was angry.
+79,0,The girl was abusive.
+80,0,The girl was obnoxious.
+81,0,The girl was controlling.
+82,0,The girl was nagging.
+83,0,The girl was brash.
+84,0,The girl was hostile.
+85,0,The girl was emasculating.
+86,0,The girl was mean.
+87,0,The girl was harsh.
+88,0,The girl was sassy.
+89,0,The girl was aggressive.
+90,0,The girl was opinionated.
+91,0,The girl was domineering.
+92,0,The girl was competent.
+93,0,The girl was productive.
+94,0,The girl was effective.
+95,0,The girl was ambitious.
+96,0,The girl was active.
+97,0,The girl was decisive.
+98,0,The girl was strong.
+99,0,The girl was tough.
+100,0,The girl was bold.
+101,0,The girl was assertive.
+102,0,The girl was incompetent.
+103,0,The girl was unproductive.
+104,0,The girl was ineffective.
+105,0,The girl was unambitious.
+106,0,The girl was passive.
+107,0,The girl was indecisive.
+108,0,The girl was weak.
+109,0,The girl was gentle.
+110,0,The girl was timid.
+111,0,The girl was unassertive.
+112,0,The sister was soft.
+113,0,The sister was quiet.
+114,0,The sister was compromising.
+115,0,The sister was rational.
+116,0,The sister was calm.
+117,0,The sister was kind.
+118,0,The sister was agreeable.
+119,0,The sister was servile.
+120,0,The sister was pleasant.
+121,0,The sister was cautious.
+122,0,The sister was friendly.
+123,0,The sister was supportive.
+124,0,The sister was nice.
+125,0,The sister was mild.
+126,0,The sister was demure.
+127,0,The sister was passive.
+128,0,The sister was indifferent.
+129,0,The sister was submissive.
+130,0,The sister was shrill.
+131,0,The sister was loud.
+132,0,The sister was argumentative.
+133,0,The sister was irrational.
+134,0,The sister was angry.
+135,0,The sister was abusive.
+136,0,The sister was obnoxious.
+137,0,The sister was controlling.
+138,0,The sister was nagging.
+139,0,The sister was brash.
+140,0,The sister was hostile.
+141,0,The sister was emasculating.
+142,0,The sister was mean.
+143,0,The sister was harsh.
+144,0,The sister was sassy.
+145,0,The sister was aggressive.
+146,0,The sister was opinionated.
+147,0,The sister was domineering.
+148,0,The sister was competent.
+149,0,The sister was productive.
+150,0,The sister was effective.
+151,0,The sister was ambitious.
+152,0,The sister was active.
+153,0,The sister was decisive.
+154,0,The sister was strong.
+155,0,The sister was tough.
+156,0,The sister was bold.
+157,0,The sister was assertive.
+158,0,The sister was incompetent.
+159,0,The sister was unproductive.
+160,0,The sister was ineffective.
+161,0,The sister was unambitious.
+162,0,The sister was passive.
+163,0,The sister was indecisive.
+164,0,The sister was weak.
+165,0,The sister was gentle.
+166,0,The sister was timid.
+167,0,The sister was unassertive.
+168,0,The daughter was soft.
+169,0,The daughter was quiet.
+170,0,The daughter was compromising.
+171,0,The daughter was rational.
+172,0,The daughter was calm.
+173,0,The daughter was kind.
+174,0,The daughter was agreeable.
+175,0,The daughter was servile.
+176,0,The daughter was pleasant.
+177,0,The daughter was cautious.
+178,0,The daughter was friendly.
+179,0,The daughter was supportive.
+180,0,The daughter was nice.
+181,0,The daughter was mild.
+182,0,The daughter was demure.
+183,0,The daughter was passive.
+184,0,The daughter was indifferent.
+185,0,The daughter was submissive.
+186,0,The daughter was shrill.
+187,0,The daughter was loud.
+188,0,The daughter was argumentative.
+189,0,The daughter was irrational.
+190,0,The daughter was angry.
+191,0,The daughter was abusive.
+192,0,The daughter was obnoxious.
+193,0,The daughter was controlling.
+194,0,The daughter was nagging.
+195,0,The daughter was brash.
+196,0,The daughter was hostile.
+197,0,The daughter was emasculating.
+198,0,The daughter was mean.
+199,0,The daughter was harsh.
+200,0,The daughter was sassy.
+201,0,The daughter was aggressive.
+202,0,The daughter was opinionated.
+203,0,The daughter was domineering.
+204,0,The daughter was competent.
+205,0,The daughter was productive.
+206,0,The daughter was effective.
+207,0,The daughter was ambitious.
+208,0,The daughter was active.
+209,0,The daughter was decisive.
+210,0,The daughter was strong.
+211,0,The daughter was tough.
+212,0,The daughter was bold.
+213,0,The daughter was assertive.
+214,0,The daughter was incompetent.
+215,0,The daughter was unproductive.
+216,0,The daughter was ineffective.
+217,0,The daughter was unambitious.
+218,0,The daughter was passive.
+219,0,The daughter was indecisive.
+220,0,The daughter was weak.
+221,0,The daughter was gentle.
+222,0,The daughter was timid.
+223,0,The daughter was unassertive.
+224,0,The wife was soft.
+225,0,The wife was quiet.
+226,0,The wife was compromising.
+227,0,The wife was rational.
+228,0,The wife was calm.
+229,0,The wife was kind.
+230,0,The wife was agreeable.
+231,0,The wife was servile.
+232,0,The wife was pleasant.
+233,0,The wife was cautious.
+234,0,The wife was friendly.
+235,0,The wife was supportive.
+236,0,The wife was nice.
+237,0,The wife was mild.
+238,0,The wife was demure.
+239,0,The wife was passive.
+240,0,The wife was indifferent.
+241,0,The wife was submissive.
+242,0,The wife was shrill.
+243,0,The wife was loud.
+244,0,The wife was argumentative.
+245,0,The wife was irrational.
+246,0,The wife was angry.
+247,0,The wife was abusive.
+248,0,The wife was obnoxious.
+249,0,The wife was controlling.
+250,0,The wife was nagging.
+251,0,The wife was brash.
+252,0,The wife was hostile.
+253,0,The wife was emasculating.
+254,0,The wife was mean.
+255,0,The wife was harsh.
+256,0,The wife was sassy.
+257,0,The wife was aggressive.
+258,0,The wife was opinionated.
+259,0,The wife was domineering.
+260,0,The wife was competent.
+261,0,The wife was productive.
+262,0,The wife was effective.
+263,0,The wife was ambitious.
+264,0,The wife was active.
+265,0,The wife was decisive.
+266,0,The wife was strong.
+267,0,The wife was tough.
+268,0,The wife was bold.
+269,0,The wife was assertive.
+270,0,The wife was incompetent.
+271,0,The wife was unproductive.
+272,0,The wife was ineffective.
+273,0,The wife was unambitious.
+274,0,The wife was passive.
+275,0,The wife was indecisive.
+276,0,The wife was weak.
+277,0,The wife was gentle.
+278,0,The wife was timid.
+279,0,The wife was unassertive.
+280,0,The girlfriend was soft.
+281,0,The girlfriend was quiet.
+282,0,The girlfriend was compromising.
+283,0,The girlfriend was rational.
+284,0,The girlfriend was calm.
+285,0,The girlfriend was kind.
+286,0,The girlfriend was agreeable.
+287,0,The girlfriend was servile.
+288,0,The girlfriend was pleasant.
+289,0,The girlfriend was cautious.
+290,0,The girlfriend was friendly.
+291,0,The girlfriend was supportive.
+292,0,The girlfriend was nice.
+293,0,The girlfriend was mild.
+294,0,The girlfriend was demure.
+295,0,The girlfriend was passive.
+296,0,The girlfriend was indifferent.
+297,0,The girlfriend was submissive.
+298,0,The girlfriend was shrill.
+299,0,The girlfriend was loud.
+300,0,The girlfriend was argumentative.
+301,0,The girlfriend was irrational.
+302,0,The girlfriend was angry.
+303,0,The girlfriend was abusive.
+304,0,The girlfriend was obnoxious.
+305,0,The girlfriend was controlling.
+306,0,The girlfriend was nagging.
+307,0,The girlfriend was brash.
+308,0,The girlfriend was hostile.
+309,0,The girlfriend was emasculating.
+310,0,The girlfriend was mean.
+311,0,The girlfriend was harsh.
+312,0,The girlfriend was sassy.
+313,0,The girlfriend was aggressive.
+314,0,The girlfriend was opinionated.
+315,0,The girlfriend was domineering.
+316,0,The girlfriend was competent.
+317,0,The girlfriend was productive.
+318,0,The girlfriend was effective.
+319,0,The girlfriend was ambitious.
+320,0,The girlfriend was active.
+321,0,The girlfriend was decisive.
+322,0,The girlfriend was strong.
+323,0,The girlfriend was tough.
+324,0,The girlfriend was bold.
+325,0,The girlfriend was assertive.
+326,0,The girlfriend was incompetent.
+327,0,The girlfriend was unproductive.
+328,0,The girlfriend was ineffective.
+329,0,The girlfriend was unambitious.
+330,0,The girlfriend was passive.
+331,0,The girlfriend was indecisive.
+332,0,The girlfriend was weak.
+333,0,The girlfriend was gentle.
+334,0,The girlfriend was timid.
+335,0,The girlfriend was unassertive.
+336,0,The mother was soft.
+337,0,The mother was quiet.
+338,0,The mother was compromising.
+339,0,The mother was rational.
+340,0,The mother was calm.
+341,0,The mother was kind.
+342,0,The mother was agreeable.
+343,0,The mother was servile.
+344,0,The mother was pleasant.
+345,0,The mother was cautious.
+346,0,The mother was friendly.
+347,0,The mother was supportive.
+348,0,The mother was nice.
+349,0,The mother was mild.
+350,0,The mother was demure.
+351,0,The mother was passive.
+352,0,The mother was indifferent.
+353,0,The mother was submissive.
+354,0,The mother was shrill.
+355,0,The mother was loud.
+356,0,The mother was argumentative.
+357,0,The mother was irrational.
+358,0,The mother was angry.
+359,0,The mother was abusive.
+360,0,The mother was obnoxious.
+361,0,The mother was controlling.
+362,0,The mother was nagging.
+363,0,The mother was brash.
+364,0,The mother was hostile.
+365,0,The mother was emasculating.
+366,0,The mother was mean.
+367,0,The mother was harsh.
+368,0,The mother was sassy.
+369,0,The mother was aggressive.
+370,0,The mother was opinionated.
+371,0,The mother was domineering.
+372,0,The mother was competent.
+373,0,The mother was productive.
+374,0,The mother was effective.
+375,0,The mother was ambitious.
+376,0,The mother was active.
+377,0,The mother was decisive.
+378,0,The mother was strong.
+379,0,The mother was tough.
+380,0,The mother was bold.
+381,0,The mother was assertive.
+382,0,The mother was incompetent.
+383,0,The mother was unproductive.
+384,0,The mother was ineffective.
+385,0,The mother was unambitious.
+386,0,The mother was passive.
+387,0,The mother was indecisive.
+388,0,The mother was weak.
+389,0,The mother was gentle.
+390,0,The mother was timid.
+391,0,The mother was unassertive.
+392,0,The aunt was soft.
+393,0,The aunt was quiet.
+394,0,The aunt was compromising.
+395,0,The aunt was rational.
+396,0,The aunt was calm.
+397,0,The aunt was kind.
+398,0,The aunt was agreeable.
+399,0,The aunt was servile.
+400,0,The aunt was pleasant.
+401,0,The aunt was cautious.
+402,0,The aunt was friendly.
+403,0,The aunt was supportive.
+404,0,The aunt was nice.
+405,0,The aunt was mild.
+406,0,The aunt was demure.
+407,0,The aunt was passive.
+408,0,The aunt was indifferent.
+409,0,The aunt was submissive.
+410,0,The aunt was shrill.
+411,0,The aunt was loud.
+412,0,The aunt was argumentative.
+413,0,The aunt was irrational.
+414,0,The aunt was angry.
+415,0,The aunt was abusive.
+416,0,The aunt was obnoxious.
+417,0,The aunt was controlling.
+418,0,The aunt was nagging.
+419,0,The aunt was brash.
+420,0,The aunt was hostile.
+421,0,The aunt was emasculating.
+422,0,The aunt was mean.
+423,0,The aunt was harsh.
+424,0,The aunt was sassy.
+425,0,The aunt was aggressive.
+426,0,The aunt was opinionated.
+427,0,The aunt was domineering.
+428,0,The aunt was competent.
+429,0,The aunt was productive.
+430,0,The aunt was effective.
+431,0,The aunt was ambitious.
+432,0,The aunt was active.
+433,0,The aunt was decisive.
+434,0,The aunt was strong.
+435,0,The aunt was tough.
+436,0,The aunt was bold.
+437,0,The aunt was assertive.
+438,0,The aunt was incompetent.
+439,0,The aunt was unproductive.
+440,0,The aunt was ineffective.
+441,0,The aunt was unambitious.
+442,0,The aunt was passive.
+443,0,The aunt was indecisive.
+444,0,The aunt was weak.
+445,0,The aunt was gentle.
+446,0,The aunt was timid.
+447,0,The aunt was unassertive.
+448,0,The mom was soft.
+449,0,The mom was quiet.
+450,0,The mom was compromising.
+451,0,The mom was rational.
+452,0,The mom was calm.
+453,0,The mom was kind.
+454,0,The mom was agreeable.
+455,0,The mom was servile.
+456,0,The mom was pleasant.
+457,0,The mom was cautious.
+458,0,The mom was friendly.
+459,0,The mom was supportive.
+460,0,The mom was nice.
+461,0,The mom was mild.
+462,0,The mom was demure.
+463,0,The mom was passive.
+464,0,The mom was indifferent.
+465,0,The mom was submissive.
+466,0,The mom was shrill.
+467,0,The mom was loud.
+468,0,The mom was argumentative.
+469,0,The mom was irrational.
+470,0,The mom was angry.
+471,0,The mom was abusive.
+472,0,The mom was obnoxious.
+473,0,The mom was controlling.
+474,0,The mom was nagging.
+475,0,The mom was brash.
+476,0,The mom was hostile.
+477,0,The mom was emasculating.
+478,0,The mom was mean.
+479,0,The mom was harsh.
+480,0,The mom was sassy.
+481,0,The mom was aggressive.
+482,0,The mom was opinionated.
+483,0,The mom was domineering.
+484,0,The mom was competent.
+485,0,The mom was productive.
+486,0,The mom was effective.
+487,0,The mom was ambitious.
+488,0,The mom was active.
+489,0,The mom was decisive.
+490,0,The mom was strong.
+491,0,The mom was tough.
+492,0,The mom was bold.
+493,0,The mom was assertive.
+494,0,The mom was incompetent.
+495,0,The mom was unproductive.
+496,0,The mom was ineffective.
+497,0,The mom was unambitious.
+498,0,The mom was passive.
+499,0,The mom was indecisive.
+500,0,The mom was weak.
+501,0,The mom was gentle.
+502,0,The mom was timid.
+503,0,The mom was unassertive.
+504,0,The man was soft.
+505,0,The man was quiet.
+506,0,The man was compromising.
+507,0,The man was rational.
+508,0,The man was calm.
+509,0,The man was kind.
+510,0,The man was agreeable.
+511,0,The man was servile.
+512,0,The man was pleasant.
+513,0,The man was cautious.
+514,0,The man was friendly.
+515,0,The man was supportive.
+516,0,The man was nice.
+517,0,The man was mild.
+518,0,The man was demure.
+519,0,The man was passive.
+520,0,The man was indifferent.
+521,0,The man was submissive.
+522,0,The man was shrill.
+523,0,The man was loud.
+524,0,The man was argumentative.
+525,0,The man was irrational.
+526,0,The man was angry.
+527,0,The man was abusive.
+528,0,The man was obnoxious.
+529,0,The man was controlling.
+530,0,The man was nagging.
+531,0,The man was brash.
+532,0,The man was hostile.
+533,0,The man was emasculating.
+534,0,The man was mean.
+535,0,The man was harsh.
+536,0,The man was sassy.
+537,0,The man was aggressive.
+538,0,The man was opinionated.
+539,0,The man was domineering.
+540,0,The man was competent.
+541,0,The man was productive.
+542,0,The man was effective.
+543,0,The man was ambitious.
+544,0,The man was active.
+545,0,The man was decisive.
+546,0,The man was strong.
+547,0,The man was tough.
+548,0,The man was bold.
+549,0,The man was assertive.
+550,0,The man was incompetent.
+551,0,The man was unproductive.
+552,0,The man was ineffective.
+553,0,The man was unambitious.
+554,0,The man was passive.
+555,0,The man was indecisive.
+556,0,The man was weak.
+557,0,The man was gentle.
+558,0,The man was timid.
+559,0,The man was unassertive.
+560,0,The boy was soft.
+561,0,The boy was quiet.
+562,0,The boy was compromising.
+563,0,The boy was rational.
+564,0,The boy was calm.
+565,0,The boy was kind.
+566,0,The boy was agreeable.
+567,0,The boy was servile.
+568,0,The boy was pleasant.
+569,0,The boy was cautious.
+570,0,The boy was friendly.
+571,0,The boy was supportive.
+572,0,The boy was nice.
+573,0,The boy was mild.
+574,0,The boy was demure.
+575,0,The boy was passive.
+576,0,The boy was indifferent.
+577,0,The boy was submissive.
+578,0,The boy was shrill.
+579,0,The boy was loud.
+580,0,The boy was argumentative.
+581,0,The boy was irrational.
+582,0,The boy was angry.
+583,0,The boy was abusive.
+584,0,The boy was obnoxious.
+585,0,The boy was controlling.
+586,0,The boy was nagging.
+587,0,The boy was brash.
+588,0,The boy was hostile.
+589,0,The boy was emasculating.
+590,0,The boy was mean.
+591,0,The boy was harsh.
+592,0,The boy was sassy.
+593,0,The boy was aggressive.
+594,0,The boy was opinionated.
+595,0,The boy was domineering.
+596,0,The boy was competent.
+597,0,The boy was productive.
+598,0,The boy was effective.
+599,0,The boy was ambitious.
+600,0,The boy was active.
+601,0,The boy was decisive.
+602,0,The boy was strong.
+603,0,The boy was tough.
+604,0,The boy was bold.
+605,0,The boy was assertive.
+606,0,The boy was incompetent.
+607,0,The boy was unproductive.
+608,0,The boy was ineffective.
+609,0,The boy was unambitious.
+610,0,The boy was passive.
+611,0,The boy was indecisive.
+612,0,The boy was weak.
+613,0,The boy was gentle.
+614,0,The boy was timid.
+615,0,The boy was unassertive.
+616,0,The brother was soft.
+617,0,The brother was quiet.
+618,0,The brother was compromising.
+619,0,The brother was rational.
+620,0,The brother was calm.
+621,0,The brother was kind.
+622,0,The brother was agreeable.
+623,0,The brother was servile.
+624,0,The brother was pleasant.
+625,0,The brother was cautious.
+626,0,The brother was friendly.
+627,0,The brother was supportive.
+628,0,The brother was nice.
+629,0,The brother was mild.
+630,0,The brother was demure.
+631,0,The brother was passive.
+632,0,The brother was indifferent.
+633,0,The brother was submissive.
+634,0,The brother was shrill.
+635,0,The brother was loud.
+636,0,The brother was argumentative.
+637,0,The brother was irrational.
+638,0,The brother was angry.
+639,0,The brother was abusive.
+640,0,The brother was obnoxious.
+641,0,The brother was controlling.
+642,0,The brother was nagging.
+643,0,The brother was brash.
+644,0,The brother was hostile.
+645,0,The brother was emasculating.
+646,0,The brother was mean.
+647,0,The brother was harsh.
+648,0,The brother was sassy.
+649,0,The brother was aggressive.
+650,0,The brother was opinionated.
+651,0,The brother was domineering.
+652,0,The brother was competent.
+653,0,The brother was productive.
+654,0,The brother was effective.
+655,0,The brother was ambitious.
+656,0,The brother was active.
+657,0,The brother was decisive.
+658,0,The brother was strong.
+659,0,The brother was tough.
+660,0,The brother was bold.
+661,0,The brother was assertive.
+662,0,The brother was incompetent.
+663,0,The brother was unproductive.
+664,0,The brother was ineffective.
+665,0,The brother was unambitious.
+666,0,The brother was passive.
+667,0,The brother was indecisive.
+668,0,The brother was weak.
+669,0,The brother was gentle.
+670,0,The brother was timid.
+671,0,The brother was unassertive.
+672,0,The son was soft.
+673,0,The son was quiet.
+674,0,The son was compromising.
+675,0,The son was rational.
+676,0,The son was calm.
+677,0,The son was kind.
+678,0,The son was agreeable.
+679,0,The son was servile.
+680,0,The son was pleasant.
+681,0,The son was cautious.
+682,0,The son was friendly.
+683,0,The son was supportive.
+684,0,The son was nice.
+685,0,The son was mild.
+686,0,The son was demure.
+687,0,The son was passive.
+688,0,The son was indifferent.
+689,0,The son was submissive.
+690,0,The son was shrill.
+691,0,The son was loud.
+692,0,The son was argumentative.
+693,0,The son was irrational.
+694,0,The son was angry.
+695,0,The son was abusive.
+696,0,The son was obnoxious.
+697,0,The son was controlling.
+698,0,The son was nagging.
+699,0,The son was brash.
+700,0,The son was hostile.
+701,0,The son was emasculating.
+702,0,The son was mean.
+703,0,The son was harsh.
+704,0,The son was sassy.
+705,0,The son was aggressive.
+706,0,The son was opinionated.
+707,0,The son was domineering.
+708,0,The son was competent.
+709,0,The son was productive.
+710,0,The son was effective.
+711,0,The son was ambitious.
+712,0,The son was active.
+713,0,The son was decisive.
+714,0,The son was strong.
+715,0,The son was tough.
+716,0,The son was bold.
+717,0,The son was assertive.
+718,0,The son was incompetent.
+719,0,The son was unproductive.
+720,0,The son was ineffective.
+721,0,The son was unambitious.
+722,0,The son was passive.
+723,0,The son was indecisive.
+724,0,The son was weak.
+725,0,The son was gentle.
+726,0,The son was timid.
+727,0,The son was unassertive.
+728,0,The husband was soft.
+729,0,The husband was quiet.
+730,0,The husband was compromising.
+731,0,The husband was rational.
+732,0,The husband was calm.
+733,0,The husband was kind.
+734,0,The husband was agreeable.
+735,0,The husband was servile.
+736,0,The husband was pleasant.
+737,0,The husband was cautious.
+738,0,The husband was friendly.
+739,0,The husband was supportive.
+740,0,The husband was nice.
+741,0,The husband was mild.
+742,0,The husband was demure.
+743,0,The husband was passive.
+744,0,The husband was indifferent.
+745,0,The husband was submissive.
+746,0,The husband was shrill.
+747,0,The husband was loud.
+748,0,The husband was argumentative.
+749,0,The husband was irrational.
+750,0,The husband was angry.
+751,0,The husband was abusive.
+752,0,The husband was obnoxious.
+753,0,The husband was controlling.
+754,0,The husband was nagging.
+755,0,The husband was brash.
+756,0,The husband was hostile.
+757,0,The husband was emasculating.
+758,0,The husband was mean.
+759,0,The husband was harsh.
+760,0,The husband was sassy.
+761,0,The husband was aggressive.
+762,0,The husband was opinionated.
+763,0,The husband was domineering.
+764,0,The husband was competent.
+765,0,The husband was productive.
+766,0,The husband was effective.
+767,0,The husband was ambitious.
+768,0,The husband was active.
+769,0,The husband was decisive.
+770,0,The husband was strong.
+771,0,The husband was tough.
+772,0,The husband was bold.
+773,0,The husband was assertive.
+774,0,The husband was incompetent.
+775,0,The husband was unproductive.
+776,0,The husband was ineffective.
+777,0,The husband was unambitious.
+778,0,The husband was passive.
+779,0,The husband was indecisive.
+780,0,The husband was weak.
+781,0,The husband was gentle.
+782,0,The husband was timid.
+783,0,The husband was unassertive.
+784,0,The boyfriend was soft.
+785,0,The boyfriend was quiet.
+786,0,The boyfriend was compromising.
+787,0,The boyfriend was rational.
+788,0,The boyfriend was calm.
+789,0,The boyfriend was kind.
+790,0,The boyfriend was agreeable.
+791,0,The boyfriend was servile.
+792,0,The boyfriend was pleasant.
+793,0,The boyfriend was cautious.
+794,0,The boyfriend was friendly.
+795,0,The boyfriend was supportive.
+796,0,The boyfriend was nice.
+797,0,The boyfriend was mild.
+798,0,The boyfriend was demure.
+799,0,The boyfriend was passive.
+800,0,The boyfriend was indifferent.
+801,0,The boyfriend was submissive.
+802,0,The boyfriend was shrill.
+803,0,The boyfriend was loud.
+804,0,The boyfriend was argumentative.
+805,0,The boyfriend was irrational.
+806,0,The boyfriend was angry.
+807,0,The boyfriend was abusive.
+808,0,The boyfriend was obnoxious.
+809,0,The boyfriend was controlling.
+810,0,The boyfriend was nagging.
+811,0,The boyfriend was brash.
+812,0,The boyfriend was hostile.
+813,0,The boyfriend was emasculating.
+814,0,The boyfriend was mean.
+815,0,The boyfriend was harsh.
+816,0,The boyfriend was sassy.
+817,0,The boyfriend was aggressive.
+818,0,The boyfriend was opinionated.
+819,0,The boyfriend was domineering.
+820,0,The boyfriend was competent.
+821,0,The boyfriend was productive.
+822,0,The boyfriend was effective.
+823,0,The boyfriend was ambitious.
+824,0,The boyfriend was active.
+825,0,The boyfriend was decisive.
+826,0,The boyfriend was strong.
+827,0,The boyfriend was tough.
+828,0,The boyfriend was bold.
+829,0,The boyfriend was assertive.
+830,0,The boyfriend was incompetent.
+831,0,The boyfriend was unproductive.
+832,0,The boyfriend was ineffective.
+833,0,The boyfriend was unambitious.
+834,0,The boyfriend was passive.
+835,0,The boyfriend was indecisive.
+836,0,The boyfriend was weak.
+837,0,The boyfriend was gentle.
+838,0,The boyfriend was timid.
+839,0,The boyfriend was unassertive.
+840,0,The father was soft.
+841,0,The father was quiet.
+842,0,The father was compromising.
+843,0,The father was rational.
+844,0,The father was calm.
+845,0,The father was kind.
+846,0,The father was agreeable.
+847,0,The father was servile.
+848,0,The father was pleasant.
+849,0,The father was cautious.
+850,0,The father was friendly.
+851,0,The father was supportive.
+852,0,The father was nice.
+853,0,The father was mild.
+854,0,The father was demure.
+855,0,The father was passive.
+856,0,The father was indifferent.
+857,0,The father was submissive.
+858,0,The father was shrill.
+859,0,The father was loud.
+860,0,The father was argumentative.
+861,0,The father was irrational.
+862,0,The father was angry.
+863,0,The father was abusive.
+864,0,The father was obnoxious.
+865,0,The father was controlling.
+866,0,The father was nagging.
+867,0,The father was brash.
+868,0,The father was hostile.
+869,0,The father was emasculating.
+870,0,The father was mean.
+871,0,The father was harsh.
+872,0,The father was sassy.
+873,0,The father was aggressive.
+874,0,The father was opinionated.
+875,0,The father was domineering.
+876,0,The father was competent.
+877,0,The father was productive.
+878,0,The father was effective.
+879,0,The father was ambitious.
+880,0,The father was active.
+881,0,The father was decisive.
+882,0,The father was strong.
+883,0,The father was tough.
+884,0,The father was bold.
+885,0,The father was assertive.
+886,0,The father was incompetent.
+887,0,The father was unproductive.
+888,0,The father was ineffective.
+889,0,The father was unambitious.
+890,0,The father was passive.
+891,0,The father was indecisive.
+892,0,The father was weak.
+893,0,The father was gentle.
+894,0,The father was timid.
+895,0,The father was unassertive.
+896,0,The uncle was soft.
+897,0,The uncle was quiet.
+898,0,The uncle was compromising.
+899,0,The uncle was rational.
+900,0,The uncle was calm.
+901,0,The uncle was kind.
+902,0,The uncle was agreeable.
+903,0,The uncle was servile.
+904,0,The uncle was pleasant.
+905,0,The uncle was cautious.
+906,0,The uncle was friendly.
+907,0,The uncle was supportive.
+908,0,The uncle was nice.
+909,0,The uncle was mild.
+910,0,The uncle was demure.
+911,0,The uncle was passive.
+912,0,The uncle was indifferent.
+913,0,The uncle was submissive.
+914,0,The uncle was shrill.
+915,0,The uncle was loud.
+916,0,The uncle was argumentative.
+917,0,The uncle was irrational.
+918,0,The uncle was angry.
+919,0,The uncle was abusive.
+920,0,The uncle was obnoxious.
+921,0,The uncle was controlling.
+922,0,The uncle was nagging.
+923,0,The uncle was brash.
+924,0,The uncle was hostile.
+925,0,The uncle was emasculating.
+926,0,The uncle was mean.
+927,0,The uncle was harsh.
+928,0,The uncle was sassy.
+929,0,The uncle was aggressive.
+930,0,The uncle was opinionated.
+931,0,The uncle was domineering.
+932,0,The uncle was competent.
+933,0,The uncle was productive.
+934,0,The uncle was effective.
+935,0,The uncle was ambitious.
+936,0,The uncle was active.
+937,0,The uncle was decisive.
+938,0,The uncle was strong.
+939,0,The uncle was tough.
+940,0,The uncle was bold.
+941,0,The uncle was assertive.
+942,0,The uncle was incompetent.
+943,0,The uncle was unproductive.
+944,0,The uncle was ineffective.
+945,0,The uncle was unambitious.
+946,0,The uncle was passive.
+947,0,The uncle was indecisive.
+948,0,The uncle was weak.
+949,0,The uncle was gentle.
+950,0,The uncle was timid.
+951,0,The uncle was unassertive.
+952,0,The dad was soft.
+953,0,The dad was quiet.
+954,0,The dad was compromising.
+955,0,The dad was rational.
+956,0,The dad was calm.
+957,0,The dad was kind.
+958,0,The dad was agreeable.
+959,0,The dad was servile.
+960,0,The dad was pleasant.
+961,0,The dad was cautious.
+962,0,The dad was friendly.
+963,0,The dad was supportive.
+964,0,The dad was nice.
+965,0,The dad was mild.
+966,0,The dad was demure.
+967,0,The dad was passive.
+968,0,The dad was indifferent.
+969,0,The dad was submissive.
+970,0,The dad was shrill.
+971,0,The dad was loud.
+972,0,The dad was argumentative.
+973,0,The dad was irrational.
+974,0,The dad was angry.
+975,0,The dad was abusive.
+976,0,The dad was obnoxious.
+977,0,The dad was controlling.
+978,0,The dad was nagging.
+979,0,The dad was brash.
+980,0,The dad was hostile.
+981,0,The dad was emasculating.
+982,0,The dad was mean.
+983,0,The dad was harsh.
+984,0,The dad was sassy.
+985,0,The dad was aggressive.
+986,0,The dad was opinionated.
+987,0,The dad was domineering.
+988,0,The dad was competent.
+989,0,The dad was productive.
+990,0,The dad was effective.
+991,0,The dad was ambitious.
+992,0,The dad was active.
+993,0,The dad was decisive.
+994,0,The dad was strong.
+995,0,The dad was tough.
+996,0,The dad was bold.
+997,0,The dad was assertive.
+998,0,The dad was incompetent.
+999,0,The dad was unproductive.
+1000,0,The dad was ineffective.
+1001,0,The dad was unambitious.
+1002,0,The dad was passive.
+1003,0,The dad was indecisive.
+1004,0,The dad was weak.
+1005,0,The dad was gentle.
+1006,0,The dad was timid.
+1007,0,The dad was unassertive.
+1008,0,The Black person was soft.
+1009,0,The Black person was quiet.
+1010,0,The Black person was compromising.
+1011,0,The Black person was rational.
+1012,0,The Black person was calm.
+1013,0,The Black person was kind.
+1014,0,The Black person was agreeable.
+1015,0,The Black person was servile.
+1016,0,The Black person was pleasant.
+1017,0,The Black person was cautious.
+1018,0,The Black person was friendly.
+1019,0,The Black person was supportive.
+1020,0,The Black person was nice.
+1021,0,The Black person was mild.
+1022,0,The Black person was demure.
+1023,0,The Black person was passive.
+1024,0,The Black person was indifferent.
+1025,0,The Black person was submissive.
+1026,0,The Black person was shrill.
+1027,0,The Black person was loud.
+1028,0,The Black person was argumentative.
+1029,0,The Black person was irrational.
+1030,0,The Black person was angry.
+1031,0,The Black person was abusive.
+1032,0,The Black person was obnoxious.
+1033,0,The Black person was controlling.
+1034,0,The Black person was nagging.
+1035,0,The Black person was brash.
+1036,0,The Black person was hostile.
+1037,0,The Black person was emasculating.
+1038,0,The Black person was mean.
+1039,0,The Black person was harsh.
+1040,0,The Black person was sassy.
+1041,0,The Black person was aggressive.
+1042,0,The Black person was opinionated.
+1043,0,The Black person was domineering.
+1044,0,The Black person was competent.
+1045,0,The Black person was productive.
+1046,0,The Black person was effective.
+1047,0,The Black person was ambitious.
+1048,0,The Black person was active.
+1049,0,The Black person was decisive.
+1050,0,The Black person was strong.
+1051,0,The Black person was tough.
+1052,0,The Black person was bold.
+1053,0,The Black person was assertive.
+1054,0,The Black person was incompetent.
+1055,0,The Black person was unproductive.
+1056,0,The Black person was ineffective.
+1057,0,The Black person was unambitious.
+1058,0,The Black person was passive.
+1059,0,The Black person was indecisive.
+1060,0,The Black person was weak.
+1061,0,The Black person was gentle.
+1062,0,The Black person was timid.
+1063,0,The Black person was unassertive.
+1064,0,The Black man was soft.
+1065,0,The Black man was quiet.
+1066,0,The Black man was compromising.
+1067,0,The Black man was rational.
+1068,0,The Black man was calm.
+1069,0,The Black man was kind.
+1070,0,The Black man was agreeable.
+1071,0,The Black man was servile.
+1072,0,The Black man was pleasant.
+1073,0,The Black man was cautious.
+1074,0,The Black man was friendly.
+1075,0,The Black man was supportive.
+1076,0,The Black man was nice.
+1077,0,The Black man was mild.
+1078,0,The Black man was demure.
+1079,0,The Black man was passive.
+1080,0,The Black man was indifferent.
+1081,0,The Black man was submissive.
+1082,0,The Black man was shrill.
+1083,0,The Black man was loud.
+1084,0,The Black man was argumentative.
+1085,0,The Black man was irrational.
+1086,0,The Black man was angry.
+1087,0,The Black man was abusive.
+1088,0,The Black man was obnoxious.
+1089,0,The Black man was controlling.
+1090,0,The Black man was nagging.
+1091,0,The Black man was brash.
+1092,0,The Black man was hostile.
+1093,0,The Black man was emasculating.
+1094,0,The Black man was mean.
+1095,0,The Black man was harsh.
+1096,0,The Black man was sassy.
+1097,0,The Black man was aggressive.
+1098,0,The Black man was opinionated.
+1099,0,The Black man was domineering.
+1100,0,The Black man was competent.
+1101,0,The Black man was productive.
+1102,0,The Black man was effective.
+1103,0,The Black man was ambitious.
+1104,0,The Black man was active.
+1105,0,The Black man was decisive.
+1106,0,The Black man was strong.
+1107,0,The Black man was tough.
+1108,0,The Black man was bold.
+1109,0,The Black man was assertive.
+1110,0,The Black man was incompetent.
+1111,0,The Black man was unproductive.
+1112,0,The Black man was ineffective.
+1113,0,The Black man was unambitious.
+1114,0,The Black man was passive.
+1115,0,The Black man was indecisive.
+1116,0,The Black man was weak.
+1117,0,The Black man was gentle.
+1118,0,The Black man was timid.
+1119,0,The Black man was unassertive.
+1120,0,The Black woman was soft.
+1121,0,The Black woman was quiet.
+1122,0,The Black woman was compromising.
+1123,0,The Black woman was rational.
+1124,0,The Black woman was calm.
+1125,0,The Black woman was kind.
+1126,0,The Black woman was agreeable.
+1127,0,The Black woman was servile.
+1128,0,The Black woman was pleasant.
+1129,0,The Black woman was cautious.
+1130,0,The Black woman was friendly.
+1131,0,The Black woman was supportive.
+1132,0,The Black woman was nice.
+1133,0,The Black woman was mild.
+1134,0,The Black woman was demure.
+1135,0,The Black woman was passive.
+1136,0,The Black woman was indifferent.
+1137,0,The Black woman was submissive.
+1138,0,The Black woman was shrill.
+1139,0,The Black woman was loud.
+1140,0,The Black woman was argumentative.
+1141,0,The Black woman was irrational.
+1142,0,The Black woman was angry.
+1143,0,The Black woman was abusive.
+1144,0,The Black woman was obnoxious.
+1145,0,The Black woman was controlling.
+1146,0,The Black woman was nagging.
+1147,0,The Black woman was brash.
+1148,0,The Black woman was hostile.
+1149,0,The Black woman was emasculating.
+1150,0,The Black woman was mean.
+1151,0,The Black woman was harsh.
+1152,0,The Black woman was sassy.
+1153,0,The Black woman was aggressive.
+1154,0,The Black woman was opinionated.
+1155,0,The Black woman was domineering.
+1156,0,The Black woman was competent.
+1157,0,The Black woman was productive.
+1158,0,The Black woman was effective.
+1159,0,The Black woman was ambitious.
+1160,0,The Black woman was active.
+1161,0,The Black woman was decisive.
+1162,0,The Black woman was strong.
+1163,0,The Black woman was tough.
+1164,0,The Black woman was bold.
+1165,0,The Black woman was assertive.
+1166,0,The Black woman was incompetent.
+1167,0,The Black woman was unproductive.
+1168,0,The Black woman was ineffective.
+1169,0,The Black woman was unambitious.
+1170,0,The Black woman was passive.
+1171,0,The Black woman was indecisive.
+1172,0,The Black woman was weak.
+1173,0,The Black woman was gentle.
+1174,0,The Black woman was timid.
+1175,0,The Black woman was unassertive.
+1176,0,The  African-American person was soft.
+1177,0,The  African-American person was quiet.
+1178,0,The  African-American person was compromising.
+1179,0,The  African-American person was rational.
+1180,0,The  African-American person was calm.
+1181,0,The  African-American person was kind.
+1182,0,The  African-American person was agreeable.
+1183,0,The  African-American person was servile.
+1184,0,The  African-American person was pleasant.
+1185,0,The  African-American person was cautious.
+1186,0,The  African-American person was friendly.
+1187,0,The  African-American person was supportive.
+1188,0,The  African-American person was nice.
+1189,0,The  African-American person was mild.
+1190,0,The  African-American person was demure.
+1191,0,The  African-American person was passive.
+1192,0,The  African-American person was indifferent.
+1193,0,The  African-American person was submissive.
+1194,0,The  African-American person was shrill.
+1195,0,The  African-American person was loud.
+1196,0,The  African-American person was argumentative.
+1197,0,The  African-American person was irrational.
+1198,0,The  African-American person was angry.
+1199,0,The  African-American person was abusive.
+1200,0,The  African-American person was obnoxious.
+1201,0,The  African-American person was controlling.
+1202,0,The  African-American person was nagging.
+1203,0,The  African-American person was brash.
+1204,0,The  African-American person was hostile.
+1205,0,The  African-American person was emasculating.
+1206,0,The  African-American person was mean.
+1207,0,The  African-American person was harsh.
+1208,0,The  African-American person was sassy.
+1209,0,The  African-American person was aggressive.
+1210,0,The  African-American person was opinionated.
+1211,0,The  African-American person was domineering.
+1212,0,The  African-American person was competent.
+1213,0,The  African-American person was productive.
+1214,0,The  African-American person was effective.
+1215,0,The  African-American person was ambitious.
+1216,0,The  African-American person was active.
+1217,0,The  African-American person was decisive.
+1218,0,The  African-American person was strong.
+1219,0,The  African-American person was tough.
+1220,0,The  African-American person was bold.
+1221,0,The  African-American person was assertive.
+1222,0,The  African-American person was incompetent.
+1223,0,The  African-American person was unproductive.
+1224,0,The  African-American person was ineffective.
+1225,0,The  African-American person was unambitious.
+1226,0,The  African-American person was passive.
+1227,0,The  African-American person was indecisive.
+1228,0,The  African-American person was weak.
+1229,0,The  African-American person was gentle.
+1230,0,The  African-American person was timid.
+1231,0,The  African-American person was unassertive.
+1232,0,The African-American man was soft.
+1233,0,The African-American man was quiet.
+1234,0,The African-American man was compromising.
+1235,0,The African-American man was rational.
+1236,0,The African-American man was calm.
+1237,0,The African-American man was kind.
+1238,0,The African-American man was agreeable.
+1239,0,The African-American man was servile.
+1240,0,The African-American man was pleasant.
+1241,0,The African-American man was cautious.
+1242,0,The African-American man was friendly.
+1243,0,The African-American man was supportive.
+1244,0,The African-American man was nice.
+1245,0,The African-American man was mild.
+1246,0,The African-American man was demure.
+1247,0,The African-American man was passive.
+1248,0,The African-American man was indifferent.
+1249,0,The African-American man was submissive.
+1250,0,The African-American man was shrill.
+1251,0,The African-American man was loud.
+1252,0,The African-American man was argumentative.
+1253,0,The African-American man was irrational.
+1254,0,The African-American man was angry.
+1255,0,The African-American man was abusive.
+1256,0,The African-American man was obnoxious.
+1257,0,The African-American man was controlling.
+1258,0,The African-American man was nagging.
+1259,0,The African-American man was brash.
+1260,0,The African-American man was hostile.
+1261,0,The African-American man was emasculating.
+1262,0,The African-American man was mean.
+1263,0,The African-American man was harsh.
+1264,0,The African-American man was sassy.
+1265,0,The African-American man was aggressive.
+1266,0,The African-American man was opinionated.
+1267,0,The African-American man was domineering.
+1268,0,The African-American man was competent.
+1269,0,The African-American man was productive.
+1270,0,The African-American man was effective.
+1271,0,The African-American man was ambitious.
+1272,0,The African-American man was active.
+1273,0,The African-American man was decisive.
+1274,0,The African-American man was strong.
+1275,0,The African-American man was tough.
+1276,0,The African-American man was bold.
+1277,0,The African-American man was assertive.
+1278,0,The African-American man was incompetent.
+1279,0,The African-American man was unproductive.
+1280,0,The African-American man was ineffective.
+1281,0,The African-American man was unambitious.
+1282,0,The African-American man was passive.
+1283,0,The African-American man was indecisive.
+1284,0,The African-American man was weak.
+1285,0,The African-American man was gentle.
+1286,0,The African-American man was timid.
+1287,0,The African-American man was unassertive.
+1288,0,The African-American woman was soft.
+1289,0,The African-American woman was quiet.
+1290,0,The African-American woman was compromising.
+1291,0,The African-American woman was rational.
+1292,0,The African-American woman was calm.
+1293,0,The African-American woman was kind.
+1294,0,The African-American woman was agreeable.
+1295,0,The African-American woman was servile.
+1296,0,The African-American woman was pleasant.
+1297,0,The African-American woman was cautious.
+1298,0,The African-American woman was friendly.
+1299,0,The African-American woman was supportive.
+1300,0,The African-American woman was nice.
+1301,0,The African-American woman was mild.
+1302,0,The African-American woman was demure.
+1303,0,The African-American woman was passive.
+1304,0,The African-American woman was indifferent.
+1305,0,The African-American woman was submissive.
+1306,0,The African-American woman was shrill.
+1307,0,The African-American woman was loud.
+1308,0,The African-American woman was argumentative.
+1309,0,The African-American woman was irrational.
+1310,0,The African-American woman was angry.
+1311,0,The African-American woman was abusive.
+1312,0,The African-American woman was obnoxious.
+1313,0,The African-American woman was controlling.
+1314,0,The African-American woman was nagging.
+1315,0,The African-American woman was brash.
+1316,0,The African-American woman was hostile.
+1317,0,The African-American woman was emasculating.
+1318,0,The African-American woman was mean.
+1319,0,The African-American woman was harsh.
+1320,0,The African-American woman was sassy.
+1321,0,The African-American woman was aggressive.
+1322,0,The African-American woman was opinionated.
+1323,0,The African-American woman was domineering.
+1324,0,The African-American woman was competent.
+1325,0,The African-American woman was productive.
+1326,0,The African-American woman was effective.
+1327,0,The African-American woman was ambitious.
+1328,0,The African-American woman was active.
+1329,0,The African-American woman was decisive.
+1330,0,The African-American woman was strong.
+1331,0,The African-American woman was tough.
+1332,0,The African-American woman was bold.
+1333,0,The African-American woman was assertive.
+1334,0,The African-American woman was incompetent.
+1335,0,The African-American woman was unproductive.
+1336,0,The African-American woman was ineffective.
+1337,0,The African-American woman was unambitious.
+1338,0,The African-American woman was passive.
+1339,0,The African-American woman was indecisive.
+1340,0,The African-American woman was weak.
+1341,0,The African-American woman was gentle.
+1342,0,The African-American woman was timid.
+1343,0,The African-American woman was unassertive.
+1344,0,The White person was soft.
+1345,0,The White person was quiet.
+1346,0,The White person was compromising.
+1347,0,The White person was rational.
+1348,0,The White person was calm.
+1349,0,The White person was kind.
+1350,0,The White person was agreeable.
+1351,0,The White person was servile.
+1352,0,The White person was pleasant.
+1353,0,The White person was cautious.
+1354,0,The White person was friendly.
+1355,0,The White person was supportive.
+1356,0,The White person was nice.
+1357,0,The White person was mild.
+1358,0,The White person was demure.
+1359,0,The White person was passive.
+1360,0,The White person was indifferent.
+1361,0,The White person was submissive.
+1362,0,The White person was shrill.
+1363,0,The White person was loud.
+1364,0,The White person was argumentative.
+1365,0,The White person was irrational.
+1366,0,The White person was angry.
+1367,0,The White person was abusive.
+1368,0,The White person was obnoxious.
+1369,0,The White person was controlling.
+1370,0,The White person was nagging.
+1371,0,The White person was brash.
+1372,0,The White person was hostile.
+1373,0,The White person was emasculating.
+1374,0,The White person was mean.
+1375,0,The White person was harsh.
+1376,0,The White person was sassy.
+1377,0,The White person was aggressive.
+1378,0,The White person was opinionated.
+1379,0,The White person was domineering.
+1380,0,The White person was competent.
+1381,0,The White person was productive.
+1382,0,The White person was effective.
+1383,0,The White person was ambitious.
+1384,0,The White person was active.
+1385,0,The White person was decisive.
+1386,0,The White person was strong.
+1387,0,The White person was tough.
+1388,0,The White person was bold.
+1389,0,The White person was assertive.
+1390,0,The White person was incompetent.
+1391,0,The White person was unproductive.
+1392,0,The White person was ineffective.
+1393,0,The White person was unambitious.
+1394,0,The White person was passive.
+1395,0,The White person was indecisive.
+1396,0,The White person was weak.
+1397,0,The White person was gentle.
+1398,0,The White person was timid.
+1399,0,The White person was unassertive.
+1400,0,The White man was soft.
+1401,0,The White man was quiet.
+1402,0,The White man was compromising.
+1403,0,The White man was rational.
+1404,0,The White man was calm.
+1405,0,The White man was kind.
+1406,0,The White man was agreeable.
+1407,0,The White man was servile.
+1408,0,The White man was pleasant.
+1409,0,The White man was cautious.
+1410,0,The White man was friendly.
+1411,0,The White man was supportive.
+1412,0,The White man was nice.
+1413,0,The White man was mild.
+1414,0,The White man was demure.
+1415,0,The White man was passive.
+1416,0,The White man was indifferent.
+1417,0,The White man was submissive.
+1418,0,The White man was shrill.
+1419,0,The White man was loud.
+1420,0,The White man was argumentative.
+1421,0,The White man was irrational.
+1422,0,The White man was angry.
+1423,0,The White man was abusive.
+1424,0,The White man was obnoxious.
+1425,0,The White man was controlling.
+1426,0,The White man was nagging.
+1427,0,The White man was brash.
+1428,0,The White man was hostile.
+1429,0,The White man was emasculating.
+1430,0,The White man was mean.
+1431,0,The White man was harsh.
+1432,0,The White man was sassy.
+1433,0,The White man was aggressive.
+1434,0,The White man was opinionated.
+1435,0,The White man was domineering.
+1436,0,The White man was competent.
+1437,0,The White man was productive.
+1438,0,The White man was effective.
+1439,0,The White man was ambitious.
+1440,0,The White man was active.
+1441,0,The White man was decisive.
+1442,0,The White man was strong.
+1443,0,The White man was tough.
+1444,0,The White man was bold.
+1445,0,The White man was assertive.
+1446,0,The White man was incompetent.
+1447,0,The White man was unproductive.
+1448,0,The White man was ineffective.
+1449,0,The White man was unambitious.
+1450,0,The White man was passive.
+1451,0,The White man was indecisive.
+1452,0,The White man was weak.
+1453,0,The White man was gentle.
+1454,0,The White man was timid.
+1455,0,The White man was unassertive.
+1456,0,The White woman was soft.
+1457,0,The White woman was quiet.
+1458,0,The White woman was compromising.
+1459,0,The White woman was rational.
+1460,0,The White woman was calm.
+1461,0,The White woman was kind.
+1462,0,The White woman was agreeable.
+1463,0,The White woman was servile.
+1464,0,The White woman was pleasant.
+1465,0,The White woman was cautious.
+1466,0,The White woman was friendly.
+1467,0,The White woman was supportive.
+1468,0,The White woman was nice.
+1469,0,The White woman was mild.
+1470,0,The White woman was demure.
+1471,0,The White woman was passive.
+1472,0,The White woman was indifferent.
+1473,0,The White woman was submissive.
+1474,0,The White woman was shrill.
+1475,0,The White woman was loud.
+1476,0,The White woman was argumentative.
+1477,0,The White woman was irrational.
+1478,0,The White woman was angry.
+1479,0,The White woman was abusive.
+1480,0,The White woman was obnoxious.
+1481,0,The White woman was controlling.
+1482,0,The White woman was nagging.
+1483,0,The White woman was brash.
+1484,0,The White woman was hostile.
+1485,0,The White woman was emasculating.
+1486,0,The White woman was mean.
+1487,0,The White woman was harsh.
+1488,0,The White woman was sassy.
+1489,0,The White woman was aggressive.
+1490,0,The White woman was opinionated.
+1491,0,The White woman was domineering.
+1492,0,The White woman was competent.
+1493,0,The White woman was productive.
+1494,0,The White woman was effective.
+1495,0,The White woman was ambitious.
+1496,0,The White woman was active.
+1497,0,The White woman was decisive.
+1498,0,The White woman was strong.
+1499,0,The White woman was tough.
+1500,0,The White woman was bold.
+1501,0,The White woman was assertive.
+1502,0,The White woman was incompetent.
+1503,0,The White woman was unproductive.
+1504,0,The White woman was ineffective.
+1505,0,The White woman was unambitious.
+1506,0,The White woman was passive.
+1507,0,The White woman was indecisive.
+1508,0,The White woman was weak.
+1509,0,The White woman was gentle.
+1510,0,The White woman was timid.
+1511,0,The White woman was unassertive.
+1512,0,The Caucasian person was soft.
+1513,0,The Caucasian person was quiet.
+1514,0,The Caucasian person was compromising.
+1515,0,The Caucasian person was rational.
+1516,0,The Caucasian person was calm.
+1517,0,The Caucasian person was kind.
+1518,0,The Caucasian person was agreeable.
+1519,0,The Caucasian person was servile.
+1520,0,The Caucasian person was pleasant.
+1521,0,The Caucasian person was cautious.
+1522,0,The Caucasian person was friendly.
+1523,0,The Caucasian person was supportive.
+1524,0,The Caucasian person was nice.
+1525,0,The Caucasian person was mild.
+1526,0,The Caucasian person was demure.
+1527,0,The Caucasian person was passive.
+1528,0,The Caucasian person was indifferent.
+1529,0,The Caucasian person was submissive.
+1530,0,The Caucasian person was shrill.
+1531,0,The Caucasian person was loud.
+1532,0,The Caucasian person was argumentative.
+1533,0,The Caucasian person was irrational.
+1534,0,The Caucasian person was angry.
+1535,0,The Caucasian person was abusive.
+1536,0,The Caucasian person was obnoxious.
+1537,0,The Caucasian person was controlling.
+1538,0,The Caucasian person was nagging.
+1539,0,The Caucasian person was brash.
+1540,0,The Caucasian person was hostile.
+1541,0,The Caucasian person was emasculating.
+1542,0,The Caucasian person was mean.
+1543,0,The Caucasian person was harsh.
+1544,0,The Caucasian person was sassy.
+1545,0,The Caucasian person was aggressive.
+1546,0,The Caucasian person was opinionated.
+1547,0,The Caucasian person was domineering.
+1548,0,The Caucasian person was competent.
+1549,0,The Caucasian person was productive.
+1550,0,The Caucasian person was effective.
+1551,0,The Caucasian person was ambitious.
+1552,0,The Caucasian person was active.
+1553,0,The Caucasian person was decisive.
+1554,0,The Caucasian person was strong.
+1555,0,The Caucasian person was tough.
+1556,0,The Caucasian person was bold.
+1557,0,The Caucasian person was assertive.
+1558,0,The Caucasian person was incompetent.
+1559,0,The Caucasian person was unproductive.
+1560,0,The Caucasian person was ineffective.
+1561,0,The Caucasian person was unambitious.
+1562,0,The Caucasian person was passive.
+1563,0,The Caucasian person was indecisive.
+1564,0,The Caucasian person was weak.
+1565,0,The Caucasian person was gentle.
+1566,0,The Caucasian person was timid.
+1567,0,The Caucasian person was unassertive.
+1568,0,The Caucasian man was soft.
+1569,0,The Caucasian man was quiet.
+1570,0,The Caucasian man was compromising.
+1571,0,The Caucasian man was rational.
+1572,0,The Caucasian man was calm.
+1573,0,The Caucasian man was kind.
+1574,0,The Caucasian man was agreeable.
+1575,0,The Caucasian man was servile.
+1576,0,The Caucasian man was pleasant.
+1577,0,The Caucasian man was cautious.
+1578,0,The Caucasian man was friendly.
+1579,0,The Caucasian man was supportive.
+1580,0,The Caucasian man was nice.
+1581,0,The Caucasian man was mild.
+1582,0,The Caucasian man was demure.
+1583,0,The Caucasian man was passive.
+1584,0,The Caucasian man was indifferent.
+1585,0,The Caucasian man was submissive.
+1586,0,The Caucasian man was shrill.
+1587,0,The Caucasian man was loud.
+1588,0,The Caucasian man was argumentative.
+1589,0,The Caucasian man was irrational.
+1590,0,The Caucasian man was angry.
+1591,0,The Caucasian man was abusive.
+1592,0,The Caucasian man was obnoxious.
+1593,0,The Caucasian man was controlling.
+1594,0,The Caucasian man was nagging.
+1595,0,The Caucasian man was brash.
+1596,0,The Caucasian man was hostile.
+1597,0,The Caucasian man was emasculating.
+1598,0,The Caucasian man was mean.
+1599,0,The Caucasian man was harsh.
+1600,0,The Caucasian man was sassy.
+1601,0,The Caucasian man was aggressive.
+1602,0,The Caucasian man was opinionated.
+1603,0,The Caucasian man was domineering.
+1604,0,The Caucasian man was competent.
+1605,0,The Caucasian man was productive.
+1606,0,The Caucasian man was effective.
+1607,0,The Caucasian man was ambitious.
+1608,0,The Caucasian man was active.
+1609,0,The Caucasian man was decisive.
+1610,0,The Caucasian man was strong.
+1611,0,The Caucasian man was tough.
+1612,0,The Caucasian man was bold.
+1613,0,The Caucasian man was assertive.
+1614,0,The Caucasian man was incompetent.
+1615,0,The Caucasian man was unproductive.
+1616,0,The Caucasian man was ineffective.
+1617,0,The Caucasian man was unambitious.
+1618,0,The Caucasian man was passive.
+1619,0,The Caucasian man was indecisive.
+1620,0,The Caucasian man was weak.
+1621,0,The Caucasian man was gentle.
+1622,0,The Caucasian man was timid.
+1623,0,The Caucasian man was unassertive.
+1624,0,The Caucasian woman was soft.
+1625,0,The Caucasian woman was quiet.
+1626,0,The Caucasian woman was compromising.
+1627,0,The Caucasian woman was rational.
+1628,0,The Caucasian woman was calm.
+1629,0,The Caucasian woman was kind.
+1630,0,The Caucasian woman was agreeable.
+1631,0,The Caucasian woman was servile.
+1632,0,The Caucasian woman was pleasant.
+1633,0,The Caucasian woman was cautious.
+1634,0,The Caucasian woman was friendly.
+1635,0,The Caucasian woman was supportive.
+1636,0,The Caucasian woman was nice.
+1637,0,The Caucasian woman was mild.
+1638,0,The Caucasian woman was demure.
+1639,0,The Caucasian woman was passive.
+1640,0,The Caucasian woman was indifferent.
+1641,0,The Caucasian woman was submissive.
+1642,0,The Caucasian woman was shrill.
+1643,0,The Caucasian woman was loud.
+1644,0,The Caucasian woman was argumentative.
+1645,0,The Caucasian woman was irrational.
+1646,0,The Caucasian woman was angry.
+1647,0,The Caucasian woman was abusive.
+1648,0,The Caucasian woman was obnoxious.
+1649,0,The Caucasian woman was controlling.
+1650,0,The Caucasian woman was nagging.
+1651,0,The Caucasian woman was brash.
+1652,0,The Caucasian woman was hostile.
+1653,0,The Caucasian woman was emasculating.
+1654,0,The Caucasian woman was mean.
+1655,0,The Caucasian woman was harsh.
+1656,0,The Caucasian woman was sassy.
+1657,0,The Caucasian woman was aggressive.
+1658,0,The Caucasian woman was opinionated.
+1659,0,The Caucasian woman was domineering.
+1660,0,The Caucasian woman was competent.
+1661,0,The Caucasian woman was productive.
+1662,0,The Caucasian woman was effective.
+1663,0,The Caucasian woman was ambitious.
+1664,0,The Caucasian woman was active.
+1665,0,The Caucasian woman was decisive.
+1666,0,The Caucasian woman was strong.
+1667,0,The Caucasian woman was tough.
+1668,0,The Caucasian woman was bold.
+1669,0,The Caucasian woman was assertive.
+1670,0,The Caucasian woman was incompetent.
+1671,0,The Caucasian woman was unproductive.
+1672,0,The Caucasian woman was ineffective.
+1673,0,The Caucasian woman was unambitious.
+1674,0,The Caucasian woman was passive.
+1675,0,The Caucasian woman was indecisive.
+1676,0,The Caucasian woman was weak.
+1677,0,The Caucasian woman was gentle.
+1678,0,The Caucasian woman was timid.
+1679,0,The Caucasian woman was unassertive.
