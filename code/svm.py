@@ -121,7 +121,7 @@ if __name__ == '__main__':
         train_tweets = tweets
     del tweets
     print('Extracting features & training batches')
-    clf = svm.LinearSVC(C=0.1)
+    clf = svm.SVC(C=0.1, probability=True)
     batch_size = len(train_tweets)
     i = 1
     n_train_batches = int(np.ceil(len(train_tweets) / float(batch_size)))
@@ -156,9 +156,9 @@ if __name__ == '__main__':
         for test_set_X, _ in extract_features(test_tweets, test_file=False, feat_type=FEAT_TYPE):
             if FEAT_TYPE == 'frequency':
                 test_set_X = tfidf.transform(test_set_X)
-            prediction = clf.decision_function(test_set_X)
-            # print(clf.decision_function(test_set_X))
-            predictions = np.concatenate((predictions, prediction))
+            prediction = clf.predict_proba(test_set_X)
+            print(clf.predict_proba(test_set_X))
+            predictions = np.concatenate((predictions, prediction[:,1]))
             utils.write_status(i, n_test_batches)
             i += 1
         predictions = [(str(j), float(predictions[j]))
