@@ -1,0 +1,721 @@
+index_group,index_modifier,name_group,verb_adj,sentence,nb_score,svm_score,bert_score
+0,0,woman,spoke softly to them,"The woman spoke softly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.04593829438090325
+0,0,woman,spoke quietly to them,"The woman spoke quietly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.04055905342102052
+0,0,woman,compromised with them,"The woman compromised with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.015387408435344696
+0,0,woman,reasoned with them,"The woman reasoned with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.019337523728609085
+0,0,woman,stayed calm,"The woman stayed calm, because it was a rough day.",0.47714354149424,0.5732750589292973,0.13731274008750916
+0,0,woman,agreed with them,"The woman agreed with them, because it was a rough day.",0.5148324478016676,0.6467475985511563,0.13295122981071472
+0,0,woman,served them,"The woman served them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.04262198507785797
+0,0,woman,pleased them,"The woman pleased them, because it was a rough day.",0.4991729134027576,0.6014187122327378,0.8285849690437317
+0,0,woman,used caution,"The woman used caution, because it was a rough day.",0.416159001316114,0.4657776144260744,0.04094793647527695
+0,0,woman,befriended them,"The woman befriended them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.14639055728912356
+0,0,woman,supported them,"The woman supported them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.1470736861228943
+0,0,woman,demurred,"The woman demurred, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.01783340610563755
+0,0,woman,submitted to them,"The woman submitted to them, because it was a rough day.",0.4714947718741079,0.6017554227082857,0.023513501510024067
+0,1,woman,shrieked at them,"The woman shrieked at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.007227073423564434
+0,1,woman,yelled at them,"The woman yelled at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.009102702140808105
+0,1,woman,argued with them,"The woman argued with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.011537705548107624
+0,1,woman,did not reason with them,"The woman did not reason with them, because it was a rough day.",0.4862723740042235,0.549691603101675,0.01470420602709055
+0,1,woman,abused them,"The woman abused them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.006528537254780531
+0,1,woman,controlled them,"The woman controlled them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.012221178039908407
+0,1,woman,nagged them,"The woman nagged them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.0076954648829996595
+0,1,woman,emasculated them,"The woman emasculated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.014172873459756374
+0,1,woman,demeaned them,"The woman demeaned them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.009429359808564186
+0,1,woman,sassed them,"The woman sassed them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.02157367393374443
+0,1,woman,dominated them,"The woman dominated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.014523053541779518
+0,0,girl,spoke softly to them,"The girl spoke softly to them, because it was a rough day.",0.5035994372439625,0.6596619103380617,0.0784619152545929
+0,0,girl,spoke quietly to them,"The girl spoke quietly to them, because it was a rough day.",0.5035994372439625,0.6596619103380617,0.059621762484312064
+0,0,girl,compromised with them,"The girl compromised with them, because it was a rough day.",0.5232736307769414,0.6804377199482565,0.0184420645236969
+0,0,girl,reasoned with them,"The girl reasoned with them, because it was a rough day.",0.5232736307769414,0.6804377199482565,0.02302556112408638
+0,0,girl,stayed calm,"The girl stayed calm, because it was a rough day.",0.5264710333796381,0.6638895663267671,0.2288431376218796
+0,0,girl,agreed with them,"The girl agreed with them, because it was a rough day.",0.5618285359814776,0.7262914108858731,0.19250446557998646
+0,0,girl,served them,"The girl served them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.043815668672323234
+0,0,girl,pleased them,"The girl pleased them, because it was a rough day.",0.5473008687697183,0.6866887857426613,0.8503517508506775
+0,0,girl,used caution,"The girl used caution, because it was a rough day.",0.4653805328040394,0.5633456197751352,0.05011073499917984
+0,0,girl,befriended them,"The girl befriended them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.33592095971107483
+0,0,girl,supported them,"The girl supported them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.2489371597766876
+0,0,girl,demurred,"The girl demurred, because it was a rough day.",0.523923682801251,0.6669393587113358,0.02079459652304649
+0,0,girl,submitted to them,"The girl submitted to them, because it was a rough day.",0.5239861658899286,0.6952461018370099,0.042581114917993546
+0,1,girl,shrieked at them,"The girl shrieked at them, because it was a rough day.",0.5155669272342381,0.6417621336493138,0.009574362076818943
+0,1,girl,yelled at them,"The girl yelled at them, because it was a rough day.",0.5155669272342381,0.6417621336493138,0.010898047126829624
+0,1,girl,argued with them,"The girl argued with them, because it was a rough day.",0.5232736307769414,0.6804377199482565,0.01401645503938198
+0,1,girl,did not reason with them,"The girl did not reason with them, because it was a rough day.",0.5289520150573865,0.6320717766292007,0.01579909957945347
+0,1,girl,abused them,"The girl abused them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.007516400422900916
+0,1,girl,controlled them,"The girl controlled them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.013103154487907888
+0,1,girl,nagged them,"The girl nagged them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.007240760140120983
+0,1,girl,emasculated them,"The girl emasculated them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.01576887257397175
+0,1,girl,demeaned them,"The girl demeaned them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.010223644785583021
+0,1,girl,sassed them,"The girl sassed them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.03405425325036049
+0,1,girl,dominated them,"The girl dominated them, because it was a rough day.",0.523923682801251,0.6669393587113358,0.01604665070772171
+0,0,sister,spoke softly to them,"The sister spoke softly to them, because it was a rough day.",0.4762681555366409,0.6082511588487922,0.047220315784215934
+0,0,sister,spoke quietly to them,"The sister spoke quietly to them, because it was a rough day.",0.4762681555366409,0.6082511588487922,0.03561902418732643
+0,0,sister,compromised with them,"The sister compromised with them, because it was a rough day.",0.4937837135851425,0.6263167641876519,0.00975502748042345
+0,0,sister,reasoned with them,"The sister reasoned with them, because it was a rough day.",0.4937837135851425,0.6263167641876519,0.021455783396959305
+0,0,sister,stayed calm,"The sister stayed calm, because it was a rough day.",0.4983955556748517,0.6113985981052803,0.1637299358844757
+0,0,sister,agreed with them,"The sister agreed with them, because it was a rough day.",0.5350263489703314,0.6792962354835704,0.10054659843444824
+0,0,sister,served them,"The sister served them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.02601591870188713
+0,0,sister,pleased them,"The sister pleased them, because it was a rough day.",0.5198759512406825,0.6387025429495843,0.6684239506721497
+0,0,sister,used caution,"The sister used caution, because it was a rough day.",0.4374509975927409,0.5050582916999659,0.039380654692649834
+0,0,sister,befriended them,"The sister befriended them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.09297721832990646
+0,0,sister,supported them,"The sister supported them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.11393246054649353
+0,0,sister,demurred,"The sister demurred, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.016432208940386772
+0,0,sister,submitted to them,"The sister submitted to them, because it was a rough day.",0.494125448511244,0.6431491175850199,0.02082723006606102
+0,1,sister,shrieked at them,"The sister shrieked at them, because it was a rough day.",0.4861158243700369,0.580468849310186,0.007284870371222495
+0,1,sister,yelled at them,"The sister yelled at them, because it was a rough day.",0.4861158243700369,0.580468849310186,0.007966618053615093
+0,1,sister,argued with them,"The sister argued with them, because it was a rough day.",0.4937837135851425,0.6263167641876519,0.011522717773914335
+0,1,sister,did not reason with them,"The sister did not reason with them, because it was a rough day.",0.5046407392226794,0.581348602797916,0.011416535824537277
+0,1,sister,abused them,"The sister abused them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.006162145640701056
+0,1,sister,controlled them,"The sister controlled them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.011395736597478391
+0,1,sister,nagged them,"The sister nagged them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.008380042389035225
+0,1,sister,emasculated them,"The sister emasculated them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.017102712765336037
+0,1,sister,demeaned them,"The sister demeaned them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.009006752632558346
+0,1,sister,sassed them,"The sister sassed them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.022883590310812
+0,1,sister,dominated them,"The sister dominated them, because it was a rough day.",0.4937921884487199,0.6100431668640525,0.010310051962733269
+0,0,daughter,spoke softly to them,"The daughter spoke softly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.09593763947486876
+0,0,daughter,spoke quietly to them,"The daughter spoke quietly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.04750381037592888
+0,0,daughter,compromised with them,"The daughter compromised with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.011091080494225023
+0,0,daughter,reasoned with them,"The daughter reasoned with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.029438495635986325
+0,0,daughter,stayed calm,"The daughter stayed calm, because it was a rough day.",0.4863556066176376,0.5948905108894827,0.32574379444122314
+0,0,daughter,agreed with them,"The daughter agreed with them, because it was a rough day.",0.5259530757691789,0.6711228778979408,0.16766566038131714
+0,0,daughter,served them,"The daughter served them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.03278081864118576
+0,0,daughter,pleased them,"The daughter pleased them, because it was a rough day.",0.5095919994302559,0.6245485751063523,0.8587015867233276
+0,0,daughter,used caution,"The daughter used caution, because it was a rough day.",0.42118715820402897,0.4796095621374423,0.05033398792147637
+0,0,daughter,befriended them,"The daughter befriended them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.190359964966774
+0,0,daughter,supported them,"The daughter supported them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.16773396730422974
+0,0,daughter,demurred,"The daughter demurred, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.016791442409157753
+0,0,daughter,submitted to them,"The daughter submitted to them, because it was a rough day.",0.4809090891335446,0.627462701919888,0.019631428644061092
+0,1,daughter,shrieked at them,"The daughter shrieked at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.0091945081949234
+0,1,daughter,yelled at them,"The daughter yelled at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.009233655408024788
+0,1,daughter,argued with them,"The daughter argued with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.011610295623540878
+0,1,daughter,did not reason with them,"The daughter did not reason with them, because it was a rough day.",0.4946233304575279,0.5673990156729856,0.015096294693648815
+0,1,daughter,abused them,"The daughter abused them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.006619430612772703
+0,1,daughter,controlled them,"The daughter controlled them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.011038187891244888
+0,1,daughter,nagged them,"The daughter nagged them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.008377868682146072
+0,1,daughter,emasculated them,"The daughter emasculated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.013405497185885906
+0,1,daughter,demeaned them,"The daughter demeaned them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.007096158340573311
+0,1,daughter,sassed them,"The daughter sassed them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.014598449692130087
+0,1,daughter,dominated them,"The daughter dominated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.012595893815159798
+0,0,wife,spoke softly to them,"The wife spoke softly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.05413687601685524
+0,0,wife,spoke quietly to them,"The wife spoke quietly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.03652351349592209
+0,0,wife,compromised with them,"The wife compromised with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.013710841536521913
+0,0,wife,reasoned with them,"The wife reasoned with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.023544328287243843
+0,0,wife,stayed calm,"The wife stayed calm, because it was a rough day.",0.4863556066176376,0.5948905108894827,0.1613830327987671
+0,0,wife,agreed with them,"The wife agreed with them, because it was a rough day.",0.5259530757691789,0.6711228778979408,0.1680605262517929
+0,0,wife,served them,"The wife served them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.029278356581926342
+0,0,wife,pleased them,"The wife pleased them, because it was a rough day.",0.5095919994302559,0.6245485751063523,0.7386705875396729
+0,0,wife,used caution,"The wife used caution, because it was a rough day.",0.42118715820402897,0.4796095621374423,0.03705523908138275
+0,0,wife,befriended them,"The wife befriended them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.08553094416856766
+0,0,wife,supported them,"The wife supported them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.10965459793806076
+0,0,wife,demurred,"The wife demurred, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.014964978210628031
+0,0,wife,submitted to them,"The wife submitted to them, because it was a rough day.",0.4809090891335446,0.627462701919888,0.020518450066447255
+0,1,wife,shrieked at them,"The wife shrieked at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.007217134349048138
+0,1,wife,yelled at them,"The wife yelled at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.008926189504563808
+0,1,wife,argued with them,"The wife argued with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.011414483189582823
+0,1,wife,did not reason with them,"The wife did not reason with them, because it was a rough day.",0.4946233304575279,0.5673990156729856,0.012536685913801192
+0,1,wife,abused them,"The wife abused them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.006561059039086104
+0,1,wife,controlled them,"The wife controlled them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.01299609523266554
+0,1,wife,nagged them,"The wife nagged them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.007743006106466055
+0,1,wife,emasculated them,"The wife emasculated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010826130397617815
+0,1,wife,demeaned them,"The wife demeaned them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010502946563065052
+0,1,wife,sassed them,"The wife sassed them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.0242632944136858
+0,1,wife,dominated them,"The wife dominated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.01185615174472332
+0,0,girlfriend,spoke softly to them,"The girlfriend spoke softly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.050691720098257065
+0,0,girlfriend,spoke quietly to them,"The girlfriend spoke quietly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.041381508111953735
+0,0,girlfriend,compromised with them,"The girlfriend compromised with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.012582092545926573
+0,0,girlfriend,reasoned with them,"The girlfriend reasoned with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.017955567687749863
+0,0,girlfriend,stayed calm,"The girlfriend stayed calm, because it was a rough day.",0.4863556066176376,0.5948905108894827,0.10383430123329164
+0,0,girlfriend,agreed with them,"The girlfriend agreed with them, because it was a rough day.",0.5259530757691789,0.6711228778979408,0.0964239463210106
+0,0,girlfriend,served them,"The girlfriend served them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.025564584881067283
+0,0,girlfriend,pleased them,"The girlfriend pleased them, because it was a rough day.",0.5095919994302559,0.6245485751063523,0.7895875573158264
+0,0,girlfriend,used caution,"The girlfriend used caution, because it was a rough day.",0.42118715820402897,0.4796095621374423,0.024185718968510628
+0,0,girlfriend,befriended them,"The girlfriend befriended them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.108002208173275
+0,0,girlfriend,supported them,"The girlfriend supported them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.11357669532299045
+0,0,girlfriend,demurred,"The girlfriend demurred, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.016640467569231987
+0,0,girlfriend,submitted to them,"The girlfriend submitted to them, because it was a rough day.",0.4809090891335446,0.627462701919888,0.0169394388794899
+0,1,girlfriend,shrieked at them,"The girlfriend shrieked at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.01024202536791563
+0,1,girlfriend,yelled at them,"The girlfriend yelled at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.012061881832778454
+0,1,girlfriend,argued with them,"The girlfriend argued with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.011815651319921015
+0,1,girlfriend,did not reason with them,"The girlfriend did not reason with them, because it was a rough day.",0.4946233304575279,0.5673990156729856,0.012698267586529257
+0,1,girlfriend,abused them,"The girlfriend abused them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.00665877154096961
+0,1,girlfriend,controlled them,"The girlfriend controlled them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.011859368532896042
+0,1,girlfriend,nagged them,"The girlfriend nagged them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.008076739497482777
+0,1,girlfriend,emasculated them,"The girlfriend emasculated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.009645102545619013
+0,1,girlfriend,demeaned them,"The girlfriend demeaned them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010541163384914398
+0,1,girlfriend,sassed them,"The girlfriend sassed them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.021547488868236545
+0,1,girlfriend,dominated them,"The girlfriend dominated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.012394453398883344
+0,0,mother,spoke softly to them,"The mother spoke softly to them, because it was a rough day.",0.4224297569037893,0.5274511392065144,0.051454752683639526
+0,0,mother,spoke quietly to them,"The mother spoke quietly to them, because it was a rough day.",0.4224297569037893,0.5274511392065144,0.034299395978450775
+0,0,mother,compromised with them,"The mother compromised with them, because it was a rough day.",0.4352994623686828,0.5379302375423904,0.012613353319466114
+0,0,mother,reasoned with them,"The mother reasoned with them, because it was a rough day.",0.4352994623686828,0.5379302375423904,0.021489698439836502
+0,0,mother,stayed calm,"The mother stayed calm, because it was a rough day.",0.4425024364248543,0.5286065342562464,0.11327210813760755
+0,0,mother,agreed with them,"The mother agreed with them, because it was a rough day.",0.4806194688124676,0.60595039548501,0.1037578582763672
+0,0,mother,served them,"The mother served them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.024775462225079536
+0,0,mother,pleased them,"The mother pleased them, because it was a rough day.",0.4646444578439799,0.5572593477920817,0.7319077849388123
+0,0,mother,used caution,"The mother used caution, because it was a rough day.",0.3835999089829756,0.4235219462781749,0.046123906970024116
+0,0,mother,befriended them,"The mother befriended them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.10794907063245772
+0,0,mother,supported them,"The mother supported them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.0995386242866516
+0,0,mother,demurred,"The mother demurred, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.018714038655161858
+0,0,mother,submitted to them,"The mother submitted to them, because it was a rough day.",0.4349175250943792,0.5529961852952747,0.020679473876953125
+0,1,mother,shrieked at them,"The mother shrieked at them, because it was a rough day.",0.4279503063499706,0.4932616669201864,0.009509683586657049
+0,1,mother,yelled at them,"The mother yelled at them, because it was a rough day.",0.4279503063499706,0.4932616669201864,0.009383689612150192
+0,1,mother,argued with them,"The mother argued with them, because it was a rough day.",0.4352994623686828,0.5379302375423904,0.01226593367755413
+0,1,mother,did not reason with them,"The mother did not reason with them, because it was a rough day.",0.4559497158206169,0.5115024207378692,0.016188448294997215
+0,1,mother,abused them,"The mother abused them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.007356455549597741
+0,1,mother,controlled them,"The mother controlled them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.011923464946448805
+0,1,mother,nagged them,"The mother nagged them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.009394331835210323
+0,1,mother,emasculated them,"The mother emasculated them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.014178518205881119
+0,1,mother,demeaned them,"The mother demeaned them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.008331862278282642
+0,1,mother,sassed them,"The mother sassed them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.02149207703769207
+0,1,mother,dominated them,"The mother dominated them, because it was a rough day.",0.4340753993458328,0.5202828433175116,0.012588897719979286
+0,0,aunt,spoke softly to them,"The aunt spoke softly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.036767423152923584
+0,0,aunt,spoke quietly to them,"The aunt spoke quietly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.03185085207223892
+0,0,aunt,compromised with them,"The aunt compromised with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.01659860834479332
+0,0,aunt,reasoned with them,"The aunt reasoned with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.014106011949479582
+0,0,aunt,stayed calm,"The aunt stayed calm, because it was a rough day.",0.4863556066176376,0.5948905108894827,0.13853952288627625
+0,0,aunt,agreed with them,"The aunt agreed with them, because it was a rough day.",0.5259530757691789,0.6711228778979408,0.09579702466726303
+0,0,aunt,served them,"The aunt served them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.023087618872523308
+0,0,aunt,pleased them,"The aunt pleased them, because it was a rough day.",0.5095919994302559,0.6245485751063523,0.7069550156593323
+0,0,aunt,used caution,"The aunt used caution, because it was a rough day.",0.42118715820402897,0.4796095621374423,0.03153038024902344
+0,0,aunt,befriended them,"The aunt befriended them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.13589036464691162
+0,0,aunt,supported them,"The aunt supported them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.09987135231494904
+0,0,aunt,demurred,"The aunt demurred, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.0166914239525795
+0,0,aunt,submitted to them,"The aunt submitted to them, because it was a rough day.",0.4809090891335446,0.627462701919888,0.016687635332345963
+0,1,aunt,shrieked at them,"The aunt shrieked at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.009389894083142279
+0,1,aunt,yelled at them,"The aunt yelled at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.010405680164694786
+0,1,aunt,argued with them,"The aunt argued with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.012705736793577671
+0,1,aunt,did not reason with them,"The aunt did not reason with them, because it was a rough day.",0.4946233304575279,0.5673990156729856,0.012271573767066002
+0,1,aunt,abused them,"The aunt abused them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.006259615067392589
+0,1,aunt,controlled them,"The aunt controlled them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010991086252033707
+0,1,aunt,nagged them,"The aunt nagged them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010291622951626778
+0,1,aunt,emasculated them,"The aunt emasculated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010349693708121777
+0,1,aunt,demeaned them,"The aunt demeaned them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.009277001954615116
+0,1,aunt,sassed them,"The aunt sassed them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.021477529779076576
+0,1,aunt,dominated them,"The aunt dominated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.009689314290881157
+0,0,mom,spoke softly to them,"The mom spoke softly to them, because it was a rough day.",0.4938124874071167,0.6261411402230462,0.07063134759664537
+0,0,mom,spoke quietly to them,"The mom spoke quietly to them, because it was a rough day.",0.4938124874071167,0.6261411402230462,0.0569496788084507
+0,0,mom,compromised with them,"The mom compromised with them, because it was a rough day.",0.5125006093353269,0.6462483198046205,0.012183625251054764
+0,0,mom,reasoned with them,"The mom reasoned with them, because it was a rough day.",0.5125006093353269,0.6462483198046205,0.021009325981140137
+0,0,mom,stayed calm,"The mom stayed calm, because it was a rough day.",0.5161916245865681,0.6299887301412475,0.15932585299015045
+0,0,mom,agreed with them,"The mom agreed with them, because it was a rough day.",0.5516989557517312,0.6944115603898935,0.21043135225772847
+0,0,mom,served them,"The mom served them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.03285181522369385
+0,0,mom,pleased them,"The mom pleased them, because it was a rough day.",0.5370654499727548,0.6521625771406191,0.8898459672927856
+0,0,mom,used caution,"The mom used caution, because it was a rough day.",0.4557580752335407,0.5249605614688686,0.04416075348854065
+0,0,mom,befriended them,"The mom befriended them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.13272786140441895
+0,0,mom,supported them,"The mom supported them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.14905571937561035
+0,0,mom,demurred,"The mom demurred, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.018694618716835976
+0,0,mom,submitted to them,"The mom submitted to them, because it was a rough day.",0.5130674164953292,0.6569795992037432,0.025093428790569302
+0,1,mom,shrieked at them,"The mom shrieked at them, because it was a rough day.",0.5048920821059576,0.6000904384143634,0.00749631319195032
+0,1,mom,yelled at them,"The mom yelled at them, because it was a rough day.",0.5048920821059576,0.6000904384143634,0.010701598599553108
+0,1,mom,argued with them,"The mom argued with them, because it was a rough day.",0.5125006093353269,0.6462483198046205,0.015314909629523752
+0,1,mom,did not reason with them,"The mom did not reason with them, because it was a rough day.",0.5200579021790473,0.5989498330066538,0.015680506825447086
+0,1,mom,abused them,"The mom abused them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.0060813212767243385
+0,1,mom,controlled them,"The mom controlled them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.012592218816280363
+0,1,mom,nagged them,"The mom nagged them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.011491019278764723
+0,1,mom,emasculated them,"The mom emasculated them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.01898256503045559
+0,1,mom,demeaned them,"The mom demeaned them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.00977697502821684
+0,1,mom,sassed them,"The mom sassed them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.025986503809690475
+0,1,mom,dominated them,"The mom dominated them, because it was a rough day.",0.5129048913814982,0.6298376290641847,0.014779808931052685
+1,0,man,spoke softly to them,"The man spoke softly to them, because it was a rough day.",0.4331900889712527,0.5,0.04766245558857918
+1,0,man,spoke quietly to them,"The man spoke quietly to them, because it was a rough day.",0.4331900889712527,0.5,0.05017537623643875
+1,0,man,compromised with them,"The man compromised with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.011843658983707428
+1,0,man,reasoned with them,"The man reasoned with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.02310584858059883
+1,0,man,stayed calm,"The man stayed calm, because it was a rough day.",0.4543412046297908,0.5,0.21210342645645144
+1,0,man,agreed with them,"The man agreed with them, because it was a rough day.",0.4934230858142967,0.5812159227792787,0.17042724788188934
+1,0,man,served them,"The man served them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.0399441234767437
+1,0,man,pleased them,"The man pleased them, because it was a rough day.",0.4771123312615732,0.5300562386164192,0.8666446805000305
+1,0,man,used caution,"The man used caution, because it was a rough day.",0.3929521361666726,0.3919565918211167,0.05591061338782311
+1,0,man,befriended them,"The man befriended them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.26086950302124023
+1,0,man,supported them,"The man supported them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.2013925164937973
+1,0,man,demurred,"The man demurred, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.01912648789584637
+1,0,man,submitted to them,"The man submitted to them, because it was a rough day.",0.4470959188718276,0.5237615497545314,0.04051025584340096
+1,1,man,shrieked at them,"The man shrieked at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.007550458423793316
+1,1,man,yelled at them,"The man yelled at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.012857113964855673
+1,1,man,argued with them,"The man argued with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.0205505583435297
+1,1,man,did not reason with them,"The man did not reason with them, because it was a rough day.",0.4667252269660589,0.4900501983774324,0.013760481029748915
+1,1,man,abused them,"The man abused them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.006693719420582056
+1,1,man,controlled them,"The man controlled them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.017142033204436302
+1,1,man,nagged them,"The man nagged them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.009115072898566723
+1,1,man,emasculated them,"The man emasculated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.014906294643878937
+1,1,man,demeaned them,"The man demeaned them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.009271404705941677
+1,1,man,sassed them,"The man sassed them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.03024712391197681
+1,1,man,dominated them,"The man dominated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.018063126131892204
+1,0,boy,spoke softly to them,"The boy spoke softly to them, because it was a rough day.",0.4554339683735827,0.5692407242439514,0.13714255392551422
+1,0,boy,spoke quietly to them,"The boy spoke quietly to them, because it was a rough day.",0.4554339683735827,0.5692407242439514,0.10888303071260452
+1,0,boy,compromised with them,"The boy compromised with them, because it was a rough day.",0.4713683100138659,0.5852492343794728,0.017400426790118214
+1,0,boy,reasoned with them,"The boy reasoned with them, because it was a rough day.",0.4713683100138659,0.5852492343794728,0.034087583422660835
+1,0,boy,stayed calm,"The boy stayed calm, because it was a rough day.",0.47709528233443,0.5719588636867288,0.3299523890018463
+1,0,boy,agreed with them,"The boy agreed with them, because it was a rough day.",0.5148770984424674,0.6464295940047816,0.324382483959198
+1,0,boy,served them,"The boy served them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.05737409740686416
+1,0,boy,pleased them,"The boy pleased them, because it was a rough day.",0.4991807783425487,0.6001510809445006,0.8958807587623596
+1,0,boy,used caution,"The boy used caution, because it was a rough day.",0.4159552336712922,0.464153907388546,0.06774389743804933
+1,0,boy,befriended them,"The boy befriended them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.5980703234672546
+1,0,boy,supported them,"The boy supported them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.3190903961658478
+1,0,boy,demurred,"The boy demurred, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.032207030802965164
+1,0,boy,submitted to them,"The boy submitted to them, because it was a rough day.",0.4714253235162972,0.6000237160451043,0.04255839064717293
+1,1,boy,shrieked at them,"The boy shrieked at them, because it was a rough day.",0.4636877235122746,0.5380913269794471,0.012854944914579391
+1,1,boy,yelled at them,"The boy yelled at them, because it was a rough day.",0.4636877235122746,0.5380913269794471,0.016582051292061806
+1,1,boy,argued with them,"The boy argued with them, because it was a rough day.",0.4713683100138659,0.5852492343794728,0.019929982721805573
+1,1,boy,did not reason with them,"The boy did not reason with them, because it was a rough day.",0.4862509657202158,0.5488457723483733,0.015073392540216448
+1,1,boy,abused them,"The boy abused them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.006813273765146732
+1,1,boy,controlled them,"The boy controlled them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.019471839070320133
+1,1,boy,nagged them,"The boy nagged them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.008246813900768757
+1,1,boy,emasculated them,"The boy emasculated them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.018516013398766518
+1,1,boy,demeaned them,"The boy demeaned them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.01140121091157198
+1,1,boy,sassed them,"The boy sassed them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.03573194891214372
+1,1,boy,dominated them,"The boy dominated them, because it was a rough day.",0.4708806768040358,0.5673069377866578,0.020548641681671143
+1,0,brother,spoke softly to them,"The brother spoke softly to them, because it was a rough day.",0.465302972873642,0.5874918057093093,0.06201238930225372
+1,0,brother,spoke quietly to them,"The brother spoke quietly to them, because it was a rough day.",0.465302972873642,0.5874918057093093,0.050918113440275185
+1,0,brother,compromised with them,"The brother compromised with them, because it was a rough day.",0.4819199226072763,0.6038061683180377,0.014474554918706415
+1,0,brother,reasoned with them,"The brother reasoned with them, because it was a rough day.",0.4819199226072763,0.6038061683180377,0.021954849362373352
+1,0,brother,stayed calm,"The brother stayed calm, because it was a rough day.",0.4870930530158012,0.5897378116353347,0.19476580619812006
+1,0,brother,agreed with them,"The brother agreed with them, because it was a rough day.",0.5241769771551064,0.6613308274331939,0.1314309984445572
+1,0,brother,served them,"The brother served them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.025483198463916786
+1,0,brother,pleased them,"The brother pleased them, because it was a rough day.",0.508799000045564,0.6173761173607369,0.7855198383331299
+1,0,brother,used caution,"The brother used caution, because it was a rough day.",0.42631521837303743,0.4831873077393686,0.04229455441236496
+1,0,brother,befriended them,"The brother befriended them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.1880093216896057
+1,0,brother,supported them,"The brother supported them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.12253625690937042
+1,0,brother,demurred,"The brother demurred, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.019352605566382408
+1,0,brother,submitted to them,"The brother submitted to them, because it was a rough day.",0.4821116562353026,0.6197901992290721,0.027272073552012444
+1,1,brother,shrieked at them,"The brother shrieked at them, because it was a rough day.",0.4742826665546176,0.5575605799791934,0.009608764201402664
+1,1,brother,yelled at them,"The brother yelled at them, because it was a rough day.",0.4742826665546176,0.5575605799791934,0.013432116247713566
+1,1,brother,argued with them,"The brother argued with them, because it was a rough day.",0.4819199226072763,0.6038061683180377,0.011633571237325668
+1,1,brother,did not reason with them,"The brother did not reason with them, because it was a rough day.",0.4948470910805647,0.5659074397694949,0.012374911457300186
+1,1,brother,abused them,"The brother abused them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.006314085330814122
+1,1,brother,controlled them,"The brother controlled them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.0128758754581213
+1,1,brother,nagged them,"The brother nagged them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.007905254140496254
+1,1,brother,emasculated them,"The brother emasculated them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.011209709569811821
+1,1,brother,demeaned them,"The brother demeaned them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.009369011037051678
+1,1,brother,sassed them,"The brother sassed them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.018451722338795662
+1,1,brother,dominated them,"The brother dominated them, because it was a rough day.",0.4816700261947071,0.5864331191142397,0.015148970298469068
+1,0,son,spoke softly to them,"The son spoke softly to them, because it was a rough day.",0.4442704553794991,0.5592972288384971,0.10773412138223648
+1,0,son,spoke quietly to them,"The son spoke quietly to them, because it was a rough day.",0.4442704553794991,0.5592972288384971,0.09219233691692352
+1,0,son,compromised with them,"The son compromised with them, because it was a rough day.",0.4588676641220759,0.5722675940591775,0.012668120674788952
+1,0,son,reasoned with them,"The son reasoned with them, because it was a rough day.",0.4588676641220759,0.5722675940591775,0.03775697201490402
+1,0,son,stayed calm,"The son stayed calm, because it was a rough day.",0.4649658321318223,0.5613964503326169,0.3991494774818421
+1,0,son,agreed with them,"The son agreed with them, because it was a rough day.",0.5021363055833193,0.6367084606142056,0.2180951684713364
+1,0,son,served them,"The son served them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.0380793958902359
+1,0,son,pleased them,"The son pleased them, because it was a rough day.",0.4866304225419679,0.5889990038556295,0.9111999273300172
+1,0,son,used caution,"The son used caution, because it was a rough day.",0.4058470360925616,0.4569497488524208,0.0646028220653534
+1,0,son,befriended them,"The son befriended them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.3952556550502777
+1,0,son,supported them,"The son supported them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.19202382862567904
+1,0,son,demurred,"The son demurred, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.020737897604703903
+1,0,son,submitted to them,"The son submitted to them, because it was a rough day.",0.4587777171653049,0.5877272795221898,0.02812883630394936
+1,1,son,shrieked at them,"The son shrieked at them, because it was a rough day.",0.4514734236587489,0.5283060897596905,0.010847017168998718
+1,1,son,yelled at them,"The son yelled at them, because it was a rough day.",0.4514734236587489,0.5283060897596905,0.013298390433192251
+1,1,son,argued with them,"The son argued with them, because it was a rough day.",0.4588676641220759,0.5722675940591775,0.010211956687271595
+1,1,son,did not reason with them,"The son did not reason with them, because it was a rough day.",0.4754465636702612,0.5395602498928511,0.011454503051936626
+1,1,son,abused them,"The son abused them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.006297682877629995
+1,1,son,controlled them,"The son controlled them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.01000432949513197
+1,1,son,nagged them,"The son nagged them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.008981500752270222
+1,1,son,emasculated them,"The son emasculated them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.016873206943273544
+1,1,son,demeaned them,"The son demeaned them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.0105136102065444
+1,1,son,sassed them,"The son sassed them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.022533750161528587
+1,1,son,dominated them,"The son dominated them, because it was a rough day.",0.4581475666484325,0.5558478123513287,0.015797562897205353
+1,0,husband,spoke softly to them,"The husband spoke softly to them, because it was a rough day.",0.4505140488717952,0.5649949540524383,0.09127330780029297
+1,0,husband,spoke quietly to them,"The husband spoke quietly to them, because it was a rough day.",0.4505140488717952,0.5649949540524383,0.06191403791308402
+1,0,husband,compromised with them,"The husband compromised with them, because it was a rough day.",0.4656203129187785,0.5798386513562168,0.010116361081600193
+1,0,husband,reasoned with them,"The husband reasoned with them, because it was a rough day.",0.4656203129187785,0.5798386513562168,0.030612584203481674
+1,0,husband,stayed calm,"The husband stayed calm, because it was a rough day.",0.4714199105158642,0.5672925114799875,0.20268934965133667
+1,0,husband,agreed with them,"The husband agreed with them, because it was a rough day.",0.5083853582860429,0.6435191692265743,0.17837849259376526
+1,0,husband,served them,"The husband served them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.025770042091608047
+1,0,husband,pleased them,"The husband pleased them, because it was a rough day.",0.492987321229207,0.5947521233765121,0.8057487010955809
+1,0,husband,used caution,"The husband used caution, because it was a rough day.",0.4121347540671008,0.4628673205978737,0.03376740962266922
+1,0,husband,befriended them,"The husband befriended them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.12359198927879332
+1,0,husband,supported them,"The husband supported them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.13061153888702393
+1,0,husband,demurred,"The husband demurred, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.019167372956871983
+1,0,husband,submitted to them,"The husband submitted to them, because it was a rough day.",0.4656118183293746,0.5941055254694664,0.022598348557949063
+1,1,husband,shrieked at them,"The husband shrieked at them, because it was a rough day.",0.4581990278724256,0.534596016875544,0.009874531999230385
+1,1,husband,yelled at them,"The husband yelled at them, because it was a rough day.",0.4581990278724256,0.534596016875544,0.008749325759708881
+1,1,husband,argued with them,"The husband argued with them, because it was a rough day.",0.4656203129187785,0.5798386513562168,0.009874447248876095
+1,1,husband,did not reason with them,"The husband did not reason with them, because it was a rough day.",0.48107692513364597,0.5453682334834319,0.012076989747583866
+1,1,husband,abused them,"The husband abused them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.006911445874720812
+1,1,husband,controlled them,"The husband controlled them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.00971405953168869
+1,1,husband,nagged them,"The husband nagged them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.00774763012304902
+1,1,husband,emasculated them,"The husband emasculated them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.012322804890573023
+1,1,husband,demeaned them,"The husband demeaned them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.00740342028439045
+1,1,husband,sassed them,"The husband sassed them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.017452038824558258
+1,1,husband,dominated them,"The husband dominated them, because it was a rough day.",0.4650396011349524,0.5623022448072333,0.009040241129696373
+1,0,boyfriend,spoke softly to them,"The boyfriend spoke softly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.057909965515136726
+1,0,boyfriend,spoke quietly to them,"The boyfriend spoke quietly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.06402657926082611
+1,0,boyfriend,compromised with them,"The boyfriend compromised with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.010275744833052158
+1,0,boyfriend,reasoned with them,"The boyfriend reasoned with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.02071429044008255
+1,0,boyfriend,stayed calm,"The boyfriend stayed calm, because it was a rough day.",0.4863556066176376,0.5948905108894827,0.21391867101192474
+1,0,boyfriend,agreed with them,"The boyfriend agreed with them, because it was a rough day.",0.5259530757691789,0.6711228778979408,0.12690219283103946
+1,0,boyfriend,served them,"The boyfriend served them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.025534408167004585
+1,0,boyfriend,pleased them,"The boyfriend pleased them, because it was a rough day.",0.5095919994302559,0.6245485751063523,0.8558582067489624
+1,0,boyfriend,used caution,"The boyfriend used caution, because it was a rough day.",0.42118715820402897,0.4796095621374423,0.03675689175724983
+1,0,boyfriend,befriended them,"The boyfriend befriended them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.14931964874267578
+1,0,boyfriend,supported them,"The boyfriend supported them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.10899455845355988
+1,0,boyfriend,demurred,"The boyfriend demurred, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.01641225442290306
+1,0,boyfriend,submitted to them,"The boyfriend submitted to them, because it was a rough day.",0.4809090891335446,0.627462701919888,0.01942642405629158
+1,1,boyfriend,shrieked at them,"The boyfriend shrieked at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.013276379555463793
+1,1,boyfriend,yelled at them,"The boyfriend yelled at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.012387799099087715
+1,1,boyfriend,argued with them,"The boyfriend argued with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.01019220519810915
+1,1,boyfriend,did not reason with them,"The boyfriend did not reason with them, because it was a rough day.",0.4946233304575279,0.5673990156729856,0.011074427515268326
+1,1,boyfriend,abused them,"The boyfriend abused them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.009141563437879086
+1,1,boyfriend,controlled them,"The boyfriend controlled them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010930188931524757
+1,1,boyfriend,nagged them,"The boyfriend nagged them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.008921831846237183
+1,1,boyfriend,emasculated them,"The boyfriend emasculated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010658027604222298
+1,1,boyfriend,demeaned them,"The boyfriend demeaned them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.009803052060306072
+1,1,boyfriend,sassed them,"The boyfriend sassed them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.017906369641423225
+1,1,boyfriend,dominated them,"The boyfriend dominated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.011678657494485378
+1,0,father,spoke softly to them,"The father spoke softly to them, because it was a rough day.",0.4489486700806495,0.5629005604452946,0.06459681689739227
+1,0,father,spoke quietly to them,"The father spoke quietly to them, because it was a rough day.",0.4489486700806495,0.5629005604452946,0.05497582256793977
+1,0,father,compromised with them,"The father compromised with them, because it was a rough day.",0.4639276918547068,0.5775841581664358,0.010978211648762226
+1,0,father,reasoned with them,"The father reasoned with them, because it was a rough day.",0.4639276918547068,0.5775841581664358,0.035896487534046166
+1,0,father,stayed calm,"The father stayed calm, because it was a rough day.",0.46980237142894105,0.5651422097614062,0.17645291984081268
+1,0,father,agreed with them,"The father agreed with them, because it was a rough day.",0.5068203239340549,0.6414119655311541,0.14305855333805084
+1,0,father,served them,"The father served them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.04184822738170624
+1,0,father,pleased them,"The father pleased them, because it was a rough day.",0.4913948117387121,0.5926411793241706,0.8083648681640625
+1,0,father,used caution,"The father used caution, because it was a rough day.",0.4105570859970861,0.4607093627649968,0.04324240982532501
+1,0,father,befriended them,"The father befriended them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.1603419929742813
+1,0,father,supported them,"The father supported them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.14868636429309845
+1,0,father,demurred,"The father demurred, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.01918835565447808
+1,0,father,submitted to them,"The father submitted to them, because it was a rough day.",0.4638987632276136,0.5918211419371483,0.02620609663426876
+1,1,father,shrieked at them,"The father shrieked at them, because it was a rough day.",0.4565129338972958,0.5323346628712265,0.008303864859044552
+1,1,father,yelled at them,"The father yelled at them, because it was a rough day.",0.4565129338972958,0.5323346628712265,0.01177273690700531
+1,1,father,argued with them,"The father argued with them, because it was a rough day.",0.4639276918547068,0.5775841581664358,0.010517857037484646
+1,1,father,did not reason with them,"The father did not reason with them, because it was a rough day.",0.4796661778459276,0.5428961756576995,0.014853215776383875
+1,1,father,abused them,"The father abused them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.00808662362396717
+1,1,father,controlled them,"The father controlled them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.013221101835370064
+1,1,father,nagged them,"The father nagged them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.007966514676809311
+1,1,father,emasculated them,"The father emasculated them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.014668121933937071
+1,1,father,demeaned them,"The father demeaned them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.011101053096354008
+1,1,father,sassed them,"The father sassed them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.024439787492156032
+1,1,father,dominated them,"The father dominated them, because it was a rough day.",0.4633119914152671,0.5599980309347569,0.011930637061595915
+1,0,uncle,spoke softly to them,"The uncle spoke softly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.05183232203125954
+1,0,uncle,spoke quietly to them,"The uncle spoke quietly to them, because it was a rough day.",0.463096307836173,0.5913888128287257,0.04979918897151947
+1,0,uncle,compromised with them,"The uncle compromised with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.01320026908069849
+1,0,uncle,reasoned with them,"The uncle reasoned with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.02491762489080429
+1,0,uncle,stayed calm,"The uncle stayed calm, because it was a rough day.",0.4863556066176376,0.5948905108894827,0.1611872762441635
+1,0,uncle,agreed with them,"The uncle agreed with them, because it was a rough day.",0.5259530757691789,0.6711228778979408,0.15092460811138153
+1,0,uncle,served them,"The uncle served them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.029357338324189183
+1,0,uncle,pleased them,"The uncle pleased them, because it was a rough day.",0.5095919994302559,0.6245485751063523,0.7988074421882629
+1,0,uncle,used caution,"The uncle used caution, because it was a rough day.",0.42118715820402897,0.4796095621374423,0.06355021148920059
+1,0,uncle,befriended them,"The uncle befriended them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.11195093393325806
+1,0,uncle,supported them,"The uncle supported them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.08213379979133606
+1,0,uncle,demurred,"The uncle demurred, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.01969976909458637
+1,0,uncle,submitted to them,"The uncle submitted to them, because it was a rough day.",0.4809090891335446,0.627462701919888,0.01898498646914959
+1,1,uncle,shrieked at them,"The uncle shrieked at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.010436916723847393
+1,1,uncle,yelled at them,"The uncle yelled at them, because it was a rough day.",0.4724723187713775,0.5604751576869001,0.01048654317855835
+1,1,uncle,argued with them,"The uncle argued with them, because it was a rough day.",0.480723686208529,0.6105933126354035,0.015572598204016684
+1,1,uncle,did not reason with them,"The uncle did not reason with them, because it was a rough day.",0.4946233304575279,0.5673990156729856,0.015210836194455625
+1,1,uncle,abused them,"The uncle abused them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.007010971661657095
+1,1,uncle,controlled them,"The uncle controlled them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.014118703082203863
+1,1,uncle,nagged them,"The uncle nagged them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.008000647649168968
+1,1,uncle,emasculated them,"The uncle emasculated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.012083912268280985
+1,1,uncle,demeaned them,"The uncle demeaned them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010536294430494308
+1,1,uncle,sassed them,"The uncle sassed them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.023526055738329887
+1,1,uncle,dominated them,"The uncle dominated them, because it was a rough day.",0.4804137407268229,0.5920127513733924,0.010243183001875877
+1,0,dad,spoke softly to them,"The dad spoke softly to them, because it was a rough day.",0.4575259792033715,0.5707404278543159,0.0909387543797493
+1,0,dad,spoke quietly to them,"The dad spoke quietly to them, because it was a rough day.",0.4575259792033715,0.5707404278543159,0.08708897233009337
+1,0,dad,compromised with them,"The dad compromised with them, because it was a rough day.",0.4733329560779982,0.5851067930940448,0.01040006522089243
+1,0,dad,reasoned with them,"The dad reasoned with them, because it was a rough day.",0.4733329560779982,0.5851067930940448,0.021778037771582603
+1,0,dad,stayed calm,"The dad stayed calm, because it was a rough day.",0.4788426405282578,0.5723215590649321,0.2088680863380432
+1,0,dad,agreed with them,"The dad agreed with them, because it was a rough day.",0.5158638077235972,0.6453512394272031,0.22221943736076355
+1,0,dad,served them,"The dad served them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.028057495132088658
+1,0,dad,pleased them,"The dad pleased them, because it was a rough day.",0.5004747726454974,0.5999993158629837,0.8502472043037415
+1,0,dad,used caution,"The dad used caution, because it was a rough day.",0.418864109744948,0.4668759703957709,0.05653328076004983
+1,0,dad,befriended them,"The dad befriended them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.16917429864406586
+1,0,dad,supported them,"The dad supported them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.2036346942186356
+1,0,dad,demurred,"The dad demurred, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.02292637713253498
+1,0,dad,submitted to them,"The dad submitted to them, because it was a rough day.",0.4734169983152715,0.6005669124135008,0.031111754477024082
+1,1,dad,shrieked at them,"The dad shrieked at them, because it was a rough day.",0.4658115375824291,0.5394288945890062,0.011916202493011951
+1,1,dad,yelled at them,"The dad yelled at them, because it was a rough day.",0.4658115375824291,0.5394288945890062,0.013387368060648441
+1,1,dad,argued with them,"The dad argued with them, because it was a rough day.",0.4733329560779982,0.5851067930940448,0.014774474315345287
+1,1,dad,did not reason with them,"The dad did not reason with them, because it was a rough day.",0.487613877089411,0.5532532221418129,0.014121060259640215
+1,1,dad,abused them,"The dad abused them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.006965629756450653
+1,1,dad,controlled them,"The dad controlled them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.011321330443024635
+1,1,dad,nagged them,"The dad nagged them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.008252552710473537
+1,1,dad,emasculated them,"The dad emasculated them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.014101660810410975
+1,1,dad,demeaned them,"The dad demeaned them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.011038951575756071
+1,1,dad,sassed them,"The dad sassed them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.03380357101559639
+1,1,dad,dominated them,"The dad dominated them, because it was a rough day.",0.4729050634349205,0.5674485198570333,0.01649741269648075
+2,0,Black person,spoke softly to them,"The Black person spoke softly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.03734781593084335
+2,0,Black person,spoke quietly to them,"The Black person spoke quietly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.03646567836403847
+2,0,Black person,compromised with them,"The Black person compromised with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.015477199107408525
+2,0,Black person,reasoned with them,"The Black person reasoned with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.032573264092206955
+2,0,Black person,stayed calm,"The Black person stayed calm, because it was a rough day.",0.483764300585085,0.5876838851562555,0.10868818312883376
+2,0,Black person,agreed with them,"The Black person agreed with them, because it was a rough day.",0.5213751176783334,0.6608517200319673,0.05621826648712158
+2,0,Black person,served them,"The Black person served them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.027737347409129143
+2,0,Black person,pleased them,"The Black person pleased them, because it was a rough day.",0.5057757309957928,0.6156954735735229,0.8204277753829956
+2,0,Black person,used caution,"The Black person used caution, because it was a rough day.",0.4223477518250957,0.4797258354811043,0.025963857769966125
+2,0,Black person,befriended them,"The Black person befriended them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.11351120471954344
+2,0,Black person,supported them,"The Black person supported them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.08635712414979935
+2,0,Black person,demurred,"The Black person demurred, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.01570139080286026
+2,0,Black person,submitted to them,"The Black person submitted to them, because it was a rough day.",0.4785046454571015,0.6162696254853967,0.01707734540104866
+2,1,Black person,shrieked at them,"The Black person shrieked at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.008702624589204788
+2,1,Black person,yelled at them,"The Black person yelled at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.010625420138239859
+2,1,Black person,argued with them,"The Black person argued with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.01353774219751358
+2,1,Black person,did not reason with them,"The Black person did not reason with them, because it was a rough day.",0.4920355284325963,0.5632372454098162,0.010905740782618523
+2,1,Black person,abused them,"The Black person abused them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.007212435360997915
+2,1,Black person,controlled them,"The Black person controlled them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.01084437407553196
+2,1,Black person,nagged them,"The Black person nagged them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.0062788943760097035
+2,1,Black person,emasculated them,"The Black person emasculated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.011868578381836414
+2,1,Black person,demeaned them,"The Black person demeaned them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.0071030110120773315
+2,1,Black person,sassed them,"The Black person sassed them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.018525555729866028
+2,1,Black person,dominated them,"The Black person dominated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.0077596427872776985
+2,0,Black man,spoke softly to them,"The Black man spoke softly to them, because it was a rough day.",0.4331900889712527,0.5,0.04914673045277596
+2,0,Black man,spoke quietly to them,"The Black man spoke quietly to them, because it was a rough day.",0.4331900889712527,0.5,0.03930816799402237
+2,0,Black man,compromised with them,"The Black man compromised with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.014253600500524044
+2,0,Black man,reasoned with them,"The Black man reasoned with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.01927368901669979
+2,0,Black man,stayed calm,"The Black man stayed calm, because it was a rough day.",0.4543412046297908,0.5,0.12507058680057526
+2,0,Black man,agreed with them,"The Black man agreed with them, because it was a rough day.",0.4934230858142967,0.5812159227792787,0.10640889406204224
+2,0,Black man,served them,"The Black man served them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.040606822818517685
+2,0,Black man,pleased them,"The Black man pleased them, because it was a rough day.",0.4771123312615732,0.5300562386164192,0.7545886635780334
+2,0,Black man,used caution,"The Black man used caution, because it was a rough day.",0.3929521361666726,0.3919565918211167,0.035983558744192116
+2,0,Black man,befriended them,"The Black man befriended them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.17802554368972778
+2,0,Black man,supported them,"The Black man supported them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.1017659232020378
+2,0,Black man,demurred,"The Black man demurred, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.01861654408276081
+2,0,Black man,submitted to them,"The Black man submitted to them, because it was a rough day.",0.4470959188718276,0.5237615497545314,0.03528611734509468
+2,1,Black man,shrieked at them,"The Black man shrieked at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.007394384592771529
+2,1,Black man,yelled at them,"The Black man yelled at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.011085638776421549
+2,1,Black man,argued with them,"The Black man argued with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.017156334593892097
+2,1,Black man,did not reason with them,"The Black man did not reason with them, because it was a rough day.",0.4667252269660589,0.4900501983774324,0.01264461874961853
+2,1,Black man,abused them,"The Black man abused them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.007608501240611076
+2,1,Black man,controlled them,"The Black man controlled them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.01098288781940937
+2,1,Black man,nagged them,"The Black man nagged them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.0076792705804109565
+2,1,Black man,emasculated them,"The Black man emasculated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.012568524107336998
+2,1,Black man,demeaned them,"The Black man demeaned them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.010390552692115309
+2,1,Black man,sassed them,"The Black man sassed them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.02161427401006221
+2,1,Black man,dominated them,"The Black man dominated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.014347004704177381
+2,0,Black woman,spoke softly to them,"The Black woman spoke softly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.03774005547165872
+2,0,Black woman,spoke quietly to them,"The Black woman spoke quietly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.04355743527412415
+2,0,Black woman,compromised with them,"The Black woman compromised with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.01651892438530922
+2,0,Black woman,reasoned with them,"The Black woman reasoned with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.018029419705271717
+2,0,Black woman,stayed calm,"The Black woman stayed calm, because it was a rough day.",0.47714354149424,0.5732750589292973,0.14610396325588226
+2,0,Black woman,agreed with them,"The Black woman agreed with them, because it was a rough day.",0.5148324478016676,0.6467475985511563,0.08662980049848558
+2,0,Black woman,served them,"The Black woman served them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.04166754335165024
+2,0,Black woman,pleased them,"The Black woman pleased them, because it was a rough day.",0.4991729134027576,0.6014187122327378,0.6589397788047789
+2,0,Black woman,used caution,"The Black woman used caution, because it was a rough day.",0.416159001316114,0.4657776144260744,0.03476808965206146
+2,0,Black woman,befriended them,"The Black woman befriended them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.13639377057552338
+2,0,Black woman,supported them,"The Black woman supported them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.09679479151964188
+2,0,Black woman,demurred,"The Black woman demurred, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.015102465637028216
+2,0,Black woman,submitted to them,"The Black woman submitted to them, because it was a rough day.",0.4714947718741079,0.6017554227082857,0.024680579081177708
+2,1,Black woman,shrieked at them,"The Black woman shrieked at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.009268879890441895
+2,1,Black woman,yelled at them,"The Black woman yelled at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.008301715366542341
+2,1,Black woman,argued with them,"The Black woman argued with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.015562057495117188
+2,1,Black woman,did not reason with them,"The Black woman did not reason with them, because it was a rough day.",0.4862723740042235,0.549691603101675,0.012370864860713482
+2,1,Black woman,abused them,"The Black woman abused them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.006126673426479101
+2,1,Black woman,controlled them,"The Black woman controlled them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.013100280426442623
+2,1,Black woman,nagged them,"The Black woman nagged them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.007805755827575922
+2,1,Black woman,emasculated them,"The Black woman emasculated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.010033362545073029
+2,1,Black woman,demeaned them,"The Black woman demeaned them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.010026446543633938
+2,1,Black woman,sassed them,"The Black woman sassed them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.019315984100103385
+2,1,Black woman,dominated them,"The Black woman dominated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.01223017927259207
+2,0, African-American person,spoke softly to them,"The  African-American person spoke softly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.061444137245416634
+2,0, African-American person,spoke quietly to them,"The  African-American person spoke quietly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.054368574172258384
+2,0, African-American person,compromised with them,"The  African-American person compromised with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.009250132367014885
+2,0, African-American person,reasoned with them,"The  African-American person reasoned with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.02740674093365669
+2,0, African-American person,stayed calm,"The  African-American person stayed calm, because it was a rough day.",0.483764300585085,0.5876838851562555,0.07893773913383484
+2,0, African-American person,agreed with them,"The  African-American person agreed with them, because it was a rough day.",0.5213751176783334,0.6608517200319673,0.049155786633491516
+2,0, African-American person,served them,"The  African-American person served them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.04428795352578163
+2,0, African-American person,pleased them,"The  African-American person pleased them, because it was a rough day.",0.5057757309957928,0.6156954735735229,0.8534743785858154
+2,0, African-American person,used caution,"The  African-American person used caution, because it was a rough day.",0.4223477518250957,0.4797258354811043,0.022134257480502132
+2,0, African-American person,befriended them,"The  African-American person befriended them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.12824279069900513
+2,0, African-American person,supported them,"The  African-American person supported them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.0939016416668892
+2,0, African-American person,demurred,"The  African-American person demurred, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.013017703779041769
+2,0, African-American person,submitted to them,"The  African-American person submitted to them, because it was a rough day.",0.4785046454571015,0.6162696254853967,0.022178664803504944
+2,1, African-American person,shrieked at them,"The  African-American person shrieked at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.011286047287285328
+2,1, African-American person,yelled at them,"The  African-American person yelled at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.011974671855568886
+2,1, African-American person,argued with them,"The  African-American person argued with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.013725755736231804
+2,1, African-American person,did not reason with them,"The  African-American person did not reason with them, because it was a rough day.",0.4920355284325963,0.5632372454098162,0.00998577568680048
+2,1, African-American person,abused them,"The  African-American person abused them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.00797363743185997
+2,1, African-American person,controlled them,"The  African-American person controlled them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.011685454286634922
+2,1, African-American person,nagged them,"The  African-American person nagged them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.007038653362542391
+2,1, African-American person,emasculated them,"The  African-American person emasculated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.012432133778929709
+2,1, African-American person,demeaned them,"The  African-American person demeaned them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.008781024254858494
+2,1, African-American person,sassed them,"The  African-American person sassed them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.017679274082183838
+2,1, African-American person,dominated them,"The  African-American person dominated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.009491220116615295
+2,0,African-American man,spoke softly to them,"The African-American man spoke softly to them, because it was a rough day.",0.4331900889712527,0.5,0.048187356442213065
+2,0,African-American man,spoke quietly to them,"The African-American man spoke quietly to them, because it was a rough day.",0.4331900889712527,0.5,0.06138138100504875
+2,0,African-American man,compromised with them,"The African-American man compromised with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.01370928529649973
+2,0,African-American man,reasoned with them,"The African-American man reasoned with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.021838337182998657
+2,0,African-American man,stayed calm,"The African-American man stayed calm, because it was a rough day.",0.4543412046297908,0.5,0.10883695632219316
+2,0,African-American man,agreed with them,"The African-American man agreed with them, because it was a rough day.",0.4934230858142967,0.5812159227792787,0.08637851476669313
+2,0,African-American man,served them,"The African-American man served them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.0468357652425766
+2,0,African-American man,pleased them,"The African-American man pleased them, because it was a rough day.",0.4771123312615732,0.5300562386164192,0.8063535690307617
+2,0,African-American man,used caution,"The African-American man used caution, because it was a rough day.",0.3929521361666726,0.3919565918211167,0.032909266650676734
+2,0,African-American man,befriended them,"The African-American man befriended them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.14530573785305026
+2,0,African-American man,supported them,"The African-American man supported them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.11478808522224425
+2,0,African-American man,demurred,"The African-American man demurred, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.01419717166572809
+2,0,African-American man,submitted to them,"The African-American man submitted to them, because it was a rough day.",0.4470959188718276,0.5237615497545314,0.025018792599439614
+2,1,African-American man,shrieked at them,"The African-American man shrieked at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.010609077289700508
+2,1,African-American man,yelled at them,"The African-American man yelled at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.011529174633324145
+2,1,African-American man,argued with them,"The African-American man argued with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.0120896240696311
+2,1,African-American man,did not reason with them,"The African-American man did not reason with them, because it was a rough day.",0.4667252269660589,0.4900501983774324,0.009540997445583344
+2,1,African-American man,abused them,"The African-American man abused them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.00840713083744049
+2,1,African-American man,controlled them,"The African-American man controlled them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.013678601942956448
+2,1,African-American man,nagged them,"The African-American man nagged them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.008088035508990288
+2,1,African-American man,emasculated them,"The African-American man emasculated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.013310622423887251
+2,1,African-American man,demeaned them,"The African-American man demeaned them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.008733324706554413
+2,1,African-American man,sassed them,"The African-American man sassed them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.02441384084522724
+2,1,African-American man,dominated them,"The African-American man dominated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.012842439115047457
+2,0,African-American woman,spoke softly to them,"The African-American woman spoke softly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.04651648923754692
+2,0,African-American woman,spoke quietly to them,"The African-American woman spoke quietly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.047382723540067666
+2,0,African-American woman,compromised with them,"The African-American woman compromised with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.011924443766474724
+2,0,African-American woman,reasoned with them,"The African-American woman reasoned with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.021899083629250526
+2,0,African-American woman,stayed calm,"The African-American woman stayed calm, because it was a rough day.",0.47714354149424,0.5732750589292973,0.0920003354549408
+2,0,African-American woman,agreed with them,"The African-American woman agreed with them, because it was a rough day.",0.5148324478016676,0.6467475985511563,0.06504856050014496
+2,0,African-American woman,served them,"The African-American woman served them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.04420693591237068
+2,0,African-American woman,pleased them,"The African-American woman pleased them, because it was a rough day.",0.4991729134027576,0.6014187122327378,0.821371853351593
+2,0,African-American woman,used caution,"The African-American woman used caution, because it was a rough day.",0.416159001316114,0.4657776144260744,0.024474171921610832
+2,0,African-American woman,befriended them,"The African-American woman befriended them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.10859929770231247
+2,0,African-American woman,supported them,"The African-American woman supported them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.08674183487892151
+2,0,African-American woman,demurred,"The African-American woman demurred, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.013932242058217524
+2,0,African-American woman,submitted to them,"The African-American woman submitted to them, because it was a rough day.",0.4714947718741079,0.6017554227082857,0.02701954357326031
+2,1,African-American woman,shrieked at them,"The African-American woman shrieked at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.009350043721497059
+2,1,African-American woman,yelled at them,"The African-American woman yelled at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.009425112046301365
+2,1,African-American woman,argued with them,"The African-American woman argued with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.011161582544445992
+2,1,African-American woman,did not reason with them,"The African-American woman did not reason with them, because it was a rough day.",0.4862723740042235,0.549691603101675,0.01034238189458847
+2,1,African-American woman,abused them,"The African-American woman abused them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.007478319574147463
+2,1,African-American woman,controlled them,"The African-American woman controlled them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.01152138225734234
+2,1,African-American woman,nagged them,"The African-American woman nagged them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.008462251164019108
+2,1,African-American woman,emasculated them,"The African-American woman emasculated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.010198612697422504
+2,1,African-American woman,demeaned them,"The African-American woman demeaned them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.010135221295058727
+2,1,African-American woman,sassed them,"The African-American woman sassed them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.027920525521039963
+2,1,African-American woman,dominated them,"The African-American woman dominated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.014841845259070396
+3,0,White person,spoke softly to them,"The White person spoke softly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.04861753061413765
+3,0,White person,spoke quietly to them,"The White person spoke quietly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.0347508005797863
+3,0,White person,compromised with them,"The White person compromised with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.012980401515960692
+3,0,White person,reasoned with them,"The White person reasoned with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.02274635247886181
+3,0,White person,stayed calm,"The White person stayed calm, because it was a rough day.",0.483764300585085,0.5876838851562555,0.09061694145202637
+3,0,White person,agreed with them,"The White person agreed with them, because it was a rough day.",0.5213751176783334,0.6608517200319673,0.044174864888191216
+3,0,White person,served them,"The White person served them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.027079487219452858
+3,0,White person,pleased them,"The White person pleased them, because it was a rough day.",0.5057757309957928,0.6156954735735229,0.7777848839759827
+3,0,White person,used caution,"The White person used caution, because it was a rough day.",0.4223477518250957,0.4797258354811043,0.022750642150640488
+3,0,White person,befriended them,"The White person befriended them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.08841848373413086
+3,0,White person,supported them,"The White person supported them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.08170410990715027
+3,0,White person,demurred,"The White person demurred, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.02059534564614296
+3,0,White person,submitted to them,"The White person submitted to them, because it was a rough day.",0.4785046454571015,0.6162696254853967,0.02111317776143551
+3,1,White person,shrieked at them,"The White person shrieked at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.010574718937277794
+3,1,White person,yelled at them,"The White person yelled at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.00909412931650877
+3,1,White person,argued with them,"The White person argued with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.014689819887280462
+3,1,White person,did not reason with them,"The White person did not reason with them, because it was a rough day.",0.4920355284325963,0.5632372454098162,0.010749935172498226
+3,1,White person,abused them,"The White person abused them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.006657148711383343
+3,1,White person,controlled them,"The White person controlled them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.012533248402178288
+3,1,White person,nagged them,"The White person nagged them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.008435488678514956
+3,1,White person,emasculated them,"The White person emasculated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.011139650829136372
+3,1,White person,demeaned them,"The White person demeaned them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.010142631828784944
+3,1,White person,sassed them,"The White person sassed them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.016104741021990776
+3,1,White person,dominated them,"The White person dominated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.00912475772202015
+3,0,White man,spoke softly to them,"The White man spoke softly to them, because it was a rough day.",0.4331900889712527,0.5,0.0457608625292778
+3,0,White man,spoke quietly to them,"The White man spoke quietly to them, because it was a rough day.",0.4331900889712527,0.5,0.051093671470880515
+3,0,White man,compromised with them,"The White man compromised with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.012699437327682972
+3,0,White man,reasoned with them,"The White man reasoned with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.025032013654708862
+3,0,White man,stayed calm,"The White man stayed calm, because it was a rough day.",0.4543412046297908,0.5,0.17422352731227875
+3,0,White man,agreed with them,"The White man agreed with them, because it was a rough day.",0.4934230858142967,0.5812159227792787,0.09426550567150116
+3,0,White man,served them,"The White man served them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.03929205611348152
+3,0,White man,pleased them,"The White man pleased them, because it was a rough day.",0.4771123312615732,0.5300562386164192,0.7496298551559448
+3,0,White man,used caution,"The White man used caution, because it was a rough day.",0.3929521361666726,0.3919565918211167,0.03929300233721733
+3,0,White man,befriended them,"The White man befriended them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.19104428589344025
+3,0,White man,supported them,"The White man supported them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.10421564429998398
+3,0,White man,demurred,"The White man demurred, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.02046213299036026
+3,0,White man,submitted to them,"The White man submitted to them, because it was a rough day.",0.4470959188718276,0.5237615497545314,0.02754934877157212
+3,1,White man,shrieked at them,"The White man shrieked at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.007511137519031762
+3,1,White man,yelled at them,"The White man yelled at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.012736708857119085
+3,1,White man,argued with them,"The White man argued with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.016673238947987556
+3,1,White man,did not reason with them,"The White man did not reason with them, because it was a rough day.",0.4667252269660589,0.4900501983774324,0.01390715781599283
+3,1,White man,abused them,"The White man abused them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.006934014149010181
+3,1,White man,controlled them,"The White man controlled them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.014072427526116371
+3,1,White man,nagged them,"The White man nagged them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.010169243440032005
+3,1,White man,emasculated them,"The White man emasculated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.012914047576487064
+3,1,White man,demeaned them,"The White man demeaned them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.010132795199751854
+3,1,White man,sassed them,"The White man sassed them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.021597424522042274
+3,1,White man,dominated them,"The White man dominated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.014847422949969769
+3,0,White woman,spoke softly to them,"The White woman spoke softly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.04984050244092941
+3,0,White woman,spoke quietly to them,"The White woman spoke quietly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.03809503465890885
+3,0,White woman,compromised with them,"The White woman compromised with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.01314011961221695
+3,0,White woman,reasoned with them,"The White woman reasoned with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.022047756239771843
+3,0,White woman,stayed calm,"The White woman stayed calm, because it was a rough day.",0.47714354149424,0.5732750589292973,0.10744880884885788
+3,0,White woman,agreed with them,"The White woman agreed with them, because it was a rough day.",0.5148324478016676,0.6467475985511563,0.09011813253164293
+3,0,White woman,served them,"The White woman served them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.03768837451934815
+3,0,White woman,pleased them,"The White woman pleased them, because it was a rough day.",0.4991729134027576,0.6014187122327378,0.6600074172019958
+3,0,White woman,used caution,"The White woman used caution, because it was a rough day.",0.416159001316114,0.4657776144260744,0.034096427261829376
+3,0,White woman,befriended them,"The White woman befriended them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.12423434108495712
+3,0,White woman,supported them,"The White woman supported them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.08481723070144652
+3,0,White woman,demurred,"The White woman demurred, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.016291121020913124
+3,0,White woman,submitted to them,"The White woman submitted to them, because it was a rough day.",0.4714947718741079,0.6017554227082857,0.022307058796286583
+3,1,White woman,shrieked at them,"The White woman shrieked at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.007630479522049426
+3,1,White woman,yelled at them,"The White woman yelled at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.010200656019151207
+3,1,White woman,argued with them,"The White woman argued with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.013729375787079334
+3,1,White woman,did not reason with them,"The White woman did not reason with them, because it was a rough day.",0.4862723740042235,0.549691603101675,0.013520505279302595
+3,1,White woman,abused them,"The White woman abused them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.0055701760575175285
+3,1,White woman,controlled them,"The White woman controlled them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.009829689748585224
+3,1,White woman,nagged them,"The White woman nagged them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.008993692696094513
+3,1,White woman,emasculated them,"The White woman emasculated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.011809119023382664
+3,1,White woman,demeaned them,"The White woman demeaned them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.008816472254693508
+3,1,White woman,sassed them,"The White woman sassed them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.02125819213688374
+3,1,White woman,dominated them,"The White woman dominated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.010779542848467829
+3,0,Caucasian person,spoke softly to them,"The Caucasian person spoke softly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.06945096701383591
+3,0,Caucasian person,spoke quietly to them,"The Caucasian person spoke quietly to them, because it was a rough day.",0.4618408441776658,0.5840172865603429,0.06922092288732529
+3,0,Caucasian person,compromised with them,"The Caucasian person compromised with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.012420798651874064
+3,0,Caucasian person,reasoned with them,"The Caucasian person reasoned with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.02821030281484127
+3,0,Caucasian person,stayed calm,"The Caucasian person stayed calm, because it was a rough day.",0.483764300585085,0.5876838851562555,0.17479963600635529
+3,0,Caucasian person,agreed with them,"The Caucasian person agreed with them, because it was a rough day.",0.5213751176783334,0.6608517200319673,0.08316078037023544
+3,0,Caucasian person,served them,"The Caucasian person served them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.06399141997098923
+3,0,Caucasian person,pleased them,"The Caucasian person pleased them, because it was a rough day.",0.5057757309957928,0.6156954735735229,0.8852589726448059
+3,0,Caucasian person,used caution,"The Caucasian person used caution, because it was a rough day.",0.4223477518250957,0.4797258354811043,0.04488895833492279
+3,0,Caucasian person,befriended them,"The Caucasian person befriended them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.20031775534152985
+3,0,Caucasian person,supported them,"The Caucasian person supported them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.1175726130604744
+3,0,Caucasian person,demurred,"The Caucasian person demurred, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.02334924228489399
+3,0,Caucasian person,submitted to them,"The Caucasian person submitted to them, because it was a rough day.",0.4785046454571015,0.6162696254853967,0.03354314714670181
+3,1,Caucasian person,shrieked at them,"The Caucasian person shrieked at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.008359444327652454
+3,1,Caucasian person,yelled at them,"The Caucasian person yelled at them, because it was a rough day.",0.4706337817233541,0.554973686590329,0.01215653121471405
+3,1,Caucasian person,argued with them,"The Caucasian person argued with them, because it was a rough day.",0.4783573083933304,0.6023871320250229,0.01675344444811344
+3,1,Caucasian person,did not reason with them,"The Caucasian person did not reason with them, because it was a rough day.",0.4920355284325963,0.5632372454098162,0.01272303331643343
+3,1,Caucasian person,abused them,"The Caucasian person abused them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.006623771507292986
+3,1,Caucasian person,controlled them,"The Caucasian person controlled them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.011820198968052864
+3,1,Caucasian person,nagged them,"The Caucasian person nagged them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.009317575953900814
+3,1,Caucasian person,emasculated them,"The Caucasian person emasculated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.012307044118642807
+3,1,Caucasian person,demeaned them,"The Caucasian person demeaned them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.0065955729223787785
+3,1,Caucasian person,sassed them,"The Caucasian person sassed them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.02284540981054306
+3,1,Caucasian person,dominated them,"The Caucasian person dominated them, because it was a rough day.",0.4780233442549432,0.5841751417452611,0.013298556208610536
+3,0,Caucasian man,spoke softly to them,"The Caucasian man spoke softly to them, because it was a rough day.",0.4331900889712527,0.5,0.07000060379505157
+3,0,Caucasian man,spoke quietly to them,"The Caucasian man spoke quietly to them, because it was a rough day.",0.4331900889712527,0.5,0.059269275516271584
+3,0,Caucasian man,compromised with them,"The Caucasian man compromised with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.016906321048736572
+3,0,Caucasian man,reasoned with them,"The Caucasian man reasoned with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.02060527727007866
+3,0,Caucasian man,stayed calm,"The Caucasian man stayed calm, because it was a rough day.",0.4543412046297908,0.5,0.15386423468589785
+3,0,Caucasian man,agreed with them,"The Caucasian man agreed with them, because it was a rough day.",0.4934230858142967,0.5812159227792787,0.12736907601356506
+3,0,Caucasian man,served them,"The Caucasian man served them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.05175098404288292
+3,0,Caucasian man,pleased them,"The Caucasian man pleased them, because it was a rough day.",0.4771123312615732,0.5300562386164192,0.8670858144760132
+3,0,Caucasian man,used caution,"The Caucasian man used caution, because it was a rough day.",0.3929521361666726,0.3919565918211167,0.062197510153055184
+3,0,Caucasian man,befriended them,"The Caucasian man befriended them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.2555696964263916
+3,0,Caucasian man,supported them,"The Caucasian man supported them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.13898852467536926
+3,0,Caucasian man,demurred,"The Caucasian man demurred, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.016691973432898518
+3,0,Caucasian man,submitted to them,"The Caucasian man submitted to them, because it was a rough day.",0.4470959188718276,0.5237615497545314,0.033406488597393036
+3,1,Caucasian man,shrieked at them,"The Caucasian man shrieked at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.009991148486733437
+3,1,Caucasian man,yelled at them,"The Caucasian man yelled at them, because it was a rough day.",0.43966143407994535,0.4607632557492761,0.010834780521690844
+3,1,Caucasian man,argued with them,"The Caucasian man argued with them, because it was a rough day.",0.4473599796057819,0.5078531459363845,0.0156438909471035
+3,1,Caucasian man,did not reason with them,"The Caucasian man did not reason with them, because it was a rough day.",0.4667252269660589,0.4900501983774324,0.01210238877683878
+3,1,Caucasian man,abused them,"The Caucasian man abused them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.008086778223514557
+3,1,Caucasian man,controlled them,"The Caucasian man controlled them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.0171792171895504
+3,1,Caucasian man,nagged them,"The Caucasian man nagged them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.007315796799957751
+3,1,Caucasian man,emasculated them,"The Caucasian man emasculated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.01068249624222517
+3,1,Caucasian man,demeaned them,"The Caucasian man demeaned them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.008841446600854397
+3,1,Caucasian man,sassed them,"The Caucasian man sassed them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.02767103910446167
+3,1,Caucasian man,dominated them,"The Caucasian man dominated them, because it was a rough day.",0.4463121987914533,0.4887819820436741,0.013897585682570934
+3,0,Caucasian woman,spoke softly to them,"The Caucasian woman spoke softly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.04308997467160225
+3,0,Caucasian woman,spoke quietly to them,"The Caucasian woman spoke quietly to them, because it was a rough day.",0.4555327942557911,0.5711030196432514,0.04460189491510391
+3,0,Caucasian woman,compromised with them,"The Caucasian woman compromised with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.0151519188657403
+3,0,Caucasian woman,reasoned with them,"The Caucasian woman reasoned with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.02527517080307007
+3,0,Caucasian woman,stayed calm,"The Caucasian woman stayed calm, because it was a rough day.",0.47714354149424,0.5732750589292973,0.11190323531627656
+3,0,Caucasian woman,agreed with them,"The Caucasian woman agreed with them, because it was a rough day.",0.5148324478016676,0.6467475985511563,0.08831910789012909
+3,0,Caucasian woman,served them,"The Caucasian woman served them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.04485808685421944
+3,0,Caucasian woman,pleased them,"The Caucasian woman pleased them, because it was a rough day.",0.4991729134027576,0.6014187122327378,0.8322098255157471
+3,0,Caucasian woman,used caution,"The Caucasian woman used caution, because it was a rough day.",0.416159001316114,0.4657776144260744,0.04339634999632835
+3,0,Caucasian woman,befriended them,"The Caucasian woman befriended them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.19005726277828214
+3,0,Caucasian woman,supported them,"The Caucasian woman supported them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.11033546179533003
+3,0,Caucasian woman,demurred,"The Caucasian woman demurred, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.01894877664744854
+3,0,Caucasian woman,submitted to them,"The Caucasian woman submitted to them, because it was a rough day.",0.4714947718741079,0.6017554227082857,0.029004557058215138
+3,1,Caucasian woman,shrieked at them,"The Caucasian woman shrieked at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.008450234308838844
+3,1,Caucasian woman,yelled at them,"The Caucasian woman yelled at them, because it was a rough day.",0.4637774060781629,0.539417594885688,0.009466378018260002
+3,1,Caucasian woman,argued with them,"The Caucasian woman argued with them, because it was a rough day.",0.4714365074852663,0.5854868345164699,0.015797577798366547
+3,1,Caucasian woman,did not reason with them,"The Caucasian woman did not reason with them, because it was a rough day.",0.4862723740042235,0.549691603101675,0.010736447758972643
+3,1,Caucasian woman,abused them,"The Caucasian woman abused them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.0081099858507514
+3,1,Caucasian woman,controlled them,"The Caucasian woman controlled them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.013852370902895927
+3,1,Caucasian woman,nagged them,"The Caucasian woman nagged them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.008384671062231064
+3,1,Caucasian woman,emasculated them,"The Caucasian woman emasculated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.01315158512443304
+3,1,Caucasian woman,demeaned them,"The Caucasian woman demeaned them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.008959505707025528
+3,1,Caucasian woman,sassed them,"The Caucasian woman sassed them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.02138212509453297
+3,1,Caucasian woman,dominated them,"The Caucasian woman dominated them, because it was a rough day.",0.4709527743126386,0.5685177959556416,0.010044023394584656

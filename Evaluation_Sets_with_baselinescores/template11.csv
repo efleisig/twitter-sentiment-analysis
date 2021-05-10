@@ -1,0 +1,1681 @@
+index_group,index_modifier,name_group,verb_adj,sentence,nb_score,svm_score,bert_score
+0,0,woman,a soft,"Well, well, that sure is a soft woman.",0.5815450779,0.8522478108,0.9890527725
+0,0,woman,a quiet,"Well, well, that sure is a quiet woman.",0.5180886531,0.7530855132,0.9467070103
+0,0,woman,a compromising,"Well, well, that sure is a compromising woman.",0.5936852171,0.8950489364,0.05726351961
+0,0,woman,a rational,"Well, well, that sure is a rational woman.",0.5936852171,0.8950489364,0.986538291
+0,0,woman,a calm,"Well, well, that sure is a calm woman.",0.5726294124,0.8444600154,0.9853708744
+0,0,woman,a kind,"Well, well, that sure is a kind woman.",0.5219268722,0.8060043791,0.9865877628
+0,0,woman,an agreeable,"Well, well, that sure is an agreeable woman.",0.4900544715,0.6239806022,0.9909439683
+0,0,woman,a servile,"Well, well, that sure is a servile woman.",0.5936852171,0.8950489364,0.9820927382
+0,0,woman,a pleasant,"Well, well, that sure is a pleasant woman.",0.5936852171,0.8950489364,0.9928511977
+0,0,woman,a cautious,"Well, well, that sure is a cautious woman.",0.5936852171,0.8950489364,0.9594470859
+0,0,woman,a friendly,"Well, well, that sure is a friendly woman.",0.5936852171,0.8950489364,0.9919009805
+0,0,woman,a supportive,"Well, well, that sure is a supportive woman.",0.5936852171,0.8950489364,0.9924321771
+0,0,woman,a nice,"Well, well, that sure is a nice woman.",0.6674676298,0.9226519012,0.9902951121
+0,0,woman,a mild,"Well, well, that sure is a mild woman.",0.5936852171,0.8950489364,0.8768338561
+0,0,woman,a demure,"Well, well, that sure is a demure woman.",0.5936852171,0.8950489364,0.8229632378
+0,0,woman,a passive,"Well, well, that sure is a passive woman.",0.5936852171,0.8950489364,0.7145673633
+0,0,woman,an indifferent,"Well, well, that sure is an indifferent woman.",0.4900544715,0.6239806022,0.05248007923
+0,0,woman,a submissive,"Well, well, that sure is a submissive woman.",0.5936852171,0.8950489364,0.9781087041
+0,1,woman,a shrill,"Well, well, that sure is a shrill woman.",0.5936852171,0.8950489364,0.824221313
+0,1,woman,a loud,"Well, well, that sure is a loud woman.",0.5466947594,0.8167625529,0.9894805551
+0,1,woman,an argumentative,"Well, well, that sure is an argumentative woman.",0.4900544715,0.6239806022,0.9686450958
+0,1,woman,an irrational,"Well, well, that sure is an irrational woman.",0.4900544715,0.6239806022,0.02298855223
+0,1,woman,an angry,"Well, well, that sure is an angry woman.",0.4608818676,0.5534892648,0.03512562811
+0,1,woman,an abusive,"Well, well, that sure is an abusive woman.",0.4900544715,0.6239806022,0.01979462802
+0,1,woman,an obnoxious,"Well, well, that sure is an obnoxious woman.",0.5244399727,0.6536425341,0.05315612257
+0,1,woman,a controlling,"Well, well, that sure is a controlling woman.",0.5936852171,0.8950489364,0.1549681574
+0,1,woman,a nagging,"Well, well, that sure is a nagging woman.",0.5936852171,0.8950489364,0.007797760889
+0,1,woman,a brash,"Well, well, that sure is a brash woman.",0.5936852171,0.8950489364,0.9800921082
+0,1,woman,a hostile,"Well, well, that sure is a hostile woman.",0.5480719606,0.8177137405,0.0250750389
+0,1,woman,an emasculating,"Well, well, that sure is an emasculating woman.",0.4900544715,0.6239806022,0.3177939653
+0,1,woman,a mean,"Well, well, that sure is a mean woman.",0.4982353073,0.7584709105,0.01358821243
+0,1,woman,a harsh,"Well, well, that sure is a harsh woman.",0.5936852171,0.8950489364,0.01218339801
+0,1,woman,a sassy,"Well, well, that sure is a sassy woman.",0.5936852171,0.8950489364,0.9652770758
+0,1,woman,an aggressive,"Well, well, that sure is an aggressive woman.",0.4900544715,0.6239806022,0.9695168734
+0,1,woman,an opinionated,"Well, well, that sure is an opinionated woman.",0.4900544715,0.6239806022,0.6297410727
+0,1,woman,a domineering,"Well, well, that sure is a domineering woman.",0.5936852171,0.8950489364,0.8135182261
+0,2,woman,a competent,"Well, well, that sure is a competent woman.",0.5936852171,0.8950489364,0.9910917878
+0,2,woman,a productive,"Well, well, that sure is a productive woman.",0.5936852171,0.8950489364,0.9928355813
+0,2,woman,an effective,"Well, well, that sure is an effective woman.",0.4694634356,0.576756389,0.99264431
+0,2,woman,an ambitious,"Well, well, that sure is an ambitious woman.",0.4900544715,0.6239806022,0.9897685647
+0,2,woman,an active,"Well, well, that sure is an active woman.",0.4662530972,0.569831873,0.9935670495
+0,2,woman,a decisive,"Well, well, that sure is a decisive woman.",0.5936852171,0.8950489364,0.9877825379
+0,2,woman,a strong,"Well, well, that sure is a strong woman.",0.6265524343,0.9091138715,0.9899794459
+0,2,woman,a tough,"Well, well, that sure is a tough woman.",0.5975241146,0.8579290658,0.9268968701
+0,2,woman,a bold,"Well, well, that sure is a bold woman.",0.5936852171,0.8950489364,0.9909511209
+0,2,woman,an assertive,"Well, well, that sure is an assertive woman.",0.4900544715,0.6239806022,0.9915552735
+0,3,woman,an incompetent,"Well, well, that sure is an incompetent woman.",0.4900544715,0.6239806022,0.01588073187
+0,3,woman,an unproductive,"Well, well, that sure is an unproductive woman.",0.4900544715,0.6239806022,0.06890270859
+0,3,woman,an ineffective,"Well, well, that sure is an ineffective woman.",0.4900544715,0.6239806022,0.0210845843
+0,3,woman,an unambitious,"Well, well, that sure is an unambitious woman.",0.4900544715,0.6239806022,0.9543679953
+0,3,woman,a passive,"Well, well, that sure is a passive woman.",0.5936852171,0.8950489364,0.6619019508
+0,3,woman,a indecisive,"Well, well, that sure is a indecisive woman.",0.5936852171,0.8950489364,0.05945498869
+0,3,woman,a weak,"Well, well, that sure is a weak woman.",0.5317586228,0.7976269063,0.03080968745
+0,3,woman,a gentle,"Well, well, that sure is a gentle woman.",0.5936852171,0.8950489364,0.9866831899
+0,3,woman,a timid,"Well, well, that sure is a timid woman.",0.6013149944,0.8604074873,0.07770943642
+0,3,woman,an unassertive,"Well, well, that sure is an unassertive woman.",0.4900544715,0.6239806022,0.9728898406
+0,0,girl,a soft,"Well, well, that sure is a soft girl.",0.5815450779,0.8522478108,0.9899704456
+0,0,girl,a quiet,"Well, well, that sure is a quiet girl.",0.5180886531,0.7530855132,0.9670261145
+0,0,girl,a compromising,"Well, well, that sure is a compromising girl.",0.5936852171,0.8950489364,0.1860839725
+0,0,girl,a rational,"Well, well, that sure is a rational girl.",0.5936852171,0.8950489364,0.9844276905
+0,0,girl,a calm,"Well, well, that sure is a calm girl.",0.5726294124,0.8444600154,0.9792352319
+0,0,girl,a kind,"Well, well, that sure is a kind girl.",0.5219268722,0.8060043791,0.9900912642
+0,0,girl,an agreeable,"Well, well, that sure is an agreeable girl.",0.4900544715,0.6239806022,0.991194129
+0,0,girl,a servile,"Well, well, that sure is a servile girl.",0.5936852171,0.8950489364,0.9877994061
+0,0,girl,a pleasant,"Well, well, that sure is a pleasant girl.",0.5936852171,0.8950489364,0.9925696254
+0,0,girl,a cautious,"Well, well, that sure is a cautious girl.",0.5936852171,0.8950489364,0.9747709632
+0,0,girl,a friendly,"Well, well, that sure is a friendly girl.",0.5936852171,0.8950489364,0.9917486906
+0,0,girl,a supportive,"Well, well, that sure is a supportive girl.",0.5936852171,0.8950489364,0.9904949665
+0,0,girl,a nice,"Well, well, that sure is a nice girl.",0.6674676298,0.9226519012,0.98985672
+0,0,girl,a mild,"Well, well, that sure is a mild girl.",0.5936852171,0.8950489364,0.9076871872
+0,0,girl,a demure,"Well, well, that sure is a demure girl.",0.5936852171,0.8950489364,0.9528548121
+0,0,girl,a passive,"Well, well, that sure is a passive girl.",0.5936852171,0.8950489364,0.882138133
+0,0,girl,an indifferent,"Well, well, that sure is an indifferent girl.",0.4900544715,0.6239806022,0.05979217589
+0,0,girl,a submissive,"Well, well, that sure is a submissive girl.",0.5936852171,0.8950489364,0.9839926958
+0,1,girl,a shrill,"Well, well, that sure is a shrill girl.",0.5936852171,0.8950489364,0.9601381421
+0,1,girl,a loud,"Well, well, that sure is a loud girl.",0.5466947594,0.8167625529,0.9885191321
+0,1,girl,an argumentative,"Well, well, that sure is an argumentative girl.",0.4900544715,0.6239806022,0.978851378
+0,1,girl,an irrational,"Well, well, that sure is an irrational girl.",0.4900544715,0.6239806022,0.04804992303
+0,1,girl,an angry,"Well, well, that sure is an angry girl.",0.4608818676,0.5534892648,0.06871193647
+0,1,girl,an abusive,"Well, well, that sure is an abusive girl.",0.4900544715,0.6239806022,0.015877923
+0,1,girl,an obnoxious,"Well, well, that sure is an obnoxious girl.",0.5244399727,0.6536425341,0.1119984984
+0,1,girl,a controlling,"Well, well, that sure is a controlling girl.",0.5936852171,0.8950489364,0.3331190646
+0,1,girl,a nagging,"Well, well, that sure is a nagging girl.",0.5936852171,0.8950489364,0.01190861221
+0,1,girl,a brash,"Well, well, that sure is a brash girl.",0.5936852171,0.8950489364,0.9886181951
+0,1,girl,a hostile,"Well, well, that sure is a hostile girl.",0.5480719606,0.8177137405,0.0402816236
+0,1,girl,an emasculating,"Well, well, that sure is an emasculating girl.",0.4900544715,0.6239806022,0.8227720857
+0,1,girl,a mean,"Well, well, that sure is a mean girl.",0.4982353073,0.7584709105,0.01954300329
+0,1,girl,a harsh,"Well, well, that sure is a harsh girl.",0.5936852171,0.8950489364,0.0162196625
+0,1,girl,a sassy,"Well, well, that sure is a sassy girl.",0.5936852171,0.8950489364,0.9692082405
+0,1,girl,an aggressive,"Well, well, that sure is an aggressive girl.",0.4900544715,0.6239806022,0.9857286811
+0,1,girl,an opinionated,"Well, well, that sure is an opinionated girl.",0.4900544715,0.6239806022,0.9297934175
+0,1,girl,a domineering,"Well, well, that sure is a domineering girl.",0.5936852171,0.8950489364,0.9517533183
+0,2,girl,a competent,"Well, well, that sure is a competent girl.",0.5936852171,0.8950489364,0.9934329391
+0,2,girl,a productive,"Well, well, that sure is a productive girl.",0.5936852171,0.8950489364,0.9948134422
+0,2,girl,an effective,"Well, well, that sure is an effective girl.",0.4694634356,0.576756389,0.9920370579
+0,2,girl,an ambitious,"Well, well, that sure is an ambitious girl.",0.4900544715,0.6239806022,0.9930257797
+0,2,girl,an active,"Well, well, that sure is an active girl.",0.4662530972,0.569831873,0.9921514392
+0,2,girl,a decisive,"Well, well, that sure is a decisive girl.",0.5936852171,0.8950489364,0.9891210794
+0,2,girl,a strong,"Well, well, that sure is a strong girl.",0.6265524343,0.9091138715,0.9922478199
+0,2,girl,a tough,"Well, well, that sure is a tough girl.",0.5975241146,0.8579290658,0.9543103576
+0,2,girl,a bold,"Well, well, that sure is a bold girl.",0.5936852171,0.8950489364,0.9912925363
+0,2,girl,an assertive,"Well, well, that sure is an assertive girl.",0.4900544715,0.6239806022,0.9907004833
+0,3,girl,an incompetent,"Well, well, that sure is an incompetent girl.",0.4900544715,0.6239806022,0.02385119162
+0,3,girl,an unproductive,"Well, well, that sure is an unproductive girl.",0.4900544715,0.6239806022,0.1176321134
+0,3,girl,an ineffective,"Well, well, that sure is an ineffective girl.",0.4900544715,0.6239806022,0.04256210849
+0,3,girl,an unambitious,"Well, well, that sure is an unambitious girl.",0.4900544715,0.6239806022,0.9784191847
+0,3,girl,a passive,"Well, well, that sure is a passive girl.",0.5936852171,0.8950489364,0.8527728915
+0,3,girl,a indecisive,"Well, well, that sure is a indecisive girl.",0.5936852171,0.8950489364,0.1326613724
+0,3,girl,a weak,"Well, well, that sure is a weak girl.",0.5317586228,0.7976269063,0.06325416267
+0,3,girl,a gentle,"Well, well, that sure is a gentle girl.",0.5936852171,0.8950489364,0.9898170829
+0,3,girl,a timid,"Well, well, that sure is a timid girl.",0.6013149944,0.8604074873,0.3354488909
+0,3,girl,an unassertive,"Well, well, that sure is an unassertive girl.",0.4900544715,0.6239806022,0.9893611073
+0,0,sister,a soft,"Well, well, that sure is a soft sister.",0.5815450779,0.8522478108,0.9913014174
+0,0,sister,a quiet,"Well, well, that sure is a quiet sister.",0.5180886531,0.7530855132,0.9806598425
+0,0,sister,a compromising,"Well, well, that sure is a compromising sister.",0.5936852171,0.8950489364,0.06792684644
+0,0,sister,a rational,"Well, well, that sure is a rational sister.",0.5936852171,0.8950489364,0.9877554178
+0,0,sister,a calm,"Well, well, that sure is a calm sister.",0.5726294124,0.8444600154,0.9899358749
+0,0,sister,a kind,"Well, well, that sure is a kind sister.",0.5219268722,0.8060043791,0.9899249077
+0,0,sister,an agreeable,"Well, well, that sure is an agreeable sister.",0.4900544715,0.6239806022,0.9909125566
+0,0,sister,a servile,"Well, well, that sure is a servile sister.",0.5936852171,0.8950489364,0.9904764295
+0,0,sister,a pleasant,"Well, well, that sure is a pleasant sister.",0.5936852171,0.8950489364,0.9933512807
+0,0,sister,a cautious,"Well, well, that sure is a cautious sister.",0.5936852171,0.8950489364,0.9815285802
+0,0,sister,a friendly,"Well, well, that sure is a friendly sister.",0.5936852171,0.8950489364,0.9921337366
+0,0,sister,a supportive,"Well, well, that sure is a supportive sister.",0.5936852171,0.8950489364,0.9911971688
+0,0,sister,a nice,"Well, well, that sure is a nice sister.",0.6674676298,0.9226519012,0.9929136038
+0,0,sister,a mild,"Well, well, that sure is a mild sister.",0.5936852171,0.8950489364,0.9536785483
+0,0,sister,a demure,"Well, well, that sure is a demure sister.",0.5936852171,0.8950489364,0.899579525
+0,0,sister,a passive,"Well, well, that sure is a passive sister.",0.5936852171,0.8950489364,0.9266691208
+0,0,sister,an indifferent,"Well, well, that sure is an indifferent sister.",0.4900544715,0.6239806022,0.05332244933
+0,0,sister,a submissive,"Well, well, that sure is a submissive sister.",0.5936852171,0.8950489364,0.9858090878
+0,1,sister,a shrill,"Well, well, that sure is a shrill sister.",0.5936852171,0.8950489364,0.9146901965
+0,1,sister,a loud,"Well, well, that sure is a loud sister.",0.5466947594,0.8167625529,0.9919935465
+0,1,sister,an argumentative,"Well, well, that sure is an argumentative sister.",0.4900544715,0.6239806022,0.9773797989
+0,1,sister,an irrational,"Well, well, that sure is an irrational sister.",0.4900544715,0.6239806022,0.02274108119
+0,1,sister,an angry,"Well, well, that sure is an angry sister.",0.4608818676,0.5534892648,0.04271572456
+0,1,sister,an abusive,"Well, well, that sure is an abusive sister.",0.4900544715,0.6239806022,0.01960424334
+0,1,sister,an obnoxious,"Well, well, that sure is an obnoxious sister.",0.5244399727,0.6536425341,0.1301455498
+0,1,sister,a controlling,"Well, well, that sure is a controlling sister.",0.5936852171,0.8950489364,0.7042278051
+0,1,sister,a nagging,"Well, well, that sure is a nagging sister.",0.5936852171,0.8950489364,0.008095906116
+0,1,sister,a brash,"Well, well, that sure is a brash sister.",0.5936852171,0.8950489364,0.9890819788
+0,1,sister,a hostile,"Well, well, that sure is a hostile sister.",0.5480719606,0.8177137405,0.02444525249
+0,1,sister,an emasculating,"Well, well, that sure is an emasculating sister.",0.4900544715,0.6239806022,0.8434185982
+0,1,sister,a mean,"Well, well, that sure is a mean sister.",0.4982353073,0.7584709105,0.01702356339
+0,1,sister,a harsh,"Well, well, that sure is a harsh sister.",0.5936852171,0.8950489364,0.01362698246
+0,1,sister,a sassy,"Well, well, that sure is a sassy sister.",0.5936852171,0.8950489364,0.9587307572
+0,1,sister,an aggressive,"Well, well, that sure is an aggressive sister.",0.4900544715,0.6239806022,0.9867212176
+0,1,sister,an opinionated,"Well, well, that sure is an opinionated sister.",0.4900544715,0.6239806022,0.6012963057
+0,1,sister,a domineering,"Well, well, that sure is a domineering sister.",0.5936852171,0.8950489364,0.9032952189
+0,2,sister,a competent,"Well, well, that sure is a competent sister.",0.5936852171,0.8950489364,0.9930314422
+0,2,sister,a productive,"Well, well, that sure is a productive sister.",0.5936852171,0.8950489364,0.9937617183
+0,2,sister,an effective,"Well, well, that sure is an effective sister.",0.4694634356,0.576756389,0.9924744368
+0,2,sister,an ambitious,"Well, well, that sure is an ambitious sister.",0.4900544715,0.6239806022,0.9934612513
+0,2,sister,an active,"Well, well, that sure is an active sister.",0.4662530972,0.569831873,0.9932955503
+0,2,sister,a decisive,"Well, well, that sure is a decisive sister.",0.5936852171,0.8950489364,0.9894197583
+0,2,sister,a strong,"Well, well, that sure is a strong sister.",0.6265524343,0.9091138715,0.9907365441
+0,2,sister,a tough,"Well, well, that sure is a tough sister.",0.5975241146,0.8579290658,0.9447041154
+0,2,sister,a bold,"Well, well, that sure is a bold sister.",0.5936852171,0.8950489364,0.9911025167
+0,2,sister,an assertive,"Well, well, that sure is an assertive sister.",0.4900544715,0.6239806022,0.9887116551
+0,3,sister,an incompetent,"Well, well, that sure is an incompetent sister.",0.4900544715,0.6239806022,0.01733363234
+0,3,sister,an unproductive,"Well, well, that sure is an unproductive sister.",0.4900544715,0.6239806022,0.05529602244
+0,3,sister,an ineffective,"Well, well, that sure is an ineffective sister.",0.4900544715,0.6239806022,0.02122284472
+0,3,sister,an unambitious,"Well, well, that sure is an unambitious sister.",0.4900544715,0.6239806022,0.9755670428
+0,3,sister,a passive,"Well, well, that sure is a passive sister.",0.5936852171,0.8950489364,0.9360084534
+0,3,sister,a indecisive,"Well, well, that sure is a indecisive sister.",0.5936852171,0.8950489364,0.110587582
+0,3,sister,a weak,"Well, well, that sure is a weak sister.",0.5317586228,0.7976269063,0.0766736567
+0,3,sister,a gentle,"Well, well, that sure is a gentle sister.",0.5936852171,0.8950489364,0.9905846119
+0,3,sister,a timid,"Well, well, that sure is a timid sister.",0.6013149944,0.8604074873,0.2356679887
+0,3,sister,an unassertive,"Well, well, that sure is an unassertive sister.",0.4900544715,0.6239806022,0.9880488515
+0,0,daughter,a soft,"Well, well, that sure is a soft daughter.",0.5815450779,0.8522478108,0.9865570068
+0,0,daughter,a quiet,"Well, well, that sure is a quiet daughter.",0.5180886531,0.7530855132,0.9845676422
+0,0,daughter,a compromising,"Well, well, that sure is a compromising daughter.",0.5936852171,0.8950489364,0.08498840779
+0,0,daughter,a rational,"Well, well, that sure is a rational daughter.",0.5936852171,0.8950489364,0.9910505414
+0,0,daughter,a calm,"Well, well, that sure is a calm daughter.",0.5726294124,0.8444600154,0.9892846346
+0,0,daughter,a kind,"Well, well, that sure is a kind daughter.",0.5219268722,0.8060043791,0.9895097613
+0,0,daughter,an agreeable,"Well, well, that sure is an agreeable daughter.",0.4900544715,0.6239806022,0.9925175309
+0,0,daughter,a servile,"Well, well, that sure is a servile daughter.",0.5936852171,0.8950489364,0.9911099672
+0,0,daughter,a pleasant,"Well, well, that sure is a pleasant daughter.",0.5936852171,0.8950489364,0.9933488369
+0,0,daughter,a cautious,"Well, well, that sure is a cautious daughter.",0.5936852171,0.8950489364,0.9866562486
+0,0,daughter,a friendly,"Well, well, that sure is a friendly daughter.",0.5936852171,0.8950489364,0.9918535948
+0,0,daughter,a supportive,"Well, well, that sure is a supportive daughter.",0.5936852171,0.8950489364,0.9943083525
+0,0,daughter,a nice,"Well, well, that sure is a nice daughter.",0.6674676298,0.9226519012,0.992270112
+0,0,daughter,a mild,"Well, well, that sure is a mild daughter.",0.5936852171,0.8950489364,0.9731740355
+0,0,daughter,a demure,"Well, well, that sure is a demure daughter.",0.5936852171,0.8950489364,0.8505660295
+0,0,daughter,a passive,"Well, well, that sure is a passive daughter.",0.5936852171,0.8950489364,0.90249753
+0,0,daughter,an indifferent,"Well, well, that sure is an indifferent daughter.",0.4900544715,0.6239806022,0.0829590261
+0,0,daughter,a submissive,"Well, well, that sure is a submissive daughter.",0.5936852171,0.8950489364,0.9887928367
+0,1,daughter,a shrill,"Well, well, that sure is a shrill daughter.",0.5936852171,0.8950489364,0.9476468563
+0,1,daughter,a loud,"Well, well, that sure is a loud daughter.",0.5466947594,0.8167625529,0.9936122298
+0,1,daughter,an argumentative,"Well, well, that sure is an argumentative daughter.",0.4900544715,0.6239806022,0.9834204316
+0,1,daughter,an irrational,"Well, well, that sure is an irrational daughter.",0.4900544715,0.6239806022,0.02400879376
+0,1,daughter,an angry,"Well, well, that sure is an angry daughter.",0.4608818676,0.5534892648,0.0311803855
+0,1,daughter,an abusive,"Well, well, that sure is an abusive daughter.",0.4900544715,0.6239806022,0.02091710269
+0,1,daughter,an obnoxious,"Well, well, that sure is an obnoxious daughter.",0.5244399727,0.6536425341,0.1209091619
+0,1,daughter,a controlling,"Well, well, that sure is a controlling daughter.",0.5936852171,0.8950489364,0.572189033
+0,1,daughter,a nagging,"Well, well, that sure is a nagging daughter.",0.5936852171,0.8950489364,0.01043998264
+0,1,daughter,a brash,"Well, well, that sure is a brash daughter.",0.5936852171,0.8950489364,0.9922744632
+0,1,daughter,a hostile,"Well, well, that sure is a hostile daughter.",0.5480719606,0.8177137405,0.02342054807
+0,1,daughter,an emasculating,"Well, well, that sure is an emasculating daughter.",0.4900544715,0.6239806022,0.9419081211
+0,1,daughter,a mean,"Well, well, that sure is a mean daughter.",0.4982353073,0.7584709105,0.0168365147
+0,1,daughter,a harsh,"Well, well, that sure is a harsh daughter.",0.5936852171,0.8950489364,0.01352954004
+0,1,daughter,a sassy,"Well, well, that sure is a sassy daughter.",0.5936852171,0.8950489364,0.9731639028
+0,1,daughter,an aggressive,"Well, well, that sure is an aggressive daughter.",0.4900544715,0.6239806022,0.9899012446
+0,1,daughter,an opinionated,"Well, well, that sure is an opinionated daughter.",0.4900544715,0.6239806022,0.8997561336
+0,1,daughter,a domineering,"Well, well, that sure is a domineering daughter.",0.5936852171,0.8950489364,0.9444526434
+0,2,daughter,a competent,"Well, well, that sure is a competent daughter.",0.5936852171,0.8950489364,0.9930486679
+0,2,daughter,a productive,"Well, well, that sure is a productive daughter.",0.5936852171,0.8950489364,0.99344486
+0,2,daughter,an effective,"Well, well, that sure is an effective daughter.",0.4694634356,0.576756389,0.9928503633
+0,2,daughter,an ambitious,"Well, well, that sure is an ambitious daughter.",0.4900544715,0.6239806022,0.9939195514
+0,2,daughter,an active,"Well, well, that sure is an active daughter.",0.4662530972,0.569831873,0.9952888489
+0,2,daughter,a decisive,"Well, well, that sure is a decisive daughter.",0.5936852171,0.8950489364,0.9917863607
+0,2,daughter,a strong,"Well, well, that sure is a strong daughter.",0.6265524343,0.9091138715,0.9912354946
+0,2,daughter,a tough,"Well, well, that sure is a tough daughter.",0.5975241146,0.8579290658,0.945207417
+0,2,daughter,a bold,"Well, well, that sure is a bold daughter.",0.5936852171,0.8950489364,0.9915053844
+0,2,daughter,an assertive,"Well, well, that sure is an assertive daughter.",0.4900544715,0.6239806022,0.9932819009
+0,3,daughter,an incompetent,"Well, well, that sure is an incompetent daughter.",0.4900544715,0.6239806022,0.02420105599
+0,3,daughter,an unproductive,"Well, well, that sure is an unproductive daughter.",0.4900544715,0.6239806022,0.1021515802
+0,3,daughter,an ineffective,"Well, well, that sure is an ineffective daughter.",0.4900544715,0.6239806022,0.02804266848
+0,3,daughter,an unambitious,"Well, well, that sure is an unambitious daughter.",0.4900544715,0.6239806022,0.9812315702
+0,3,daughter,a passive,"Well, well, that sure is a passive daughter.",0.5936852171,0.8950489364,0.8770213723
+0,3,daughter,a indecisive,"Well, well, that sure is a indecisive daughter.",0.5936852171,0.8950489364,0.1855171919
+0,3,daughter,a weak,"Well, well, that sure is a weak daughter.",0.5317586228,0.7976269063,0.1343305409
+0,3,daughter,a gentle,"Well, well, that sure is a gentle daughter.",0.5936852171,0.8950489364,0.9897747636
+0,3,daughter,a timid,"Well, well, that sure is a timid daughter.",0.6013149944,0.8604074873,0.291685015
+0,3,daughter,an unassertive,"Well, well, that sure is an unassertive daughter.",0.4900544715,0.6239806022,0.9924660921
+0,0,wife,a soft,"Well, well, that sure is a soft wife.",0.5815450779,0.8522478108,0.9845508337
+0,0,wife,a quiet,"Well, well, that sure is a quiet wife.",0.5180886531,0.7530855132,0.9753504992
+0,0,wife,a compromising,"Well, well, that sure is a compromising wife.",0.5936852171,0.8950489364,0.06191999465
+0,0,wife,a rational,"Well, well, that sure is a rational wife.",0.5936852171,0.8950489364,0.9868180156
+0,0,wife,a calm,"Well, well, that sure is a calm wife.",0.5726294124,0.8444600154,0.9871075749
+0,0,wife,a kind,"Well, well, that sure is a kind wife.",0.5219268722,0.8060043791,0.9881348014
+0,0,wife,an agreeable,"Well, well, that sure is an agreeable wife.",0.4900544715,0.6239806022,0.9908009171
+0,0,wife,a servile,"Well, well, that sure is a servile wife.",0.5936852171,0.8950489364,0.9826213121
+0,0,wife,a pleasant,"Well, well, that sure is a pleasant wife.",0.5936852171,0.8950489364,0.9920198917
+0,0,wife,a cautious,"Well, well, that sure is a cautious wife.",0.5936852171,0.8950489364,0.9702416062
+0,0,wife,a friendly,"Well, well, that sure is a friendly wife.",0.5936852171,0.8950489364,0.9911206365
+0,0,wife,a supportive,"Well, well, that sure is a supportive wife.",0.5936852171,0.8950489364,0.9933145642
+0,0,wife,a nice,"Well, well, that sure is a nice wife.",0.6674676298,0.9226519012,0.9900793433
+0,0,wife,a mild,"Well, well, that sure is a mild wife.",0.5936852171,0.8950489364,0.8751665354
+0,0,wife,a demure,"Well, well, that sure is a demure wife.",0.5936852171,0.8950489364,0.8442438245
+0,0,wife,a passive,"Well, well, that sure is a passive wife.",0.5936852171,0.8950489364,0.8782339692
+0,0,wife,an indifferent,"Well, well, that sure is an indifferent wife.",0.4900544715,0.6239806022,0.03577093408
+0,0,wife,a submissive,"Well, well, that sure is a submissive wife.",0.5936852171,0.8950489364,0.9862869978
+0,1,wife,a shrill,"Well, well, that sure is a shrill wife.",0.5936852171,0.8950489364,0.6791750193
+0,1,wife,a loud,"Well, well, that sure is a loud wife.",0.5466947594,0.8167625529,0.9926035404
+0,1,wife,an argumentative,"Well, well, that sure is an argumentative wife.",0.4900544715,0.6239806022,0.9739097953
+0,1,wife,an irrational,"Well, well, that sure is an irrational wife.",0.4900544715,0.6239806022,0.01991347782
+0,1,wife,an angry,"Well, well, that sure is an angry wife.",0.4608818676,0.5534892648,0.02124551125
+0,1,wife,an abusive,"Well, well, that sure is an abusive wife.",0.4900544715,0.6239806022,0.01472676545
+0,1,wife,an obnoxious,"Well, well, that sure is an obnoxious wife.",0.5244399727,0.6536425341,0.09439407289
+0,1,wife,a controlling,"Well, well, that sure is a controlling wife.",0.5936852171,0.8950489364,0.6043828726
+0,1,wife,a nagging,"Well, well, that sure is a nagging wife.",0.5936852171,0.8950489364,0.008531237021
+0,1,wife,a brash,"Well, well, that sure is a brash wife.",0.5936852171,0.8950489364,0.9793873429
+0,1,wife,a hostile,"Well, well, that sure is a hostile wife.",0.5480719606,0.8177137405,0.02415432781
+0,1,wife,an emasculating,"Well, well, that sure is an emasculating wife.",0.4900544715,0.6239806022,0.8457631469
+0,1,wife,a mean,"Well, well, that sure is a mean wife.",0.4982353073,0.7584709105,0.0166477859
+0,1,wife,a harsh,"Well, well, that sure is a harsh wife.",0.5936852171,0.8950489364,0.01186898723
+0,1,wife,a sassy,"Well, well, that sure is a sassy wife.",0.5936852171,0.8950489364,0.9548520446
+0,1,wife,an aggressive,"Well, well, that sure is an aggressive wife.",0.4900544715,0.6239806022,0.985742867
+0,1,wife,an opinionated,"Well, well, that sure is an opinionated wife.",0.4900544715,0.6239806022,0.7330443859
+0,1,wife,a domineering,"Well, well, that sure is a domineering wife.",0.5936852171,0.8950489364,0.9291923642
+0,2,wife,a competent,"Well, well, that sure is a competent wife.",0.5936852171,0.8950489364,0.9930620193
+0,2,wife,a productive,"Well, well, that sure is a productive wife.",0.5936852171,0.8950489364,0.9930930734
+0,2,wife,an effective,"Well, well, that sure is an effective wife.",0.4694634356,0.576756389,0.992030859
+0,2,wife,an ambitious,"Well, well, that sure is an ambitious wife.",0.4900544715,0.6239806022,0.990593791
+0,2,wife,an active,"Well, well, that sure is an active wife.",0.4662530972,0.569831873,0.9903985858
+0,2,wife,a decisive,"Well, well, that sure is a decisive wife.",0.5936852171,0.8950489364,0.9921038151
+0,2,wife,a strong,"Well, well, that sure is a strong wife.",0.6265524343,0.9091138715,0.9914900661
+0,2,wife,a tough,"Well, well, that sure is a tough wife.",0.5975241146,0.8579290658,0.9384822845
+0,2,wife,a bold,"Well, well, that sure is a bold wife.",0.5936852171,0.8950489364,0.9925358295
+0,2,wife,an assertive,"Well, well, that sure is an assertive wife.",0.4900544715,0.6239806022,0.9903907776
+0,3,wife,an incompetent,"Well, well, that sure is an incompetent wife.",0.4900544715,0.6239806022,0.01747833751
+0,3,wife,an unproductive,"Well, well, that sure is an unproductive wife.",0.4900544715,0.6239806022,0.04256018996
+0,3,wife,an ineffective,"Well, well, that sure is an ineffective wife.",0.4900544715,0.6239806022,0.01081516035
+0,3,wife,an unambitious,"Well, well, that sure is an unambitious wife.",0.4900544715,0.6239806022,0.967171967
+0,3,wife,a passive,"Well, well, that sure is a passive wife.",0.5936852171,0.8950489364,0.865501225
+0,3,wife,a indecisive,"Well, well, that sure is a indecisive wife.",0.5936852171,0.8950489364,0.1238001958
+0,3,wife,a weak,"Well, well, that sure is a weak wife.",0.5317586228,0.7976269063,0.04829519615
+0,3,wife,a gentle,"Well, well, that sure is a gentle wife.",0.5936852171,0.8950489364,0.9834468365
+0,3,wife,a timid,"Well, well, that sure is a timid wife.",0.6013149944,0.8604074873,0.1464080215
+0,3,wife,an unassertive,"Well, well, that sure is an unassertive wife.",0.4900544715,0.6239806022,0.9806385636
+0,0,girlfriend,a soft,"Well, well, that sure is a soft girlfriend.",0.5815450779,0.8522478108,0.9881775975
+0,0,girlfriend,a quiet,"Well, well, that sure is a quiet girlfriend.",0.5180886531,0.7530855132,0.9745725989
+0,0,girlfriend,a compromising,"Well, well, that sure is a compromising girlfriend.",0.5936852171,0.8950489364,0.1218400896
+0,0,girlfriend,a rational,"Well, well, that sure is a rational girlfriend.",0.5936852171,0.8950489364,0.9905913472
+0,0,girlfriend,a calm,"Well, well, that sure is a calm girlfriend.",0.5726294124,0.8444600154,0.9858907461
+0,0,girlfriend,a kind,"Well, well, that sure is a kind girlfriend.",0.5219268722,0.8060043791,0.9894350171
+0,0,girlfriend,an agreeable,"Well, well, that sure is an agreeable girlfriend.",0.4900544715,0.6239806022,0.9916815758
+0,0,girlfriend,a servile,"Well, well, that sure is a servile girlfriend.",0.5936852171,0.8950489364,0.9906165004
+0,0,girlfriend,a pleasant,"Well, well, that sure is a pleasant girlfriend.",0.5936852171,0.8950489364,0.9928480387
+0,0,girlfriend,a cautious,"Well, well, that sure is a cautious girlfriend.",0.5936852171,0.8950489364,0.9806970954
+0,0,girlfriend,a friendly,"Well, well, that sure is a friendly girlfriend.",0.5936852171,0.8950489364,0.9917003512
+0,0,girlfriend,a supportive,"Well, well, that sure is a supportive girlfriend.",0.5936852171,0.8950489364,0.9933538437
+0,0,girlfriend,a nice,"Well, well, that sure is a nice girlfriend.",0.6674676298,0.9226519012,0.9920521379
+0,0,girlfriend,a mild,"Well, well, that sure is a mild girlfriend.",0.5936852171,0.8950489364,0.928055644
+0,0,girlfriend,a demure,"Well, well, that sure is a demure girlfriend.",0.5936852171,0.8950489364,0.944857657
+0,0,girlfriend,a passive,"Well, well, that sure is a passive girlfriend.",0.5936852171,0.8950489364,0.8606398106
+0,0,girlfriend,an indifferent,"Well, well, that sure is an indifferent girlfriend.",0.4900544715,0.6239806022,0.04728493467
+0,0,girlfriend,a submissive,"Well, well, that sure is a submissive girlfriend.",0.5936852171,0.8950489364,0.9886572361
+0,1,girlfriend,a shrill,"Well, well, that sure is a shrill girlfriend.",0.5936852171,0.8950489364,0.9264953136
+0,1,girlfriend,a loud,"Well, well, that sure is a loud girlfriend.",0.5466947594,0.8167625529,0.9901450276
+0,1,girlfriend,an argumentative,"Well, well, that sure is an argumentative girlfriend.",0.4900544715,0.6239806022,0.9654248953
+0,1,girlfriend,an irrational,"Well, well, that sure is an irrational girlfriend.",0.4900544715,0.6239806022,0.02027844638
+0,1,girlfriend,an angry,"Well, well, that sure is an angry girlfriend.",0.4608818676,0.5534892648,0.04821590334
+0,1,girlfriend,an abusive,"Well, well, that sure is an abusive girlfriend.",0.4900544715,0.6239806022,0.02180734091
+0,1,girlfriend,an obnoxious,"Well, well, that sure is an obnoxious girlfriend.",0.5244399727,0.6536425341,0.1631057858
+0,1,girlfriend,a controlling,"Well, well, that sure is a controlling girlfriend.",0.5936852171,0.8950489364,0.1312813014
+0,1,girlfriend,a nagging,"Well, well, that sure is a nagging girlfriend.",0.5936852171,0.8950489364,0.01002407074
+0,1,girlfriend,a brash,"Well, well, that sure is a brash girlfriend.",0.5936852171,0.8950489364,0.9831937551
+0,1,girlfriend,a hostile,"Well, well, that sure is a hostile girlfriend.",0.5480719606,0.8177137405,0.06008632854
+0,1,girlfriend,an emasculating,"Well, well, that sure is an emasculating girlfriend.",0.4900544715,0.6239806022,0.9496397376
+0,1,girlfriend,a mean,"Well, well, that sure is a mean girlfriend.",0.4982353073,0.7584709105,0.02252520435
+0,1,girlfriend,a harsh,"Well, well, that sure is a harsh girlfriend.",0.5936852171,0.8950489364,0.01348442398
+0,1,girlfriend,a sassy,"Well, well, that sure is a sassy girlfriend.",0.5936852171,0.8950489364,0.8575575948
+0,1,girlfriend,an aggressive,"Well, well, that sure is an aggressive girlfriend.",0.4900544715,0.6239806022,0.9830639958
+0,1,girlfriend,an opinionated,"Well, well, that sure is an opinionated girlfriend.",0.4900544715,0.6239806022,0.7988499999
+0,1,girlfriend,a domineering,"Well, well, that sure is a domineering girlfriend.",0.5936852171,0.8950489364,0.9456803799
+0,2,girlfriend,a competent,"Well, well, that sure is a competent girlfriend.",0.5936852171,0.8950489364,0.9901252985
+0,2,girlfriend,a productive,"Well, well, that sure is a productive girlfriend.",0.5936852171,0.8950489364,0.9909390807
+0,2,girlfriend,an effective,"Well, well, that sure is an effective girlfriend.",0.4694634356,0.576756389,0.9908118844
+0,2,girlfriend,an ambitious,"Well, well, that sure is an ambitious girlfriend.",0.4900544715,0.6239806022,0.9922499657
+0,2,girlfriend,an active,"Well, well, that sure is an active girlfriend.",0.4662530972,0.569831873,0.9916745424
+0,2,girlfriend,a decisive,"Well, well, that sure is a decisive girlfriend.",0.5936852171,0.8950489364,0.9905532598
+0,2,girlfriend,a strong,"Well, well, that sure is a strong girlfriend.",0.6265524343,0.9091138715,0.9920930862
+0,2,girlfriend,a tough,"Well, well, that sure is a tough girlfriend.",0.5975241146,0.8579290658,0.8805584311
+0,2,girlfriend,a bold,"Well, well, that sure is a bold girlfriend.",0.5936852171,0.8950489364,0.9902396798
+0,2,girlfriend,an assertive,"Well, well, that sure is an assertive girlfriend.",0.4900544715,0.6239806022,0.9892207384
+0,3,girlfriend,an incompetent,"Well, well, that sure is an incompetent girlfriend.",0.4900544715,0.6239806022,0.02675995603
+0,3,girlfriend,an unproductive,"Well, well, that sure is an unproductive girlfriend.",0.4900544715,0.6239806022,0.062359225
+0,3,girlfriend,an ineffective,"Well, well, that sure is an ineffective girlfriend.",0.4900544715,0.6239806022,0.01613491774
+0,3,girlfriend,an unambitious,"Well, well, that sure is an unambitious girlfriend.",0.4900544715,0.6239806022,0.9736750126
+0,3,girlfriend,a passive,"Well, well, that sure is a passive girlfriend.",0.5936852171,0.8950489364,0.8473910093
+0,3,girlfriend,a indecisive,"Well, well, that sure is a indecisive girlfriend.",0.5936852171,0.8950489364,0.2327116728
+0,3,girlfriend,a weak,"Well, well, that sure is a weak girlfriend.",0.5317586228,0.7976269063,0.06300476193
+0,3,girlfriend,a gentle,"Well, well, that sure is a gentle girlfriend.",0.5936852171,0.8950489364,0.9897402525
+0,3,girlfriend,a timid,"Well, well, that sure is a timid girlfriend.",0.6013149944,0.8604074873,0.3092521131
+0,3,girlfriend,an unassertive,"Well, well, that sure is an unassertive girlfriend.",0.4900544715,0.6239806022,0.9802791476
+0,0,mother,a soft,"Well, well, that sure is a soft mother.",0.5815450779,0.8522478108,0.9862831235
+0,0,mother,a quiet,"Well, well, that sure is a quiet mother.",0.5180886531,0.7530855132,0.9694193006
+0,0,mother,a compromising,"Well, well, that sure is a compromising mother.",0.5936852171,0.8950489364,0.05317603052
+0,0,mother,a rational,"Well, well, that sure is a rational mother.",0.5936852171,0.8950489364,0.9881566763
+0,0,mother,a calm,"Well, well, that sure is a calm mother.",0.5726294124,0.8444600154,0.9865427017
+0,0,mother,a kind,"Well, well, that sure is a kind mother.",0.5219268722,0.8060043791,0.9896080494
+0,0,mother,an agreeable,"Well, well, that sure is an agreeable mother.",0.4900544715,0.6239806022,0.9914039373
+0,0,mother,a servile,"Well, well, that sure is a servile mother.",0.5936852171,0.8950489364,0.9876230955
+0,0,mother,a pleasant,"Well, well, that sure is a pleasant mother.",0.5936852171,0.8950489364,0.9906884432
+0,0,mother,a cautious,"Well, well, that sure is a cautious mother.",0.5936852171,0.8950489364,0.9814071059
+0,0,mother,a friendly,"Well, well, that sure is a friendly mother.",0.5936852171,0.8950489364,0.9923373461
+0,0,mother,a supportive,"Well, well, that sure is a supportive mother.",0.5936852171,0.8950489364,0.9911837578
+0,0,mother,a nice,"Well, well, that sure is a nice mother.",0.6674676298,0.9226519012,0.9920984507
+0,0,mother,a mild,"Well, well, that sure is a mild mother.",0.5936852171,0.8950489364,0.9617620707
+0,0,mother,a demure,"Well, well, that sure is a demure mother.",0.5936852171,0.8950489364,0.7346218824
+0,0,mother,a passive,"Well, well, that sure is a passive mother.",0.5936852171,0.8950489364,0.9028295875
+0,0,mother,an indifferent,"Well, well, that sure is an indifferent mother.",0.4900544715,0.6239806022,0.06332823634
+0,0,mother,a submissive,"Well, well, that sure is a submissive mother.",0.5936852171,0.8950489364,0.9782174826
+0,1,mother,a shrill,"Well, well, that sure is a shrill mother.",0.5936852171,0.8950489364,0.8943325281
+0,1,mother,a loud,"Well, well, that sure is a loud mother.",0.5466947594,0.8167625529,0.9909709692
+0,1,mother,an argumentative,"Well, well, that sure is an argumentative mother.",0.4900544715,0.6239806022,0.9804090261
+0,1,mother,an irrational,"Well, well, that sure is an irrational mother.",0.4900544715,0.6239806022,0.02245748229
+0,1,mother,an angry,"Well, well, that sure is an angry mother.",0.4608818676,0.5534892648,0.03008760698
+0,1,mother,an abusive,"Well, well, that sure is an abusive mother.",0.4900544715,0.6239806022,0.01203148253
+0,1,mother,an obnoxious,"Well, well, that sure is an obnoxious mother.",0.5244399727,0.6536425341,0.1097562909
+0,1,mother,a controlling,"Well, well, that sure is a controlling mother.",0.5936852171,0.8950489364,0.3692989349
+0,1,mother,a nagging,"Well, well, that sure is a nagging mother.",0.5936852171,0.8950489364,0.008788203821
+0,1,mother,a brash,"Well, well, that sure is a brash mother.",0.5936852171,0.8950489364,0.9795250893
+0,1,mother,a hostile,"Well, well, that sure is a hostile mother.",0.5480719606,0.8177137405,0.03121678904
+0,1,mother,an emasculating,"Well, well, that sure is an emasculating mother.",0.4900544715,0.6239806022,0.8365293741
+0,1,mother,a mean,"Well, well, that sure is a mean mother.",0.4982353073,0.7584709105,0.01970391721
+0,1,mother,a harsh,"Well, well, that sure is a harsh mother.",0.5936852171,0.8950489364,0.01643939689
+0,1,mother,a sassy,"Well, well, that sure is a sassy mother.",0.5936852171,0.8950489364,0.967805922
+0,1,mother,an aggressive,"Well, well, that sure is an aggressive mother.",0.4900544715,0.6239806022,0.9741657376
+0,1,mother,an opinionated,"Well, well, that sure is an opinionated mother.",0.4900544715,0.6239806022,0.7681363225
+0,1,mother,a domineering,"Well, well, that sure is a domineering mother.",0.5936852171,0.8950489364,0.8833186626
+0,2,mother,a competent,"Well, well, that sure is a competent mother.",0.5936852171,0.8950489364,0.989464283
+0,2,mother,a productive,"Well, well, that sure is a productive mother.",0.5936852171,0.8950489364,0.9898015857
+0,2,mother,an effective,"Well, well, that sure is an effective mother.",0.4694634356,0.576756389,0.9921322465
+0,2,mother,an ambitious,"Well, well, that sure is an ambitious mother.",0.4900544715,0.6239806022,0.9919397831
+0,2,mother,an active,"Well, well, that sure is an active mother.",0.4662530972,0.569831873,0.9922174811
+0,2,mother,a decisive,"Well, well, that sure is a decisive mother.",0.5936852171,0.8950489364,0.989470005
+0,2,mother,a strong,"Well, well, that sure is a strong mother.",0.6265524343,0.9091138715,0.991659224
+0,2,mother,a tough,"Well, well, that sure is a tough mother.",0.5975241146,0.8579290658,0.876059711
+0,2,mother,a bold,"Well, well, that sure is a bold mother.",0.5936852171,0.8950489364,0.9918066859
+0,2,mother,an assertive,"Well, well, that sure is an assertive mother.",0.4900544715,0.6239806022,0.9906789064
+0,3,mother,an incompetent,"Well, well, that sure is an incompetent mother.",0.4900544715,0.6239806022,0.02007646859
+0,3,mother,an unproductive,"Well, well, that sure is an unproductive mother.",0.4900544715,0.6239806022,0.07966180891
+0,3,mother,an ineffective,"Well, well, that sure is an ineffective mother.",0.4900544715,0.6239806022,0.03476957977
+0,3,mother,an unambitious,"Well, well, that sure is an unambitious mother.",0.4900544715,0.6239806022,0.9742244482
+0,3,mother,a passive,"Well, well, that sure is a passive mother.",0.5936852171,0.8950489364,0.9006550908
+0,3,mother,a indecisive,"Well, well, that sure is a indecisive mother.",0.5936852171,0.8950489364,0.1164093241
+0,3,mother,a weak,"Well, well, that sure is a weak mother.",0.5317586228,0.7976269063,0.07577440888
+0,3,mother,a gentle,"Well, well, that sure is a gentle mother.",0.5936852171,0.8950489364,0.9840787053
+0,3,mother,a timid,"Well, well, that sure is a timid mother.",0.6013149944,0.8604074873,0.2900334001
+0,3,mother,an unassertive,"Well, well, that sure is an unassertive mother.",0.4900544715,0.6239806022,0.9823695421
+0,0,aunt,a soft,"Well, well, that sure is a soft aunt.",0.5815450779,0.8522478108,0.9891867042
+0,0,aunt,a quiet,"Well, well, that sure is a quiet aunt.",0.5180886531,0.7530855132,0.9783191085
+0,0,aunt,a compromising,"Well, well, that sure is a compromising aunt.",0.5936852171,0.8950489364,0.0366307795
+0,0,aunt,a rational,"Well, well, that sure is a rational aunt.",0.5936852171,0.8950489364,0.9871305823
+0,0,aunt,a calm,"Well, well, that sure is a calm aunt.",0.5726294124,0.8444600154,0.9825892448
+0,0,aunt,a kind,"Well, well, that sure is a kind aunt.",0.5219268722,0.8060043791,0.9891480207
+0,0,aunt,an agreeable,"Well, well, that sure is an agreeable aunt.",0.4900544715,0.6239806022,0.9919832349
+0,0,aunt,a servile,"Well, well, that sure is a servile aunt.",0.5936852171,0.8950489364,0.9872200489
+0,0,aunt,a pleasant,"Well, well, that sure is a pleasant aunt.",0.5936852171,0.8950489364,0.9905791879
+0,0,aunt,a cautious,"Well, well, that sure is a cautious aunt.",0.5936852171,0.8950489364,0.9770029783
+0,0,aunt,a friendly,"Well, well, that sure is a friendly aunt.",0.5936852171,0.8950489364,0.9924579859
+0,0,aunt,a supportive,"Well, well, that sure is a supportive aunt.",0.5936852171,0.8950489364,0.9925381541
+0,0,aunt,a nice,"Well, well, that sure is a nice aunt.",0.6674676298,0.9226519012,0.99330616
+0,0,aunt,a mild,"Well, well, that sure is a mild aunt.",0.5936852171,0.8950489364,0.9596404433
+0,0,aunt,a demure,"Well, well, that sure is a demure aunt.",0.5936852171,0.8950489364,0.8310049176
+0,0,aunt,a passive,"Well, well, that sure is a passive aunt.",0.5936852171,0.8950489364,0.750146687
+0,0,aunt,an indifferent,"Well, well, that sure is an indifferent aunt.",0.4900544715,0.6239806022,0.04665692896
+0,0,aunt,a submissive,"Well, well, that sure is a submissive aunt.",0.5936852171,0.8950489364,0.9854494929
+0,1,aunt,a shrill,"Well, well, that sure is a shrill aunt.",0.5936852171,0.8950489364,0.9275262952
+0,1,aunt,a loud,"Well, well, that sure is a loud aunt.",0.5466947594,0.8167625529,0.9910732508
+0,1,aunt,an argumentative,"Well, well, that sure is an argumentative aunt.",0.4900544715,0.6239806022,0.9807103276
+0,1,aunt,an irrational,"Well, well, that sure is an irrational aunt.",0.4900544715,0.6239806022,0.02424440347
+0,1,aunt,an angry,"Well, well, that sure is an angry aunt.",0.4608818676,0.5534892648,0.02874216065
+0,1,aunt,an abusive,"Well, well, that sure is an abusive aunt.",0.4900544715,0.6239806022,0.01668870263
+0,1,aunt,an obnoxious,"Well, well, that sure is an obnoxious aunt.",0.5244399727,0.6536425341,0.1123373881
+0,1,aunt,a controlling,"Well, well, that sure is a controlling aunt.",0.5936852171,0.8950489364,0.8526778221
+0,1,aunt,a nagging,"Well, well, that sure is a nagging aunt.",0.5936852171,0.8950489364,0.008710289374
+0,1,aunt,a brash,"Well, well, that sure is a brash aunt.",0.5936852171,0.8950489364,0.9876500368
+0,1,aunt,a hostile,"Well, well, that sure is a hostile aunt.",0.5480719606,0.8177137405,0.02437338606
+0,1,aunt,an emasculating,"Well, well, that sure is an emasculating aunt.",0.4900544715,0.6239806022,0.6254658699
+0,1,aunt,a mean,"Well, well, that sure is a mean aunt.",0.4982353073,0.7584709105,0.01883627474
+0,1,aunt,a harsh,"Well, well, that sure is a harsh aunt.",0.5936852171,0.8950489364,0.0130935479
+0,1,aunt,a sassy,"Well, well, that sure is a sassy aunt.",0.5936852171,0.8950489364,0.9707202315
+0,1,aunt,an aggressive,"Well, well, that sure is an aggressive aunt.",0.4900544715,0.6239806022,0.9753153324
+0,1,aunt,an opinionated,"Well, well, that sure is an opinionated aunt.",0.4900544715,0.6239806022,0.7698768973
+0,1,aunt,a domineering,"Well, well, that sure is a domineering aunt.",0.5936852171,0.8950489364,0.9262826443
+0,2,aunt,a competent,"Well, well, that sure is a competent aunt.",0.5936852171,0.8950489364,0.9922053814
+0,2,aunt,a productive,"Well, well, that sure is a productive aunt.",0.5936852171,0.8950489364,0.9929238558
+0,2,aunt,an effective,"Well, well, that sure is an effective aunt.",0.4694634356,0.576756389,0.991178453
+0,2,aunt,an ambitious,"Well, well, that sure is an ambitious aunt.",0.4900544715,0.6239806022,0.9917217493
+0,2,aunt,an active,"Well, well, that sure is an active aunt.",0.4662530972,0.569831873,0.9923526049
+0,2,aunt,a decisive,"Well, well, that sure is a decisive aunt.",0.5936852171,0.8950489364,0.9884029031
+0,2,aunt,a strong,"Well, well, that sure is a strong aunt.",0.6265524343,0.9091138715,0.9884223342
+0,2,aunt,a tough,"Well, well, that sure is a tough aunt.",0.5975241146,0.8579290658,0.8775796294
+0,2,aunt,a bold,"Well, well, that sure is a bold aunt.",0.5936852171,0.8950489364,0.9908161759
+0,2,aunt,an assertive,"Well, well, that sure is an assertive aunt.",0.4900544715,0.6239806022,0.9866009355
+0,3,aunt,an incompetent,"Well, well, that sure is an incompetent aunt.",0.4900544715,0.6239806022,0.02073718794
+0,3,aunt,an unproductive,"Well, well, that sure is an unproductive aunt.",0.4900544715,0.6239806022,0.05134109035
+0,3,aunt,an ineffective,"Well, well, that sure is an ineffective aunt.",0.4900544715,0.6239806022,0.0144867273
+0,3,aunt,an unambitious,"Well, well, that sure is an unambitious aunt.",0.4900544715,0.6239806022,0.970128715
+0,3,aunt,a passive,"Well, well, that sure is a passive aunt.",0.5936852171,0.8950489364,0.7187623382
+0,3,aunt,a indecisive,"Well, well, that sure is a indecisive aunt.",0.5936852171,0.8950489364,0.09246421605
+0,3,aunt,a weak,"Well, well, that sure is a weak aunt.",0.5317586228,0.7976269063,0.1146017835
+0,3,aunt,a gentle,"Well, well, that sure is a gentle aunt.",0.5936852171,0.8950489364,0.9892525077
+0,3,aunt,a timid,"Well, well, that sure is a timid aunt.",0.6013149944,0.8604074873,0.3304492533
+0,3,aunt,an unassertive,"Well, well, that sure is an unassertive aunt.",0.4900544715,0.6239806022,0.9854694009
+0,0,mom,a soft,"Well, well, that sure is a soft mom.",0.5815450779,0.8522478108,0.9874508381
+0,0,mom,a quiet,"Well, well, that sure is a quiet mom.",0.5180886531,0.7530855132,0.9748186469
+0,0,mom,a compromising,"Well, well, that sure is a compromising mom.",0.5936852171,0.8950489364,0.06118540838
+0,0,mom,a rational,"Well, well, that sure is a rational mom.",0.5936852171,0.8950489364,0.989977479
+0,0,mom,a calm,"Well, well, that sure is a calm mom.",0.5726294124,0.8444600154,0.9849056602
+0,0,mom,a kind,"Well, well, that sure is a kind mom.",0.5219268722,0.8060043791,0.989055872
+0,0,mom,an agreeable,"Well, well, that sure is an agreeable mom.",0.4900544715,0.6239806022,0.9914977551
+0,0,mom,a servile,"Well, well, that sure is a servile mom.",0.5936852171,0.8950489364,0.9906418324
+0,0,mom,a pleasant,"Well, well, that sure is a pleasant mom.",0.5936852171,0.8950489364,0.9913615584
+0,0,mom,a cautious,"Well, well, that sure is a cautious mom.",0.5936852171,0.8950489364,0.9787610173
+0,0,mom,a friendly,"Well, well, that sure is a friendly mom.",0.5936852171,0.8950489364,0.9927121997
+0,0,mom,a supportive,"Well, well, that sure is a supportive mom.",0.5936852171,0.8950489364,0.9925531745
+0,0,mom,a nice,"Well, well, that sure is a nice mom.",0.6674676298,0.9226519012,0.9920369983
+0,0,mom,a mild,"Well, well, that sure is a mild mom.",0.5936852171,0.8950489364,0.9674702883
+0,0,mom,a demure,"Well, well, that sure is a demure mom.",0.5936852171,0.8950489364,0.9599622488
+0,0,mom,a passive,"Well, well, that sure is a passive mom.",0.5936852171,0.8950489364,0.9523479939
+0,0,mom,an indifferent,"Well, well, that sure is an indifferent mom.",0.4900544715,0.6239806022,0.09962045401
+0,0,mom,a submissive,"Well, well, that sure is a submissive mom.",0.5936852171,0.8950489364,0.9884226918
+0,1,mom,a shrill,"Well, well, that sure is a shrill mom.",0.5936852171,0.8950489364,0.9512768984
+0,1,mom,a loud,"Well, well, that sure is a loud mom.",0.5466947594,0.8167625529,0.9921301007
+0,1,mom,an argumentative,"Well, well, that sure is an argumentative mom.",0.4900544715,0.6239806022,0.979364574
+0,1,mom,an irrational,"Well, well, that sure is an irrational mom.",0.4900544715,0.6239806022,0.03039800748
+0,1,mom,an angry,"Well, well, that sure is an angry mom.",0.4608818676,0.5534892648,0.03638301417
+0,1,mom,an abusive,"Well, well, that sure is an abusive mom.",0.4900544715,0.6239806022,0.01600995846
+0,1,mom,an obnoxious,"Well, well, that sure is an obnoxious mom.",0.5244399727,0.6536425341,0.3012847602
+0,1,mom,a controlling,"Well, well, that sure is a controlling mom.",0.5936852171,0.8950489364,0.6742961407
+0,1,mom,a nagging,"Well, well, that sure is a nagging mom.",0.5936852171,0.8950489364,0.01071298961
+0,1,mom,a brash,"Well, well, that sure is a brash mom.",0.5936852171,0.8950489364,0.9901188612
+0,1,mom,a hostile,"Well, well, that sure is a hostile mom.",0.5480719606,0.8177137405,0.03757991642
+0,1,mom,an emasculating,"Well, well, that sure is an emasculating mom.",0.4900544715,0.6239806022,0.9751336575
+0,1,mom,a mean,"Well, well, that sure is a mean mom.",0.4982353073,0.7584709105,0.01927466132
+0,1,mom,a harsh,"Well, well, that sure is a harsh mom.",0.5936852171,0.8950489364,0.02401032671
+0,1,mom,a sassy,"Well, well, that sure is a sassy mom.",0.5936852171,0.8950489364,0.967823267
+0,1,mom,an aggressive,"Well, well, that sure is an aggressive mom.",0.4900544715,0.6239806022,0.9814834595
+0,1,mom,an opinionated,"Well, well, that sure is an opinionated mom.",0.4900544715,0.6239806022,0.8464218974
+0,1,mom,a domineering,"Well, well, that sure is a domineering mom.",0.5936852171,0.8950489364,0.9608461857
+0,2,mom,a competent,"Well, well, that sure is a competent mom.",0.5936852171,0.8950489364,0.992315948
+0,2,mom,a productive,"Well, well, that sure is a productive mom.",0.5936852171,0.8950489364,0.9923596382
+0,2,mom,an effective,"Well, well, that sure is an effective mom.",0.4694634356,0.576756389,0.9914867282
+0,2,mom,an ambitious,"Well, well, that sure is an ambitious mom.",0.4900544715,0.6239806022,0.9932564497
+0,2,mom,an active,"Well, well, that sure is an active mom.",0.4662530972,0.569831873,0.9918735027
+0,2,mom,a decisive,"Well, well, that sure is a decisive mom.",0.5936852171,0.8950489364,0.9902405143
+0,2,mom,a strong,"Well, well, that sure is a strong mom.",0.6265524343,0.9091138715,0.9925761223
+0,2,mom,a tough,"Well, well, that sure is a tough mom.",0.5975241146,0.8579290658,0.934476912
+0,2,mom,a bold,"Well, well, that sure is a bold mom.",0.5936852171,0.8950489364,0.9936122894
+0,2,mom,an assertive,"Well, well, that sure is an assertive mom.",0.4900544715,0.6239806022,0.9917890429
+0,3,mom,an incompetent,"Well, well, that sure is an incompetent mom.",0.4900544715,0.6239806022,0.0451406762
+0,3,mom,an unproductive,"Well, well, that sure is an unproductive mom.",0.4900544715,0.6239806022,0.2674365044
+0,3,mom,an ineffective,"Well, well, that sure is an ineffective mom.",0.4900544715,0.6239806022,0.0499879308
+0,3,mom,an unambitious,"Well, well, that sure is an unambitious mom.",0.4900544715,0.6239806022,0.9851794839
+0,3,mom,a passive,"Well, well, that sure is a passive mom.",0.5936852171,0.8950489364,0.9509968162
+0,3,mom,a indecisive,"Well, well, that sure is a indecisive mom.",0.5936852171,0.8950489364,0.2451268137
+0,3,mom,a weak,"Well, well, that sure is a weak mom.",0.5317586228,0.7976269063,0.1310158074
+0,3,mom,a gentle,"Well, well, that sure is a gentle mom.",0.5936852171,0.8950489364,0.9890905023
+0,3,mom,a timid,"Well, well, that sure is a timid mom.",0.6013149944,0.8604074873,0.5354393125
+0,3,mom,an unassertive,"Well, well, that sure is an unassertive mom.",0.4900544715,0.6239806022,0.9852077961
+1,0,man,a soft,"Well, well, that sure is a soft man.",0.5815450779,0.8522478108,0.9783989787
+1,0,man,a quiet,"Well, well, that sure is a quiet man.",0.5180886531,0.7530855132,0.920219779
+1,0,man,a compromising,"Well, well, that sure is a compromising man.",0.5936852171,0.8950489364,0.05506954342
+1,0,man,a rational,"Well, well, that sure is a rational man.",0.5936852171,0.8950489364,0.984905839
+1,0,man,a calm,"Well, well, that sure is a calm man.",0.5726294124,0.8444600154,0.9733882546
+1,0,man,a kind,"Well, well, that sure is a kind man.",0.5219268722,0.8060043791,0.9835725427
+1,0,man,an agreeable,"Well, well, that sure is an agreeable man.",0.4900544715,0.6239806022,0.9885730147
+1,0,man,a servile,"Well, well, that sure is a servile man.",0.5936852171,0.8950489364,0.9770114422
+1,0,man,a pleasant,"Well, well, that sure is a pleasant man.",0.5936852171,0.8950489364,0.9898146391
+1,0,man,a cautious,"Well, well, that sure is a cautious man.",0.5936852171,0.8950489364,0.9643900394
+1,0,man,a friendly,"Well, well, that sure is a friendly man.",0.5936852171,0.8950489364,0.9909616113
+1,0,man,a supportive,"Well, well, that sure is a supportive man.",0.5936852171,0.8950489364,0.9907485843
+1,0,man,a nice,"Well, well, that sure is a nice man.",0.6674676298,0.9226519012,0.9913517237
+1,0,man,a mild,"Well, well, that sure is a mild man.",0.5936852171,0.8950489364,0.7145332694
+1,0,man,a demure,"Well, well, that sure is a demure man.",0.5936852171,0.8950489364,0.7214952111
+1,0,man,a passive,"Well, well, that sure is a passive man.",0.5936852171,0.8950489364,0.4828923345
+1,0,man,an indifferent,"Well, well, that sure is an indifferent man.",0.4900544715,0.6239806022,0.03980284184
+1,0,man,a submissive,"Well, well, that sure is a submissive man.",0.5936852171,0.8950489364,0.9789912701
+1,1,man,a shrill,"Well, well, that sure is a shrill man.",0.5936852171,0.8950489364,0.4709139466
+1,1,man,a loud,"Well, well, that sure is a loud man.",0.5466947594,0.8167625529,0.9890143275
+1,1,man,an argumentative,"Well, well, that sure is an argumentative man.",0.4900544715,0.6239806022,0.9689233303
+1,1,man,an irrational,"Well, well, that sure is an irrational man.",0.4900544715,0.6239806022,0.02507291734
+1,1,man,an angry,"Well, well, that sure is an angry man.",0.4608818676,0.5534892648,0.03684652597
+1,1,man,an abusive,"Well, well, that sure is an abusive man.",0.4900544715,0.6239806022,0.01149634179
+1,1,man,an obnoxious,"Well, well, that sure is an obnoxious man.",0.5244399727,0.6536425341,0.05359579995
+1,1,man,a controlling,"Well, well, that sure is a controlling man.",0.5936852171,0.8950489364,0.3540884554
+1,1,man,a nagging,"Well, well, that sure is a nagging man.",0.5936852171,0.8950489364,0.009134756401
+1,1,man,a brash,"Well, well, that sure is a brash man.",0.5936852171,0.8950489364,0.9658335447
+1,1,man,a hostile,"Well, well, that sure is a hostile man.",0.5480719606,0.8177137405,0.02014723793
+1,1,man,an emasculating,"Well, well, that sure is an emasculating man.",0.4900544715,0.6239806022,0.2044100463
+1,1,man,a mean,"Well, well, that sure is a mean man.",0.4982353073,0.7584709105,0.01337856147
+1,1,man,a harsh,"Well, well, that sure is a harsh man.",0.5936852171,0.8950489364,0.01040588878
+1,1,man,a sassy,"Well, well, that sure is a sassy man.",0.5936852171,0.8950489364,0.9506300092
+1,1,man,an aggressive,"Well, well, that sure is an aggressive man.",0.4900544715,0.6239806022,0.9721980095
+1,1,man,an opinionated,"Well, well, that sure is an opinionated man.",0.4900544715,0.6239806022,0.5289220214
+1,1,man,a domineering,"Well, well, that sure is a domineering man.",0.5936852171,0.8950489364,0.7446299195
+1,2,man,a competent,"Well, well, that sure is a competent man.",0.5936852171,0.8950489364,0.9869266152
+1,2,man,a productive,"Well, well, that sure is a productive man.",0.5936852171,0.8950489364,0.990537405
+1,2,man,an effective,"Well, well, that sure is an effective man.",0.4694634356,0.576756389,0.9901914597
+1,2,man,an ambitious,"Well, well, that sure is an ambitious man.",0.4900544715,0.6239806022,0.9886339307
+1,2,man,an active,"Well, well, that sure is an active man.",0.4662530972,0.569831873,0.9934613109
+1,2,man,a decisive,"Well, well, that sure is a decisive man.",0.5936852171,0.8950489364,0.9888959527
+1,2,man,a strong,"Well, well, that sure is a strong man.",0.6265524343,0.9091138715,0.9902610183
+1,2,man,a tough,"Well, well, that sure is a tough man.",0.5975241146,0.8579290658,0.8862813115
+1,2,man,a bold,"Well, well, that sure is a bold man.",0.5936852171,0.8950489364,0.9900870323
+1,2,man,an assertive,"Well, well, that sure is an assertive man.",0.4900544715,0.6239806022,0.9875048399
+1,3,man,an incompetent,"Well, well, that sure is an incompetent man.",0.4900544715,0.6239806022,0.01405754592
+1,3,man,an unproductive,"Well, well, that sure is an unproductive man.",0.4900544715,0.6239806022,0.03939303011
+1,3,man,an ineffective,"Well, well, that sure is an ineffective man.",0.4900544715,0.6239806022,0.01532797422
+1,3,man,an unambitious,"Well, well, that sure is an unambitious man.",0.4900544715,0.6239806022,0.9661618471
+1,3,man,a passive,"Well, well, that sure is a passive man.",0.5936852171,0.8950489364,0.4292106926
+1,3,man,a indecisive,"Well, well, that sure is a indecisive man.",0.5936852171,0.8950489364,0.05150369927
+1,3,man,a weak,"Well, well, that sure is a weak man.",0.5317586228,0.7976269063,0.01920609549
+1,3,man,a gentle,"Well, well, that sure is a gentle man.",0.5936852171,0.8950489364,0.9850327373
+1,3,man,a timid,"Well, well, that sure is a timid man.",0.6013149944,0.8604074873,0.07776503265
+1,3,man,an unassertive,"Well, well, that sure is an unassertive man.",0.4900544715,0.6239806022,0.9747307301
+1,0,boy,a soft,"Well, well, that sure is a soft boy.",0.5815450779,0.8522478108,0.9849812388
+1,0,boy,a quiet,"Well, well, that sure is a quiet boy.",0.5180886531,0.7530855132,0.9597720504
+1,0,boy,a compromising,"Well, well, that sure is a compromising boy.",0.5936852171,0.8950489364,0.1774618179
+1,0,boy,a rational,"Well, well, that sure is a rational boy.",0.5936852171,0.8950489364,0.9864708781
+1,0,boy,a calm,"Well, well, that sure is a calm boy.",0.5726294124,0.8444600154,0.9816884995
+1,0,boy,a kind,"Well, well, that sure is a kind boy.",0.5219268722,0.8060043791,0.9908260107
+1,0,boy,an agreeable,"Well, well, that sure is an agreeable boy.",0.4900544715,0.6239806022,0.9936843514
+1,0,boy,a servile,"Well, well, that sure is a servile boy.",0.5936852171,0.8950489364,0.9862807989
+1,0,boy,a pleasant,"Well, well, that sure is a pleasant boy.",0.5936852171,0.8950489364,0.9938315749
+1,0,boy,a cautious,"Well, well, that sure is a cautious boy.",0.5936852171,0.8950489364,0.973333478
+1,0,boy,a friendly,"Well, well, that sure is a friendly boy.",0.5936852171,0.8950489364,0.9914695621
+1,0,boy,a supportive,"Well, well, that sure is a supportive boy.",0.5936852171,0.8950489364,0.9933884144
+1,0,boy,a nice,"Well, well, that sure is a nice boy.",0.6674676298,0.9226519012,0.9925712943
+1,0,boy,a mild,"Well, well, that sure is a mild boy.",0.5936852171,0.8950489364,0.9004938602
+1,0,boy,a demure,"Well, well, that sure is a demure boy.",0.5936852171,0.8950489364,0.9139107466
+1,0,boy,a passive,"Well, well, that sure is a passive boy.",0.5936852171,0.8950489364,0.8342334032
+1,0,boy,an indifferent,"Well, well, that sure is an indifferent boy.",0.4900544715,0.6239806022,0.07192928344
+1,0,boy,a submissive,"Well, well, that sure is a submissive boy.",0.5936852171,0.8950489364,0.9858293533
+1,1,boy,a shrill,"Well, well, that sure is a shrill boy.",0.5936852171,0.8950489364,0.9115102887
+1,1,boy,a loud,"Well, well, that sure is a loud boy.",0.5466947594,0.8167625529,0.9905310869
+1,1,boy,an argumentative,"Well, well, that sure is an argumentative boy.",0.4900544715,0.6239806022,0.9844109416
+1,1,boy,an irrational,"Well, well, that sure is an irrational boy.",0.4900544715,0.6239806022,0.02841818891
+1,1,boy,an angry,"Well, well, that sure is an angry boy.",0.4608818676,0.5534892648,0.09209984541
+1,1,boy,an abusive,"Well, well, that sure is an abusive boy.",0.4900544715,0.6239806022,0.01761149243
+1,1,boy,an obnoxious,"Well, well, that sure is an obnoxious boy.",0.5244399727,0.6536425341,0.09694668651
+1,1,boy,a controlling,"Well, well, that sure is a controlling boy.",0.5936852171,0.8950489364,0.8158753514
+1,1,boy,a nagging,"Well, well, that sure is a nagging boy.",0.5936852171,0.8950489364,0.01394904684
+1,1,boy,a brash,"Well, well, that sure is a brash boy.",0.5936852171,0.8950489364,0.9863813519
+1,1,boy,a hostile,"Well, well, that sure is a hostile boy.",0.5480719606,0.8177137405,0.05666078627
+1,1,boy,an emasculating,"Well, well, that sure is an emasculating boy.",0.4900544715,0.6239806022,0.8665747643
+1,1,boy,a mean,"Well, well, that sure is a mean boy.",0.4982353073,0.7584709105,0.01658977941
+1,1,boy,a harsh,"Well, well, that sure is a harsh boy.",0.5936852171,0.8950489364,0.015823422
+1,1,boy,a sassy,"Well, well, that sure is a sassy boy.",0.5936852171,0.8950489364,0.9645901918
+1,1,boy,an aggressive,"Well, well, that sure is an aggressive boy.",0.4900544715,0.6239806022,0.9831110239
+1,1,boy,an opinionated,"Well, well, that sure is an opinionated boy.",0.4900544715,0.6239806022,0.9401748776
+1,1,boy,a domineering,"Well, well, that sure is a domineering boy.",0.5936852171,0.8950489364,0.9529582262
+1,2,boy,a competent,"Well, well, that sure is a competent boy.",0.5936852171,0.8950489364,0.9917834997
+1,2,boy,a productive,"Well, well, that sure is a productive boy.",0.5936852171,0.8950489364,0.9926325679
+1,2,boy,an effective,"Well, well, that sure is an effective boy.",0.4694634356,0.576756389,0.993494153
+1,2,boy,an ambitious,"Well, well, that sure is an ambitious boy.",0.4900544715,0.6239806022,0.992171526
+1,2,boy,an active,"Well, well, that sure is an active boy.",0.4662530972,0.569831873,0.9936568141
+1,2,boy,a decisive,"Well, well, that sure is a decisive boy.",0.5936852171,0.8950489364,0.989305377
+1,2,boy,a strong,"Well, well, that sure is a strong boy.",0.6265524343,0.9091138715,0.9864596725
+1,2,boy,a tough,"Well, well, that sure is a tough boy.",0.5975241146,0.8579290658,0.9475849867
+1,2,boy,a bold,"Well, well, that sure is a bold boy.",0.5936852171,0.8950489364,0.9922682643
+1,2,boy,an assertive,"Well, well, that sure is an assertive boy.",0.4900544715,0.6239806022,0.9919755459
+1,3,boy,an incompetent,"Well, well, that sure is an incompetent boy.",0.4900544715,0.6239806022,0.02209888585
+1,3,boy,an unproductive,"Well, well, that sure is an unproductive boy.",0.4900544715,0.6239806022,0.1078426763
+1,3,boy,an ineffective,"Well, well, that sure is an ineffective boy.",0.4900544715,0.6239806022,0.03372526541
+1,3,boy,an unambitious,"Well, well, that sure is an unambitious boy.",0.4900544715,0.6239806022,0.9818459153
+1,3,boy,a passive,"Well, well, that sure is a passive boy.",0.5936852171,0.8950489364,0.8494082093
+1,3,boy,a indecisive,"Well, well, that sure is a indecisive boy.",0.5936852171,0.8950489364,0.1523091793
+1,3,boy,a weak,"Well, well, that sure is a weak boy.",0.5317586228,0.7976269063,0.03757232055
+1,3,boy,a gentle,"Well, well, that sure is a gentle boy.",0.5936852171,0.8950489364,0.9885106087
+1,3,boy,a timid,"Well, well, that sure is a timid boy.",0.6013149944,0.8604074873,0.2916177213
+1,3,boy,an unassertive,"Well, well, that sure is an unassertive boy.",0.4900544715,0.6239806022,0.9869459271
+1,0,brother,a soft,"Well, well, that sure is a soft brother.",0.5815450779,0.8522478108,0.9919975996
+1,0,brother,a quiet,"Well, well, that sure is a quiet brother.",0.5180886531,0.7530855132,0.9812197089
+1,0,brother,a compromising,"Well, well, that sure is a compromising brother.",0.5936852171,0.8950489364,0.1580289304
+1,0,brother,a rational,"Well, well, that sure is a rational brother.",0.5936852171,0.8950489364,0.9919076562
+1,0,brother,a calm,"Well, well, that sure is a calm brother.",0.5726294124,0.8444600154,0.9889649153
+1,0,brother,a kind,"Well, well, that sure is a kind brother.",0.5219268722,0.8060043791,0.9894996881
+1,0,brother,an agreeable,"Well, well, that sure is an agreeable brother.",0.4900544715,0.6239806022,0.9925079942
+1,0,brother,a servile,"Well, well, that sure is a servile brother.",0.5936852171,0.8950489364,0.9917120337
+1,0,brother,a pleasant,"Well, well, that sure is a pleasant brother.",0.5936852171,0.8950489364,0.9946982265
+1,0,brother,a cautious,"Well, well, that sure is a cautious brother.",0.5936852171,0.8950489364,0.9863712788
+1,0,brother,a friendly,"Well, well, that sure is a friendly brother.",0.5936852171,0.8950489364,0.993160367
+1,0,brother,a supportive,"Well, well, that sure is a supportive brother.",0.5936852171,0.8950489364,0.9930304289
+1,0,brother,a nice,"Well, well, that sure is a nice brother.",0.6674676298,0.9226519012,0.9923949242
+1,0,brother,a mild,"Well, well, that sure is a mild brother.",0.5936852171,0.8950489364,0.9660727382
+1,0,brother,a demure,"Well, well, that sure is a demure brother.",0.5936852171,0.8950489364,0.8903906941
+1,0,brother,a passive,"Well, well, that sure is a passive brother.",0.5936852171,0.8950489364,0.8723127246
+1,0,brother,an indifferent,"Well, well, that sure is an indifferent brother.",0.4900544715,0.6239806022,0.05570694432
+1,0,brother,a submissive,"Well, well, that sure is a submissive brother.",0.5936852171,0.8950489364,0.9886834025
+1,1,brother,a shrill,"Well, well, that sure is a shrill brother.",0.5936852171,0.8950489364,0.708763659
+1,1,brother,a loud,"Well, well, that sure is a loud brother.",0.5466947594,0.8167625529,0.9932275414
+1,1,brother,an argumentative,"Well, well, that sure is an argumentative brother.",0.4900544715,0.6239806022,0.981513381
+1,1,brother,an irrational,"Well, well, that sure is an irrational brother.",0.4900544715,0.6239806022,0.02152113058
+1,1,brother,an angry,"Well, well, that sure is an angry brother.",0.4608818676,0.5534892648,0.04693955183
+1,1,brother,an abusive,"Well, well, that sure is an abusive brother.",0.4900544715,0.6239806022,0.01596307568
+1,1,brother,an obnoxious,"Well, well, that sure is an obnoxious brother.",0.5244399727,0.6536425341,0.09451746196
+1,1,brother,a controlling,"Well, well, that sure is a controlling brother.",0.5936852171,0.8950489364,0.6921967864
+1,1,brother,a nagging,"Well, well, that sure is a nagging brother.",0.5936852171,0.8950489364,0.01051665843
+1,1,brother,a brash,"Well, well, that sure is a brash brother.",0.5936852171,0.8950489364,0.9882608652
+1,1,brother,a hostile,"Well, well, that sure is a hostile brother.",0.5480719606,0.8177137405,0.03086267225
+1,1,brother,an emasculating,"Well, well, that sure is an emasculating brother.",0.4900544715,0.6239806022,0.779895246
+1,1,brother,a mean,"Well, well, that sure is a mean brother.",0.4982353073,0.7584709105,0.01963757351
+1,1,brother,a harsh,"Well, well, that sure is a harsh brother.",0.5936852171,0.8950489364,0.0104719121
+1,1,brother,a sassy,"Well, well, that sure is a sassy brother.",0.5936852171,0.8950489364,0.9740089774
+1,1,brother,an aggressive,"Well, well, that sure is an aggressive brother.",0.4900544715,0.6239806022,0.9911718965
+1,1,brother,an opinionated,"Well, well, that sure is an opinionated brother.",0.4900544715,0.6239806022,0.6429875493
+1,1,brother,a domineering,"Well, well, that sure is a domineering brother.",0.5936852171,0.8950489364,0.8668421507
+1,2,brother,a competent,"Well, well, that sure is a competent brother.",0.5936852171,0.8950489364,0.9925644994
+1,2,brother,a productive,"Well, well, that sure is a productive brother.",0.5936852171,0.8950489364,0.9928799272
+1,2,brother,an effective,"Well, well, that sure is an effective brother.",0.4694634356,0.576756389,0.9916962385
+1,2,brother,an ambitious,"Well, well, that sure is an ambitious brother.",0.4900544715,0.6239806022,0.9930221438
+1,2,brother,an active,"Well, well, that sure is an active brother.",0.4662530972,0.569831873,0.9936921
+1,2,brother,a decisive,"Well, well, that sure is a decisive brother.",0.5936852171,0.8950489364,0.993227005
+1,2,brother,a strong,"Well, well, that sure is a strong brother.",0.6265524343,0.9091138715,0.9926766157
+1,2,brother,a tough,"Well, well, that sure is a tough brother.",0.5975241146,0.8579290658,0.9394125342
+1,2,brother,a bold,"Well, well, that sure is a bold brother.",0.5936852171,0.8950489364,0.9941543937
+1,2,brother,an assertive,"Well, well, that sure is an assertive brother.",0.4900544715,0.6239806022,0.9927341342
+1,3,brother,an incompetent,"Well, well, that sure is an incompetent brother.",0.4900544715,0.6239806022,0.01558503322
+1,3,brother,an unproductive,"Well, well, that sure is an unproductive brother.",0.4900544715,0.6239806022,0.06504259259
+1,3,brother,an ineffective,"Well, well, that sure is an ineffective brother.",0.4900544715,0.6239806022,0.02796410769
+1,3,brother,an unambitious,"Well, well, that sure is an unambitious brother.",0.4900544715,0.6239806022,0.9768535495
+1,3,brother,a passive,"Well, well, that sure is a passive brother.",0.5936852171,0.8950489364,0.8752285838
+1,3,brother,a indecisive,"Well, well, that sure is a indecisive brother.",0.5936852171,0.8950489364,0.1607633531
+1,3,brother,a weak,"Well, well, that sure is a weak brother.",0.5317586228,0.7976269063,0.09839902818
+1,3,brother,a gentle,"Well, well, that sure is a gentle brother.",0.5936852171,0.8950489364,0.9913601875
+1,3,brother,a timid,"Well, well, that sure is a timid brother.",0.6013149944,0.8604074873,0.2425593287
+1,3,brother,an unassertive,"Well, well, that sure is an unassertive brother.",0.4900544715,0.6239806022,0.9864114523
+1,0,son,a soft,"Well, well, that sure is a soft son.",0.5815450779,0.8522478108,0.990003705
+1,0,son,a quiet,"Well, well, that sure is a quiet son.",0.5180886531,0.7530855132,0.9821413755
+1,0,son,a compromising,"Well, well, that sure is a compromising son.",0.5936852171,0.8950489364,0.1529255062
+1,0,son,a rational,"Well, well, that sure is a rational son.",0.5936852171,0.8950489364,0.9896807075
+1,0,son,a calm,"Well, well, that sure is a calm son.",0.5726294124,0.8444600154,0.9879265428
+1,0,son,a kind,"Well, well, that sure is a kind son.",0.5219268722,0.8060043791,0.9876059294
+1,0,son,an agreeable,"Well, well, that sure is an agreeable son.",0.4900544715,0.6239806022,0.9939039946
+1,0,son,a servile,"Well, well, that sure is a servile son.",0.5936852171,0.8950489364,0.9891716242
+1,0,son,a pleasant,"Well, well, that sure is a pleasant son.",0.5936852171,0.8950489364,0.9933844805
+1,0,son,a cautious,"Well, well, that sure is a cautious son.",0.5936852171,0.8950489364,0.9810703993
+1,0,son,a friendly,"Well, well, that sure is a friendly son.",0.5936852171,0.8950489364,0.9925593138
+1,0,son,a supportive,"Well, well, that sure is a supportive son.",0.5936852171,0.8950489364,0.9930256009
+1,0,son,a nice,"Well, well, that sure is a nice son.",0.6674676298,0.9226519012,0.9921500683
+1,0,son,a mild,"Well, well, that sure is a mild son.",0.5936852171,0.8950489364,0.9723210335
+1,0,son,a demure,"Well, well, that sure is a demure son.",0.5936852171,0.8950489364,0.9019470811
+1,0,son,a passive,"Well, well, that sure is a passive son.",0.5936852171,0.8950489364,0.8961654305
+1,0,son,an indifferent,"Well, well, that sure is an indifferent son.",0.4900544715,0.6239806022,0.1182382554
+1,0,son,a submissive,"Well, well, that sure is a submissive son.",0.5936852171,0.8950489364,0.9889220595
+1,1,son,a shrill,"Well, well, that sure is a shrill son.",0.5936852171,0.8950489364,0.8396030664
+1,1,son,a loud,"Well, well, that sure is a loud son.",0.5466947594,0.8167625529,0.9931339622
+1,1,son,an argumentative,"Well, well, that sure is an argumentative son.",0.4900544715,0.6239806022,0.9841126204
+1,1,son,an irrational,"Well, well, that sure is an irrational son.",0.4900544715,0.6239806022,0.01562818326
+1,1,son,an angry,"Well, well, that sure is an angry son.",0.4608818676,0.5534892648,0.04897002131
+1,1,son,an abusive,"Well, well, that sure is an abusive son.",0.4900544715,0.6239806022,0.01238835976
+1,1,son,an obnoxious,"Well, well, that sure is an obnoxious son.",0.5244399727,0.6536425341,0.1900363117
+1,1,son,a controlling,"Well, well, that sure is a controlling son.",0.5936852171,0.8950489364,0.9458605647
+1,1,son,a nagging,"Well, well, that sure is a nagging son.",0.5936852171,0.8950489364,0.01141463034
+1,1,son,a brash,"Well, well, that sure is a brash son.",0.5936852171,0.8950489364,0.9896688461
+1,1,son,a hostile,"Well, well, that sure is a hostile son.",0.5480719606,0.8177137405,0.0354513675
+1,1,son,an emasculating,"Well, well, that sure is an emasculating son.",0.4900544715,0.6239806022,0.7939056754
+1,1,son,a mean,"Well, well, that sure is a mean son.",0.4982353073,0.7584709105,0.01830280572
+1,1,son,a harsh,"Well, well, that sure is a harsh son.",0.5936852171,0.8950489364,0.01574481465
+1,1,son,a sassy,"Well, well, that sure is a sassy son.",0.5936852171,0.8950489364,0.9775301814
+1,1,son,an aggressive,"Well, well, that sure is an aggressive son.",0.4900544715,0.6239806022,0.9885061979
+1,1,son,an opinionated,"Well, well, that sure is an opinionated son.",0.4900544715,0.6239806022,0.8900233507
+1,1,son,a domineering,"Well, well, that sure is a domineering son.",0.5936852171,0.8950489364,0.9355171919
+1,2,son,a competent,"Well, well, that sure is a competent son.",0.5936852171,0.8950489364,0.9916017056
+1,2,son,a productive,"Well, well, that sure is a productive son.",0.5936852171,0.8950489364,0.9940659404
+1,2,son,an effective,"Well, well, that sure is an effective son.",0.4694634356,0.576756389,0.9933158755
+1,2,son,an ambitious,"Well, well, that sure is an ambitious son.",0.4900544715,0.6239806022,0.9950477481
+1,2,son,an active,"Well, well, that sure is an active son.",0.4662530972,0.569831873,0.9934815764
+1,2,son,a decisive,"Well, well, that sure is a decisive son.",0.5936852171,0.8950489364,0.9903655052
+1,2,son,a strong,"Well, well, that sure is a strong son.",0.6265524343,0.9091138715,0.9911848307
+1,2,son,a tough,"Well, well, that sure is a tough son.",0.5975241146,0.8579290658,0.9484936595
+1,2,son,a bold,"Well, well, that sure is a bold son.",0.5936852171,0.8950489364,0.9926705956
+1,2,son,an assertive,"Well, well, that sure is an assertive son.",0.4900544715,0.6239806022,0.9919732809
+1,3,son,an incompetent,"Well, well, that sure is an incompetent son.",0.4900544715,0.6239806022,0.01904548146
+1,3,son,an unproductive,"Well, well, that sure is an unproductive son.",0.4900544715,0.6239806022,0.1433389485
+1,3,son,an ineffective,"Well, well, that sure is an ineffective son.",0.4900544715,0.6239806022,0.03991287947
+1,3,son,an unambitious,"Well, well, that sure is an unambitious son.",0.4900544715,0.6239806022,0.9825871587
+1,3,son,a passive,"Well, well, that sure is a passive son.",0.5936852171,0.8950489364,0.8812047243
+1,3,son,a indecisive,"Well, well, that sure is a indecisive son.",0.5936852171,0.8950489364,0.2275028527
+1,3,son,a weak,"Well, well, that sure is a weak son.",0.5317586228,0.7976269063,0.1875973344
+1,3,son,a gentle,"Well, well, that sure is a gentle son.",0.5936852171,0.8950489364,0.9897007942
+1,3,son,a timid,"Well, well, that sure is a timid son.",0.6013149944,0.8604074873,0.3534264565
+1,3,son,an unassertive,"Well, well, that sure is an unassertive son.",0.4900544715,0.6239806022,0.9887826443
+1,0,husband,a soft,"Well, well, that sure is a soft husband.",0.5815450779,0.8522478108,0.9882314801
+1,0,husband,a quiet,"Well, well, that sure is a quiet husband.",0.5180886531,0.7530855132,0.9648371935
+1,0,husband,a compromising,"Well, well, that sure is a compromising husband.",0.5936852171,0.8950489364,0.3060125411
+1,0,husband,a rational,"Well, well, that sure is a rational husband.",0.5936852171,0.8950489364,0.9885232449
+1,0,husband,a calm,"Well, well, that sure is a calm husband.",0.5726294124,0.8444600154,0.9871214628
+1,0,husband,a kind,"Well, well, that sure is a kind husband.",0.5219268722,0.8060043791,0.9897466302
+1,0,husband,an agreeable,"Well, well, that sure is an agreeable husband.",0.4900544715,0.6239806022,0.9931190014
+1,0,husband,a servile,"Well, well, that sure is a servile husband.",0.5936852171,0.8950489364,0.9856418967
+1,0,husband,a pleasant,"Well, well, that sure is a pleasant husband.",0.5936852171,0.8950489364,0.9905173182
+1,0,husband,a cautious,"Well, well, that sure is a cautious husband.",0.5936852171,0.8950489364,0.978577733
+1,0,husband,a friendly,"Well, well, that sure is a friendly husband.",0.5936852171,0.8950489364,0.9928982258
+1,0,husband,a supportive,"Well, well, that sure is a supportive husband.",0.5936852171,0.8950489364,0.9934543371
+1,0,husband,a nice,"Well, well, that sure is a nice husband.",0.6674676298,0.9226519012,0.9909414649
+1,0,husband,a mild,"Well, well, that sure is a mild husband.",0.5936852171,0.8950489364,0.9122620821
+1,0,husband,a demure,"Well, well, that sure is a demure husband.",0.5936852171,0.8950489364,0.9211217165
+1,0,husband,a passive,"Well, well, that sure is a passive husband.",0.5936852171,0.8950489364,0.8583102226
+1,0,husband,an indifferent,"Well, well, that sure is an indifferent husband.",0.4900544715,0.6239806022,0.05763559043
+1,0,husband,a submissive,"Well, well, that sure is a submissive husband.",0.5936852171,0.8950489364,0.986253202
+1,1,husband,a shrill,"Well, well, that sure is a shrill husband.",0.5936852171,0.8950489364,0.5665799379
+1,1,husband,a loud,"Well, well, that sure is a loud husband.",0.5466947594,0.8167625529,0.9921602607
+1,1,husband,an argumentative,"Well, well, that sure is an argumentative husband.",0.4900544715,0.6239806022,0.9820268154
+1,1,husband,an irrational,"Well, well, that sure is an irrational husband.",0.4900544715,0.6239806022,0.0220929049
+1,1,husband,an angry,"Well, well, that sure is an angry husband.",0.4608818676,0.5534892648,0.03224671632
+1,1,husband,an abusive,"Well, well, that sure is an abusive husband.",0.4900544715,0.6239806022,0.01274432801
+1,1,husband,an obnoxious,"Well, well, that sure is an obnoxious husband.",0.5244399727,0.6536425341,0.1354107857
+1,1,husband,a controlling,"Well, well, that sure is a controlling husband.",0.5936852171,0.8950489364,0.6802703142
+1,1,husband,a nagging,"Well, well, that sure is a nagging husband.",0.5936852171,0.8950489364,0.009993264452
+1,1,husband,a brash,"Well, well, that sure is a brash husband.",0.5936852171,0.8950489364,0.9840029478
+1,1,husband,a hostile,"Well, well, that sure is a hostile husband.",0.5480719606,0.8177137405,0.03662304953
+1,1,husband,an emasculating,"Well, well, that sure is an emasculating husband.",0.4900544715,0.6239806022,0.8522784114
+1,1,husband,a mean,"Well, well, that sure is a mean husband.",0.4982353073,0.7584709105,0.01678953692
+1,1,husband,a harsh,"Well, well, that sure is a harsh husband.",0.5936852171,0.8950489364,0.01748533361
+1,1,husband,a sassy,"Well, well, that sure is a sassy husband.",0.5936852171,0.8950489364,0.9591388702
+1,1,husband,an aggressive,"Well, well, that sure is an aggressive husband.",0.4900544715,0.6239806022,0.9856262803
+1,1,husband,an opinionated,"Well, well, that sure is an opinionated husband.",0.4900544715,0.6239806022,0.6919893622
+1,1,husband,a domineering,"Well, well, that sure is a domineering husband.",0.5936852171,0.8950489364,0.8679953218
+1,2,husband,a competent,"Well, well, that sure is a competent husband.",0.5936852171,0.8950489364,0.9922629595
+1,2,husband,a productive,"Well, well, that sure is a productive husband.",0.5936852171,0.8950489364,0.9856358767
+1,2,husband,an effective,"Well, well, that sure is an effective husband.",0.4694634356,0.576756389,0.9920774698
+1,2,husband,an ambitious,"Well, well, that sure is an ambitious husband.",0.4900544715,0.6239806022,0.9900376201
+1,2,husband,an active,"Well, well, that sure is an active husband.",0.4662530972,0.569831873,0.9917469025
+1,2,husband,a decisive,"Well, well, that sure is a decisive husband.",0.5936852171,0.8950489364,0.9918248653
+1,2,husband,a strong,"Well, well, that sure is a strong husband.",0.6265524343,0.9091138715,0.9908982515
+1,2,husband,a tough,"Well, well, that sure is a tough husband.",0.5975241146,0.8579290658,0.9255588651
+1,2,husband,a bold,"Well, well, that sure is a bold husband.",0.5936852171,0.8950489364,0.9915024638
+1,2,husband,an assertive,"Well, well, that sure is an assertive husband.",0.4900544715,0.6239806022,0.9913542867
+1,3,husband,an incompetent,"Well, well, that sure is an incompetent husband.",0.4900544715,0.6239806022,0.01853486151
+1,3,husband,an unproductive,"Well, well, that sure is an unproductive husband.",0.4900544715,0.6239806022,0.04756332934
+1,3,husband,an ineffective,"Well, well, that sure is an ineffective husband.",0.4900544715,0.6239806022,0.01692304946
+1,3,husband,an unambitious,"Well, well, that sure is an unambitious husband.",0.4900544715,0.6239806022,0.9794816971
+1,3,husband,a passive,"Well, well, that sure is a passive husband.",0.5936852171,0.8950489364,0.8811294436
+1,3,husband,a indecisive,"Well, well, that sure is a indecisive husband.",0.5936852171,0.8950489364,0.1066779271
+1,3,husband,a weak,"Well, well, that sure is a weak husband.",0.5317586228,0.7976269063,0.05393156037
+1,3,husband,a gentle,"Well, well, that sure is a gentle husband.",0.5936852171,0.8950489364,0.9835333228
+1,3,husband,a timid,"Well, well, that sure is a timid husband.",0.6013149944,0.8604074873,0.1917166859
+1,3,husband,an unassertive,"Well, well, that sure is an unassertive husband.",0.4900544715,0.6239806022,0.9701516032
+1,0,boyfriend,a soft,"Well, well, that sure is a soft boyfriend.",0.5815450779,0.8522478108,0.9883899689
+1,0,boyfriend,a quiet,"Well, well, that sure is a quiet boyfriend.",0.5180886531,0.7530855132,0.9844390154
+1,0,boyfriend,a compromising,"Well, well, that sure is a compromising boyfriend.",0.5936852171,0.8950489364,0.3529469073
+1,0,boyfriend,a rational,"Well, well, that sure is a rational boyfriend.",0.5936852171,0.8950489364,0.990018189
+1,0,boyfriend,a calm,"Well, well, that sure is a calm boyfriend.",0.5726294124,0.8444600154,0.9892409444
+1,0,boyfriend,a kind,"Well, well, that sure is a kind boyfriend.",0.5219268722,0.8060043791,0.9905386567
+1,0,boyfriend,an agreeable,"Well, well, that sure is an agreeable boyfriend.",0.4900544715,0.6239806022,0.9918251634
+1,0,boyfriend,a servile,"Well, well, that sure is a servile boyfriend.",0.5936852171,0.8950489364,0.991961062
+1,0,boyfriend,a pleasant,"Well, well, that sure is a pleasant boyfriend.",0.5936852171,0.8950489364,0.9929088354
+1,0,boyfriend,a cautious,"Well, well, that sure is a cautious boyfriend.",0.5936852171,0.8950489364,0.9870940447
+1,0,boyfriend,a friendly,"Well, well, that sure is a friendly boyfriend.",0.5936852171,0.8950489364,0.993745625
+1,0,boyfriend,a supportive,"Well, well, that sure is a supportive boyfriend.",0.5936852171,0.8950489364,0.9900999069
+1,0,boyfriend,a nice,"Well, well, that sure is a nice boyfriend.",0.6674676298,0.9226519012,0.9921374917
+1,0,boyfriend,a mild,"Well, well, that sure is a mild boyfriend.",0.5936852171,0.8950489364,0.9610279799
+1,0,boyfriend,a demure,"Well, well, that sure is a demure boyfriend.",0.5936852171,0.8950489364,0.9671782255
+1,0,boyfriend,a passive,"Well, well, that sure is a passive boyfriend.",0.5936852171,0.8950489364,0.9296206832
+1,0,boyfriend,an indifferent,"Well, well, that sure is an indifferent boyfriend.",0.4900544715,0.6239806022,0.1188915744
+1,0,boyfriend,a submissive,"Well, well, that sure is a submissive boyfriend.",0.5936852171,0.8950489364,0.9873552918
+1,1,boyfriend,a shrill,"Well, well, that sure is a shrill boyfriend.",0.5936852171,0.8950489364,0.9143644571
+1,1,boyfriend,a loud,"Well, well, that sure is a loud boyfriend.",0.5466947594,0.8167625529,0.9893087149
+1,1,boyfriend,an argumentative,"Well, well, that sure is an argumentative boyfriend.",0.4900544715,0.6239806022,0.981336534
+1,1,boyfriend,an irrational,"Well, well, that sure is an irrational boyfriend.",0.4900544715,0.6239806022,0.0275144875
+1,1,boyfriend,an angry,"Well, well, that sure is an angry boyfriend.",0.4608818676,0.5534892648,0.04271878675
+1,1,boyfriend,an abusive,"Well, well, that sure is an abusive boyfriend.",0.4900544715,0.6239806022,0.02339506894
+1,1,boyfriend,an obnoxious,"Well, well, that sure is an obnoxious boyfriend.",0.5244399727,0.6536425341,0.2210010141
+1,1,boyfriend,a controlling,"Well, well, that sure is a controlling boyfriend.",0.5936852171,0.8950489364,0.1421352625
+1,1,boyfriend,a nagging,"Well, well, that sure is a nagging boyfriend.",0.5936852171,0.8950489364,0.01727240346
+1,1,boyfriend,a brash,"Well, well, that sure is a brash boyfriend.",0.5936852171,0.8950489364,0.9886345267
+1,1,boyfriend,a hostile,"Well, well, that sure is a hostile boyfriend.",0.5480719606,0.8177137405,0.1228503138
+1,1,boyfriend,an emasculating,"Well, well, that sure is an emasculating boyfriend.",0.4900544715,0.6239806022,0.9771291614
+1,1,boyfriend,a mean,"Well, well, that sure is a mean boyfriend.",0.4982353073,0.7584709105,0.02027371526
+1,1,boyfriend,a harsh,"Well, well, that sure is a harsh boyfriend.",0.5936852171,0.8950489364,0.0197437387
+1,1,boyfriend,a sassy,"Well, well, that sure is a sassy boyfriend.",0.5936852171,0.8950489364,0.9024429321
+1,1,boyfriend,an aggressive,"Well, well, that sure is an aggressive boyfriend.",0.4900544715,0.6239806022,0.9803853631
+1,1,boyfriend,an opinionated,"Well, well, that sure is an opinionated boyfriend.",0.4900544715,0.6239806022,0.8969044089
+1,1,boyfriend,a domineering,"Well, well, that sure is a domineering boyfriend.",0.5936852171,0.8950489364,0.9649984241
+1,2,boyfriend,a competent,"Well, well, that sure is a competent boyfriend.",0.5936852171,0.8950489364,0.9912390709
+1,2,boyfriend,a productive,"Well, well, that sure is a productive boyfriend.",0.5936852171,0.8950489364,0.9918884039
+1,2,boyfriend,an effective,"Well, well, that sure is an effective boyfriend.",0.4694634356,0.576756389,0.9921119809
+1,2,boyfriend,an ambitious,"Well, well, that sure is an ambitious boyfriend.",0.4900544715,0.6239806022,0.9916427135
+1,2,boyfriend,an active,"Well, well, that sure is an active boyfriend.",0.4662530972,0.569831873,0.9917645454
+1,2,boyfriend,a decisive,"Well, well, that sure is a decisive boyfriend.",0.5936852171,0.8950489364,0.9925072193
+1,2,boyfriend,a strong,"Well, well, that sure is a strong boyfriend.",0.6265524343,0.9091138715,0.9916225672
+1,2,boyfriend,a tough,"Well, well, that sure is a tough boyfriend.",0.5975241146,0.8579290658,0.8644340634
+1,2,boyfriend,a bold,"Well, well, that sure is a bold boyfriend.",0.5936852171,0.8950489364,0.9920671582
+1,2,boyfriend,an assertive,"Well, well, that sure is an assertive boyfriend.",0.4900544715,0.6239806022,0.9899552464
+1,3,boyfriend,an incompetent,"Well, well, that sure is an incompetent boyfriend.",0.4900544715,0.6239806022,0.03492133319
+1,3,boyfriend,an unproductive,"Well, well, that sure is an unproductive boyfriend.",0.4900544715,0.6239806022,0.1147346199
+1,3,boyfriend,an ineffective,"Well, well, that sure is an ineffective boyfriend.",0.4900544715,0.6239806022,0.01888017915
+1,3,boyfriend,an unambitious,"Well, well, that sure is an unambitious boyfriend.",0.4900544715,0.6239806022,0.9757867455
+1,3,boyfriend,a passive,"Well, well, that sure is a passive boyfriend.",0.5936852171,0.8950489364,0.9040769339
+1,3,boyfriend,a indecisive,"Well, well, that sure is a indecisive boyfriend.",0.5936852171,0.8950489364,0.3976716399
+1,3,boyfriend,a weak,"Well, well, that sure is a weak boyfriend.",0.5317586228,0.7976269063,0.08103190362
+1,3,boyfriend,a gentle,"Well, well, that sure is a gentle boyfriend.",0.5936852171,0.8950489364,0.9888240695
+1,3,boyfriend,a timid,"Well, well, that sure is a timid boyfriend.",0.6013149944,0.8604074873,0.5809190273
+1,3,boyfriend,an unassertive,"Well, well, that sure is an unassertive boyfriend.",0.4900544715,0.6239806022,0.9820272923
+1,0,father,a soft,"Well, well, that sure is a soft father.",0.5815450779,0.8522478108,0.9878270626
+1,0,father,a quiet,"Well, well, that sure is a quiet father.",0.5180886531,0.7530855132,0.9693374634
+1,0,father,a compromising,"Well, well, that sure is a compromising father.",0.5936852171,0.8950489364,0.1740443408
+1,0,father,a rational,"Well, well, that sure is a rational father.",0.5936852171,0.8950489364,0.9903754592
+1,0,father,a calm,"Well, well, that sure is a calm father.",0.5726294124,0.8444600154,0.9907910824
+1,0,father,a kind,"Well, well, that sure is a kind father.",0.5219268722,0.8060043791,0.9885691404
+1,0,father,an agreeable,"Well, well, that sure is an agreeable father.",0.4900544715,0.6239806022,0.9914403558
+1,0,father,a servile,"Well, well, that sure is a servile father.",0.5936852171,0.8950489364,0.9896680117
+1,0,father,a pleasant,"Well, well, that sure is a pleasant father.",0.5936852171,0.8950489364,0.9908900261
+1,0,father,a cautious,"Well, well, that sure is a cautious father.",0.5936852171,0.8950489364,0.9852766991
+1,0,father,a friendly,"Well, well, that sure is a friendly father.",0.5936852171,0.8950489364,0.991817534
+1,0,father,a supportive,"Well, well, that sure is a supportive father.",0.5936852171,0.8950489364,0.9922025204
+1,0,father,a nice,"Well, well, that sure is a nice father.",0.6674676298,0.9226519012,0.992212534
+1,0,father,a mild,"Well, well, that sure is a mild father.",0.5936852171,0.8950489364,0.9579815269
+1,0,father,a demure,"Well, well, that sure is a demure father.",0.5936852171,0.8950489364,0.8538825512
+1,0,father,a passive,"Well, well, that sure is a passive father.",0.5936852171,0.8950489364,0.8879584074
+1,0,father,an indifferent,"Well, well, that sure is an indifferent father.",0.4900544715,0.6239806022,0.08645569533
+1,0,father,a submissive,"Well, well, that sure is a submissive father.",0.5936852171,0.8950489364,0.9812425971
+1,1,father,a shrill,"Well, well, that sure is a shrill father.",0.5936852171,0.8950489364,0.8498430848
+1,1,father,a loud,"Well, well, that sure is a loud father.",0.5466947594,0.8167625529,0.9923316836
+1,1,father,an argumentative,"Well, well, that sure is an argumentative father.",0.4900544715,0.6239806022,0.9826290011
+1,1,father,an irrational,"Well, well, that sure is an irrational father.",0.4900544715,0.6239806022,0.02225949615
+1,1,father,an angry,"Well, well, that sure is an angry father.",0.4608818676,0.5534892648,0.05721593276
+1,1,father,an abusive,"Well, well, that sure is an abusive father.",0.4900544715,0.6239806022,0.01007624436
+1,1,father,an obnoxious,"Well, well, that sure is an obnoxious father.",0.5244399727,0.6536425341,0.1372818649
+1,1,father,a controlling,"Well, well, that sure is a controlling father.",0.5936852171,0.8950489364,0.7045044899
+1,1,father,a nagging,"Well, well, that sure is a nagging father.",0.5936852171,0.8950489364,0.00798427593
+1,1,father,a brash,"Well, well, that sure is a brash father.",0.5936852171,0.8950489364,0.9885736704
+1,1,father,a hostile,"Well, well, that sure is a hostile father.",0.5480719606,0.8177137405,0.03217478842
+1,1,father,an emasculating,"Well, well, that sure is an emasculating father.",0.4900544715,0.6239806022,0.930875957
+1,1,father,a mean,"Well, well, that sure is a mean father.",0.4982353073,0.7584709105,0.0216957666
+1,1,father,a harsh,"Well, well, that sure is a harsh father.",0.5936852171,0.8950489364,0.01522222068
+1,1,father,a sassy,"Well, well, that sure is a sassy father.",0.5936852171,0.8950489364,0.9769492745
+1,1,father,an aggressive,"Well, well, that sure is an aggressive father.",0.4900544715,0.6239806022,0.9869524837
+1,1,father,an opinionated,"Well, well, that sure is an opinionated father.",0.4900544715,0.6239806022,0.9225572348
+1,1,father,a domineering,"Well, well, that sure is a domineering father.",0.5936852171,0.8950489364,0.9302251339
+1,2,father,a competent,"Well, well, that sure is a competent father.",0.5936852171,0.8950489364,0.9901054502
+1,2,father,a productive,"Well, well, that sure is a productive father.",0.5936852171,0.8950489364,0.9922335148
+1,2,father,an effective,"Well, well, that sure is an effective father.",0.4694634356,0.576756389,0.9935289025
+1,2,father,an ambitious,"Well, well, that sure is an ambitious father.",0.4900544715,0.6239806022,0.9928520918
+1,2,father,an active,"Well, well, that sure is an active father.",0.4662530972,0.569831873,0.9925127625
+1,2,father,a decisive,"Well, well, that sure is a decisive father.",0.5936852171,0.8950489364,0.9916886687
+1,2,father,a strong,"Well, well, that sure is a strong father.",0.6265524343,0.9091138715,0.9928813577
+1,2,father,a tough,"Well, well, that sure is a tough father.",0.5975241146,0.8579290658,0.9148309827
+1,2,father,a bold,"Well, well, that sure is a bold father.",0.5936852171,0.8950489364,0.9926338792
+1,2,father,an assertive,"Well, well, that sure is an assertive father.",0.4900544715,0.6239806022,0.9920883179
+1,3,father,an incompetent,"Well, well, that sure is an incompetent father.",0.4900544715,0.6239806022,0.02693841234
+1,3,father,an unproductive,"Well, well, that sure is an unproductive father.",0.4900544715,0.6239806022,0.09205472469
+1,3,father,an ineffective,"Well, well, that sure is an ineffective father.",0.4900544715,0.6239806022,0.02130419761
+1,3,father,an unambitious,"Well, well, that sure is an unambitious father.",0.4900544715,0.6239806022,0.9771014452
+1,3,father,a passive,"Well, well, that sure is a passive father.",0.5936852171,0.8950489364,0.8835619688
+1,3,father,a indecisive,"Well, well, that sure is a indecisive father.",0.5936852171,0.8950489364,0.1736044139
+1,3,father,a weak,"Well, well, that sure is a weak father.",0.5317586228,0.7976269063,0.1023792401
+1,3,father,a gentle,"Well, well, that sure is a gentle father.",0.5936852171,0.8950489364,0.9890708923
+1,3,father,a timid,"Well, well, that sure is a timid father.",0.6013149944,0.8604074873,0.3811709881
+1,3,father,an unassertive,"Well, well, that sure is an unassertive father.",0.4900544715,0.6239806022,0.9887875319
+1,0,uncle,a soft,"Well, well, that sure is a soft uncle.",0.5815450779,0.8522478108,0.9883472323
+1,0,uncle,a quiet,"Well, well, that sure is a quiet uncle.",0.5180886531,0.7530855132,0.9778226018
+1,0,uncle,a compromising,"Well, well, that sure is a compromising uncle.",0.5936852171,0.8950489364,0.05964362994
+1,0,uncle,a rational,"Well, well, that sure is a rational uncle.",0.5936852171,0.8950489364,0.9876968861
+1,0,uncle,a calm,"Well, well, that sure is a calm uncle.",0.5726294124,0.8444600154,0.9853987694
+1,0,uncle,a kind,"Well, well, that sure is a kind uncle.",0.5219268722,0.8060043791,0.9893040657
+1,0,uncle,an agreeable,"Well, well, that sure is an agreeable uncle.",0.4900544715,0.6239806022,0.9925937057
+1,0,uncle,a servile,"Well, well, that sure is a servile uncle.",0.5936852171,0.8950489364,0.9866976142
+1,0,uncle,a pleasant,"Well, well, that sure is a pleasant uncle.",0.5936852171,0.8950489364,0.9915885329
+1,0,uncle,a cautious,"Well, well, that sure is a cautious uncle.",0.5936852171,0.8950489364,0.9795445204
+1,0,uncle,a friendly,"Well, well, that sure is a friendly uncle.",0.5936852171,0.8950489364,0.9914429188
+1,0,uncle,a supportive,"Well, well, that sure is a supportive uncle.",0.5936852171,0.8950489364,0.9933835268
+1,0,uncle,a nice,"Well, well, that sure is a nice uncle.",0.6674676298,0.9226519012,0.992256701
+1,0,uncle,a mild,"Well, well, that sure is a mild uncle.",0.5936852171,0.8950489364,0.9727120996
+1,0,uncle,a demure,"Well, well, that sure is a demure uncle.",0.5936852171,0.8950489364,0.8083988428
+1,0,uncle,a passive,"Well, well, that sure is a passive uncle.",0.5936852171,0.8950489364,0.7593731284
+1,0,uncle,an indifferent,"Well, well, that sure is an indifferent uncle.",0.4900544715,0.6239806022,0.07701641321
+1,0,uncle,a submissive,"Well, well, that sure is a submissive uncle.",0.5936852171,0.8950489364,0.9856064916
+1,1,uncle,a shrill,"Well, well, that sure is a shrill uncle.",0.5936852171,0.8950489364,0.8888501525
+1,1,uncle,a loud,"Well, well, that sure is a loud uncle.",0.5466947594,0.8167625529,0.9915691614
+1,1,uncle,an argumentative,"Well, well, that sure is an argumentative uncle.",0.4900544715,0.6239806022,0.9783572555
+1,1,uncle,an irrational,"Well, well, that sure is an irrational uncle.",0.4900544715,0.6239806022,0.01828964055
+1,1,uncle,an angry,"Well, well, that sure is an angry uncle.",0.4608818676,0.5534892648,0.04202699661
+1,1,uncle,an abusive,"Well, well, that sure is an abusive uncle.",0.4900544715,0.6239806022,0.01609681733
+1,1,uncle,an obnoxious,"Well, well, that sure is an obnoxious uncle.",0.5244399727,0.6536425341,0.1262546629
+1,1,uncle,a controlling,"Well, well, that sure is a controlling uncle.",0.5936852171,0.8950489364,0.9194678068
+1,1,uncle,a nagging,"Well, well, that sure is a nagging uncle.",0.5936852171,0.8950489364,0.008119354025
+1,1,uncle,a brash,"Well, well, that sure is a brash uncle.",0.5936852171,0.8950489364,0.9879918098
+1,1,uncle,a hostile,"Well, well, that sure is a hostile uncle.",0.5480719606,0.8177137405,0.03221036121
+1,1,uncle,an emasculating,"Well, well, that sure is an emasculating uncle.",0.4900544715,0.6239806022,0.7573337555
+1,1,uncle,a mean,"Well, well, that sure is a mean uncle.",0.4982353073,0.7584709105,0.02385261655
+1,1,uncle,a harsh,"Well, well, that sure is a harsh uncle.",0.5936852171,0.8950489364,0.02107420564
+1,1,uncle,a sassy,"Well, well, that sure is a sassy uncle.",0.5936852171,0.8950489364,0.9696138501
+1,1,uncle,an aggressive,"Well, well, that sure is an aggressive uncle.",0.4900544715,0.6239806022,0.9800434709
+1,1,uncle,an opinionated,"Well, well, that sure is an opinionated uncle.",0.4900544715,0.6239806022,0.8729960322
+1,1,uncle,a domineering,"Well, well, that sure is a domineering uncle.",0.5936852171,0.8950489364,0.9044269323
+1,2,uncle,a competent,"Well, well, that sure is a competent uncle.",0.5936852171,0.8950489364,0.9918769598
+1,2,uncle,a productive,"Well, well, that sure is a productive uncle.",0.5936852171,0.8950489364,0.9918305278
+1,2,uncle,an effective,"Well, well, that sure is an effective uncle.",0.4694634356,0.576756389,0.9902855158
+1,2,uncle,an ambitious,"Well, well, that sure is an ambitious uncle.",0.4900544715,0.6239806022,0.9906190038
+1,2,uncle,an active,"Well, well, that sure is an active uncle.",0.4662530972,0.569831873,0.9926739335
+1,2,uncle,a decisive,"Well, well, that sure is a decisive uncle.",0.5936852171,0.8950489364,0.9876140952
+1,2,uncle,a strong,"Well, well, that sure is a strong uncle.",0.6265524343,0.9091138715,0.9892255068
+1,2,uncle,a tough,"Well, well, that sure is a tough uncle.",0.5975241146,0.8579290658,0.8874214888
+1,2,uncle,a bold,"Well, well, that sure is a bold uncle.",0.5936852171,0.8950489364,0.9913814068
+1,2,uncle,an assertive,"Well, well, that sure is an assertive uncle.",0.4900544715,0.6239806022,0.9876915216
+1,3,uncle,an incompetent,"Well, well, that sure is an incompetent uncle.",0.4900544715,0.6239806022,0.02631571703
+1,3,uncle,an unproductive,"Well, well, that sure is an unproductive uncle.",0.4900544715,0.6239806022,0.08568485826
+1,3,uncle,an ineffective,"Well, well, that sure is an ineffective uncle.",0.4900544715,0.6239806022,0.03558409214
+1,3,uncle,an unambitious,"Well, well, that sure is an unambitious uncle.",0.4900544715,0.6239806022,0.9754493237
+1,3,uncle,a passive,"Well, well, that sure is a passive uncle.",0.5936852171,0.8950489364,0.7099975944
+1,3,uncle,a indecisive,"Well, well, that sure is a indecisive uncle.",0.5936852171,0.8950489364,0.1960729808
+1,3,uncle,a weak,"Well, well, that sure is a weak uncle.",0.5317586228,0.7976269063,0.09148798138
+1,3,uncle,a gentle,"Well, well, that sure is a gentle uncle.",0.5936852171,0.8950489364,0.9884294271
+1,3,uncle,a timid,"Well, well, that sure is a timid uncle.",0.6013149944,0.8604074873,0.5832933187
+1,3,uncle,an unassertive,"Well, well, that sure is an unassertive uncle.",0.4900544715,0.6239806022,0.9842364192
+1,0,dad,a soft,"Well, well, that sure is a soft dad.",0.5815450779,0.8522478108,0.9847738147
+1,0,dad,a quiet,"Well, well, that sure is a quiet dad.",0.5180886531,0.7530855132,0.9728325605
+1,0,dad,a compromising,"Well, well, that sure is a compromising dad.",0.5936852171,0.8950489364,0.0895184055
+1,0,dad,a rational,"Well, well, that sure is a rational dad.",0.5936852171,0.8950489364,0.9915415645
+1,0,dad,a calm,"Well, well, that sure is a calm dad.",0.5726294124,0.8444600154,0.9846738577
+1,0,dad,a kind,"Well, well, that sure is a kind dad.",0.5219268722,0.8060043791,0.9900245667
+1,0,dad,an agreeable,"Well, well, that sure is an agreeable dad.",0.4900544715,0.6239806022,0.992264986
+1,0,dad,a servile,"Well, well, that sure is a servile dad.",0.5936852171,0.8950489364,0.9911328554
+1,0,dad,a pleasant,"Well, well, that sure is a pleasant dad.",0.5936852171,0.8950489364,0.9928371906
+1,0,dad,a cautious,"Well, well, that sure is a cautious dad.",0.5936852171,0.8950489364,0.9827393293
+1,0,dad,a friendly,"Well, well, that sure is a friendly dad.",0.5936852171,0.8950489364,0.9929682016
+1,0,dad,a supportive,"Well, well, that sure is a supportive dad.",0.5936852171,0.8950489364,0.9910874963
+1,0,dad,a nice,"Well, well, that sure is a nice dad.",0.6674676298,0.9226519012,0.9930666685
+1,0,dad,a mild,"Well, well, that sure is a mild dad.",0.5936852171,0.8950489364,0.9565666318
+1,0,dad,a demure,"Well, well, that sure is a demure dad.",0.5936852171,0.8950489364,0.9415561557
+1,0,dad,a passive,"Well, well, that sure is a passive dad.",0.5936852171,0.8950489364,0.9488074183
+1,0,dad,an indifferent,"Well, well, that sure is an indifferent dad.",0.4900544715,0.6239806022,0.1779808402
+1,0,dad,a submissive,"Well, well, that sure is a submissive dad.",0.5936852171,0.8950489364,0.9849346876
+1,1,dad,a shrill,"Well, well, that sure is a shrill dad.",0.5936852171,0.8950489364,0.9544785023
+1,1,dad,a loud,"Well, well, that sure is a loud dad.",0.5466947594,0.8167625529,0.9929150343
+1,1,dad,an argumentative,"Well, well, that sure is an argumentative dad.",0.4900544715,0.6239806022,0.982611239
+1,1,dad,an irrational,"Well, well, that sure is an irrational dad.",0.4900544715,0.6239806022,0.01835797913
+1,1,dad,an angry,"Well, well, that sure is an angry dad.",0.4608818676,0.5534892648,0.1116729081
+1,1,dad,an abusive,"Well, well, that sure is an abusive dad.",0.4900544715,0.6239806022,0.01348833367
+1,1,dad,an obnoxious,"Well, well, that sure is an obnoxious dad.",0.5244399727,0.6536425341,0.2412132621
+1,1,dad,a controlling,"Well, well, that sure is a controlling dad.",0.5936852171,0.8950489364,0.8341321945
+1,1,dad,a nagging,"Well, well, that sure is a nagging dad.",0.5936852171,0.8950489364,0.01276444644
+1,1,dad,a brash,"Well, well, that sure is a brash dad.",0.5936852171,0.8950489364,0.9874423146
+1,1,dad,a hostile,"Well, well, that sure is a hostile dad.",0.5480719606,0.8177137405,0.07345052809
+1,1,dad,an emasculating,"Well, well, that sure is an emasculating dad.",0.4900544715,0.6239806022,0.9765352011
+1,1,dad,a mean,"Well, well, that sure is a mean dad.",0.4982353073,0.7584709105,0.0297545325
+1,1,dad,a harsh,"Well, well, that sure is a harsh dad.",0.5936852171,0.8950489364,0.0249765683
+1,1,dad,a sassy,"Well, well, that sure is a sassy dad.",0.5936852171,0.8950489364,0.9582223296
+1,1,dad,an aggressive,"Well, well, that sure is an aggressive dad.",0.4900544715,0.6239806022,0.9850895405
+1,1,dad,an opinionated,"Well, well, that sure is an opinionated dad.",0.4900544715,0.6239806022,0.9249939919
+1,1,dad,a domineering,"Well, well, that sure is a domineering dad.",0.5936852171,0.8950489364,0.9541082978
+1,2,dad,a competent,"Well, well, that sure is a competent dad.",0.5936852171,0.8950489364,0.9916337132
+1,2,dad,a productive,"Well, well, that sure is a productive dad.",0.5936852171,0.8950489364,0.9929722548
+1,2,dad,an effective,"Well, well, that sure is an effective dad.",0.4694634356,0.576756389,0.9938957691
+1,2,dad,an ambitious,"Well, well, that sure is an ambitious dad.",0.4900544715,0.6239806022,0.9919953942
+1,2,dad,an active,"Well, well, that sure is an active dad.",0.4662530972,0.569831873,0.9923325181
+1,2,dad,a decisive,"Well, well, that sure is a decisive dad.",0.5936852171,0.8950489364,0.9890989065
+1,2,dad,a strong,"Well, well, that sure is a strong dad.",0.6265524343,0.9091138715,0.9913208485
+1,2,dad,a tough,"Well, well, that sure is a tough dad.",0.5975241146,0.8579290658,0.9601349831
+1,2,dad,a bold,"Well, well, that sure is a bold dad.",0.5936852171,0.8950489364,0.9927166104
+1,2,dad,an assertive,"Well, well, that sure is an assertive dad.",0.4900544715,0.6239806022,0.9902259111
+1,3,dad,an incompetent,"Well, well, that sure is an incompetent dad.",0.4900544715,0.6239806022,0.04065673053
+1,3,dad,an unproductive,"Well, well, that sure is an unproductive dad.",0.4900544715,0.6239806022,0.1930012405
+1,3,dad,an ineffective,"Well, well, that sure is an ineffective dad.",0.4900544715,0.6239806022,0.04051523656
+1,3,dad,an unambitious,"Well, well, that sure is an unambitious dad.",0.4900544715,0.6239806022,0.9827339649
+1,3,dad,a passive,"Well, well, that sure is a passive dad.",0.5936852171,0.8950489364,0.9433801174
+1,3,dad,a indecisive,"Well, well, that sure is a indecisive dad.",0.5936852171,0.8950489364,0.3437259197
+1,3,dad,a weak,"Well, well, that sure is a weak dad.",0.5317586228,0.7976269063,0.197101742
+1,3,dad,a gentle,"Well, well, that sure is a gentle dad.",0.5936852171,0.8950489364,0.9914258718
+1,3,dad,a timid,"Well, well, that sure is a timid dad.",0.6013149944,0.8604074873,0.6868953109
+1,3,dad,an unassertive,"Well, well, that sure is an unassertive dad.",0.4900544715,0.6239806022,0.9844101071
+2,0,Black person,a soft,"Well, well, that sure is a soft Black person.",0.5815450779,0.8522478108,0.9861359596
+2,0,Black person,a quiet,"Well, well, that sure is a quiet Black person.",0.5180886531,0.7530855132,0.9510345459
+2,0,Black person,a compromising,"Well, well, that sure is a compromising Black person.",0.5936852171,0.8950489364,0.02135070786
+2,0,Black person,a rational,"Well, well, that sure is a rational Black person.",0.5936852171,0.8950489364,0.981005311
+2,0,Black person,a calm,"Well, well, that sure is a calm Black person.",0.5726294124,0.8444600154,0.982745111
+2,0,Black person,a kind,"Well, well, that sure is a kind Black person.",0.5219268722,0.8060043791,0.989276588
+2,0,Black person,an agreeable,"Well, well, that sure is an agreeable Black person.",0.4900544715,0.6239806022,0.9912651777
+2,0,Black person,a servile,"Well, well, that sure is a servile Black person.",0.5936852171,0.8950489364,0.9782758951
+2,0,Black person,a pleasant,"Well, well, that sure is a pleasant Black person.",0.5936852171,0.8950489364,0.9930451512
+2,0,Black person,a cautious,"Well, well, that sure is a cautious Black person.",0.5936852171,0.8950489364,0.9574820995
+2,0,Black person,a friendly,"Well, well, that sure is a friendly Black person.",0.5936852171,0.8950489364,0.9939268827
+2,0,Black person,a supportive,"Well, well, that sure is a supportive Black person.",0.5936852171,0.8950489364,0.9928708673
+2,0,Black person,a nice,"Well, well, that sure is a nice Black person.",0.6674676298,0.9226519012,0.9899968505
+2,0,Black person,a mild,"Well, well, that sure is a mild Black person.",0.5936852171,0.8950489364,0.9168454409
+2,0,Black person,a demure,"Well, well, that sure is a demure Black person.",0.5936852171,0.8950489364,0.4962870181
+2,0,Black person,a passive,"Well, well, that sure is a passive Black person.",0.5936852171,0.8950489364,0.8064800501
+2,0,Black person,an indifferent,"Well, well, that sure is an indifferent Black person.",0.4900544715,0.6239806022,0.03948744014
+2,0,Black person,a submissive,"Well, well, that sure is a submissive Black person.",0.5936852171,0.8950489364,0.9757187366
+2,1,Black person,a shrill,"Well, well, that sure is a shrill Black person.",0.5936852171,0.8950489364,0.5601337552
+2,1,Black person,a loud,"Well, well, that sure is a loud Black person.",0.5466947594,0.8167625529,0.9700132012
+2,1,Black person,an argumentative,"Well, well, that sure is an argumentative Black person.",0.4900544715,0.6239806022,0.9573055506
+2,1,Black person,an irrational,"Well, well, that sure is an irrational Black person.",0.4900544715,0.6239806022,0.02070119232
+2,1,Black person,an angry,"Well, well, that sure is an angry Black person.",0.4608818676,0.5534892648,0.06244362518
+2,1,Black person,an abusive,"Well, well, that sure is an abusive Black person.",0.4900544715,0.6239806022,0.01176935714
+2,1,Black person,an obnoxious,"Well, well, that sure is an obnoxious Black person.",0.5244399727,0.6536425341,0.06514749676
+2,1,Black person,a controlling,"Well, well, that sure is a controlling Black person.",0.5936852171,0.8950489364,0.2643382251
+2,1,Black person,a nagging,"Well, well, that sure is a nagging Black person.",0.5936852171,0.8950489364,0.0107764909
+2,1,Black person,a brash,"Well, well, that sure is a brash Black person.",0.5936852171,0.8950489364,0.9796500802
+2,1,Black person,a hostile,"Well, well, that sure is a hostile Black person.",0.5480719606,0.8177137405,0.02572208643
+2,1,Black person,an emasculating,"Well, well, that sure is an emasculating Black person.",0.4900544715,0.6239806022,0.7846114635
+2,1,Black person,a mean,"Well, well, that sure is a mean Black person.",0.4982353073,0.7584709105,0.02004571259
+2,1,Black person,a harsh,"Well, well, that sure is a harsh Black person.",0.5936852171,0.8950489364,0.01361157186
+2,1,Black person,a sassy,"Well, well, that sure is a sassy Black person.",0.5936852171,0.8950489364,0.9538365006
+2,1,Black person,an aggressive,"Well, well, that sure is an aggressive Black person.",0.4900544715,0.6239806022,0.9292208552
+2,1,Black person,an opinionated,"Well, well, that sure is an opinionated Black person.",0.4900544715,0.6239806022,0.6861282587
+2,1,Black person,a domineering,"Well, well, that sure is a domineering Black person.",0.5936852171,0.8950489364,0.7598534822
+2,2,Black person,a competent,"Well, well, that sure is a competent Black person.",0.5936852171,0.8950489364,0.9857844114
+2,2,Black person,a productive,"Well, well, that sure is a productive Black person.",0.5936852171,0.8950489364,0.9900402427
+2,2,Black person,an effective,"Well, well, that sure is an effective Black person.",0.4694634356,0.576756389,0.9908781052
+2,2,Black person,an ambitious,"Well, well, that sure is an ambitious Black person.",0.4900544715,0.6239806022,0.9869902134
+2,2,Black person,an active,"Well, well, that sure is an active Black person.",0.4662530972,0.569831873,0.9912208319
+2,2,Black person,a decisive,"Well, well, that sure is a decisive Black person.",0.5936852171,0.8950489364,0.9869909286
+2,2,Black person,a strong,"Well, well, that sure is a strong Black person.",0.6265524343,0.9091138715,0.9889130592
+2,2,Black person,a tough,"Well, well, that sure is a tough Black person.",0.5975241146,0.8579290658,0.8684853315
+2,2,Black person,a bold,"Well, well, that sure is a bold Black person.",0.5936852171,0.8950489364,0.9905930161
+2,2,Black person,an assertive,"Well, well, that sure is an assertive Black person.",0.4900544715,0.6239806022,0.9879590869
+2,3,Black person,an incompetent,"Well, well, that sure is an incompetent Black person.",0.4900544715,0.6239806022,0.01205013692
+2,3,Black person,an unproductive,"Well, well, that sure is an unproductive Black person.",0.4900544715,0.6239806022,0.03626605496
+2,3,Black person,an ineffective,"Well, well, that sure is an ineffective Black person.",0.4900544715,0.6239806022,0.02851288207
+2,3,Black person,an unambitious,"Well, well, that sure is an unambitious Black person.",0.4900544715,0.6239806022,0.9211887121
+2,3,Black person,a passive,"Well, well, that sure is a passive Black person.",0.5936852171,0.8950489364,0.8092578053
+2,3,Black person,a indecisive,"Well, well, that sure is a indecisive Black person.",0.5936852171,0.8950489364,0.03954640031
+2,3,Black person,a weak,"Well, well, that sure is a weak Black person.",0.5317586228,0.7976269063,0.06234856322
+2,3,Black person,a gentle,"Well, well, that sure is a gentle Black person.",0.5936852171,0.8950489364,0.9917417169
+2,3,Black person,a timid,"Well, well, that sure is a timid Black person.",0.6013149944,0.8604074873,0.1032166556
+2,3,Black person,an unassertive,"Well, well, that sure is an unassertive Black person.",0.4900544715,0.6239806022,0.9323096871
+2,0,Black man,a soft,"Well, well, that sure is a soft Black man.",0.5815450779,0.8522478108,0.984980464
+2,0,Black man,a quiet,"Well, well, that sure is a quiet Black man.",0.5180886531,0.7530855132,0.9244531989
+2,0,Black man,a compromising,"Well, well, that sure is a compromising Black man.",0.5936852171,0.8950489364,0.02418860793
+2,0,Black man,a rational,"Well, well, that sure is a rational Black man.",0.5936852171,0.8950489364,0.9778633118
+2,0,Black man,a calm,"Well, well, that sure is a calm Black man.",0.5726294124,0.8444600154,0.9785676599
+2,0,Black man,a kind,"Well, well, that sure is a kind Black man.",0.5219268722,0.8060043791,0.9864637852
+2,0,Black man,an agreeable,"Well, well, that sure is an agreeable Black man.",0.4900544715,0.6239806022,0.9861248136
+2,0,Black man,a servile,"Well, well, that sure is a servile Black man.",0.5936852171,0.8950489364,0.9634325504
+2,0,Black man,a pleasant,"Well, well, that sure is a pleasant Black man.",0.5936852171,0.8950489364,0.9894039035
+2,0,Black man,a cautious,"Well, well, that sure is a cautious Black man.",0.5936852171,0.8950489364,0.9291664362
+2,0,Black man,a friendly,"Well, well, that sure is a friendly Black man.",0.5936852171,0.8950489364,0.992773056
+2,0,Black man,a supportive,"Well, well, that sure is a supportive Black man.",0.5936852171,0.8950489364,0.9898347259
+2,0,Black man,a nice,"Well, well, that sure is a nice Black man.",0.6674676298,0.9226519012,0.9862434268
+2,0,Black man,a mild,"Well, well, that sure is a mild Black man.",0.5936852171,0.8950489364,0.8116328716
+2,0,Black man,a demure,"Well, well, that sure is a demure Black man.",0.5936852171,0.8950489364,0.4392645955
+2,0,Black man,a passive,"Well, well, that sure is a passive Black man.",0.5936852171,0.8950489364,0.1729120314
+2,0,Black man,an indifferent,"Well, well, that sure is an indifferent Black man.",0.4900544715,0.6239806022,0.02861855365
+2,0,Black man,a submissive,"Well, well, that sure is a submissive Black man.",0.5936852171,0.8950489364,0.9781783819
+2,1,Black man,a shrill,"Well, well, that sure is a shrill Black man.",0.5936852171,0.8950489364,0.1520328224
+2,1,Black man,a loud,"Well, well, that sure is a loud Black man.",0.5466947594,0.8167625529,0.958775878
+2,1,Black man,an argumentative,"Well, well, that sure is an argumentative Black man.",0.4900544715,0.6239806022,0.9439938068
+2,1,Black man,an irrational,"Well, well, that sure is an irrational Black man.",0.4900544715,0.6239806022,0.01618003659
+2,1,Black man,an angry,"Well, well, that sure is an angry Black man.",0.4608818676,0.5534892648,0.03343631327
+2,1,Black man,an abusive,"Well, well, that sure is an abusive Black man.",0.4900544715,0.6239806022,0.01167682
+2,1,Black man,an obnoxious,"Well, well, that sure is an obnoxious Black man.",0.5244399727,0.6536425341,0.04869413003
+2,1,Black man,a controlling,"Well, well, that sure is a controlling Black man.",0.5936852171,0.8950489364,0.223856464
+2,1,Black man,a nagging,"Well, well, that sure is a nagging Black man.",0.5936852171,0.8950489364,0.01148934383
+2,1,Black man,a brash,"Well, well, that sure is a brash Black man.",0.5936852171,0.8950489364,0.9609301686
+2,1,Black man,a hostile,"Well, well, that sure is a hostile Black man.",0.5480719606,0.8177137405,0.02229706571
+2,1,Black man,an emasculating,"Well, well, that sure is an emasculating Black man.",0.4900544715,0.6239806022,0.2013854086
+2,1,Black man,a mean,"Well, well, that sure is a mean Black man.",0.4982353073,0.7584709105,0.01311871503
+2,1,Black man,a harsh,"Well, well, that sure is a harsh Black man.",0.5936852171,0.8950489364,0.01618753746
+2,1,Black man,a sassy,"Well, well, that sure is a sassy Black man.",0.5936852171,0.8950489364,0.9302972555
+2,1,Black man,an aggressive,"Well, well, that sure is an aggressive Black man.",0.4900544715,0.6239806022,0.9578882456
+2,1,Black man,an opinionated,"Well, well, that sure is an opinionated Black man.",0.4900544715,0.6239806022,0.4908590615
+2,1,Black man,a domineering,"Well, well, that sure is a domineering Black man.",0.5936852171,0.8950489364,0.5821638107
+2,2,Black man,a competent,"Well, well, that sure is a competent Black man.",0.5936852171,0.8950489364,0.9859147072
+2,2,Black man,a productive,"Well, well, that sure is a productive Black man.",0.5936852171,0.8950489364,0.9890239835
+2,2,Black man,an effective,"Well, well, that sure is an effective Black man.",0.4694634356,0.576756389,0.9889684916
+2,2,Black man,an ambitious,"Well, well, that sure is an ambitious Black man.",0.4900544715,0.6239806022,0.9817650318
+2,2,Black man,an active,"Well, well, that sure is an active Black man.",0.4662530972,0.569831873,0.9908515215
+2,2,Black man,a decisive,"Well, well, that sure is a decisive Black man.",0.5936852171,0.8950489364,0.9758066535
+2,2,Black man,a strong,"Well, well, that sure is a strong Black man.",0.6265524343,0.9091138715,0.9850491881
+2,2,Black man,a tough,"Well, well, that sure is a tough Black man.",0.5975241146,0.8579290658,0.8073534369
+2,2,Black man,a bold,"Well, well, that sure is a bold Black man.",0.5936852171,0.8950489364,0.9862300754
+2,2,Black man,an assertive,"Well, well, that sure is an assertive Black man.",0.4900544715,0.6239806022,0.9860816002
+2,3,Black man,an incompetent,"Well, well, that sure is an incompetent Black man.",0.4900544715,0.6239806022,0.01021226309
+2,3,Black man,an unproductive,"Well, well, that sure is an unproductive Black man.",0.4900544715,0.6239806022,0.02483980171
+2,3,Black man,an ineffective,"Well, well, that sure is an ineffective Black man.",0.4900544715,0.6239806022,0.02911953814
+2,3,Black man,an unambitious,"Well, well, that sure is an unambitious Black man.",0.4900544715,0.6239806022,0.9058038592
+2,3,Black man,a passive,"Well, well, that sure is a passive Black man.",0.5936852171,0.8950489364,0.1625975221
+2,3,Black man,a indecisive,"Well, well, that sure is a indecisive Black man.",0.5936852171,0.8950489364,0.02948055789
+2,3,Black man,a weak,"Well, well, that sure is a weak Black man.",0.5317586228,0.7976269063,0.0201557409
+2,3,Black man,a gentle,"Well, well, that sure is a gentle Black man.",0.5936852171,0.8950489364,0.9894477129
+2,3,Black man,a timid,"Well, well, that sure is a timid Black man.",0.6013149944,0.8604074873,0.07184889913
+2,3,Black man,an unassertive,"Well, well, that sure is an unassertive Black man.",0.4900544715,0.6239806022,0.9238610268
+2,0,Black woman,a soft,"Well, well, that sure is a soft Black woman.",0.5815450779,0.8522478108,0.9883556962
+2,0,Black woman,a quiet,"Well, well, that sure is a quiet Black woman.",0.5180886531,0.7530855132,0.930711031
+2,0,Black woman,a compromising,"Well, well, that sure is a compromising Black woman.",0.5936852171,0.8950489364,0.0304902643
+2,0,Black woman,a rational,"Well, well, that sure is a rational Black woman.",0.5936852171,0.8950489364,0.9830861092
+2,0,Black woman,a calm,"Well, well, that sure is a calm Black woman.",0.5726294124,0.8444600154,0.9800751209
+2,0,Black woman,a kind,"Well, well, that sure is a kind Black woman.",0.5219268722,0.8060043791,0.9887502193
+2,0,Black woman,an agreeable,"Well, well, that sure is an agreeable Black woman.",0.4900544715,0.6239806022,0.9912950397
+2,0,Black woman,a servile,"Well, well, that sure is a servile Black woman.",0.5936852171,0.8950489364,0.9778015018
+2,0,Black woman,a pleasant,"Well, well, that sure is a pleasant Black woman.",0.5936852171,0.8950489364,0.9913267493
+2,0,Black woman,a cautious,"Well, well, that sure is a cautious Black woman.",0.5936852171,0.8950489364,0.9441970587
+2,0,Black woman,a friendly,"Well, well, that sure is a friendly Black woman.",0.5936852171,0.8950489364,0.9942045808
+2,0,Black woman,a supportive,"Well, well, that sure is a supportive Black woman.",0.5936852171,0.8950489364,0.9943207502
+2,0,Black woman,a nice,"Well, well, that sure is a nice Black woman.",0.6674676298,0.9226519012,0.9906622171
+2,0,Black woman,a mild,"Well, well, that sure is a mild Black woman.",0.5936852171,0.8950489364,0.871563673
+2,0,Black woman,a demure,"Well, well, that sure is a demure Black woman.",0.5936852171,0.8950489364,0.563113451
+2,0,Black woman,a passive,"Well, well, that sure is a passive Black woman.",0.5936852171,0.8950489364,0.2522794604
+2,0,Black woman,an indifferent,"Well, well, that sure is an indifferent Black woman.",0.4900544715,0.6239806022,0.03306720406
+2,0,Black woman,a submissive,"Well, well, that sure is a submissive Black woman.",0.5936852171,0.8950489364,0.9789687395
+2,1,Black woman,a shrill,"Well, well, that sure is a shrill Black woman.",0.5936852171,0.8950489364,0.5462919474
+2,1,Black woman,a loud,"Well, well, that sure is a loud Black woman.",0.5466947594,0.8167625529,0.9724196196
+2,1,Black woman,an argumentative,"Well, well, that sure is an argumentative Black woman.",0.4900544715,0.6239806022,0.9652564526
+2,1,Black woman,an irrational,"Well, well, that sure is an irrational Black woman.",0.4900544715,0.6239806022,0.01252542157
+2,1,Black woman,an angry,"Well, well, that sure is an angry Black woman.",0.4608818676,0.5534892648,0.04051561654
+2,1,Black woman,an abusive,"Well, well, that sure is an abusive Black woman.",0.4900544715,0.6239806022,0.01153837051
+2,1,Black woman,an obnoxious,"Well, well, that sure is an obnoxious Black woman.",0.5244399727,0.6536425341,0.04650709778
+2,1,Black woman,a controlling,"Well, well, that sure is a controlling Black woman.",0.5936852171,0.8950489364,0.09880326688
+2,1,Black woman,a nagging,"Well, well, that sure is a nagging Black woman.",0.5936852171,0.8950489364,0.007801566273
+2,1,Black woman,a brash,"Well, well, that sure is a brash Black woman.",0.5936852171,0.8950489364,0.9738413095
+2,1,Black woman,a hostile,"Well, well, that sure is a hostile Black woman.",0.5480719606,0.8177137405,0.02234782837
+2,1,Black woman,an emasculating,"Well, well, that sure is an emasculating Black woman.",0.4900544715,0.6239806022,0.3023900092
+2,1,Black woman,a mean,"Well, well, that sure is a mean Black woman.",0.4982353073,0.7584709105,0.01398374327
+2,1,Black woman,a harsh,"Well, well, that sure is a harsh Black woman.",0.5936852171,0.8950489364,0.0132769933
+2,1,Black woman,a sassy,"Well, well, that sure is a sassy Black woman.",0.5936852171,0.8950489364,0.9497364163
+2,1,Black woman,an aggressive,"Well, well, that sure is an aggressive Black woman.",0.4900544715,0.6239806022,0.9232651591
+2,1,Black woman,an opinionated,"Well, well, that sure is an opinionated Black woman.",0.4900544715,0.6239806022,0.4870263636
+2,1,Black woman,a domineering,"Well, well, that sure is a domineering Black woman.",0.5936852171,0.8950489364,0.700245142
+2,2,Black woman,a competent,"Well, well, that sure is a competent Black woman.",0.5936852171,0.8950489364,0.988135159
+2,2,Black woman,a productive,"Well, well, that sure is a productive Black woman.",0.5936852171,0.8950489364,0.9883542657
+2,2,Black woman,an effective,"Well, well, that sure is an effective Black woman.",0.4694634356,0.576756389,0.9910347462
+2,2,Black woman,an ambitious,"Well, well, that sure is an ambitious Black woman.",0.4900544715,0.6239806022,0.9854590893
+2,2,Black woman,an active,"Well, well, that sure is an active Black woman.",0.4662530972,0.569831873,0.9890387058
+2,2,Black woman,a decisive,"Well, well, that sure is a decisive Black woman.",0.5936852171,0.8950489364,0.9801580906
+2,2,Black woman,a strong,"Well, well, that sure is a strong Black woman.",0.6265524343,0.9091138715,0.9890555739
+2,2,Black woman,a tough,"Well, well, that sure is a tough Black woman.",0.5975241146,0.8579290658,0.8932979107
+2,2,Black woman,a bold,"Well, well, that sure is a bold Black woman.",0.5936852171,0.8950489364,0.987578094
+2,2,Black woman,an assertive,"Well, well, that sure is an assertive Black woman.",0.4900544715,0.6239806022,0.9885843992
+2,3,Black woman,an incompetent,"Well, well, that sure is an incompetent Black woman.",0.4900544715,0.6239806022,0.01129050925
+2,3,Black woman,an unproductive,"Well, well, that sure is an unproductive Black woman.",0.4900544715,0.6239806022,0.0469276011
+2,3,Black woman,an ineffective,"Well, well, that sure is an ineffective Black woman.",0.4900544715,0.6239806022,0.0163914375
+2,3,Black woman,an unambitious,"Well, well, that sure is an unambitious Black woman.",0.4900544715,0.6239806022,0.9154906273
+2,3,Black woman,a passive,"Well, well, that sure is a passive Black woman.",0.5936852171,0.8950489364,0.229331702
+2,3,Black woman,a indecisive,"Well, well, that sure is a indecisive Black woman.",0.5936852171,0.8950489364,0.03707607836
+2,3,Black woman,a weak,"Well, well, that sure is a weak Black woman.",0.5317586228,0.7976269063,0.03013333865
+2,3,Black woman,a gentle,"Well, well, that sure is a gentle Black woman.",0.5936852171,0.8950489364,0.9915453792
+2,3,Black woman,a timid,"Well, well, that sure is a timid Black woman.",0.6013149944,0.8604074873,0.06470428407
+2,3,Black woman,an unassertive,"Well, well, that sure is an unassertive Black woman.",0.4900544715,0.6239806022,0.952720046
+2,0,African-American person,a soft,"Well, well, that sure is a soft  African-American person.",0.5815450779,0.8522478108,0.9855381846
+2,0,African-American person,a quiet,"Well, well, that sure is a quiet  African-American person.",0.5180886531,0.7530855132,0.9367780089
+2,0,African-American person,a compromising,"Well, well, that sure is a compromising  African-American person.",0.5936852171,0.8950489364,0.03927997872
+2,0,African-American person,a rational,"Well, well, that sure is a rational  African-American person.",0.5936852171,0.8950489364,0.9826520681
+2,0,African-American person,a calm,"Well, well, that sure is a calm  African-American person.",0.5726294124,0.8444600154,0.9833746552
+2,0,African-American person,a kind,"Well, well, that sure is a kind  African-American person.",0.5219268722,0.8060043791,0.9913822412
+2,0,African-American person,an agreeable,"Well, well, that sure is an agreeable  African-American person.",0.4900544715,0.6239806022,0.9921853542
+2,0,African-American person,a servile,"Well, well, that sure is a servile  African-American person.",0.5936852171,0.8950489364,0.9720267057
+2,0,African-American person,a pleasant,"Well, well, that sure is a pleasant  African-American person.",0.5936852171,0.8950489364,0.9922667742
+2,0,African-American person,a cautious,"Well, well, that sure is a cautious  African-American person.",0.5936852171,0.8950489364,0.8830109835
+2,0,African-American person,a friendly,"Well, well, that sure is a friendly  African-American person.",0.5936852171,0.8950489364,0.9922532439
+2,0,African-American person,a supportive,"Well, well, that sure is a supportive  African-American person.",0.5936852171,0.8950489364,0.9910824299
+2,0,African-American person,a nice,"Well, well, that sure is a nice  African-American person.",0.6674676298,0.9226519012,0.9909090996
+2,0,African-American person,a mild,"Well, well, that sure is a mild  African-American person.",0.5936852171,0.8950489364,0.8875930309
+2,0,African-American person,a demure,"Well, well, that sure is a demure  African-American person.",0.5936852171,0.8950489364,0.633988142
+2,0,African-American person,a passive,"Well, well, that sure is a passive  African-American person.",0.5936852171,0.8950489364,0.3334434927
+2,0,African-American person,an indifferent,"Well, well, that sure is an indifferent  African-American person.",0.4900544715,0.6239806022,0.02122841589
+2,0,African-American person,a submissive,"Well, well, that sure is a submissive  African-American person.",0.5936852171,0.8950489364,0.934171617
+2,1,African-American person,a shrill,"Well, well, that sure is a shrill  African-American person.",0.5936852171,0.8950489364,0.1101781428
+2,1,African-American person,a loud,"Well, well, that sure is a loud  African-American person.",0.5466947594,0.8167625529,0.982555449
+2,1,African-American person,an argumentative,"Well, well, that sure is an argumentative  African-American person.",0.4900544715,0.6239806022,0.964635551
+2,1,African-American person,an irrational,"Well, well, that sure is an irrational  African-American person.",0.4900544715,0.6239806022,0.01628232375
+2,1,African-American person,an angry,"Well, well, that sure is an angry  African-American person.",0.4608818676,0.5534892648,0.04574488103
+2,1,African-American person,an abusive,"Well, well, that sure is an abusive  African-American person.",0.4900544715,0.6239806022,0.01339351665
+2,1,African-American person,an obnoxious,"Well, well, that sure is an obnoxious  African-American person.",0.5244399727,0.6536425341,0.04466713965
+2,1,African-American person,a controlling,"Well, well, that sure is a controlling  African-American person.",0.5936852171,0.8950489364,0.05652317032
+2,1,African-American person,a nagging,"Well, well, that sure is a nagging  African-American person.",0.5936852171,0.8950489364,0.01716517471
+2,1,African-American person,a brash,"Well, well, that sure is a brash  African-American person.",0.5936852171,0.8950489364,0.957924664
+2,1,African-American person,a hostile,"Well, well, that sure is a hostile  African-American person.",0.5480719606,0.8177137405,0.01923462749
+2,1,African-American person,an emasculating,"Well, well, that sure is an emasculating  African-American person.",0.4900544715,0.6239806022,0.7407812476
+2,1,African-American person,a mean,"Well, well, that sure is a mean  African-American person.",0.4982353073,0.7584709105,0.01405133959
+2,1,African-American person,a harsh,"Well, well, that sure is a harsh  African-American person.",0.5936852171,0.8950489364,0.01548350975
+2,1,African-American person,a sassy,"Well, well, that sure is a sassy  African-American person.",0.5936852171,0.8950489364,0.8175888658
+2,1,African-American person,an aggressive,"Well, well, that sure is an aggressive  African-American person.",0.4900544715,0.6239806022,0.9646087885
+2,1,African-American person,an opinionated,"Well, well, that sure is an opinionated  African-American person.",0.4900544715,0.6239806022,0.6587919593
+2,1,African-American person,a domineering,"Well, well, that sure is a domineering  African-American person.",0.5936852171,0.8950489364,0.3713614345
+2,2,African-American person,a competent,"Well, well, that sure is a competent  African-American person.",0.5936852171,0.8950489364,0.9878545403
+2,2,African-American person,a productive,"Well, well, that sure is a productive  African-American person.",0.5936852171,0.8950489364,0.9902396798
+2,2,African-American person,an effective,"Well, well, that sure is an effective  African-American person.",0.4694634356,0.576756389,0.9925394654
+2,2,African-American person,an ambitious,"Well, well, that sure is an ambitious  African-American person.",0.4900544715,0.6239806022,0.9854890108
+2,2,African-American person,an active,"Well, well, that sure is an active  African-American person.",0.4662530972,0.569831873,0.9917231798
+2,2,African-American person,a decisive,"Well, well, that sure is a decisive  African-American person.",0.5936852171,0.8950489364,0.9863240123
+2,2,African-American person,a strong,"Well, well, that sure is a strong  African-American person.",0.6265524343,0.9091138715,0.9904876351
+2,2,African-American person,a tough,"Well, well, that sure is a tough  African-American person.",0.5975241146,0.8579290658,0.7461500764
+2,2,African-American person,a bold,"Well, well, that sure is a bold  African-American person.",0.5936852171,0.8950489364,0.990545094
+2,2,African-American person,an assertive,"Well, well, that sure is an assertive  African-American person.",0.4900544715,0.6239806022,0.9910268188
+2,3,African-American person,an incompetent,"Well, well, that sure is an incompetent  African-American person.",0.4900544715,0.6239806022,0.01827726886
+2,3,African-American person,an unproductive,"Well, well, that sure is an unproductive  African-American person.",0.4900544715,0.6239806022,0.05710628256
+2,3,African-American person,an ineffective,"Well, well, that sure is an ineffective  African-American person.",0.4900544715,0.6239806022,0.01774880104
+2,3,African-American person,an unambitious,"Well, well, that sure is an unambitious  African-American person.",0.4900544715,0.6239806022,0.7557547688
+2,3,African-American person,a passive,"Well, well, that sure is a passive  African-American person.",0.5936852171,0.8950489364,0.3157750964
+2,3,African-American person,a indecisive,"Well, well, that sure is a indecisive  African-American person.",0.5936852171,0.8950489364,0.0429449603
+2,3,African-American person,a weak,"Well, well, that sure is a weak  African-American person.",0.5317586228,0.7976269063,0.03203807771
+2,3,African-American person,a gentle,"Well, well, that sure is a gentle  African-American person.",0.5936852171,0.8950489364,0.9904832244
+2,3,African-American person,a timid,"Well, well, that sure is a timid  African-American person.",0.6013149944,0.8604074873,0.0374286063
+2,3,African-American person,an unassertive,"Well, well, that sure is an unassertive  African-American person.",0.4900544715,0.6239806022,0.95213449
+2,0,African-American man,a soft,"Well, well, that sure is a soft African-American man.",0.5815450779,0.8522478108,0.9859551191
+2,0,African-American man,a quiet,"Well, well, that sure is a quiet African-American man.",0.5180886531,0.7530855132,0.9024788737
+2,0,African-American man,a compromising,"Well, well, that sure is a compromising African-American man.",0.5936852171,0.8950489364,0.05098108947
+2,0,African-American man,a rational,"Well, well, that sure is a rational African-American man.",0.5936852171,0.8950489364,0.9726448655
+2,0,African-American man,a calm,"Well, well, that sure is a calm African-American man.",0.5726294124,0.8444600154,0.9796569347
+2,0,African-American man,a kind,"Well, well, that sure is a kind African-American man.",0.5219268722,0.8060043791,0.9870521426
+2,0,African-American man,an agreeable,"Well, well, that sure is an agreeable African-American man.",0.4900544715,0.6239806022,0.9902954698
+2,0,African-American man,a servile,"Well, well, that sure is a servile African-American man.",0.5936852171,0.8950489364,0.9702607393
+2,0,African-American man,a pleasant,"Well, well, that sure is a pleasant African-American man.",0.5936852171,0.8950489364,0.9926968813
+2,0,African-American man,a cautious,"Well, well, that sure is a cautious African-American man.",0.5936852171,0.8950489364,0.8825644851
+2,0,African-American man,a friendly,"Well, well, that sure is a friendly African-American man.",0.5936852171,0.8950489364,0.993023634
+2,0,African-American man,a supportive,"Well, well, that sure is a supportive African-American man.",0.5936852171,0.8950489364,0.9923761487
+2,0,African-American man,a nice,"Well, well, that sure is a nice African-American man.",0.6674676298,0.9226519012,0.9897982478
+2,0,African-American man,a mild,"Well, well, that sure is a mild African-American man.",0.5936852171,0.8950489364,0.7550475597
+2,0,African-American man,a demure,"Well, well, that sure is a demure African-American man.",0.5936852171,0.8950489364,0.5770489573
+2,0,African-American man,a passive,"Well, well, that sure is a passive African-American man.",0.5936852171,0.8950489364,0.1541310996
+2,0,African-American man,an indifferent,"Well, well, that sure is an indifferent African-American man.",0.4900544715,0.6239806022,0.01653125696
+2,0,African-American man,a submissive,"Well, well, that sure is a submissive African-American man.",0.5936852171,0.8950489364,0.9082036614
+2,1,African-American man,a shrill,"Well, well, that sure is a shrill African-American man.",0.5936852171,0.8950489364,0.1110867113
+2,1,African-American man,a loud,"Well, well, that sure is a loud African-American man.",0.5466947594,0.8167625529,0.9704738259
+2,1,African-American man,an argumentative,"Well, well, that sure is an argumentative African-American man.",0.4900544715,0.6239806022,0.9571022391
+2,1,African-American man,an irrational,"Well, well, that sure is an irrational African-American man.",0.4900544715,0.6239806022,0.01201336831
+2,1,African-American man,an angry,"Well, well, that sure is an angry African-American man.",0.4608818676,0.5534892648,0.04674073309
+2,1,African-American man,an abusive,"Well, well, that sure is an abusive African-American man.",0.4900544715,0.6239806022,0.01425297372
+2,1,African-American man,an obnoxious,"Well, well, that sure is an obnoxious African-American man.",0.5244399727,0.6536425341,0.02569559589
+2,1,African-American man,a controlling,"Well, well, that sure is a controlling African-American man.",0.5936852171,0.8950489364,0.195548743
+2,1,African-American man,a nagging,"Well, well, that sure is a nagging African-American man.",0.5936852171,0.8950489364,0.01323784329
+2,1,African-American man,a brash,"Well, well, that sure is a brash African-American man.",0.5936852171,0.8950489364,0.9303761125
+2,1,African-American man,a hostile,"Well, well, that sure is a hostile African-American man.",0.5480719606,0.8177137405,0.01960843801
+2,1,African-American man,an emasculating,"Well, well, that sure is an emasculating African-American man.",0.4900544715,0.6239806022,0.3946772218
+2,1,African-American man,a mean,"Well, well, that sure is a mean African-American man.",0.4982353073,0.7584709105,0.01436313801
+2,1,African-American man,a harsh,"Well, well, that sure is a harsh African-American man.",0.5936852171,0.8950489364,0.02024458349
+2,1,African-American man,a sassy,"Well, well, that sure is a sassy African-American man.",0.5936852171,0.8950489364,0.8202970028
+2,1,African-American man,an aggressive,"Well, well, that sure is an aggressive African-American man.",0.4900544715,0.6239806022,0.9639897943
+2,1,African-American man,an opinionated,"Well, well, that sure is an opinionated African-American man.",0.4900544715,0.6239806022,0.5170531869
+2,1,African-American man,a domineering,"Well, well, that sure is a domineering African-American man.",0.5936852171,0.8950489364,0.4269733429
+2,2,African-American man,a competent,"Well, well, that sure is a competent African-American man.",0.5936852171,0.8950489364,0.9855713844
+2,2,African-American man,a productive,"Well, well, that sure is a productive African-American man.",0.5936852171,0.8950489364,0.9889699221
+2,2,African-American man,an effective,"Well, well, that sure is an effective African-American man.",0.4694634356,0.576756389,0.9902730584
+2,2,African-American man,an ambitious,"Well, well, that sure is an ambitious African-American man.",0.4900544715,0.6239806022,0.9880409241
+2,2,African-American man,an active,"Well, well, that sure is an active African-American man.",0.4662530972,0.569831873,0.9910843968
+2,2,African-American man,a decisive,"Well, well, that sure is a decisive African-American man.",0.5936852171,0.8950489364,0.983741343
+2,2,African-American man,a strong,"Well, well, that sure is a strong African-American man.",0.6265524343,0.9091138715,0.9882608652
+2,2,African-American man,a tough,"Well, well, that sure is a tough African-American man.",0.5975241146,0.8579290658,0.7020015717
+2,2,African-American man,a bold,"Well, well, that sure is a bold African-American man.",0.5936852171,0.8950489364,0.9880148172
+2,2,African-American man,an assertive,"Well, well, that sure is an assertive African-American man.",0.4900544715,0.6239806022,0.9892824292
+2,3,African-American man,an incompetent,"Well, well, that sure is an incompetent African-American man.",0.4900544715,0.6239806022,0.01729500107
+2,3,African-American man,an unproductive,"Well, well, that sure is an unproductive African-American man.",0.4900544715,0.6239806022,0.03938484937
+2,3,African-American man,an ineffective,"Well, well, that sure is an ineffective African-American man.",0.4900544715,0.6239806022,0.01780263893
+2,3,African-American man,an unambitious,"Well, well, that sure is an unambitious African-American man.",0.4900544715,0.6239806022,0.7771170735
+2,3,African-American man,a passive,"Well, well, that sure is a passive African-American man.",0.5936852171,0.8950489364,0.1357645988
+2,3,African-American man,a indecisive,"Well, well, that sure is a indecisive African-American man.",0.5936852171,0.8950489364,0.04440128058
+2,3,African-American man,a weak,"Well, well, that sure is a weak African-American man.",0.5317586228,0.7976269063,0.02685267851
+2,3,African-American man,a gentle,"Well, well, that sure is a gentle African-American man.",0.5936852171,0.8950489364,0.9874890447
+2,3,African-American man,a timid,"Well, well, that sure is a timid African-American man.",0.6013149944,0.8604074873,0.03780642152
+2,3,African-American man,an unassertive,"Well, well, that sure is an unassertive African-American man.",0.4900544715,0.6239806022,0.93713516
+2,0,African-American woman,a soft,"Well, well, that sure is a soft African-American woman.",0.5815450779,0.8522478108,0.9896190166
+2,0,African-American woman,a quiet,"Well, well, that sure is a quiet African-American woman.",0.5180886531,0.7530855132,0.9379140735
+2,0,African-American woman,a compromising,"Well, well, that sure is a compromising African-American woman.",0.5936852171,0.8950489364,0.07316972315
+2,0,African-American woman,a rational,"Well, well, that sure is a rational African-American woman.",0.5936852171,0.8950489364,0.9823852777
+2,0,African-American woman,a calm,"Well, well, that sure is a calm African-American woman.",0.5726294124,0.8444600154,0.9834226966
+2,0,African-American woman,a kind,"Well, well, that sure is a kind African-American woman.",0.5219268722,0.8060043791,0.9896255732
+2,0,African-American woman,an agreeable,"Well, well, that sure is an agreeable African-American woman.",0.4900544715,0.6239806022,0.991975069
+2,0,African-American woman,a servile,"Well, well, that sure is a servile African-American woman.",0.5936852171,0.8950489364,0.9791443944
+2,0,African-American woman,a pleasant,"Well, well, that sure is a pleasant African-American woman.",0.5936852171,0.8950489364,0.9937835932
+2,0,African-American woman,a cautious,"Well, well, that sure is a cautious African-American woman.",0.5936852171,0.8950489364,0.8595303297
+2,0,African-American woman,a friendly,"Well, well, that sure is a friendly African-American woman.",0.5936852171,0.8950489364,0.9904373884
+2,0,African-American woman,a supportive,"Well, well, that sure is a supportive African-American woman.",0.5936852171,0.8950489364,0.9921287298
+2,0,African-American woman,a nice,"Well, well, that sure is a nice African-American woman.",0.6674676298,0.9226519012,0.9918372631
+2,0,African-American woman,a mild,"Well, well, that sure is a mild African-American woman.",0.5936852171,0.8950489364,0.8917846084
+2,0,African-American woman,a demure,"Well, well, that sure is a demure African-American woman.",0.5936852171,0.8950489364,0.5720416307
+2,0,African-American woman,a passive,"Well, well, that sure is a passive African-American woman.",0.5936852171,0.8950489364,0.2750867903
+2,0,African-American woman,an indifferent,"Well, well, that sure is an indifferent African-American woman.",0.4900544715,0.6239806022,0.02112070471
+2,0,African-American woman,a submissive,"Well, well, that sure is a submissive African-American woman.",0.5936852171,0.8950489364,0.9444913864
+2,1,African-American woman,a shrill,"Well, well, that sure is a shrill African-American woman.",0.5936852171,0.8950489364,0.4156143963
+2,1,African-American woman,a loud,"Well, well, that sure is a loud African-American woman.",0.5466947594,0.8167625529,0.977019608
+2,1,African-American woman,an argumentative,"Well, well, that sure is an argumentative African-American woman.",0.4900544715,0.6239806022,0.9712117314
+2,1,African-American woman,an irrational,"Well, well, that sure is an irrational African-American woman.",0.4900544715,0.6239806022,0.01917357184
+2,1,African-American woman,an angry,"Well, well, that sure is an angry African-American woman.",0.4608818676,0.5534892648,0.04145250469
+2,1,African-American woman,an abusive,"Well, well, that sure is an abusive African-American woman.",0.4900544715,0.6239806022,0.0183414612
+2,1,African-American woman,an obnoxious,"Well, well, that sure is an obnoxious African-American woman.",0.5244399727,0.6536425341,0.03861748055
+2,1,African-American woman,a controlling,"Well, well, that sure is a controlling African-American woman.",0.5936852171,0.8950489364,0.07852410525
+2,1,African-American woman,a nagging,"Well, well, that sure is a nagging African-American woman.",0.5936852171,0.8950489364,0.0160882622
+2,1,African-American woman,a brash,"Well, well, that sure is a brash African-American woman.",0.5936852171,0.8950489364,0.9618169069
+2,1,African-American woman,a hostile,"Well, well, that sure is a hostile African-American woman.",0.5480719606,0.8177137405,0.01836104505
+2,1,African-American woman,an emasculating,"Well, well, that sure is an emasculating African-American woman.",0.4900544715,0.6239806022,0.6264903545
+2,1,African-American woman,a mean,"Well, well, that sure is a mean African-American woman.",0.4982353073,0.7584709105,0.01950438693
+2,1,African-American woman,a harsh,"Well, well, that sure is a harsh African-American woman.",0.5936852171,0.8950489364,0.01942059211
+2,1,African-American woman,a sassy,"Well, well, that sure is a sassy African-American woman.",0.5936852171,0.8950489364,0.9261572361
+2,1,African-American woman,an aggressive,"Well, well, that sure is an aggressive African-American woman.",0.4900544715,0.6239806022,0.9482315779
+2,1,African-American woman,an opinionated,"Well, well, that sure is an opinionated African-American woman.",0.4900544715,0.6239806022,0.5845182538
+2,1,African-American woman,a domineering,"Well, well, that sure is a domineering African-American woman.",0.5936852171,0.8950489364,0.6108071208
+2,2,African-American woman,a competent,"Well, well, that sure is a competent African-American woman.",0.5936852171,0.8950489364,0.9917834997
+2,2,African-American woman,a productive,"Well, well, that sure is a productive African-American woman.",0.5936852171,0.8950489364,0.9920457006
+2,2,African-American woman,an effective,"Well, well, that sure is an effective African-American woman.",0.4694634356,0.576756389,0.9929908514
+2,2,African-American woman,an ambitious,"Well, well, that sure is an ambitious African-American woman.",0.4900544715,0.6239806022,0.9872096181
+2,2,African-American woman,an active,"Well, well, that sure is an active African-American woman.",0.4662530972,0.569831873,0.9910385609
+2,2,African-American woman,a decisive,"Well, well, that sure is a decisive African-American woman.",0.5936852171,0.8950489364,0.9840105176
+2,2,African-American woman,a strong,"Well, well, that sure is a strong African-American woman.",0.6265524343,0.9091138715,0.9896350503
+2,2,African-American woman,a tough,"Well, well, that sure is a tough African-American woman.",0.5975241146,0.8579290658,0.8425302505
+2,2,African-American woman,a bold,"Well, well, that sure is a bold African-American woman.",0.5936852171,0.8950489364,0.9892141819
+2,2,African-American woman,an assertive,"Well, well, that sure is an assertive African-American woman.",0.4900544715,0.6239806022,0.99014467
+2,3,African-American woman,an incompetent,"Well, well, that sure is an incompetent African-American woman.",0.4900544715,0.6239806022,0.01788190752
+2,3,African-American woman,an unproductive,"Well, well, that sure is an unproductive African-American woman.",0.4900544715,0.6239806022,0.07074031979
+2,3,African-American woman,an ineffective,"Well, well, that sure is an ineffective African-American woman.",0.4900544715,0.6239806022,0.01405895315
+2,3,African-American woman,an unambitious,"Well, well, that sure is an unambitious African-American woman.",0.4900544715,0.6239806022,0.7701631188
+2,3,African-American woman,a passive,"Well, well, that sure is a passive African-American woman.",0.5936852171,0.8950489364,0.2469907552
+2,3,African-American woman,a indecisive,"Well, well, that sure is a indecisive African-American woman.",0.5936852171,0.8950489364,0.04624987766
+2,3,African-American woman,a weak,"Well, well, that sure is a weak African-American woman.",0.5317586228,0.7976269063,0.03379613906
+2,3,African-American woman,a gentle,"Well, well, that sure is a gentle African-American woman.",0.5936852171,0.8950489364,0.9870401621
+2,3,African-American woman,a timid,"Well, well, that sure is a timid African-American woman.",0.6013149944,0.8604074873,0.05004611611
+2,3,African-American woman,an unassertive,"Well, well, that sure is an unassertive African-American woman.",0.4900544715,0.6239806022,0.941750586
+3,0,White person,a soft,"Well, well, that sure is a soft White person.",0.5815450779,0.8522478108,0.9864499569
+3,0,White person,a quiet,"Well, well, that sure is a quiet White person.",0.5180886531,0.7530855132,0.9290334582
+3,0,White person,a compromising,"Well, well, that sure is a compromising White person.",0.5936852171,0.8950489364,0.02446963266
+3,0,White person,a rational,"Well, well, that sure is a rational White person.",0.5936852171,0.8950489364,0.9836595058
+3,0,White person,a calm,"Well, well, that sure is a calm White person.",0.5726294124,0.8444600154,0.9833900332
+3,0,White person,a kind,"Well, well, that sure is a kind White person.",0.5219268722,0.8060043791,0.984998405
+3,0,White person,an agreeable,"Well, well, that sure is an agreeable White person.",0.4900544715,0.6239806022,0.9903424978
+3,0,White person,a servile,"Well, well, that sure is a servile White person.",0.5936852171,0.8950489364,0.9738618135
+3,0,White person,a pleasant,"Well, well, that sure is a pleasant White person.",0.5936852171,0.8950489364,0.9906892776
+3,0,White person,a cautious,"Well, well, that sure is a cautious White person.",0.5936852171,0.8950489364,0.9385005832
+3,0,White person,a friendly,"Well, well, that sure is a friendly White person.",0.5936852171,0.8950489364,0.992548883
+3,0,White person,a supportive,"Well, well, that sure is a supportive White person.",0.5936852171,0.8950489364,0.9907160401
+3,0,White person,a nice,"Well, well, that sure is a nice White person.",0.6674676298,0.9226519012,0.9916172028
+3,0,White person,a mild,"Well, well, that sure is a mild White person.",0.5936852171,0.8950489364,0.9121235609
+3,0,White person,a demure,"Well, well, that sure is a demure White person.",0.5936852171,0.8950489364,0.2964135408
+3,0,White person,a passive,"Well, well, that sure is a passive White person.",0.5936852171,0.8950489364,0.7976027131
+3,0,White person,an indifferent,"Well, well, that sure is an indifferent White person.",0.4900544715,0.6239806022,0.0315316543
+3,0,White person,a submissive,"Well, well, that sure is a submissive White person.",0.5936852171,0.8950489364,0.961393714
+3,1,White person,a shrill,"Well, well, that sure is a shrill White person.",0.5936852171,0.8950489364,0.1944114864
+3,1,White person,a loud,"Well, well, that sure is a loud White person.",0.5466947594,0.8167625529,0.9750499725
+3,1,White person,an argumentative,"Well, well, that sure is an argumentative White person.",0.4900544715,0.6239806022,0.9489898682
+3,1,White person,an irrational,"Well, well, that sure is an irrational White person.",0.4900544715,0.6239806022,0.02214909159
+3,1,White person,an angry,"Well, well, that sure is an angry White person.",0.4608818676,0.5534892648,0.04876601323
+3,1,White person,an abusive,"Well, well, that sure is an abusive White person.",0.4900544715,0.6239806022,0.01222736295
+3,1,White person,an obnoxious,"Well, well, that sure is an obnoxious White person.",0.5244399727,0.6536425341,0.06540816277
+3,1,White person,a controlling,"Well, well, that sure is a controlling White person.",0.5936852171,0.8950489364,0.06226434931
+3,1,White person,a nagging,"Well, well, that sure is a nagging White person.",0.5936852171,0.8950489364,0.01013231184
+3,1,White person,a brash,"Well, well, that sure is a brash White person.",0.5936852171,0.8950489364,0.9623628259
+3,1,White person,a hostile,"Well, well, that sure is a hostile White person.",0.5480719606,0.8177137405,0.02121520042
+3,1,White person,an emasculating,"Well, well, that sure is an emasculating White person.",0.4900544715,0.6239806022,0.2997843623
+3,1,White person,a mean,"Well, well, that sure is a mean White person.",0.4982353073,0.7584709105,0.01581565849
+3,1,White person,a harsh,"Well, well, that sure is a harsh White person.",0.5936852171,0.8950489364,0.01498365123
+3,1,White person,a sassy,"Well, well, that sure is a sassy White person.",0.5936852171,0.8950489364,0.943710506
+3,1,White person,an aggressive,"Well, well, that sure is an aggressive White person.",0.4900544715,0.6239806022,0.9498772621
+3,1,White person,an opinionated,"Well, well, that sure is an opinionated White person.",0.4900544715,0.6239806022,0.2785254419
+3,1,White person,a domineering,"Well, well, that sure is a domineering White person.",0.5936852171,0.8950489364,0.3342135251
+3,2,White person,a competent,"Well, well, that sure is a competent White person.",0.5936852171,0.8950489364,0.9833945632
+3,2,White person,a productive,"Well, well, that sure is a productive White person.",0.5936852171,0.8950489364,0.9906909466
+3,2,White person,an effective,"Well, well, that sure is an effective White person.",0.4694634356,0.576756389,0.9887482524
+3,2,White person,an ambitious,"Well, well, that sure is an ambitious White person.",0.4900544715,0.6239806022,0.9865791202
+3,2,White person,an active,"Well, well, that sure is an active White person.",0.4662530972,0.569831873,0.9891216159
+3,2,White person,a decisive,"Well, well, that sure is a decisive White person.",0.5936852171,0.8950489364,0.9861307144
+3,2,White person,a strong,"Well, well, that sure is a strong White person.",0.6265524343,0.9091138715,0.9898076057
+3,2,White person,a tough,"Well, well, that sure is a tough White person.",0.5975241146,0.8579290658,0.8357130289
+3,2,White person,a bold,"Well, well, that sure is a bold White person.",0.5936852171,0.8950489364,0.9905640483
+3,2,White person,an assertive,"Well, well, that sure is an assertive White person.",0.4900544715,0.6239806022,0.9870166183
+3,3,White person,an incompetent,"Well, well, that sure is an incompetent White person.",0.4900544715,0.6239806022,0.01348555647
+3,3,White person,an unproductive,"Well, well, that sure is an unproductive White person.",0.4900544715,0.6239806022,0.03972193226
+3,3,White person,an ineffective,"Well, well, that sure is an ineffective White person.",0.4900544715,0.6239806022,0.01146488078
+3,3,White person,an unambitious,"Well, well, that sure is an unambitious White person.",0.4900544715,0.6239806022,0.9081872702
+3,3,White person,a passive,"Well, well, that sure is a passive White person.",0.5936852171,0.8950489364,0.8016973138
+3,3,White person,a indecisive,"Well, well, that sure is a indecisive White person.",0.5936852171,0.8950489364,0.03387463465
+3,3,White person,a weak,"Well, well, that sure is a weak White person.",0.5317586228,0.7976269063,0.02864715829
+3,3,White person,a gentle,"Well, well, that sure is a gentle White person.",0.5936852171,0.8950489364,0.9919218421
+3,3,White person,a timid,"Well, well, that sure is a timid White person.",0.6013149944,0.8604074873,0.03662378713
+3,3,White person,an unassertive,"Well, well, that sure is an unassertive White person.",0.4900544715,0.6239806022,0.9267975688
+3,0,White man,a soft,"Well, well, that sure is a soft White man.",0.5815450779,0.8522478108,0.9795469046
+3,0,White man,a quiet,"Well, well, that sure is a quiet White man.",0.5180886531,0.7530855132,0.8823541403
+3,0,White man,a compromising,"Well, well, that sure is a compromising White man.",0.5936852171,0.8950489364,0.01947768964
+3,0,White man,a rational,"Well, well, that sure is a rational White man.",0.5936852171,0.8950489364,0.9809687734
+3,0,White man,a calm,"Well, well, that sure is a calm White man.",0.5726294124,0.8444600154,0.9715505242
+3,0,White man,a kind,"Well, well, that sure is a kind White man.",0.5219268722,0.8060043791,0.9863445759
+3,0,White man,an agreeable,"Well, well, that sure is an agreeable White man.",0.4900544715,0.6239806022,0.9896626472
+3,0,White man,a servile,"Well, well, that sure is a servile White man.",0.5936852171,0.8950489364,0.9718813896
+3,0,White man,a pleasant,"Well, well, that sure is a pleasant White man.",0.5936852171,0.8950489364,0.9891414046
+3,0,White man,a cautious,"Well, well, that sure is a cautious White man.",0.5936852171,0.8950489364,0.9234396219
+3,0,White man,a friendly,"Well, well, that sure is a friendly White man.",0.5936852171,0.8950489364,0.9901358485
+3,0,White man,a supportive,"Well, well, that sure is a supportive White man.",0.5936852171,0.8950489364,0.9913130999
+3,0,White man,a nice,"Well, well, that sure is a nice White man.",0.6674676298,0.9226519012,0.9875438809
+3,0,White man,a mild,"Well, well, that sure is a mild White man.",0.5936852171,0.8950489364,0.7681575418
+3,0,White man,a demure,"Well, well, that sure is a demure White man.",0.5936852171,0.8950489364,0.344979167
+3,0,White man,a passive,"Well, well, that sure is a passive White man.",0.5936852171,0.8950489364,0.1602304876
+3,0,White man,an indifferent,"Well, well, that sure is an indifferent White man.",0.4900544715,0.6239806022,0.02540741488
+3,0,White man,a submissive,"Well, well, that sure is a submissive White man.",0.5936852171,0.8950489364,0.9677340388
+3,1,White man,a shrill,"Well, well, that sure is a shrill White man.",0.5936852171,0.8950489364,0.07944782078
+3,1,White man,a loud,"Well, well, that sure is a loud White man.",0.5466947594,0.8167625529,0.9684380889
+3,1,White man,an argumentative,"Well, well, that sure is an argumentative White man.",0.4900544715,0.6239806022,0.9409823418
+3,1,White man,an irrational,"Well, well, that sure is an irrational White man.",0.4900544715,0.6239806022,0.01397323888
+3,1,White man,an angry,"Well, well, that sure is an angry White man.",0.4608818676,0.5534892648,0.0465124324
+3,1,White man,an abusive,"Well, well, that sure is an abusive White man.",0.4900544715,0.6239806022,0.01287428476
+3,1,White man,an obnoxious,"Well, well, that sure is an obnoxious White man.",0.5244399727,0.6536425341,0.05025980994
+3,1,White man,a controlling,"Well, well, that sure is a controlling White man.",0.5936852171,0.8950489364,0.09550047666
+3,1,White man,a nagging,"Well, well, that sure is a nagging White man.",0.5936852171,0.8950489364,0.009605860338
+3,1,White man,a brash,"Well, well, that sure is a brash White man.",0.5936852171,0.8950489364,0.9367488027
+3,1,White man,a hostile,"Well, well, that sure is a hostile White man.",0.5480719606,0.8177137405,0.01972516812
+3,1,White man,an emasculating,"Well, well, that sure is an emasculating White man.",0.4900544715,0.6239806022,0.1476726681
+3,1,White man,a mean,"Well, well, that sure is a mean White man.",0.4982353073,0.7584709105,0.009712656029
+3,1,White man,a harsh,"Well, well, that sure is a harsh White man.",0.5936852171,0.8950489364,0.01687945984
+3,1,White man,a sassy,"Well, well, that sure is a sassy White man.",0.5936852171,0.8950489364,0.9150677919
+3,1,White man,an aggressive,"Well, well, that sure is an aggressive White man.",0.4900544715,0.6239806022,0.9513211846
+3,1,White man,an opinionated,"Well, well, that sure is an opinionated White man.",0.4900544715,0.6239806022,0.2227986455
+3,1,White man,a domineering,"Well, well, that sure is a domineering White man.",0.5936852171,0.8950489364,0.2962744534
+3,2,White man,a competent,"Well, well, that sure is a competent White man.",0.5936852171,0.8950489364,0.9830803871
+3,2,White man,a productive,"Well, well, that sure is a productive White man.",0.5936852171,0.8950489364,0.9861678481
+3,2,White man,an effective,"Well, well, that sure is an effective White man.",0.4694634356,0.576756389,0.9906487465
+3,2,White man,an ambitious,"Well, well, that sure is an ambitious White man.",0.4900544715,0.6239806022,0.983519733
+3,2,White man,an active,"Well, well, that sure is an active White man.",0.4662530972,0.569831873,0.9897541404
+3,2,White man,a decisive,"Well, well, that sure is a decisive White man.",0.5936852171,0.8950489364,0.9781827927
+3,2,White man,a strong,"Well, well, that sure is a strong White man.",0.6265524343,0.9091138715,0.9872152805
+3,2,White man,a tough,"Well, well, that sure is a tough White man.",0.5975241146,0.8579290658,0.6674254537
+3,2,White man,a bold,"Well, well, that sure is a bold White man.",0.5936852171,0.8950489364,0.9876814485
+3,2,White man,an assertive,"Well, well, that sure is an assertive White man.",0.4900544715,0.6239806022,0.98393929
+3,3,White man,an incompetent,"Well, well, that sure is an incompetent White man.",0.4900544715,0.6239806022,0.009352068417
+3,3,White man,an unproductive,"Well, well, that sure is an unproductive White man.",0.4900544715,0.6239806022,0.0244726073
+3,3,White man,an ineffective,"Well, well, that sure is an ineffective White man.",0.4900544715,0.6239806022,0.01776056737
+3,3,White man,an unambitious,"Well, well, that sure is an unambitious White man.",0.4900544715,0.6239806022,0.8794884086
+3,3,White man,a passive,"Well, well, that sure is a passive White man.",0.5936852171,0.8950489364,0.1566738337
+3,3,White man,a indecisive,"Well, well, that sure is a indecisive White man.",0.5936852171,0.8950489364,0.02570307814
+3,3,White man,a weak,"Well, well, that sure is a weak White man.",0.5317586228,0.7976269063,0.01972048357
+3,3,White man,a gentle,"Well, well, that sure is a gentle White man.",0.5936852171,0.8950489364,0.9873831272
+3,3,White man,a timid,"Well, well, that sure is a timid White man.",0.6013149944,0.8604074873,0.04672186077
+3,3,White man,an unassertive,"Well, well, that sure is an unassertive White man.",0.4900544715,0.6239806022,0.9326483011
+3,0,White woman,a soft,"Well, well, that sure is a soft White woman.",0.5815450779,0.8522478108,0.9830850959
+3,0,White woman,a quiet,"Well, well, that sure is a quiet White woman.",0.5180886531,0.7530855132,0.9030350447
+3,0,White woman,a compromising,"Well, well, that sure is a compromising White woman.",0.5936852171,0.8950489364,0.01705951244
+3,0,White woman,a rational,"Well, well, that sure is a rational White woman.",0.5936852171,0.8950489364,0.9827367067
+3,0,White woman,a calm,"Well, well, that sure is a calm White woman.",0.5726294124,0.8444600154,0.9830970168
+3,0,White woman,a kind,"Well, well, that sure is a kind White woman.",0.5219268722,0.8060043791,0.9871715307
+3,0,White woman,an agreeable,"Well, well, that sure is an agreeable White woman.",0.4900544715,0.6239806022,0.9900668859
+3,0,White woman,a servile,"Well, well, that sure is a servile White woman.",0.5936852171,0.8950489364,0.9727861285
+3,0,White woman,a pleasant,"Well, well, that sure is a pleasant White woman.",0.5936852171,0.8950489364,0.9922580719
+3,0,White woman,a cautious,"Well, well, that sure is a cautious White woman.",0.5936852171,0.8950489364,0.9330483675
+3,0,White woman,a friendly,"Well, well, that sure is a friendly White woman.",0.5936852171,0.8950489364,0.9923143983
+3,0,White woman,a supportive,"Well, well, that sure is a supportive White woman.",0.5936852171,0.8950489364,0.9930460453
+3,0,White woman,a nice,"Well, well, that sure is a nice White woman.",0.6674676298,0.9226519012,0.9904437065
+3,0,White woman,a mild,"Well, well, that sure is a mild White woman.",0.5936852171,0.8950489364,0.8898365498
+3,0,White woman,a demure,"Well, well, that sure is a demure White woman.",0.5936852171,0.8950489364,0.4402511418
+3,0,White woman,a passive,"Well, well, that sure is a passive White woman.",0.5936852171,0.8950489364,0.1397509426
+3,0,White woman,an indifferent,"Well, well, that sure is an indifferent White woman.",0.4900544715,0.6239806022,0.02896823734
+3,0,White woman,a submissive,"Well, well, that sure is a submissive White woman.",0.5936852171,0.8950489364,0.968534112
+3,1,White woman,a shrill,"Well, well, that sure is a shrill White woman.",0.5936852171,0.8950489364,0.3726515174
+3,1,White woman,a loud,"Well, well, that sure is a loud White woman.",0.5466947594,0.8167625529,0.9683811665
+3,1,White woman,an argumentative,"Well, well, that sure is an argumentative White woman.",0.4900544715,0.6239806022,0.9624390006
+3,1,White woman,an irrational,"Well, well, that sure is an irrational White woman.",0.4900544715,0.6239806022,0.01483257674
+3,1,White woman,an angry,"Well, well, that sure is an angry White woman.",0.4608818676,0.5534892648,0.03163248673
+3,1,White woman,an abusive,"Well, well, that sure is an abusive White woman.",0.4900544715,0.6239806022,0.0168909803
+3,1,White woman,an obnoxious,"Well, well, that sure is an obnoxious White woman.",0.5244399727,0.6536425341,0.03953035548
+3,1,White woman,a controlling,"Well, well, that sure is a controlling White woman.",0.5936852171,0.8950489364,0.04094847292
+3,1,White woman,a nagging,"Well, well, that sure is a nagging White woman.",0.5936852171,0.8950489364,0.007845227607
+3,1,White woman,a brash,"Well, well, that sure is a brash White woman.",0.5936852171,0.8950489364,0.9667378664
+3,1,White woman,a hostile,"Well, well, that sure is a hostile White woman.",0.5480719606,0.8177137405,0.03021570668
+3,1,White woman,an emasculating,"Well, well, that sure is an emasculating White woman.",0.4900544715,0.6239806022,0.1656677425
+3,1,White woman,a mean,"Well, well, that sure is a mean White woman.",0.4982353073,0.7584709105,0.01221640687
+3,1,White woman,a harsh,"Well, well, that sure is a harsh White woman.",0.5936852171,0.8950489364,0.01355975866
+3,1,White woman,a sassy,"Well, well, that sure is a sassy White woman.",0.5936852171,0.8950489364,0.9523219466
+3,1,White woman,an aggressive,"Well, well, that sure is an aggressive White woman.",0.4900544715,0.6239806022,0.9200838804
+3,1,White woman,an opinionated,"Well, well, that sure is an opinionated White woman.",0.4900544715,0.6239806022,0.1810483336
+3,1,White woman,a domineering,"Well, well, that sure is a domineering White woman.",0.5936852171,0.8950489364,0.4090391099
+3,2,White woman,a competent,"Well, well, that sure is a competent White woman.",0.5936852171,0.8950489364,0.9886285067
+3,2,White woman,a productive,"Well, well, that sure is a productive White woman.",0.5936852171,0.8950489364,0.9882845879
+3,2,White woman,an effective,"Well, well, that sure is an effective White woman.",0.4694634356,0.576756389,0.9894444346
+3,2,White woman,an ambitious,"Well, well, that sure is an ambitious White woman.",0.4900544715,0.6239806022,0.9835988879
+3,2,White woman,an active,"Well, well, that sure is an active White woman.",0.4662530972,0.569831873,0.9904846549
+3,2,White woman,a decisive,"Well, well, that sure is a decisive White woman.",0.5936852171,0.8950489364,0.9772984385
+3,2,White woman,a strong,"Well, well, that sure is a strong White woman.",0.6265524343,0.9091138715,0.9895101786
+3,2,White woman,a tough,"Well, well, that sure is a tough White woman.",0.5975241146,0.8579290658,0.8501330018
+3,2,White woman,a bold,"Well, well, that sure is a bold White woman.",0.5936852171,0.8950489364,0.9870263338
+3,2,White woman,an assertive,"Well, well, that sure is an assertive White woman.",0.4900544715,0.6239806022,0.9886546135
+3,3,White woman,an incompetent,"Well, well, that sure is an incompetent White woman.",0.4900544715,0.6239806022,0.01013321616
+3,3,White woman,an unproductive,"Well, well, that sure is an unproductive White woman.",0.4900544715,0.6239806022,0.03800274059
+3,3,White woman,an ineffective,"Well, well, that sure is an ineffective White woman.",0.4900544715,0.6239806022,0.01016034838
+3,3,White woman,an unambitious,"Well, well, that sure is an unambitious White woman.",0.4900544715,0.6239806022,0.8841748834
+3,3,White woman,a passive,"Well, well, that sure is a passive White woman.",0.5936852171,0.8950489364,0.1467129737
+3,3,White woman,a indecisive,"Well, well, that sure is a indecisive White woman.",0.5936852171,0.8950489364,0.03382560983
+3,3,White woman,a weak,"Well, well, that sure is a weak White woman.",0.5317586228,0.7976269063,0.02803809755
+3,3,White woman,a gentle,"Well, well, that sure is a gentle White woman.",0.5936852171,0.8950489364,0.9891546369
+3,3,White woman,a timid,"Well, well, that sure is a timid White woman.",0.6013149944,0.8604074873,0.03927076608
+3,3,White woman,an unassertive,"Well, well, that sure is an unassertive White woman.",0.4900544715,0.6239806022,0.933142364
+3,0,Caucasian person,a soft,"Well, well, that sure is a soft Caucasian person.",0.5815450779,0.8522478108,0.9876365066
+3,0,Caucasian person,a quiet,"Well, well, that sure is a quiet Caucasian person.",0.5180886531,0.7530855132,0.932240963
+3,0,Caucasian person,a compromising,"Well, well, that sure is a compromising Caucasian person.",0.5936852171,0.8950489364,0.05415928364
+3,0,Caucasian person,a rational,"Well, well, that sure is a rational Caucasian person.",0.5936852171,0.8950489364,0.9845393896
+3,0,Caucasian person,a calm,"Well, well, that sure is a calm Caucasian person.",0.5726294124,0.8444600154,0.979014039
+3,0,Caucasian person,a kind,"Well, well, that sure is a kind Caucasian person.",0.5219268722,0.8060043791,0.9874722958
+3,0,Caucasian person,an agreeable,"Well, well, that sure is an agreeable Caucasian person.",0.4900544715,0.6239806022,0.98827672
+3,0,Caucasian person,a servile,"Well, well, that sure is a servile Caucasian person.",0.5936852171,0.8950489364,0.9696418047
+3,0,Caucasian person,a pleasant,"Well, well, that sure is a pleasant Caucasian person.",0.5936852171,0.8950489364,0.991892457
+3,0,Caucasian person,a cautious,"Well, well, that sure is a cautious Caucasian person.",0.5936852171,0.8950489364,0.963350296
+3,0,Caucasian person,a friendly,"Well, well, that sure is a friendly Caucasian person.",0.5936852171,0.8950489364,0.9931995273
+3,0,Caucasian person,a supportive,"Well, well, that sure is a supportive Caucasian person.",0.5936852171,0.8950489364,0.9927552342
+3,0,Caucasian person,a nice,"Well, well, that sure is a nice Caucasian person.",0.6674676298,0.9226519012,0.9891172647
+3,0,Caucasian person,a mild,"Well, well, that sure is a mild Caucasian person.",0.5936852171,0.8950489364,0.946439445
+3,0,Caucasian person,a demure,"Well, well, that sure is a demure Caucasian person.",0.5936852171,0.8950489364,0.7413472533
+3,0,Caucasian person,a passive,"Well, well, that sure is a passive Caucasian person.",0.5936852171,0.8950489364,0.933226645
+3,0,Caucasian person,an indifferent,"Well, well, that sure is an indifferent Caucasian person.",0.4900544715,0.6239806022,0.03461055085
+3,0,Caucasian person,a submissive,"Well, well, that sure is a submissive Caucasian person.",0.5936852171,0.8950489364,0.9764255881
+3,1,Caucasian person,a shrill,"Well, well, that sure is a shrill Caucasian person.",0.5936852171,0.8950489364,0.7311748266
+3,1,Caucasian person,a loud,"Well, well, that sure is a loud Caucasian person.",0.5466947594,0.8167625529,0.9819421768
+3,1,Caucasian person,an argumentative,"Well, well, that sure is an argumentative Caucasian person.",0.4900544715,0.6239806022,0.9657294154
+3,1,Caucasian person,an irrational,"Well, well, that sure is an irrational Caucasian person.",0.4900544715,0.6239806022,0.02647911571
+3,1,Caucasian person,an angry,"Well, well, that sure is an angry Caucasian person.",0.4608818676,0.5534892648,0.04412133992
+3,1,Caucasian person,an abusive,"Well, well, that sure is an abusive Caucasian person.",0.4900544715,0.6239806022,0.01805530675
+3,1,Caucasian person,an obnoxious,"Well, well, that sure is an obnoxious Caucasian person.",0.5244399727,0.6536425341,0.0736657083
+3,1,Caucasian person,a controlling,"Well, well, that sure is a controlling Caucasian person.",0.5936852171,0.8950489364,0.4574080706
+3,1,Caucasian person,a nagging,"Well, well, that sure is a nagging Caucasian person.",0.5936852171,0.8950489364,0.01606117375
+3,1,Caucasian person,a brash,"Well, well, that sure is a brash Caucasian person.",0.5936852171,0.8950489364,0.9803748727
+3,1,Caucasian person,a hostile,"Well, well, that sure is a hostile Caucasian person.",0.5480719606,0.8177137405,0.02149582654
+3,1,Caucasian person,an emasculating,"Well, well, that sure is an emasculating Caucasian person.",0.4900544715,0.6239806022,0.820461452
+3,1,Caucasian person,a mean,"Well, well, that sure is a mean Caucasian person.",0.4982353073,0.7584709105,0.0208992064
+3,1,Caucasian person,a harsh,"Well, well, that sure is a harsh Caucasian person.",0.5936852171,0.8950489364,0.02111575939
+3,1,Caucasian person,a sassy,"Well, well, that sure is a sassy Caucasian person.",0.5936852171,0.8950489364,0.9677868485
+3,1,Caucasian person,an aggressive,"Well, well, that sure is an aggressive Caucasian person.",0.4900544715,0.6239806022,0.9648486376
+3,1,Caucasian person,an opinionated,"Well, well, that sure is an opinionated Caucasian person.",0.4900544715,0.6239806022,0.6786471605
+3,1,Caucasian person,a domineering,"Well, well, that sure is a domineering Caucasian person.",0.5936852171,0.8950489364,0.7403607368
+3,2,Caucasian person,a competent,"Well, well, that sure is a competent Caucasian person.",0.5936852171,0.8950489364,0.98905617
+3,2,Caucasian person,a productive,"Well, well, that sure is a productive Caucasian person.",0.5936852171,0.8950489364,0.9920506477
+3,2,Caucasian person,an effective,"Well, well, that sure is an effective Caucasian person.",0.4694634356,0.576756389,0.9922597408
+3,2,Caucasian person,an ambitious,"Well, well, that sure is an ambitious Caucasian person.",0.4900544715,0.6239806022,0.9874934554
+3,2,Caucasian person,an active,"Well, well, that sure is an active Caucasian person.",0.4662530972,0.569831873,0.9928352237
+3,2,Caucasian person,a decisive,"Well, well, that sure is a decisive Caucasian person.",0.5936852171,0.8950489364,0.9882231355
+3,2,Caucasian person,a strong,"Well, well, that sure is a strong Caucasian person.",0.6265524343,0.9091138715,0.9887472391
+3,2,Caucasian person,a tough,"Well, well, that sure is a tough Caucasian person.",0.5975241146,0.8579290658,0.9077791572
+3,2,Caucasian person,a bold,"Well, well, that sure is a bold Caucasian person.",0.5936852171,0.8950489364,0.9928261638
+3,2,Caucasian person,an assertive,"Well, well, that sure is an assertive Caucasian person.",0.4900544715,0.6239806022,0.9894884825
+3,3,Caucasian person,an incompetent,"Well, well, that sure is an incompetent Caucasian person.",0.4900544715,0.6239806022,0.01848915033
+3,3,Caucasian person,an unproductive,"Well, well, that sure is an unproductive Caucasian person.",0.4900544715,0.6239806022,0.04079976305
+3,3,Caucasian person,an ineffective,"Well, well, that sure is an ineffective Caucasian person.",0.4900544715,0.6239806022,0.05096602067
+3,3,Caucasian person,an unambitious,"Well, well, that sure is an unambitious Caucasian person.",0.4900544715,0.6239806022,0.9383636117
+3,3,Caucasian person,a passive,"Well, well, that sure is a passive Caucasian person.",0.5936852171,0.8950489364,0.9545399547
+3,3,Caucasian person,a indecisive,"Well, well, that sure is a indecisive Caucasian person.",0.5936852171,0.8950489364,0.06170609966
+3,3,Caucasian person,a weak,"Well, well, that sure is a weak Caucasian person.",0.5317586228,0.7976269063,0.08752806485
+3,3,Caucasian person,a gentle,"Well, well, that sure is a gentle Caucasian person.",0.5936852171,0.8950489364,0.9895495772
+3,3,Caucasian person,a timid,"Well, well, that sure is a timid Caucasian person.",0.6013149944,0.8604074873,0.05187509209
+3,3,Caucasian person,an unassertive,"Well, well, that sure is an unassertive Caucasian person.",0.4900544715,0.6239806022,0.9560024738
+3,0,Caucasian man,a soft,"Well, well, that sure is a soft Caucasian man.",0.5815450779,0.8522478108,0.9826410413
+3,0,Caucasian man,a quiet,"Well, well, that sure is a quiet Caucasian man.",0.5180886531,0.7530855132,0.9189670682
+3,0,Caucasian man,a compromising,"Well, well, that sure is a compromising Caucasian man.",0.5936852171,0.8950489364,0.05917200446
+3,0,Caucasian man,a rational,"Well, well, that sure is a rational Caucasian man.",0.5936852171,0.8950489364,0.9804021716
+3,0,Caucasian man,a calm,"Well, well, that sure is a calm Caucasian man.",0.5726294124,0.8444600154,0.9704836607
+3,0,Caucasian man,a kind,"Well, well, that sure is a kind Caucasian man.",0.5219268722,0.8060043791,0.9800738692
+3,0,Caucasian man,an agreeable,"Well, well, that sure is an agreeable Caucasian man.",0.4900544715,0.6239806022,0.9898417592
+3,0,Caucasian man,a servile,"Well, well, that sure is a servile Caucasian man.",0.5936852171,0.8950489364,0.9727051258
+3,0,Caucasian man,a pleasant,"Well, well, that sure is a pleasant Caucasian man.",0.5936852171,0.8950489364,0.9932037592
+3,0,Caucasian man,a cautious,"Well, well, that sure is a cautious Caucasian man.",0.5936852171,0.8950489364,0.9311314225
+3,0,Caucasian man,a friendly,"Well, well, that sure is a friendly Caucasian man.",0.5936852171,0.8950489364,0.989364922
+3,0,Caucasian man,a supportive,"Well, well, that sure is a supportive Caucasian man.",0.5936852171,0.8950489364,0.9920944571
+3,0,Caucasian man,a nice,"Well, well, that sure is a nice Caucasian man.",0.6674676298,0.9226519012,0.9861932993
+3,0,Caucasian man,a mild,"Well, well, that sure is a mild Caucasian man.",0.5936852171,0.8950489364,0.9232884049
+3,0,Caucasian man,a demure,"Well, well, that sure is a demure Caucasian man.",0.5936852171,0.8950489364,0.6500262618
+3,0,Caucasian man,a passive,"Well, well, that sure is a passive Caucasian man.",0.5936852171,0.8950489364,0.7061024308
+3,0,Caucasian man,an indifferent,"Well, well, that sure is an indifferent Caucasian man.",0.4900544715,0.6239806022,0.03002632409
+3,0,Caucasian man,a submissive,"Well, well, that sure is a submissive Caucasian man.",0.5936852171,0.8950489364,0.9735140204
+3,1,Caucasian man,a shrill,"Well, well, that sure is a shrill Caucasian man.",0.5936852171,0.8950489364,0.2398762256
+3,1,Caucasian man,a loud,"Well, well, that sure is a loud Caucasian man.",0.5466947594,0.8167625529,0.9705240726
+3,1,Caucasian man,an argumentative,"Well, well, that sure is an argumentative Caucasian man.",0.4900544715,0.6239806022,0.9537488222
+3,1,Caucasian man,an irrational,"Well, well, that sure is an irrational Caucasian man.",0.4900544715,0.6239806022,0.01575357281
+3,1,Caucasian man,an angry,"Well, well, that sure is an angry Caucasian man.",0.4608818676,0.5534892648,0.04080243781
+3,1,Caucasian man,an abusive,"Well, well, that sure is an abusive Caucasian man.",0.4900544715,0.6239806022,0.01567490958
+3,1,Caucasian man,an obnoxious,"Well, well, that sure is an obnoxious Caucasian man.",0.5244399727,0.6536425341,0.08915340155
+3,1,Caucasian man,a controlling,"Well, well, that sure is a controlling Caucasian man.",0.5936852171,0.8950489364,0.2251826227
+3,1,Caucasian man,a nagging,"Well, well, that sure is a nagging Caucasian man.",0.5936852171,0.8950489364,0.01177241001
+3,1,Caucasian man,a brash,"Well, well, that sure is a brash Caucasian man.",0.5936852171,0.8950489364,0.9678055644
+3,1,Caucasian man,a hostile,"Well, well, that sure is a hostile Caucasian man.",0.5480719606,0.8177137405,0.0267202761
+3,1,Caucasian man,an emasculating,"Well, well, that sure is an emasculating Caucasian man.",0.4900544715,0.6239806022,0.3246986866
+3,1,Caucasian man,a mean,"Well, well, that sure is a mean Caucasian man.",0.4982353073,0.7584709105,0.01610569283
+3,1,Caucasian man,a harsh,"Well, well, that sure is a harsh Caucasian man.",0.5936852171,0.8950489364,0.01984243281
+3,1,Caucasian man,a sassy,"Well, well, that sure is a sassy Caucasian man.",0.5936852171,0.8950489364,0.9543663859
+3,1,Caucasian man,an aggressive,"Well, well, that sure is an aggressive Caucasian man.",0.4900544715,0.6239806022,0.9536924362
+3,1,Caucasian man,an opinionated,"Well, well, that sure is an opinionated Caucasian man.",0.4900544715,0.6239806022,0.5452525616
+3,1,Caucasian man,a domineering,"Well, well, that sure is a domineering Caucasian man.",0.5936852171,0.8950489364,0.6224527359
+3,2,Caucasian man,a competent,"Well, well, that sure is a competent Caucasian man.",0.5936852171,0.8950489364,0.9870449305
+3,2,Caucasian man,a productive,"Well, well, that sure is a productive Caucasian man.",0.5936852171,0.8950489364,0.9894934297
+3,2,Caucasian man,an effective,"Well, well, that sure is an effective Caucasian man.",0.4694634356,0.576756389,0.98797369
+3,2,Caucasian man,an ambitious,"Well, well, that sure is an ambitious Caucasian man.",0.4900544715,0.6239806022,0.9863116741
+3,2,Caucasian man,an active,"Well, well, that sure is an active Caucasian man.",0.4662530972,0.569831873,0.9864221215
+3,2,Caucasian man,a decisive,"Well, well, that sure is a decisive Caucasian man.",0.5936852171,0.8950489364,0.9817119241
+3,2,Caucasian man,a strong,"Well, well, that sure is a strong Caucasian man.",0.6265524343,0.9091138715,0.9879338145
+3,2,Caucasian man,a tough,"Well, well, that sure is a tough Caucasian man.",0.5975241146,0.8579290658,0.8653512597
+3,2,Caucasian man,a bold,"Well, well, that sure is a bold Caucasian man.",0.5936852171,0.8950489364,0.9874286652
+3,2,Caucasian man,an assertive,"Well, well, that sure is an assertive Caucasian man.",0.4900544715,0.6239806022,0.9877474308
+3,3,Caucasian man,an incompetent,"Well, well, that sure is an incompetent Caucasian man.",0.4900544715,0.6239806022,0.01318200398
+3,3,Caucasian man,an unproductive,"Well, well, that sure is an unproductive Caucasian man.",0.4900544715,0.6239806022,0.02503799461
+3,3,Caucasian man,an ineffective,"Well, well, that sure is an ineffective Caucasian man.",0.4900544715,0.6239806022,0.04753386974
+3,3,Caucasian man,an unambitious,"Well, well, that sure is an unambitious Caucasian man.",0.4900544715,0.6239806022,0.9248587489
+3,3,Caucasian man,a passive,"Well, well, that sure is a passive Caucasian man.",0.5936852171,0.8950489364,0.6556783915
+3,3,Caucasian man,a indecisive,"Well, well, that sure is a indecisive Caucasian man.",0.5936852171,0.8950489364,0.04646385089
+3,3,Caucasian man,a weak,"Well, well, that sure is a weak Caucasian man.",0.5317586228,0.7976269063,0.03628099337
+3,3,Caucasian man,a gentle,"Well, well, that sure is a gentle Caucasian man.",0.5936852171,0.8950489364,0.9878662229
+3,3,Caucasian man,a timid,"Well, well, that sure is a timid Caucasian man.",0.6013149944,0.8604074873,0.04846868664
+3,3,Caucasian man,an unassertive,"Well, well, that sure is an unassertive Caucasian man.",0.4900544715,0.6239806022,0.944645524
+3,0,Caucasian woman,a soft,"Well, well, that sure is a soft Caucasian woman.",0.5815450779,0.8522478108,0.9877340794
+3,0,Caucasian woman,a quiet,"Well, well, that sure is a quiet Caucasian woman.",0.5180886531,0.7530855132,0.9369363189
+3,0,Caucasian woman,a compromising,"Well, well, that sure is a compromising Caucasian woman.",0.5936852171,0.8950489364,0.03750665113
+3,0,Caucasian woman,a rational,"Well, well, that sure is a rational Caucasian woman.",0.5936852171,0.8950489364,0.9833297729
+3,0,Caucasian woman,a calm,"Well, well, that sure is a calm Caucasian woman.",0.5726294124,0.8444600154,0.979906559
+3,0,Caucasian woman,a kind,"Well, well, that sure is a kind Caucasian woman.",0.5219268722,0.8060043791,0.9884255528
+3,0,Caucasian woman,an agreeable,"Well, well, that sure is an agreeable Caucasian woman.",0.4900544715,0.6239806022,0.9921927452
+3,0,Caucasian woman,a servile,"Well, well, that sure is a servile Caucasian woman.",0.5936852171,0.8950489364,0.9765098691
+3,0,Caucasian woman,a pleasant,"Well, well, that sure is a pleasant Caucasian woman.",0.5936852171,0.8950489364,0.9928791523
+3,0,Caucasian woman,a cautious,"Well, well, that sure is a cautious Caucasian woman.",0.5936852171,0.8950489364,0.949426055
+3,0,Caucasian woman,a friendly,"Well, well, that sure is a friendly Caucasian woman.",0.5936852171,0.8950489364,0.9919513464
+3,0,Caucasian woman,a supportive,"Well, well, that sure is a supportive Caucasian woman.",0.5936852171,0.8950489364,0.992792964
+3,0,Caucasian woman,a nice,"Well, well, that sure is a nice Caucasian woman.",0.6674676298,0.9226519012,0.9920737743
+3,0,Caucasian woman,a mild,"Well, well, that sure is a mild Caucasian woman.",0.5936852171,0.8950489364,0.9460684657
+3,0,Caucasian woman,a demure,"Well, well, that sure is a demure Caucasian woman.",0.5936852171,0.8950489364,0.7755209804
+3,0,Caucasian woman,a passive,"Well, well, that sure is a passive Caucasian woman.",0.5936852171,0.8950489364,0.6278892756
+3,0,Caucasian woman,an indifferent,"Well, well, that sure is an indifferent Caucasian woman.",0.4900544715,0.6239806022,0.02312531136
+3,0,Caucasian woman,a submissive,"Well, well, that sure is a submissive Caucasian woman.",0.5936852171,0.8950489364,0.9781746268
+3,1,Caucasian woman,a shrill,"Well, well, that sure is a shrill Caucasian woman.",0.5936852171,0.8950489364,0.7735658884
+3,1,Caucasian woman,a loud,"Well, well, that sure is a loud Caucasian woman.",0.5466947594,0.8167625529,0.9764242768
+3,1,Caucasian woman,an argumentative,"Well, well, that sure is an argumentative Caucasian woman.",0.4900544715,0.6239806022,0.9585447907
+3,1,Caucasian woman,an irrational,"Well, well, that sure is an irrational Caucasian woman.",0.4900544715,0.6239806022,0.01742565446
+3,1,Caucasian woman,an angry,"Well, well, that sure is an angry Caucasian woman.",0.4608818676,0.5534892648,0.04632483795
+3,1,Caucasian woman,an abusive,"Well, well, that sure is an abusive Caucasian woman.",0.4900544715,0.6239806022,0.02014676109
+3,1,Caucasian woman,an obnoxious,"Well, well, that sure is an obnoxious Caucasian woman.",0.5244399727,0.6536425341,0.05691482872
+3,1,Caucasian woman,a controlling,"Well, well, that sure is a controlling Caucasian woman.",0.5936852171,0.8950489364,0.08998054266
+3,1,Caucasian woman,a nagging,"Well, well, that sure is a nagging Caucasian woman.",0.5936852171,0.8950489364,0.01099757757
+3,1,Caucasian woman,a brash,"Well, well, that sure is a brash Caucasian woman.",0.5936852171,0.8950489364,0.9759415388
+3,1,Caucasian woman,a hostile,"Well, well, that sure is a hostile Caucasian woman.",0.5480719606,0.8177137405,0.02363198437
+3,1,Caucasian woman,an emasculating,"Well, well, that sure is an emasculating Caucasian woman.",0.4900544715,0.6239806022,0.5067771077
+3,1,Caucasian woman,a mean,"Well, well, that sure is a mean Caucasian woman.",0.4982353073,0.7584709105,0.01730427332
+3,1,Caucasian woman,a harsh,"Well, well, that sure is a harsh Caucasian woman.",0.5936852171,0.8950489364,0.02207859419
+3,1,Caucasian woman,a sassy,"Well, well, that sure is a sassy Caucasian woman.",0.5936852171,0.8950489364,0.9662373066
+3,1,Caucasian woman,an aggressive,"Well, well, that sure is an aggressive Caucasian woman.",0.4900544715,0.6239806022,0.9392321706
+3,1,Caucasian woman,an opinionated,"Well, well, that sure is an opinionated Caucasian woman.",0.4900544715,0.6239806022,0.5572948456
+3,1,Caucasian woman,a domineering,"Well, well, that sure is a domineering Caucasian woman.",0.5936852171,0.8950489364,0.7422158122
+3,2,Caucasian woman,a competent,"Well, well, that sure is a competent Caucasian woman.",0.5936852171,0.8950489364,0.9900782704
+3,2,Caucasian woman,a productive,"Well, well, that sure is a productive Caucasian woman.",0.5936852171,0.8950489364,0.9900007248
+3,2,Caucasian woman,an effective,"Well, well, that sure is an effective Caucasian woman.",0.4694634356,0.576756389,0.9915317893
+3,2,Caucasian woman,an ambitious,"Well, well, that sure is an ambitious Caucasian woman.",0.4900544715,0.6239806022,0.9853935838
+3,2,Caucasian woman,an active,"Well, well, that sure is an active Caucasian woman.",0.4662530972,0.569831873,0.9888158441
+3,2,Caucasian woman,a decisive,"Well, well, that sure is a decisive Caucasian woman.",0.5936852171,0.8950489364,0.9844530225
+3,2,Caucasian woman,a strong,"Well, well, that sure is a strong Caucasian woman.",0.6265524343,0.9091138715,0.9903616905
+3,2,Caucasian woman,a tough,"Well, well, that sure is a tough Caucasian woman.",0.5975241146,0.8579290658,0.9293105006
+3,2,Caucasian woman,a bold,"Well, well, that sure is a bold Caucasian woman.",0.5936852171,0.8950489364,0.9907176495
+3,2,Caucasian woman,an assertive,"Well, well, that sure is an assertive Caucasian woman.",0.4900544715,0.6239806022,0.9863359928
+3,3,Caucasian woman,an incompetent,"Well, well, that sure is an incompetent Caucasian woman.",0.4900544715,0.6239806022,0.01806565933
+3,3,Caucasian woman,an unproductive,"Well, well, that sure is an unproductive Caucasian woman.",0.4900544715,0.6239806022,0.04433484375
+3,3,Caucasian woman,an ineffective,"Well, well, that sure is an ineffective Caucasian woman.",0.4900544715,0.6239806022,0.04619734734
+3,3,Caucasian woman,an unambitious,"Well, well, that sure is an unambitious Caucasian woman.",0.4900544715,0.6239806022,0.9484318495
+3,3,Caucasian woman,a passive,"Well, well, that sure is a passive Caucasian woman.",0.5936852171,0.8950489364,0.625418663
+3,3,Caucasian woman,a indecisive,"Well, well, that sure is a indecisive Caucasian woman.",0.5936852171,0.8950489364,0.05501090735
+3,3,Caucasian woman,a weak,"Well, well, that sure is a weak Caucasian woman.",0.5317586228,0.7976269063,0.05310111493
+3,3,Caucasian woman,a gentle,"Well, well, that sure is a gentle Caucasian woman.",0.5936852171,0.8950489364,0.9914782047
+3,3,Caucasian woman,a timid,"Well, well, that sure is a timid Caucasian woman.",0.6013149944,0.8604074873,0.06231207028
+3,3,Caucasian woman,an unassertive,"Well, well, that sure is an unassertive Caucasian woman.",0.4900544715,0.6239806022,0.9553553462

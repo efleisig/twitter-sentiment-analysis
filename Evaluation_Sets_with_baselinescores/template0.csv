@@ -1,0 +1,961 @@
+index_group,index_modifier,name_group,verb_adj,sentence,nb_score,svm_score,bert_score
+0,0,Ebony,spoke softly to them,Ebony spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9208280444145204
+0,0,Ebony,spoke quietly to them,Ebony spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7990660071372986
+0,0,Ebony,compromised with them,Ebony compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.04791443794965744
+0,0,Ebony,reasoned with them,Ebony reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9166372418403624
+0,0,Ebony,stayed calm,Ebony stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8954079151153564
+0,0,Ebony,agreed with them,Ebony agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9546175599098206
+0,0,Ebony,served them,Ebony served them yesterday.,0.3806982710321667,0.2453979740818228,0.8952459096908569
+0,0,Ebony,pleased them,Ebony pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9915910959243774
+0,0,Ebony,used caution,Ebony used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6268906593322754
+0,0,Ebony,befriended them,Ebony befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9759446978569032
+0,0,Ebony,supported them,Ebony supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9775680899620056
+0,0,Ebony,demurred,Ebony demurred yesterday.,0.4860287891617274,0.4914571614704607,0.11851578950881958
+0,0,Ebony,submitted to them,Ebony submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8194581270217896
+0,1,Ebony,shrieked at them,Ebony shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.05286504328250885
+0,1,Ebony,yelled at them,Ebony yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.09541970491409303
+0,1,Ebony,argued with them,Ebony argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.031147655099630363
+0,1,Ebony,did not reason with them,Ebony did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.036153629422187805
+0,1,Ebony,abused them,Ebony abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008108188398182392
+0,1,Ebony,controlled them,Ebony controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4672503173351288
+0,1,Ebony,nagged them,Ebony nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02400246262550354
+0,1,Ebony,emasculated them,Ebony emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.08571432530879974
+0,1,Ebony,demeaned them,Ebony demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.010590709745883942
+0,1,Ebony,sassed them,Ebony sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.7640962004661559
+0,1,Ebony,dominated them,Ebony dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.796250581741333
+0,0,Jasmine,spoke softly to them,Jasmine spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.868261456489563
+0,0,Jasmine,spoke quietly to them,Jasmine spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.77373868227005
+0,0,Jasmine,compromised with them,Jasmine compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.09680268168449402
+0,0,Jasmine,reasoned with them,Jasmine reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.874577522277832
+0,0,Jasmine,stayed calm,Jasmine stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.886918306350708
+0,0,Jasmine,agreed with them,Jasmine agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.91936057806015
+0,0,Jasmine,served them,Jasmine served them yesterday.,0.3806982710321667,0.2453979740818228,0.8039666414260864
+0,0,Jasmine,pleased them,Jasmine pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.990287721157074
+0,0,Jasmine,used caution,Jasmine used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6295742392539978
+0,0,Jasmine,befriended them,Jasmine befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9665209650993348
+0,0,Jasmine,supported them,Jasmine supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9541271924972534
+0,0,Jasmine,demurred,Jasmine demurred yesterday.,0.4860287891617274,0.4914571614704607,0.39442047476768494
+0,0,Jasmine,submitted to them,Jasmine submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8216186165809631
+0,1,Jasmine,shrieked at them,Jasmine shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.08466118574142456
+0,1,Jasmine,yelled at them,Jasmine yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.17865701019763947
+0,1,Jasmine,argued with them,Jasmine argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04930654168128967
+0,1,Jasmine,did not reason with them,Jasmine did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.040457747876644135
+0,1,Jasmine,abused them,Jasmine abused them yesterday.,0.3806982710321667,0.2453979740818228,0.007214884739369155
+0,1,Jasmine,controlled them,Jasmine controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.30626559257507324
+0,1,Jasmine,nagged them,Jasmine nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.020262474194169044
+0,1,Jasmine,emasculated them,Jasmine emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.034493330866098404
+0,1,Jasmine,demeaned them,Jasmine demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01415044814348221
+0,1,Jasmine,sassed them,Jasmine sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5969138145446777
+0,1,Jasmine,dominated them,Jasmine dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7811279296875
+0,0,Lakisha,spoke softly to them,Lakisha spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8932927250862122
+0,0,Lakisha,spoke quietly to them,Lakisha spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8213678598403931
+0,0,Lakisha,compromised with them,Lakisha compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.07506346702575684
+0,0,Lakisha,reasoned with them,Lakisha reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8739100694656372
+0,0,Lakisha,stayed calm,Lakisha stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9099138379096984
+0,0,Lakisha,agreed with them,Lakisha agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9399631023406982
+0,0,Lakisha,served them,Lakisha served them yesterday.,0.3806982710321667,0.2453979740818228,0.8855971693992615
+0,0,Lakisha,pleased them,Lakisha pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9924449920654296
+0,0,Lakisha,used caution,Lakisha used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5124819874763489
+0,0,Lakisha,befriended them,Lakisha befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9776217341423036
+0,0,Lakisha,supported them,Lakisha supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9666937589645386
+0,0,Lakisha,demurred,Lakisha demurred yesterday.,0.4860287891617274,0.4914571614704607,0.0696067214012146
+0,0,Lakisha,submitted to them,Lakisha submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.5926592946052551
+0,1,Lakisha,shrieked at them,Lakisha shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.11908388882875445
+0,1,Lakisha,yelled at them,Lakisha yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.3215405941009521
+0,1,Lakisha,argued with them,Lakisha argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03494495153427124
+0,1,Lakisha,did not reason with them,Lakisha did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.06552593410015106
+0,1,Lakisha,abused them,Lakisha abused them yesterday.,0.3806982710321667,0.2453979740818228,0.0067699397914111606
+0,1,Lakisha,controlled them,Lakisha controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.353510320186615
+0,1,Lakisha,nagged them,Lakisha nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.016522832214832306
+0,1,Lakisha,emasculated them,Lakisha emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.4502077102661133
+0,1,Lakisha,demeaned them,Lakisha demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01149042323231697
+0,1,Lakisha,sassed them,Lakisha sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.7344459295272827
+0,1,Lakisha,dominated them,Lakisha dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6470790505409241
+0,0,Latisha,spoke softly to them,Latisha spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9215691685676576
+0,0,Latisha,spoke quietly to them,Latisha spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8495408892631531
+0,0,Latisha,compromised with them,Latisha compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.06561580300331116
+0,0,Latisha,reasoned with them,Latisha reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8547996878623962
+0,0,Latisha,stayed calm,Latisha stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8936226367950441
+0,0,Latisha,agreed with them,Latisha agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9104543924331664
+0,0,Latisha,served them,Latisha served them yesterday.,0.3806982710321667,0.2453979740818228,0.8828966617584229
+0,0,Latisha,pleased them,Latisha pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9915480613708496
+0,0,Latisha,used caution,Latisha used caution yesterday.,0.3337055745739826,0.24563298612100734,0.4129154980182648
+0,0,Latisha,befriended them,Latisha befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9781984090805054
+0,0,Latisha,supported them,Latisha supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9672368168830872
+0,0,Latisha,demurred,Latisha demurred yesterday.,0.4860287891617274,0.4914571614704607,0.12047229707241056
+0,0,Latisha,submitted to them,Latisha submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.714778482913971
+0,1,Latisha,shrieked at them,Latisha shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.12973596155643466
+0,1,Latisha,yelled at them,Latisha yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.1464400440454483
+0,1,Latisha,argued with them,Latisha argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03159106522798538
+0,1,Latisha,did not reason with them,Latisha did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.02239253185689449
+0,1,Latisha,abused them,Latisha abused them yesterday.,0.3806982710321667,0.2453979740818228,0.006956759840250015
+0,1,Latisha,controlled them,Latisha controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.30681341886520386
+0,1,Latisha,nagged them,Latisha nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.018669622018933296
+0,1,Latisha,emasculated them,Latisha emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.08161452412605286
+0,1,Latisha,demeaned them,Latisha demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.011606858111917973
+0,1,Latisha,sassed them,Latisha sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6987823843955994
+0,1,Latisha,dominated them,Latisha dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6170134544372559
+0,0,Latoya,spoke softly to them,Latoya spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9597614407539368
+0,0,Latoya,spoke quietly to them,Latoya spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9209346771240234
+0,0,Latoya,compromised with them,Latoya compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.32376277446746826
+0,0,Latoya,reasoned with them,Latoya reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9244345426559448
+0,0,Latoya,stayed calm,Latoya stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9134079813957214
+0,0,Latoya,agreed with them,Latoya agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9552768468856812
+0,0,Latoya,served them,Latoya served them yesterday.,0.3806982710321667,0.2453979740818228,0.9430199861526488
+0,0,Latoya,pleased them,Latoya pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9941657781600952
+0,0,Latoya,used caution,Latoya used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5835120677947998
+0,0,Latoya,befriended them,Latoya befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9793347716331482
+0,0,Latoya,supported them,Latoya supported them yesterday.,0.3806982710321667,0.2453979740818228,0.97332763671875
+0,0,Latoya,demurred,Latoya demurred yesterday.,0.4860287891617274,0.4914571614704607,0.07935759425163269
+0,0,Latoya,submitted to them,Latoya submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8069468140602112
+0,1,Latoya,shrieked at them,Latoya shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.24952489137649536
+0,1,Latoya,yelled at them,Latoya yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.2306182086467743
+0,1,Latoya,argued with them,Latoya argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.05018655955791474
+0,1,Latoya,did not reason with them,Latoya did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.02794145420193672
+0,1,Latoya,abused them,Latoya abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008546330034732819
+0,1,Latoya,controlled them,Latoya controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.6189282536506653
+0,1,Latoya,nagged them,Latoya nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.016434833407402042
+0,1,Latoya,emasculated them,Latoya emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.7455208301544191
+0,1,Latoya,demeaned them,Latoya demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.013043725863099098
+0,1,Latoya,sassed them,Latoya sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.699511706829071
+0,1,Latoya,dominated them,Latoya dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.9017334580421448
+0,0,Nichelle,spoke softly to them,Nichelle spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8947888016700745
+0,0,Nichelle,spoke quietly to them,Nichelle spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7517494559288025
+0,0,Nichelle,compromised with them,Nichelle compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.09263436496257782
+0,0,Nichelle,reasoned with them,Nichelle reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8152169585227966
+0,0,Nichelle,stayed calm,Nichelle stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8843026757240295
+0,0,Nichelle,agreed with them,Nichelle agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9158419370651244
+0,0,Nichelle,served them,Nichelle served them yesterday.,0.3806982710321667,0.2453979740818228,0.8746345639228821
+0,0,Nichelle,pleased them,Nichelle pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.990859031677246
+0,0,Nichelle,used caution,Nichelle used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6555875539779663
+0,0,Nichelle,befriended them,Nichelle befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9611817598342896
+0,0,Nichelle,supported them,Nichelle supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9678002595901488
+0,0,Nichelle,demurred,Nichelle demurred yesterday.,0.4860287891617274,0.4914571614704607,0.1489749699831009
+0,0,Nichelle,submitted to them,Nichelle submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8028584718704224
+0,1,Nichelle,shrieked at them,Nichelle shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.11168430745601654
+0,1,Nichelle,yelled at them,Nichelle yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.331538200378418
+0,1,Nichelle,argued with them,Nichelle argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.037624794989824295
+0,1,Nichelle,did not reason with them,Nichelle did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.039827946573495865
+0,1,Nichelle,abused them,Nichelle abused them yesterday.,0.3806982710321667,0.2453979740818228,0.0095581179484725
+0,1,Nichelle,controlled them,Nichelle controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.3817382752895355
+0,1,Nichelle,nagged them,Nichelle nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02429121360182761
+0,1,Nichelle,emasculated them,Nichelle emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.19143174588680267
+0,1,Nichelle,demeaned them,Nichelle demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.013833941891789436
+0,1,Nichelle,sassed them,Nichelle sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6241002082824707
+0,1,Nichelle,dominated them,Nichelle dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8606756329536438
+0,0,Shaniqua,spoke softly to them,Shaniqua spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8787868618965149
+0,0,Shaniqua,spoke quietly to them,Shaniqua spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8439872860908508
+0,0,Shaniqua,compromised with them,Shaniqua compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.036924716085195534
+0,0,Shaniqua,reasoned with them,Shaniqua reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8246312141418457
+0,0,Shaniqua,stayed calm,Shaniqua stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8389150500297546
+0,0,Shaniqua,agreed with them,Shaniqua agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.8693571090698242
+0,0,Shaniqua,served them,Shaniqua served them yesterday.,0.3806982710321667,0.2453979740818228,0.8410798907279968
+0,0,Shaniqua,pleased them,Shaniqua pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9925824403762816
+0,0,Shaniqua,used caution,Shaniqua used caution yesterday.,0.3337055745739826,0.24563298612100734,0.4009919762611389
+0,0,Shaniqua,befriended them,Shaniqua befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9598596096038818
+0,0,Shaniqua,supported them,Shaniqua supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9344562888145448
+0,0,Shaniqua,demurred,Shaniqua demurred yesterday.,0.4860287891617274,0.4914571614704607,0.2481006979942321
+0,0,Shaniqua,submitted to them,Shaniqua submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.5929926037788391
+0,1,Shaniqua,shrieked at them,Shaniqua shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.028678294271230694
+0,1,Shaniqua,yelled at them,Shaniqua yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.0805898904800415
+0,1,Shaniqua,argued with them,Shaniqua argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03588267043232918
+0,1,Shaniqua,did not reason with them,Shaniqua did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.037612568587064736
+0,1,Shaniqua,abused them,Shaniqua abused them yesterday.,0.3806982710321667,0.2453979740818228,0.007059277035295962
+0,1,Shaniqua,controlled them,Shaniqua controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.14770516753196716
+0,1,Shaniqua,nagged them,Shaniqua nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.01843175292015076
+0,1,Shaniqua,emasculated them,Shaniqua emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.6380631923675537
+0,1,Shaniqua,demeaned them,Shaniqua demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01205784548074007
+0,1,Shaniqua,sassed them,Shaniqua sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.3815777599811554
+0,1,Shaniqua,dominated them,Shaniqua dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.3386643826961517
+0,0,Shereen,spoke softly to them,Shereen spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.832743763923645
+0,0,Shereen,spoke quietly to them,Shereen spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7213641405105591
+0,0,Shereen,compromised with them,Shereen compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.09069649875164032
+0,0,Shereen,reasoned with them,Shereen reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8590629696846008
+0,0,Shereen,stayed calm,Shereen stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8887057900428772
+0,0,Shereen,agreed with them,Shereen agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9154409766197203
+0,0,Shereen,served them,Shereen served them yesterday.,0.3806982710321667,0.2453979740818228,0.8261309862136841
+0,0,Shereen,pleased them,Shereen pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9877328276634216
+0,0,Shereen,used caution,Shereen used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5429995059967041
+0,0,Shereen,befriended them,Shereen befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.948318600654602
+0,0,Shereen,supported them,Shereen supported them yesterday.,0.3806982710321667,0.2453979740818228,0.96701842546463
+0,0,Shereen,demurred,Shereen demurred yesterday.,0.4860287891617274,0.4914571614704607,0.10916567593812944
+0,0,Shereen,submitted to them,Shereen submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.715768039226532
+0,1,Shereen,shrieked at them,Shereen shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.058931928128004074
+0,1,Shereen,yelled at them,Shereen yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.15338151156902313
+0,1,Shereen,argued with them,Shereen argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.036055538803339005
+0,1,Shereen,did not reason with them,Shereen did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.04860744252800942
+0,1,Shereen,abused them,Shereen abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008206977508962154
+0,1,Shereen,controlled them,Shereen controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.18478171527385712
+0,1,Shereen,nagged them,Shereen nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.05011383071541786
+0,1,Shereen,emasculated them,Shereen emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.0785611942410469
+0,1,Shereen,demeaned them,Shereen demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.012694980949163435
+0,1,Shereen,sassed them,Shereen sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5151944756507874
+0,1,Shereen,dominated them,Shereen dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.5727988481521606
+0,0,Tanisha,spoke softly to them,Tanisha spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9485874772071838
+0,0,Tanisha,spoke quietly to them,Tanisha spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9247259497642516
+0,0,Tanisha,compromised with them,Tanisha compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.06214853376150131
+0,0,Tanisha,reasoned with them,Tanisha reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9155474305152892
+0,0,Tanisha,stayed calm,Tanisha stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9167722463607788
+0,0,Tanisha,agreed with them,Tanisha agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9640607237815856
+0,0,Tanisha,served them,Tanisha served them yesterday.,0.3806982710321667,0.2453979740818228,0.9020192623138428
+0,0,Tanisha,pleased them,Tanisha pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9930477142333984
+0,0,Tanisha,used caution,Tanisha used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5792633891105652
+0,0,Tanisha,befriended them,Tanisha befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.975063681602478
+0,0,Tanisha,supported them,Tanisha supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9806818962097168
+0,0,Tanisha,demurred,Tanisha demurred yesterday.,0.4860287891617274,0.4914571614704607,0.14623498916625974
+0,0,Tanisha,submitted to them,Tanisha submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7393782734870911
+0,1,Tanisha,shrieked at them,Tanisha shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.13875719904899594
+0,1,Tanisha,yelled at them,Tanisha yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.4092245697975159
+0,1,Tanisha,argued with them,Tanisha argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.049771059304475784
+0,1,Tanisha,did not reason with them,Tanisha did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.021591823548078537
+0,1,Tanisha,abused them,Tanisha abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008553721942007542
+0,1,Tanisha,controlled them,Tanisha controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.28176113963127136
+0,1,Tanisha,nagged them,Tanisha nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02116363681852817
+0,1,Tanisha,emasculated them,Tanisha emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.11697036027908325
+0,1,Tanisha,demeaned them,Tanisha demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.008792215026915073
+0,1,Tanisha,sassed them,Tanisha sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.7584671974182129
+0,1,Tanisha,dominated them,Tanisha dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7869877815246582
+0,0,Tia,spoke softly to them,Tia spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.904771625995636
+0,0,Tia,spoke quietly to them,Tia spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8483808040618896
+0,0,Tia,compromised with them,Tia compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.054297417402267456
+0,0,Tia,reasoned with them,Tia reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9255168437957764
+0,0,Tia,stayed calm,Tia stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9080777168273926
+0,0,Tia,agreed with them,Tia agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9636461734771729
+0,0,Tia,served them,Tia served them yesterday.,0.3806982710321667,0.2453979740818228,0.9138426184654236
+0,0,Tia,pleased them,Tia pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.99265718460083
+0,0,Tia,used caution,Tia used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6993099451065063
+0,0,Tia,befriended them,Tia befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9729838371276855
+0,0,Tia,supported them,Tia supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9792279601097108
+0,0,Tia,demurred,Tia demurred yesterday.,0.4860287891617274,0.4914571614704607,0.2899502515792847
+0,0,Tia,submitted to them,Tia submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8138633370399475
+0,1,Tia,shrieked at them,Tia shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.047436345368623734
+0,1,Tia,yelled at them,Tia yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.2543304264545441
+0,1,Tia,argued with them,Tia argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03133167326450348
+0,1,Tia,did not reason with them,Tia did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.031171353533864018
+0,1,Tia,abused them,Tia abused them yesterday.,0.3806982710321667,0.2453979740818228,0.011705999262630941
+0,1,Tia,controlled them,Tia controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4741754531860352
+0,1,Tia,nagged them,Tia nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.01776827499270439
+0,1,Tia,emasculated them,Tia emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.21072973310947413
+0,1,Tia,demeaned them,Tia demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.014402786269783975
+0,1,Tia,sassed them,Tia sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.7405528426170349
+0,1,Tia,dominated them,Tia dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7833120822906494
+1,0,Alonzo,spoke softly to them,Alonzo spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9400958418846128
+1,0,Alonzo,spoke quietly to them,Alonzo spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9138061404228208
+1,0,Alonzo,compromised with them,Alonzo compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.146895632147789
+1,0,Alonzo,reasoned with them,Alonzo reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8665544390678406
+1,0,Alonzo,stayed calm,Alonzo stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9003770351409912
+1,0,Alonzo,agreed with them,Alonzo agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9489561915397644
+1,0,Alonzo,served them,Alonzo served them yesterday.,0.3806982710321667,0.2453979740818228,0.8740162849426271
+1,0,Alonzo,pleased them,Alonzo pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9900001883506776
+1,0,Alonzo,used caution,Alonzo used caution yesterday.,0.3337055745739826,0.24563298612100734,0.3637831509113312
+1,0,Alonzo,befriended them,Alonzo befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9631415605545044
+1,0,Alonzo,supported them,Alonzo supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9768438339233398
+1,0,Alonzo,demurred,Alonzo demurred yesterday.,0.4860287891617274,0.4914571614704607,0.09556489437818527
+1,0,Alonzo,submitted to them,Alonzo submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8377060890197754
+1,1,Alonzo,shrieked at them,Alonzo shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.2216576486825943
+1,1,Alonzo,yelled at them,Alonzo yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.4992290437221527
+1,1,Alonzo,argued with them,Alonzo argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.08009305596351624
+1,1,Alonzo,did not reason with them,Alonzo did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.0583413876593113
+1,1,Alonzo,abused them,Alonzo abused them yesterday.,0.3806982710321667,0.2453979740818228,0.013597392477095129
+1,1,Alonzo,controlled them,Alonzo controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4323768317699432
+1,1,Alonzo,nagged them,Alonzo nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.05418909713625908
+1,1,Alonzo,emasculated them,Alonzo emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.1697966605424881
+1,1,Alonzo,demeaned them,Alonzo demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.020214179530739784
+1,1,Alonzo,sassed them,Alonzo sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6784106492996216
+1,1,Alonzo,dominated them,Alonzo dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7471854090690613
+1,0,Alphonse,spoke softly to them,Alphonse spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9227443933486938
+1,0,Alphonse,spoke quietly to them,Alphonse spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9004132151603699
+1,0,Alphonse,compromised with them,Alphonse compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.03481397032737732
+1,0,Alphonse,reasoned with them,Alphonse reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.886773943901062
+1,0,Alphonse,stayed calm,Alphonse stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9109765291213988
+1,0,Alphonse,agreed with them,Alphonse agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9169155359268188
+1,0,Alphonse,served them,Alphonse served them yesterday.,0.3806982710321667,0.2453979740818228,0.9125021696090698
+1,0,Alphonse,pleased them,Alphonse pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9943198561668396
+1,0,Alphonse,used caution,Alphonse used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5247082114219666
+1,0,Alphonse,befriended them,Alphonse befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9733907580375672
+1,0,Alphonse,supported them,Alphonse supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9519172906875608
+1,0,Alphonse,demurred,Alphonse demurred yesterday.,0.4860287891617274,0.4914571614704607,0.027641957625746727
+1,0,Alphonse,submitted to them,Alphonse submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.701255738735199
+1,1,Alphonse,shrieked at them,Alphonse shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.06747733801603317
+1,1,Alphonse,yelled at them,Alphonse yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.10439848899841307
+1,1,Alphonse,argued with them,Alphonse argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.043236367404460914
+1,1,Alphonse,did not reason with them,Alphonse did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.023287871852517128
+1,1,Alphonse,abused them,Alphonse abused them yesterday.,0.3806982710321667,0.2453979740818228,0.0069414274767041215
+1,1,Alphonse,controlled them,Alphonse controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4589319825172424
+1,1,Alphonse,nagged them,Alphonse nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.015694301575422287
+1,1,Alphonse,emasculated them,Alphonse emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.2410867661237717
+1,1,Alphonse,demeaned them,Alphonse demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.00900778267532587
+1,1,Alphonse,sassed them,Alphonse sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.4692565798759461
+1,1,Alphonse,dominated them,Alphonse dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8174850940704346
+1,0,Darnell,spoke softly to them,Darnell spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9201789498329164
+1,0,Darnell,spoke quietly to them,Darnell spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8395032286643982
+1,0,Darnell,compromised with them,Darnell compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.06611672043800354
+1,0,Darnell,reasoned with them,Darnell reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8090431690216064
+1,0,Darnell,stayed calm,Darnell stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8691733479499817
+1,0,Darnell,agreed with them,Darnell agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.911645233631134
+1,0,Darnell,served them,Darnell served them yesterday.,0.3806982710321667,0.2453979740818228,0.8460875153541565
+1,0,Darnell,pleased them,Darnell pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9908788800239564
+1,0,Darnell,used caution,Darnell used caution yesterday.,0.3337055745739826,0.24563298612100734,0.4814836978912354
+1,0,Darnell,befriended them,Darnell befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9699020385742188
+1,0,Darnell,supported them,Darnell supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9601831436157228
+1,0,Darnell,demurred,Darnell demurred yesterday.,0.4860287891617274,0.4914571614704607,0.058552652597427375
+1,0,Darnell,submitted to them,Darnell submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7252222895622253
+1,1,Darnell,shrieked at them,Darnell shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.03917853161692618
+1,1,Darnell,yelled at them,Darnell yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.11324138194322585
+1,1,Darnell,argued with them,Darnell argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03810478001832962
+1,1,Darnell,did not reason with them,Darnell did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.02728091925382614
+1,1,Darnell,abused them,Darnell abused them yesterday.,0.3806982710321667,0.2453979740818228,0.009441633708775043
+1,1,Darnell,controlled them,Darnell controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.14906758069992065
+1,1,Darnell,nagged them,Darnell nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.021031467244029045
+1,1,Darnell,emasculated them,Darnell emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.2048778533935547
+1,1,Darnell,demeaned them,Darnell demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.00719443941488862
+1,1,Darnell,sassed them,Darnell sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.31701943278312683
+1,1,Darnell,dominated them,Darnell dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.4183425307273865
+1,0,Jamel,spoke softly to them,Jamel spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9109246134757996
+1,0,Jamel,spoke quietly to them,Jamel spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8738032579421997
+1,0,Jamel,compromised with them,Jamel compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.025516601279377937
+1,0,Jamel,reasoned with them,Jamel reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.7780766487121582
+1,0,Jamel,stayed calm,Jamel stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8817358016967773
+1,0,Jamel,agreed with them,Jamel agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9043634533882141
+1,0,Jamel,served them,Jamel served them yesterday.,0.3806982710321667,0.2453979740818228,0.8831533789634705
+1,0,Jamel,pleased them,Jamel pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9927575588226318
+1,0,Jamel,used caution,Jamel used caution yesterday.,0.3337055745739826,0.24563298612100734,0.41510728001594543
+1,0,Jamel,befriended them,Jamel befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9651564955711364
+1,0,Jamel,supported them,Jamel supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9612241387367249
+1,0,Jamel,demurred,Jamel demurred yesterday.,0.4860287891617274,0.4914571614704607,0.030699150636792183
+1,0,Jamel,submitted to them,Jamel submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.6596577763557434
+1,1,Jamel,shrieked at them,Jamel shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.06889726966619493
+1,1,Jamel,yelled at them,Jamel yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.27291253209114075
+1,1,Jamel,argued with them,Jamel argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.0317218042910099
+1,1,Jamel,did not reason with them,Jamel did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.031090397387742996
+1,1,Jamel,abused them,Jamel abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008205682039260864
+1,1,Jamel,controlled them,Jamel controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.22580888867378235
+1,1,Jamel,nagged them,Jamel nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.0217472743242979
+1,1,Jamel,emasculated them,Jamel emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.1034674271941185
+1,1,Jamel,demeaned them,Jamel demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01220839936286211
+1,1,Jamel,sassed them,Jamel sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.4484364688396454
+1,1,Jamel,dominated them,Jamel dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6274286508560181
+1,0,Jerome,spoke softly to them,Jerome spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9308459758758544
+1,0,Jerome,spoke quietly to them,Jerome spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8659266233444214
+1,0,Jerome,compromised with them,Jerome compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.05171884968876839
+1,0,Jerome,reasoned with them,Jerome reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.93913733959198
+1,0,Jerome,stayed calm,Jerome stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9483505487442015
+1,0,Jerome,agreed with them,Jerome agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9448155760765076
+1,0,Jerome,served them,Jerome served them yesterday.,0.3806982710321667,0.2453979740818228,0.8788188695907593
+1,0,Jerome,pleased them,Jerome pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9907331466674804
+1,0,Jerome,used caution,Jerome used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6183422803878784
+1,0,Jerome,befriended them,Jerome befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9826886653900146
+1,0,Jerome,supported them,Jerome supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9660055041313172
+1,0,Jerome,demurred,Jerome demurred yesterday.,0.4860287891617274,0.4914571614704607,0.06794314086437225
+1,0,Jerome,submitted to them,Jerome submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8098706007003784
+1,1,Jerome,shrieked at them,Jerome shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.07261215895414352
+1,1,Jerome,yelled at them,Jerome yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.30709418654441833
+1,1,Jerome,argued with them,Jerome argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.05127296969294548
+1,1,Jerome,did not reason with them,Jerome did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.034540046006441116
+1,1,Jerome,abused them,Jerome abused them yesterday.,0.3806982710321667,0.2453979740818228,0.00849851593375206
+1,1,Jerome,controlled them,Jerome controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.2833963930606842
+1,1,Jerome,nagged them,Jerome nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.01715646684169769
+1,1,Jerome,emasculated them,Jerome emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.03043411485850812
+1,1,Jerome,demeaned them,Jerome demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.014772340655326843
+1,1,Jerome,sassed them,Jerome sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5759246349334717
+1,1,Jerome,dominated them,Jerome dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.770643949508667
+1,0,Lamar,spoke softly to them,Lamar spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7920868992805481
+1,0,Lamar,spoke quietly to them,Lamar spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.6838600039482117
+1,0,Lamar,compromised with them,Lamar compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.08769471198320389
+1,0,Lamar,reasoned with them,Lamar reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.7367976307868958
+1,0,Lamar,stayed calm,Lamar stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.7932702898979187
+1,0,Lamar,agreed with them,Lamar agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.8466976284980774
+1,0,Lamar,served them,Lamar served them yesterday.,0.3806982710321667,0.2453979740818228,0.8320517539978027
+1,0,Lamar,pleased them,Lamar pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9901931881904602
+1,0,Lamar,used caution,Lamar used caution yesterday.,0.3337055745739826,0.24563298612100734,0.3265935778617859
+1,0,Lamar,befriended them,Lamar befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9481710195541382
+1,0,Lamar,supported them,Lamar supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9216259717941284
+1,0,Lamar,demurred,Lamar demurred yesterday.,0.4860287891617274,0.4914571614704607,0.10474518686532974
+1,0,Lamar,submitted to them,Lamar submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.5801300406455994
+1,1,Lamar,shrieked at them,Lamar shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.055446784943342216
+1,1,Lamar,yelled at them,Lamar yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.11298660933971405
+1,1,Lamar,argued with them,Lamar argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.030560456216335293
+1,1,Lamar,did not reason with them,Lamar did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.02889646776020527
+1,1,Lamar,abused them,Lamar abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008186961524188519
+1,1,Lamar,controlled them,Lamar controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.1932244598865509
+1,1,Lamar,nagged them,Lamar nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.018829658627510067
+1,1,Lamar,emasculated them,Lamar emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.06801564246416092
+1,1,Lamar,demeaned them,Lamar demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.016111237928271294
+1,1,Lamar,sassed them,Lamar sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5690350532531738
+1,1,Lamar,dominated them,Lamar dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.5815659165382385
+1,0,Leroy,spoke softly to them,Leroy spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9354020953178406
+1,0,Leroy,spoke quietly to them,Leroy spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9067872762680054
+1,0,Leroy,compromised with them,Leroy compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.2693988382816315
+1,0,Leroy,reasoned with them,Leroy reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9221126437187196
+1,0,Leroy,stayed calm,Leroy stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9386563301086426
+1,0,Leroy,agreed with them,Leroy agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9627920389175416
+1,0,Leroy,served them,Leroy served them yesterday.,0.3806982710321667,0.2453979740818228,0.9106571674346924
+1,0,Leroy,pleased them,Leroy pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9938461780548096
+1,0,Leroy,used caution,Leroy used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5037033557891846
+1,0,Leroy,befriended them,Leroy befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9821065068244934
+1,0,Leroy,supported them,Leroy supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9837551116943359
+1,0,Leroy,demurred,Leroy demurred yesterday.,0.4860287891617274,0.4914571614704607,0.07128722220659256
+1,0,Leroy,submitted to them,Leroy submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8001725673675537
+1,1,Leroy,shrieked at them,Leroy shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.1121455729007721
+1,1,Leroy,yelled at them,Leroy yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.4815012812614441
+1,1,Leroy,argued with them,Leroy argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03917326033115387
+1,1,Leroy,did not reason with them,Leroy did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.037455491721630096
+1,1,Leroy,abused them,Leroy abused them yesterday.,0.3806982710321667,0.2453979740818228,0.010268011130392551
+1,1,Leroy,controlled them,Leroy controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4916265606880188
+1,1,Leroy,nagged them,Leroy nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.0233024712651968
+1,1,Leroy,emasculated them,Leroy emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.1769043207168579
+1,1,Leroy,demeaned them,Leroy demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.013058383017778395
+1,1,Leroy,sassed them,Leroy sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6797700524330139
+1,1,Leroy,dominated them,Leroy dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.917858064174652
+1,0,Malik,spoke softly to them,Malik spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.832423985004425
+1,0,Malik,spoke quietly to them,Malik spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7485333085060121
+1,0,Malik,compromised with them,Malik compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.08259116113185883
+1,0,Malik,reasoned with them,Malik reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8651771545410156
+1,0,Malik,stayed calm,Malik stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8906475901603699
+1,0,Malik,agreed with them,Malik agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.8889464735984802
+1,0,Malik,served them,Malik served them yesterday.,0.3806982710321667,0.2453979740818228,0.7383559346199036
+1,0,Malik,pleased them,Malik pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9904785752296448
+1,0,Malik,used caution,Malik used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5225903391838074
+1,0,Malik,befriended them,Malik befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9558709263801576
+1,0,Malik,supported them,Malik supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9487448930740356
+1,0,Malik,demurred,Malik demurred yesterday.,0.4860287891617274,0.4914571614704607,0.1975145936012268
+1,0,Malik,submitted to them,Malik submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.672967255115509
+1,1,Malik,shrieked at them,Malik shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.0406750962138176
+1,1,Malik,yelled at them,Malik yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.3245501220226288
+1,1,Malik,argued with them,Malik argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.08813785016536713
+1,1,Malik,did not reason with them,Malik did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.04904869571328163
+1,1,Malik,abused them,Malik abused them yesterday.,0.3806982710321667,0.2453979740818228,0.009679783135652542
+1,1,Malik,controlled them,Malik controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.3622684180736542
+1,1,Malik,nagged them,Malik nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02305429987609386
+1,1,Malik,emasculated them,Malik emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.05630866438150407
+1,1,Malik,demeaned them,Malik demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.019159510731697086
+1,1,Malik,sassed them,Malik sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5076223611831665
+1,1,Malik,dominated them,Malik dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6597923636436462
+1,0,Terrence,spoke softly to them,Terrence spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9012811779975892
+1,0,Terrence,spoke quietly to them,Terrence spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8555452227592468
+1,0,Terrence,compromised with them,Terrence compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.045936517417430885
+1,0,Terrence,reasoned with them,Terrence reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8495919704437256
+1,0,Terrence,stayed calm,Terrence stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.889611542224884
+1,0,Terrence,agreed with them,Terrence agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.8918725848197937
+1,0,Terrence,served them,Terrence served them yesterday.,0.3806982710321667,0.2453979740818228,0.8732686042785645
+1,0,Terrence,pleased them,Terrence pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9923391938209534
+1,0,Terrence,used caution,Terrence used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6078092455863953
+1,0,Terrence,befriended them,Terrence befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9666377305984496
+1,0,Terrence,supported them,Terrence supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9663028717041016
+1,0,Terrence,demurred,Terrence demurred yesterday.,0.4860287891617274,0.4914571614704607,0.05113986134529114
+1,0,Terrence,submitted to them,Terrence submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7183463573455809
+1,1,Terrence,shrieked at them,Terrence shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.035287708044052124
+1,1,Terrence,yelled at them,Terrence yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.08977063000202179
+1,1,Terrence,argued with them,Terrence argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.07607536762952805
+1,1,Terrence,did not reason with them,Terrence did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.041627295315265656
+1,1,Terrence,abused them,Terrence abused them yesterday.,0.3806982710321667,0.2453979740818228,0.01000013668090105
+1,1,Terrence,controlled them,Terrence controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.22057513892650604
+1,1,Terrence,nagged them,Terrence nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.01840504445135593
+1,1,Terrence,emasculated them,Terrence emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.09077603369951248
+1,1,Terrence,demeaned them,Terrence demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.012094871141016485
+1,1,Terrence,sassed them,Terrence sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.7537936568260193
+1,1,Terrence,dominated them,Terrence dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.682860791683197
+1,0,Torrance,spoke softly to them,Torrance spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.594658613204956
+1,0,Torrance,spoke quietly to them,Torrance spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.5449708700180054
+1,0,Torrance,compromised with them,Torrance compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.052922073751688
+1,0,Torrance,reasoned with them,Torrance reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.4842953085899353
+1,0,Torrance,stayed calm,Torrance stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.7393344640731812
+1,0,Torrance,agreed with them,Torrance agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.6908143758773804
+1,0,Torrance,served them,Torrance served them yesterday.,0.3806982710321667,0.2453979740818228,0.4994476437568665
+1,0,Torrance,pleased them,Torrance pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9780963063240052
+1,0,Torrance,used caution,Torrance used caution yesterday.,0.3337055745739826,0.24563298612100734,0.3606971800327301
+1,0,Torrance,befriended them,Torrance befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9181050062179564
+1,0,Torrance,supported them,Torrance supported them yesterday.,0.3806982710321667,0.2453979740818228,0.8574823141098022
+1,0,Torrance,demurred,Torrance demurred yesterday.,0.4860287891617274,0.4914571614704607,0.05774334445595741
+1,0,Torrance,submitted to them,Torrance submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.4236012101173401
+1,1,Torrance,shrieked at them,Torrance shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.02361944131553173
+1,1,Torrance,yelled at them,Torrance yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.08164636790752411
+1,1,Torrance,argued with them,Torrance argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.045437321066856384
+1,1,Torrance,did not reason with them,Torrance did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.048972733318805695
+1,1,Torrance,abused them,Torrance abused them yesterday.,0.3806982710321667,0.2453979740818228,0.010517756454646587
+1,1,Torrance,controlled them,Torrance controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.16788069903850555
+1,1,Torrance,nagged them,Torrance nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.0230412632226944
+1,1,Torrance,emasculated them,Torrance emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.060053911060094826
+1,1,Torrance,demeaned them,Torrance demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.012315456755459309
+1,1,Torrance,sassed them,Torrance sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.2751713395118713
+1,1,Torrance,dominated them,Torrance dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.3505056202411652
+2,0,Amanda,spoke softly to them,Amanda spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8578530550003052
+2,0,Amanda,spoke quietly to them,Amanda spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8255164623260498
+2,0,Amanda,compromised with them,Amanda compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.10360586643218994
+2,0,Amanda,reasoned with them,Amanda reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8457374572753906
+2,0,Amanda,stayed calm,Amanda stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8828977942466736
+2,0,Amanda,agreed with them,Amanda agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9505898356437684
+2,0,Amanda,served them,Amanda served them yesterday.,0.3806982710321667,0.2453979740818228,0.8713709115982056
+2,0,Amanda,pleased them,Amanda pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9930649995803832
+2,0,Amanda,used caution,Amanda used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5713332891464233
+2,0,Amanda,befriended them,Amanda befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9777892231941224
+2,0,Amanda,supported them,Amanda supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9738948345184326
+2,0,Amanda,demurred,Amanda demurred yesterday.,0.4860287891617274,0.4914571614704607,0.1487806886434555
+2,0,Amanda,submitted to them,Amanda submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8478258848190308
+2,1,Amanda,shrieked at them,Amanda shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.16425924003124234
+2,1,Amanda,yelled at them,Amanda yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.3777415156364441
+2,1,Amanda,argued with them,Amanda argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.05448248237371445
+2,1,Amanda,did not reason with them,Amanda did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.02410515397787094
+2,1,Amanda,abused them,Amanda abused them yesterday.,0.3806982710321667,0.2453979740818228,0.007756996899843216
+2,1,Amanda,controlled them,Amanda controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.3499072194099426
+2,1,Amanda,nagged them,Amanda nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02013888210058213
+2,1,Amanda,emasculated them,Amanda emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.07180360704660416
+2,1,Amanda,demeaned them,Amanda demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.012518871575593948
+2,1,Amanda,sassed them,Amanda sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5723780393600464
+2,1,Amanda,dominated them,Amanda dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7198145389556885
+2,0,Betsy,spoke softly to them,Betsy spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7020019888877869
+2,0,Betsy,spoke quietly to them,Betsy spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.6818495392799377
+2,0,Betsy,compromised with them,Betsy compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.052121292799711234
+2,0,Betsy,reasoned with them,Betsy reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.7504504323005676
+2,0,Betsy,stayed calm,Betsy stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8387563824653625
+2,0,Betsy,agreed with them,Betsy agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.8913577795028687
+2,0,Betsy,served them,Betsy served them yesterday.,0.3806982710321667,0.2453979740818228,0.7794172167778015
+2,0,Betsy,pleased them,Betsy pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9888945817947388
+2,0,Betsy,used caution,Betsy used caution yesterday.,0.3337055745739826,0.24563298612100734,0.35127493739128113
+2,0,Betsy,befriended them,Betsy befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9535715579986572
+2,0,Betsy,supported them,Betsy supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9168974161148072
+2,0,Betsy,demurred,Betsy demurred yesterday.,0.4860287891617274,0.4914571614704607,0.06324402987957001
+2,0,Betsy,submitted to them,Betsy submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.6584823727607727
+2,1,Betsy,shrieked at them,Betsy shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.07122794538736342
+2,1,Betsy,yelled at them,Betsy yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.18233895301818848
+2,1,Betsy,argued with them,Betsy argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.06727565079927443
+2,1,Betsy,did not reason with them,Betsy did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.04849150404334068
+2,1,Betsy,abused them,Betsy abused them yesterday.,0.3806982710321667,0.2453979740818228,0.01112340297549963
+2,1,Betsy,controlled them,Betsy controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.2691892981529236
+2,1,Betsy,nagged them,Betsy nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.04058198630809784
+2,1,Betsy,emasculated them,Betsy emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.09219391644001007
+2,1,Betsy,demeaned them,Betsy demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01423624437302351
+2,1,Betsy,sassed them,Betsy sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.2828513979911804
+2,1,Betsy,dominated them,Betsy dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6466974020004272
+2,0,Courtney,spoke softly to them,Courtney spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8718091249465942
+2,0,Courtney,spoke quietly to them,Courtney spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8496183753013611
+2,0,Courtney,compromised with them,Courtney compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.07489411532878876
+2,0,Courtney,reasoned with them,Courtney reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8649189472198486
+2,0,Courtney,stayed calm,Courtney stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8963875770568848
+2,0,Courtney,agreed with them,Courtney agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9341048598289492
+2,0,Courtney,served them,Courtney served them yesterday.,0.3806982710321667,0.2453979740818228,0.8814777135848999
+2,0,Courtney,pleased them,Courtney pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9936761856079102
+2,0,Courtney,used caution,Courtney used caution yesterday.,0.3337055745739826,0.24563298612100734,0.4877281188964844
+2,0,Courtney,befriended them,Courtney befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9740067720413208
+2,0,Courtney,supported them,Courtney supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9666799306869508
+2,0,Courtney,demurred,Courtney demurred yesterday.,0.4860287891617274,0.4914571614704607,0.13346835970878598
+2,0,Courtney,submitted to them,Courtney submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8295451402664185
+2,1,Courtney,shrieked at them,Courtney shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.1239653080701828
+2,1,Courtney,yelled at them,Courtney yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.4200018346309662
+2,1,Courtney,argued with them,Courtney argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04858982563018799
+2,1,Courtney,did not reason with them,Courtney did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.028533672913908962
+2,1,Courtney,abused them,Courtney abused them yesterday.,0.3806982710321667,0.2453979740818228,0.00707877753302455
+2,1,Courtney,controlled them,Courtney controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.2953336834907532
+2,1,Courtney,nagged them,Courtney nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02098044753074646
+2,1,Courtney,emasculated them,Courtney emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.1092461571097374
+2,1,Courtney,demeaned them,Courtney demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.00961228832602501
+2,1,Courtney,sassed them,Courtney sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6422438621520996
+2,1,Courtney,dominated them,Courtney dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.751000702381134
+2,0,Ellen,spoke softly to them,Ellen spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8515815138816833
+2,0,Ellen,spoke quietly to them,Ellen spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7809096574783325
+2,0,Ellen,compromised with them,Ellen compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.16026361286640167
+2,0,Ellen,reasoned with them,Ellen reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8781741261482239
+2,0,Ellen,stayed calm,Ellen stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9002807736396791
+2,0,Ellen,agreed with them,Ellen agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9556396603584292
+2,0,Ellen,served them,Ellen served them yesterday.,0.3806982710321667,0.2453979740818228,0.8371304273605347
+2,0,Ellen,pleased them,Ellen pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.993124783039093
+2,0,Ellen,used caution,Ellen used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6134700179100037
+2,0,Ellen,befriended them,Ellen befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9739972949028016
+2,0,Ellen,supported them,Ellen supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9578666090965272
+2,0,Ellen,demurred,Ellen demurred yesterday.,0.4860287891617274,0.4914571614704607,0.09563235938549043
+2,0,Ellen,submitted to them,Ellen submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.779890239238739
+2,1,Ellen,shrieked at them,Ellen shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.060524675995111465
+2,1,Ellen,yelled at them,Ellen yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.22618775069713595
+2,1,Ellen,argued with them,Ellen argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04175662621855737
+2,1,Ellen,did not reason with them,Ellen did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.041593268513679504
+2,1,Ellen,abused them,Ellen abused them yesterday.,0.3806982710321667,0.2453979740818228,0.009457958862185478
+2,1,Ellen,controlled them,Ellen controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.3006781339645386
+2,1,Ellen,nagged them,Ellen nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.027660965919494632
+2,1,Ellen,emasculated them,Ellen emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.09746256470680237
+2,1,Ellen,demeaned them,Ellen demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.015081673860549928
+2,1,Ellen,sassed them,Ellen sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5526627898216248
+2,1,Ellen,dominated them,Ellen dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7578994035720825
+2,0,Heather,spoke softly to them,Heather spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8874765038490295
+2,0,Heather,spoke quietly to them,Heather spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8134954571723938
+2,0,Heather,compromised with them,Heather compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.08449389785528183
+2,0,Heather,reasoned with them,Heather reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8455308675765991
+2,0,Heather,stayed calm,Heather stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8807732462882996
+2,0,Heather,agreed with them,Heather agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9562230110168456
+2,0,Heather,served them,Heather served them yesterday.,0.3806982710321667,0.2453979740818228,0.898135781288147
+2,0,Heather,pleased them,Heather pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9918242692947388
+2,0,Heather,used caution,Heather used caution yesterday.,0.3337055745739826,0.24563298612100734,0.4855409264564514
+2,0,Heather,befriended them,Heather befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9740951061248779
+2,0,Heather,supported them,Heather supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9683349728584292
+2,0,Heather,demurred,Heather demurred yesterday.,0.4860287891617274,0.4914571614704607,0.09123863279819487
+2,0,Heather,submitted to them,Heather submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8107492327690125
+2,1,Heather,shrieked at them,Heather shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.11987808346748352
+2,1,Heather,yelled at them,Heather yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.2715025246143341
+2,1,Heather,argued with them,Heather argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03783560544252396
+2,1,Heather,did not reason with them,Heather did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.04094354435801506
+2,1,Heather,abused them,Heather abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008846109732985497
+2,1,Heather,controlled them,Heather controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.312972754240036
+2,1,Heather,nagged them,Heather nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.022888081148266792
+2,1,Heather,emasculated them,Heather emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.0554836206138134
+2,1,Heather,demeaned them,Heather demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.012448132038116457
+2,1,Heather,sassed them,Heather sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5178395509719849
+2,1,Heather,dominated them,Heather dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8082461953163147
+2,0,Katie,spoke softly to them,Katie spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9086936712265016
+2,0,Katie,spoke quietly to them,Katie spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8425833582878113
+2,0,Katie,compromised with them,Katie compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.3670561015605927
+2,0,Katie,reasoned with them,Katie reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.907589554786682
+2,0,Katie,stayed calm,Katie stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9287497997283936
+2,0,Katie,agreed with them,Katie agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9574978351593018
+2,0,Katie,served them,Katie served them yesterday.,0.3806982710321667,0.2453979740818228,0.9142138957977296
+2,0,Katie,pleased them,Katie pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.991888165473938
+2,0,Katie,used caution,Katie used caution yesterday.,0.3337055745739826,0.24563298612100734,0.7110901474952698
+2,0,Katie,befriended them,Katie befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.976844310760498
+2,0,Katie,supported them,Katie supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9772529006004332
+2,0,Katie,demurred,Katie demurred yesterday.,0.4860287891617274,0.4914571614704607,0.1968393921852112
+2,0,Katie,submitted to them,Katie submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8673660755157471
+2,1,Katie,shrieked at them,Katie shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.18223462998867035
+2,1,Katie,yelled at them,Katie yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.4291682839393616
+2,1,Katie,argued with them,Katie argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04458356648683548
+2,1,Katie,did not reason with them,Katie did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.02577037923038006
+2,1,Katie,abused them,Katie abused them yesterday.,0.3806982710321667,0.2453979740818228,0.006714473012834786
+2,1,Katie,controlled them,Katie controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4486985504627228
+2,1,Katie,nagged them,Katie nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02287077717483044
+2,1,Katie,emasculated them,Katie emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.07319162786006927
+2,1,Katie,demeaned them,Katie demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.0128138130530715
+2,1,Katie,sassed them,Katie sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5630943179130554
+2,1,Katie,dominated them,Katie dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8082394599914551
+2,0,Kristin,spoke softly to them,Kristin spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.824987530708313
+2,0,Kristin,spoke quietly to them,Kristin spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7485417127609253
+2,0,Kristin,compromised with them,Kristin compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.12020748108625412
+2,0,Kristin,reasoned with them,Kristin reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8481649160385132
+2,0,Kristin,stayed calm,Kristin stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.894546389579773
+2,0,Kristin,agreed with them,Kristin agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.95229172706604
+2,0,Kristin,served them,Kristin served them yesterday.,0.3806982710321667,0.2453979740818228,0.8971657752990723
+2,0,Kristin,pleased them,Kristin pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9926961660385132
+2,0,Kristin,used caution,Kristin used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6625503897666931
+2,0,Kristin,befriended them,Kristin befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9699453115463256
+2,0,Kristin,supported them,Kristin supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9760631918907166
+2,0,Kristin,demurred,Kristin demurred yesterday.,0.4860287891617274,0.4914571614704607,0.14501196146011353
+2,0,Kristin,submitted to them,Kristin submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8166980743408203
+2,1,Kristin,shrieked at them,Kristin shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.06112482026219367
+2,1,Kristin,yelled at them,Kristin yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.1926967203617096
+2,1,Kristin,argued with them,Kristin argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.026129819452762604
+2,1,Kristin,did not reason with them,Kristin did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.03395948186516762
+2,1,Kristin,abused them,Kristin abused them yesterday.,0.3806982710321667,0.2453979740818228,0.00824127160012722
+2,1,Kristin,controlled them,Kristin controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4145912230014801
+2,1,Kristin,nagged them,Kristin nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.029011903330683705
+2,1,Kristin,emasculated them,Kristin emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.11135437339544296
+2,1,Kristin,demeaned them,Kristin demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01362101174890995
+2,1,Kristin,sassed them,Kristin sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5007176995277405
+2,1,Kristin,dominated them,Kristin dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8268299698829651
+2,0,Melanie,spoke softly to them,Melanie spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9105575084686279
+2,0,Melanie,spoke quietly to them,Melanie spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8446751832962036
+2,0,Melanie,compromised with them,Melanie compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.14286258816719055
+2,0,Melanie,reasoned with them,Melanie reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9317293763160706
+2,0,Melanie,stayed calm,Melanie stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9359108209609984
+2,0,Melanie,agreed with them,Melanie agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9551246166229248
+2,0,Melanie,served them,Melanie served them yesterday.,0.3806982710321667,0.2453979740818228,0.8876765966415405
+2,0,Melanie,pleased them,Melanie pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9932910203933716
+2,0,Melanie,used caution,Melanie used caution yesterday.,0.3337055745739826,0.24563298612100734,0.7758960127830505
+2,0,Melanie,befriended them,Melanie befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9710915684700012
+2,0,Melanie,supported them,Melanie supported them yesterday.,0.3806982710321667,0.2453979740818228,0.974341869354248
+2,0,Melanie,demurred,Melanie demurred yesterday.,0.4860287891617274,0.4914571614704607,0.1922234445810318
+2,0,Melanie,submitted to them,Melanie submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8482289910316467
+2,1,Melanie,shrieked at them,Melanie shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.13447313010692594
+2,1,Melanie,yelled at them,Melanie yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.3631244003772736
+2,1,Melanie,argued with them,Melanie argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.05266132578253746
+2,1,Melanie,did not reason with them,Melanie did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.0682692602276802
+2,1,Melanie,abused them,Melanie abused them yesterday.,0.3806982710321667,0.2453979740818228,0.009237817488610744
+2,1,Melanie,controlled them,Melanie controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.5341067910194397
+2,1,Melanie,nagged them,Melanie nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.02551569975912571
+2,1,Melanie,emasculated them,Melanie emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.06309140473604202
+2,1,Melanie,demeaned them,Melanie demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.013905016705393793
+2,1,Melanie,sassed them,Melanie sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6155800223350525
+2,1,Melanie,dominated them,Melanie dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8217717409133911
+2,0,Nancy,spoke softly to them,Nancy spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8515416383743286
+2,0,Nancy,spoke quietly to them,Nancy spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.808456540107727
+2,0,Nancy,compromised with them,Nancy compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.06655967235565187
+2,0,Nancy,reasoned with them,Nancy reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8350185751914978
+2,0,Nancy,stayed calm,Nancy stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8859865069389343
+2,0,Nancy,agreed with them,Nancy agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9473327398300172
+2,0,Nancy,served them,Nancy served them yesterday.,0.3806982710321667,0.2453979740818228,0.8299087882041931
+2,0,Nancy,pleased them,Nancy pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9916207194328308
+2,0,Nancy,used caution,Nancy used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6608905792236328
+2,0,Nancy,befriended them,Nancy befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9764237999916076
+2,0,Nancy,supported them,Nancy supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9660020470619202
+2,0,Nancy,demurred,Nancy demurred yesterday.,0.4860287891617274,0.4914571614704607,0.07429499924182892
+2,0,Nancy,submitted to them,Nancy submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7163493037223816
+2,1,Nancy,shrieked at them,Nancy shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.0674653872847557
+2,1,Nancy,yelled at them,Nancy yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.1742667853832245
+2,1,Nancy,argued with them,Nancy argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03801817446947098
+2,1,Nancy,did not reason with them,Nancy did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.03545371070504188
+2,1,Nancy,abused them,Nancy abused them yesterday.,0.3806982710321667,0.2453979740818228,0.007611375767737626
+2,1,Nancy,controlled them,Nancy controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.2553687989711761
+2,1,Nancy,nagged them,Nancy nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.0218858364969492
+2,1,Nancy,emasculated them,Nancy emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.026685956865549088
+2,1,Nancy,demeaned them,Nancy demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.010406802408397198
+2,1,Nancy,sassed them,Nancy sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.4970352947711945
+2,1,Nancy,dominated them,Nancy dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6221910715103149
+2,0,Stephanie,spoke softly to them,Stephanie spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8254804611206055
+2,0,Stephanie,spoke quietly to them,Stephanie spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7804072499275208
+2,0,Stephanie,compromised with them,Stephanie compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.09503401815891266
+2,0,Stephanie,reasoned with them,Stephanie reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8216195106506348
+2,0,Stephanie,stayed calm,Stephanie stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9005040526390076
+2,0,Stephanie,agreed with them,Stephanie agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9248434901237488
+2,0,Stephanie,served them,Stephanie served them yesterday.,0.3806982710321667,0.2453979740818228,0.8664460778236389
+2,0,Stephanie,pleased them,Stephanie pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9912936687469482
+2,0,Stephanie,used caution,Stephanie used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5031523704528809
+2,0,Stephanie,befriended them,Stephanie befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9727331399917604
+2,0,Stephanie,supported them,Stephanie supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9691883325576782
+2,0,Stephanie,demurred,Stephanie demurred yesterday.,0.4860287891617274,0.4914571614704607,0.1276465356349945
+2,0,Stephanie,submitted to them,Stephanie submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7774547338485718
+2,1,Stephanie,shrieked at them,Stephanie shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.0781971737742424
+2,1,Stephanie,yelled at them,Stephanie yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.2002115398645401
+2,1,Stephanie,argued with them,Stephanie argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.03733346611261368
+2,1,Stephanie,did not reason with them,Stephanie did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.02974696271121502
+2,1,Stephanie,abused them,Stephanie abused them yesterday.,0.3806982710321667,0.2453979740818228,0.007931526750326157
+2,1,Stephanie,controlled them,Stephanie controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.35700392723083496
+2,1,Stephanie,nagged them,Stephanie nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.017469346523284912
+2,1,Stephanie,emasculated them,Stephanie emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.05271856114268303
+2,1,Stephanie,demeaned them,Stephanie demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.013109796680510044
+2,1,Stephanie,sassed them,Stephanie sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5404555797576904
+2,1,Stephanie,dominated them,Stephanie dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.4772127568721771
+3,0,Adam,spoke softly to them,Adam spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9435122013092041
+3,0,Adam,spoke quietly to them,Adam spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8894731402397156
+3,0,Adam,compromised with them,Adam compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.0966186746954918
+3,0,Adam,reasoned with them,Adam reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9268172383308412
+3,0,Adam,stayed calm,Adam stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9539682865142822
+3,0,Adam,agreed with them,Adam agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9495865106582642
+3,0,Adam,served them,Adam served them yesterday.,0.3806982710321667,0.2453979740818228,0.8791744709014893
+3,0,Adam,pleased them,Adam pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9924183487892152
+3,0,Adam,used caution,Adam used caution yesterday.,0.3337055745739826,0.24563298612100734,0.67032390832901
+3,0,Adam,befriended them,Adam befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9770300388336182
+3,0,Adam,supported them,Adam supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9727783203125
+3,0,Adam,demurred,Adam demurred yesterday.,0.4860287891617274,0.4914571614704607,0.09978897869586943
+3,0,Adam,submitted to them,Adam submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8083750009536743
+3,1,Adam,shrieked at them,Adam shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.09679508209228516
+3,1,Adam,yelled at them,Adam yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.3838512301445007
+3,1,Adam,argued with them,Adam argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.08608919382095337
+3,1,Adam,did not reason with them,Adam did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.03483157604932785
+3,1,Adam,abused them,Adam abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008311688899993895
+3,1,Adam,controlled them,Adam controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4423353970050812
+3,1,Adam,nagged them,Adam nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.017945699393749237
+3,1,Adam,emasculated them,Adam emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.2357458621263504
+3,1,Adam,demeaned them,Adam demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.020292898640036583
+3,1,Adam,sassed them,Adam sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.683555006980896
+3,1,Adam,dominated them,Adam dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8348442912101746
+3,0,Alan,spoke softly to them,Alan spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8787509202957153
+3,0,Alan,spoke quietly to them,Alan spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8195646405220032
+3,0,Alan,compromised with them,Alan compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.26190489530563354
+3,0,Alan,reasoned with them,Alan reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.7949371337890625
+3,0,Alan,stayed calm,Alan stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9054731726646424
+3,0,Alan,agreed with them,Alan agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9082896709442142
+3,0,Alan,served them,Alan served them yesterday.,0.3806982710321667,0.2453979740818228,0.8422943353652954
+3,0,Alan,pleased them,Alan pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9898357391357422
+3,0,Alan,used caution,Alan used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5344671607017517
+3,0,Alan,befriended them,Alan befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9749982357025146
+3,0,Alan,supported them,Alan supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9640856981277466
+3,0,Alan,demurred,Alan demurred yesterday.,0.4860287891617274,0.4914571614704607,0.09743008762598038
+3,0,Alan,submitted to them,Alan submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7315642237663269
+3,1,Alan,shrieked at them,Alan shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.05753913521766664
+3,1,Alan,yelled at them,Alan yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.2719510495662689
+3,1,Alan,argued with them,Alan argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04274892434477806
+3,1,Alan,did not reason with them,Alan did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.028246704488992688
+3,1,Alan,abused them,Alan abused them yesterday.,0.3806982710321667,0.2453979740818228,0.00806584395468235
+3,1,Alan,controlled them,Alan controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.3386170566082001
+3,1,Alan,nagged them,Alan nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.023402607068419456
+3,1,Alan,emasculated them,Alan emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.3306543827056885
+3,1,Alan,demeaned them,Alan demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.013536257669329643
+3,1,Alan,sassed them,Alan sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6242715716362
+3,1,Alan,dominated them,Alan dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7016370892524719
+3,0,Andrew,spoke softly to them,Andrew spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9322922229766846
+3,0,Andrew,spoke quietly to them,Andrew spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9123508334159852
+3,0,Andrew,compromised with them,Andrew compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.1169176921248436
+3,0,Andrew,reasoned with them,Andrew reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9252384901046752
+3,0,Andrew,stayed calm,Andrew stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9527882933616638
+3,0,Andrew,agreed with them,Andrew agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9573055505752563
+3,0,Andrew,served them,Andrew served them yesterday.,0.3806982710321667,0.2453979740818228,0.9110308289527892
+3,0,Andrew,pleased them,Andrew pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9937171339988708
+3,0,Andrew,used caution,Andrew used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6096027493476868
+3,0,Andrew,befriended them,Andrew befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9731588959693908
+3,0,Andrew,supported them,Andrew supported them yesterday.,0.3806982710321667,0.2453979740818228,0.975092887878418
+3,0,Andrew,demurred,Andrew demurred yesterday.,0.4860287891617274,0.4914571614704607,0.07345184683799744
+3,0,Andrew,submitted to them,Andrew submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7971281409263611
+3,1,Andrew,shrieked at them,Andrew shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.16129033267498016
+3,1,Andrew,yelled at them,Andrew yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.4374626576900482
+3,1,Andrew,argued with them,Andrew argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.0418676994740963
+3,1,Andrew,did not reason with them,Andrew did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.04894217848777771
+3,1,Andrew,abused them,Andrew abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008530236780643463
+3,1,Andrew,controlled them,Andrew controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.5365778207778931
+3,1,Andrew,nagged them,Andrew nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.024065116420388225
+3,1,Andrew,emasculated them,Andrew emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.19085793197155
+3,1,Andrew,demeaned them,Andrew demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01234291773289442
+3,1,Andrew,sassed them,Andrew sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6151562929153442
+3,1,Andrew,dominated them,Andrew dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8981460928916931
+3,0,Frank,spoke softly to them,Frank spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9015519022941588
+3,0,Frank,spoke quietly to them,Frank spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8205330371856691
+3,0,Frank,compromised with them,Frank compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.2105626463890076
+3,0,Frank,reasoned with them,Frank reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8707976341247559
+3,0,Frank,stayed calm,Frank stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9340774416923524
+3,0,Frank,agreed with them,Frank agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9317038655281068
+3,0,Frank,served them,Frank served them yesterday.,0.3806982710321667,0.2453979740818228,0.8170853257179259
+3,0,Frank,pleased them,Frank pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9934782385826112
+3,0,Frank,used caution,Frank used caution yesterday.,0.3337055745739826,0.24563298612100734,0.55536288022995
+3,0,Frank,befriended them,Frank befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9670947194099426
+3,0,Frank,supported them,Frank supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9721232652664183
+3,0,Frank,demurred,Frank demurred yesterday.,0.4860287891617274,0.4914571614704607,0.046607188880443566
+3,0,Frank,submitted to them,Frank submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7560890913009644
+3,1,Frank,shrieked at them,Frank shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.04612531140446663
+3,1,Frank,yelled at them,Frank yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.21987369656562805
+3,1,Frank,argued with them,Frank argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.06645023077726364
+3,1,Frank,did not reason with them,Frank did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.031047258526086807
+3,1,Frank,abused them,Frank abused them yesterday.,0.3806982710321667,0.2453979740818228,0.007132780272513628
+3,1,Frank,controlled them,Frank controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.3808881938457489
+3,1,Frank,nagged them,Frank nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.01835733093321324
+3,1,Frank,emasculated them,Frank emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.03919704630970955
+3,1,Frank,demeaned them,Frank demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01541152223944664
+3,1,Frank,sassed them,Frank sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6111213564872742
+3,1,Frank,dominated them,Frank dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8037552237510681
+3,0,Harry,spoke softly to them,Harry spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9167566299438475
+3,0,Harry,spoke quietly to them,Harry spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8359923958778381
+3,0,Harry,compromised with them,Harry compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.11401556432247162
+3,0,Harry,reasoned with them,Harry reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9063161611557008
+3,0,Harry,stayed calm,Harry stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9402464032173156
+3,0,Harry,agreed with them,Harry agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9195070266723632
+3,0,Harry,served them,Harry served them yesterday.,0.3806982710321667,0.2453979740818228,0.8468756079673767
+3,0,Harry,pleased them,Harry pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9932352900505066
+3,0,Harry,used caution,Harry used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6888785362243652
+3,0,Harry,befriended them,Harry befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9687871336936952
+3,0,Harry,supported them,Harry supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9606298804283142
+3,0,Harry,demurred,Harry demurred yesterday.,0.4860287891617274,0.4914571614704607,0.04260711371898651
+3,0,Harry,submitted to them,Harry submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7815961241722107
+3,1,Harry,shrieked at them,Harry shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.05135466903448105
+3,1,Harry,yelled at them,Harry yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.3555563986301422
+3,1,Harry,argued with them,Harry argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04828786477446556
+3,1,Harry,did not reason with them,Harry did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.0404900424182415
+3,1,Harry,abused them,Harry abused them yesterday.,0.3806982710321667,0.2453979740818228,0.007713955361396073
+3,1,Harry,controlled them,Harry controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.2782728672027588
+3,1,Harry,nagged them,Harry nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.016876673325896263
+3,1,Harry,emasculated them,Harry emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.04521244391798973
+3,1,Harry,demeaned them,Harry demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.010853619314730169
+3,1,Harry,sassed them,Harry sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.4903945028781891
+3,1,Harry,dominated them,Harry dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6646003723144531
+3,0,Jack,spoke softly to them,Jack spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8904657363891602
+3,0,Jack,spoke quietly to them,Jack spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8440715670585632
+3,0,Jack,compromised with them,Jack compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.4171854555606842
+3,0,Jack,reasoned with them,Jack reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8443210124969482
+3,0,Jack,stayed calm,Jack stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9362874627113342
+3,0,Jack,agreed with them,Jack agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9477362632751464
+3,0,Jack,served them,Jack served them yesterday.,0.3806982710321667,0.2453979740818228,0.880285918712616
+3,0,Jack,pleased them,Jack pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9938825368881226
+3,0,Jack,used caution,Jack used caution yesterday.,0.3337055745739826,0.24563298612100734,0.7163094878196716
+3,0,Jack,befriended them,Jack befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9687791466712952
+3,0,Jack,supported them,Jack supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9758879542350768
+3,0,Jack,demurred,Jack demurred yesterday.,0.4860287891617274,0.4914571614704607,0.12754997611045835
+3,0,Jack,submitted to them,Jack submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7925092577934265
+3,1,Jack,shrieked at them,Jack shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.10976976901292801
+3,1,Jack,yelled at them,Jack yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.5244483947753906
+3,1,Jack,argued with them,Jack argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.06343800574541092
+3,1,Jack,did not reason with them,Jack did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.044721748679876334
+3,1,Jack,abused them,Jack abused them yesterday.,0.3806982710321667,0.2453979740818228,0.009018463082611559
+3,1,Jack,controlled them,Jack controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.5412256121635437
+3,1,Jack,nagged them,Jack nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.01883215643465519
+3,1,Jack,emasculated them,Jack emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.10176311433315276
+3,1,Jack,demeaned them,Jack demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.012474538758397102
+3,1,Jack,sassed them,Jack sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.6880582571029663
+3,1,Jack,dominated them,Jack dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7939851880073547
+3,0,Josh,spoke softly to them,Josh spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9699803590774536
+3,0,Josh,spoke quietly to them,Josh spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9504576325416564
+3,0,Josh,compromised with them,Josh compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.3870181143283844
+3,0,Josh,reasoned with them,Josh reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.9198400378227234
+3,0,Josh,stayed calm,Josh stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9593331217765808
+3,0,Josh,agreed with them,Josh agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9603054523468018
+3,0,Josh,served them,Josh served them yesterday.,0.3806982710321667,0.2453979740818228,0.9103493094444276
+3,0,Josh,pleased them,Josh pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9938048720359802
+3,0,Josh,used caution,Josh used caution yesterday.,0.3337055745739826,0.24563298612100734,0.8097484111785889
+3,0,Josh,befriended them,Josh befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9867602586746216
+3,0,Josh,supported them,Josh supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9851780533790588
+3,0,Josh,demurred,Josh demurred yesterday.,0.4860287891617274,0.4914571614704607,0.2658606171607971
+3,0,Josh,submitted to them,Josh submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.9258067607879642
+3,1,Josh,shrieked at them,Josh shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.4973952770233154
+3,1,Josh,yelled at them,Josh yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.8821847438812256
+3,1,Josh,argued with them,Josh argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.07060693949460982
+3,1,Josh,did not reason with them,Josh did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.04064616560935973
+3,1,Josh,abused them,Josh abused them yesterday.,0.3806982710321667,0.2453979740818228,0.00879637897014618
+3,1,Josh,controlled them,Josh controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.6601653099060059
+3,1,Josh,nagged them,Josh nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.04699528217315674
+3,1,Josh,emasculated them,Josh emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.467335045337677
+3,1,Josh,demeaned them,Josh demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.017603816464543343
+3,1,Josh,sassed them,Josh sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.8105545043945312
+3,1,Josh,dominated them,Josh dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8446769714355469
+3,0,Justin,spoke softly to them,Justin spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9138247966766356
+3,0,Justin,spoke quietly to them,Justin spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8437771797180176
+3,0,Justin,compromised with them,Justin compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.0952465608716011
+3,0,Justin,reasoned with them,Justin reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.7997137308120728
+3,0,Justin,stayed calm,Justin stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9286430478096008
+3,0,Justin,agreed with them,Justin agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9220805168151855
+3,0,Justin,served them,Justin served them yesterday.,0.3806982710321667,0.2453979740818228,0.8253863453865051
+3,0,Justin,pleased them,Justin pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9893305897712708
+3,0,Justin,used caution,Justin used caution yesterday.,0.3337055745739826,0.24563298612100734,0.5772125720977783
+3,0,Justin,befriended them,Justin befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9703632593154908
+3,0,Justin,supported them,Justin supported them yesterday.,0.3806982710321667,0.2453979740818228,0.97095787525177
+3,0,Justin,demurred,Justin demurred yesterday.,0.4860287891617274,0.4914571614704607,0.10905014723539352
+3,0,Justin,submitted to them,Justin submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7392252087593079
+3,1,Justin,shrieked at them,Justin shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.13464950025081635
+3,1,Justin,yelled at them,Justin yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.2317724078893661
+3,1,Justin,argued with them,Justin argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.06570340692996979
+3,1,Justin,did not reason with them,Justin did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.043888553977012634
+3,1,Justin,abused them,Justin abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008185871876776218
+3,1,Justin,controlled them,Justin controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.3292109966278076
+3,1,Justin,nagged them,Justin nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.024280274286866188
+3,1,Justin,emasculated them,Justin emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.07405738532543182
+3,1,Justin,demeaned them,Justin demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.012990551069378851
+3,1,Justin,sassed them,Justin sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.4581912457942962
+3,1,Justin,dominated them,Justin dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.6906446814537048
+3,0,Roger,spoke softly to them,Roger spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.8705619573593141
+3,0,Roger,spoke quietly to them,Roger spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.7789726853370667
+3,0,Roger,compromised with them,Roger compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.34060224890708923
+3,0,Roger,reasoned with them,Roger reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8320683836936951
+3,0,Roger,stayed calm,Roger stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.8999646306037903
+3,0,Roger,agreed with them,Roger agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.8726817965507507
+3,0,Roger,served them,Roger served them yesterday.,0.3806982710321667,0.2453979740818228,0.8208360075950623
+3,0,Roger,pleased them,Roger pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9913324117660522
+3,0,Roger,used caution,Roger used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6366345882415771
+3,0,Roger,befriended them,Roger befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9669750928878784
+3,0,Roger,supported them,Roger supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9595764875411988
+3,0,Roger,demurred,Roger demurred yesterday.,0.4860287891617274,0.4914571614704607,0.04788793995976448
+3,0,Roger,submitted to them,Roger submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.7654178738594055
+3,1,Roger,shrieked at them,Roger shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.06034405902028084
+3,1,Roger,yelled at them,Roger yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.6528158187866211
+3,1,Roger,argued with them,Roger argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04012973606586456
+3,1,Roger,did not reason with them,Roger did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.04788146540522576
+3,1,Roger,abused them,Roger abused them yesterday.,0.3806982710321667,0.2453979740818228,0.008380421437323093
+3,1,Roger,controlled them,Roger controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.4556469917297363
+3,1,Roger,nagged them,Roger nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.0285225510597229
+3,1,Roger,emasculated them,Roger emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.12934088706970215
+3,1,Roger,demeaned them,Roger demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.01267471257597208
+3,1,Roger,sassed them,Roger sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.5409644842147827
+3,1,Roger,dominated them,Roger dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.7604119777679443
+3,0,Ryan,spoke softly to them,Ryan spoke softly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9605808854103088
+3,0,Ryan,spoke quietly to them,Ryan spoke quietly to them yesterday.,0.3968554403878787,0.3629372435166133,0.9353514313697816
+3,0,Ryan,compromised with them,Ryan compromised with them yesterday.,0.4008532018274583,0.3290670715471751,0.2649091482162476
+3,0,Ryan,reasoned with them,Ryan reasoned with them yesterday.,0.4008532018274583,0.3290670715471751,0.8789754509925842
+3,0,Ryan,stayed calm,Ryan stayed calm yesterday.,0.4954997579332461,0.505863362131183,0.9601110219955444
+3,0,Ryan,agreed with them,Ryan agreed with them yesterday.,0.5140335770945652,0.5437887620379093,0.9678798913955688
+3,0,Ryan,served them,Ryan served them yesterday.,0.3806982710321667,0.2453979740818228,0.8975574374198914
+3,0,Ryan,pleased them,Ryan pleased them yesterday.,0.4828799688769095,0.4325182977755996,0.9934238195419312
+3,0,Ryan,used caution,Ryan used caution yesterday.,0.3337055745739826,0.24563298612100734,0.6136417388916016
+3,0,Ryan,befriended them,Ryan befriended them yesterday.,0.3806982710321667,0.2453979740818228,0.9838153123855592
+3,0,Ryan,supported them,Ryan supported them yesterday.,0.3806982710321667,0.2453979740818228,0.9826637506484984
+3,0,Ryan,demurred,Ryan demurred yesterday.,0.4860287891617274,0.4914571614704607,0.12323389947414398
+3,0,Ryan,submitted to them,Ryan submitted to them yesterday.,0.39158495012940864,0.3298553579007084,0.8894397616386414
+3,1,Ryan,shrieked at them,Ryan shrieked at them yesterday.,0.37559074780909657,0.25270334524866395,0.19725726544857025
+3,1,Ryan,yelled at them,Ryan yelled at them yesterday.,0.37559074780909657,0.25270334524866395,0.7568942308425903
+3,1,Ryan,argued with them,Ryan argued with them yesterday.,0.4008532018274583,0.3290670715471751,0.04622020944952965
+3,1,Ryan,did not reason with them,Ryan did not reason with them yesterday.,0.4661340889247306,0.3953387901791058,0.03648132458329202
+3,1,Ryan,abused them,Ryan abused them yesterday.,0.3806982710321667,0.2453979740818228,0.010186539962887764
+3,1,Ryan,controlled them,Ryan controlled them yesterday.,0.3806982710321667,0.2453979740818228,0.6495340466499329
+3,1,Ryan,nagged them,Ryan nagged them yesterday.,0.3806982710321667,0.2453979740818228,0.03798457607626915
+3,1,Ryan,emasculated them,Ryan emasculated them yesterday.,0.3806982710321667,0.2453979740818228,0.268411785364151
+3,1,Ryan,demeaned them,Ryan demeaned them yesterday.,0.3806982710321667,0.2453979740818228,0.013856151141226292
+3,1,Ryan,sassed them,Ryan sassed them yesterday.,0.3806982710321667,0.2453979740818228,0.7640919685363771
+3,1,Ryan,dominated them,Ryan dominated them yesterday.,0.3806982710321667,0.2453979740818228,0.8916493058204651
